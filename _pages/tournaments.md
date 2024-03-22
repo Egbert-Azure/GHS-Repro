@@ -48,12 +48,12 @@ Electronic Knights moved to ICCF Server, but played under USCF rules and ranking
 
 | Name                  | Prelim Score | Player # | US Chess ID | Rating | Game Links |
 |-----------------------|--------------|----------|-------------|--------|------------|
-| KRICKEL, EDWARD       | 6            | 1        | 12430643    | 2035   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs03-Krickel/)            |
+| KRICKEL, EDWARD       | 6            | 1        | 12430643    | 2035   |[Game Replay]({{site.baseurl}}/tournaments/21ENs03-Krickel/)            |
 | OWENS, JOHNNY         | 5.5          | 2        | 10248795    | 2201   |Win  - time forfeit  |
 | BUSS, MICHAEL         | 5            | 4        | 12437668    | 2423   |resigned after record keeping error|
-| ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs03-Anderson/)     |
-| NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs03-Nohr)           | 
-| WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs03-Wolfe)           | 
+| ANDERSON, CLARENCE    | 5            | 5        | 11179495    |    1767   |[Game Replay]({{site.baseurl}}/tournaments/21ENs03-Anderson/)     |
+| NOHR, MATTHEW         | 4.5          | 6        | 30126477    | 2037   |[Game Replay]({{site.baseurl}}/tournaments/21ENs03-Nohr)           | 
+| WOLFE, HERBERT        | 4.5          | 7        | 20000272    | 1606   |[Game Replay]({{site.baseurl}}/tournaments/21ENs03-Wolfe)           | 
 
 Section result: 5 wins, 1 loss
 
@@ -65,11 +65,11 @@ Section result: 5 wins, 1 loss
 
 | Name               | Prelim Score | Player # | US Chess ID | Rating | Game Links |
 |--------------------|--------------|----------|-------------|--------|------------|
-| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay](https://egbert-azure.github.io/tournaments/game5/); resigned after record keeping error|
-| KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |[Game Replay](https://egbert-azure.github.io/tournaments/21ENs04-Krickel/)            |
+| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay]({{site.baseurl}}/tournaments/game5/); resigned after record keeping error|
+| KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |[Game Replay]({{site.baseurl}}/tournaments/21ENs04-Krickel/)            |
 | BUSS, MICHAEL      | 5            | 3        | 12437668    | 2423   |            |
-| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay](https://egbert-azure.github.io/tournaments/game2/)           |
-| SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay](https://egbert-azure.github.io/tournaments/game1/)            |
+| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay]({{site.baseurl}}/tournaments/game2/)           |
+| SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay]({{site.baseurl}}/tournaments/game1/)            |
 | MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
 
 Section result so far: 1 win, 3 draws, 1 loss.
@@ -79,12 +79,12 @@ Section result so far: 1 win, 3 draws, 1 loss.
 
 | Name | US Chess ID# | Rating | Result | 
 | --- | --- | --- | --- |
-| Lawrence Reifurth | 12341360 | 2099 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Reifurth/)
-| Hugh Whelan | 30075464 | 2004 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Whelan/) |
-| Michael Bashur | 12529353 | 1797 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Bashur/) |
-| Timothy Tingen | 12528883 | 1625 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Tingen/) |
-| Herbert Wolfe | 20000272 | 1510 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Wolfe/) |
-| Hank Cox | 12602675 | 1093 |[Game replay](https://egbert-azure.github.io/tournaments/21EN15-Cox/) |
+| Lawrence Reifurth | 12341360 | 2099 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Reifurth/)
+| Hugh Whelan | 30075464 | 2004 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Whelan/) |
+| Michael Bashur | 12529353 | 1797 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Bashur/) |
+| Timothy Tingen | 12528883 | 1625 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Tingen/) |
+| Herbert Wolfe | 20000272 | 1510 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Wolfe/) |
+| Hank Cox | 12602675 | 1093 |[Game replay]({{site.baseurl}}/tournaments/21EN15-Cox/) |
 
 ## 2021 Electronic Knights Championship - Preliminary Round: 21EN09 
 - Egbert Schroeer rating: unrated
@@ -92,11 +92,11 @@ Section result so far: 1 win, 3 draws, 1 loss.
 | Name | US Chess ID# | Rating | Result |
 | --- | --- | --- | --- |
 | Edward Krickel | 12430643 | 1766 | 
-| Slawo Lomnicki | 30109356 | 1718 |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Lomnicki/) |
-| Christopher Ward | 30102093 | 1549 |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Ward/) |
-| Bradley Dengler | 12537699 | Unr. |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Dangler/) | 
+| Slawo Lomnicki | 30109356 | 1718 |[Game replay]({{site.baseurl}}/tournaments/21EN09-Lomnicki/) |
+| Christopher Ward | 30102093 | 1549 |[Game replay]({{site.baseurl}}/tournaments/21EN09-Ward/) |
+| Bradley Dengler | 12537699 | Unr. |[Game replay]({{site.baseurl}}/tournaments/21EN09-Dangler/) | 
 | Iain McLaren | 30176077 | Unr. | 
-| Austin Houck | 30168557 | Unr. |[Game replay](https://egbert-azure.github.io/tournaments/21EN09-Houck/) |
+| Austin Houck | 30168557 | Unr. |[Game replay]({{site.baseurl}}/tournaments/21EN09-Houck/) |
 
 ## 2021 Victor Palciauskas ICCF Tournament
 
