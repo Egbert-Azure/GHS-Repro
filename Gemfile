@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "bundler", "~> 2.0"  # Specify Bundler version compatible with Ruby 2.7.2
+gem "bundler"
 gem "jekyll"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
