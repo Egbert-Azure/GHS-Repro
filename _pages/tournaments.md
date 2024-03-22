@@ -65,12 +65,12 @@ Section result: 5 wins, 1 loss
 
 | Name               | Prelim Score | Player # | US Chess ID | Rating | Game Links |
 |--------------------|--------------|----------|-------------|--------|------------|
-| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay]({{site.baseurl}}/tournaments/game5/); resigned after record keeping error|
+| STEWART, DOUGLAS   | 6            | 1        | 20109893    | 1955   |[Game Replay]({{site.baseurl}}/tournaments/21ENs04-Stewart/); resigned after record keeping error|
 | KRICKEL, EDWARD    | 5.5          | 2        | 12430643    | 2035   |[Game Replay]({{site.baseurl}}/tournaments/21ENs04-Krickel/)            |
 | BUSS, MICHAEL      | 5            | 3        | 12437668    | 2423   |            |
-| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay]({{site.baseurl}}/tournaments/game2/)           |
-| SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay]({{site.baseurl}}/tournaments/game1/)            |
-| MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   |
+| CORKUM, TIM        | 5            | 4        | 12179010    | 2386   |[Game replay]({{site.baseurl}}/tournaments/21ENs04-Corkum/)           |
+| SKIPPER, ROBERT    | 5            | 5        | 12453298    | 1952   |[Game replay]({{site.baseurl}}/tournaments/21ENs04-Skipper/)            |
+| MAHONY, MICHAEL    | 4.5          | 7        | 12154680    | 1735   | running
 
 Section result so far: 1 win, 3 draws, 1 loss.
 
