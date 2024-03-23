@@ -13,7 +13,13 @@ Photo by <a href="https://unsplash.com/@thefatdash?utm_content=creditCopyText&ut
 
 # Website Update
 
-I made a significant change to my blog page which includes some new features including topic tags, featured blog posts with a beautiful and modern design which is also great on mobile devices. If there is still any hickup, bare with me, or even better: drop me a note.
+I made a significant change to my blog page which includes some new features including topic tags, featured blog posts with a beautiful and modern design which is also great on mobile devices. Additonally search is enabled now and makes it easier to find topics of interest. 
+
+If there is still any hickup, bare with me, or even better: drop me a note.
+
+If you like it: drop me a note or comment
+
+If you don't like it: yeah, you know what to do
 
 ## Introduction
 
@@ -58,17 +64,17 @@ Subsequently, I requested a thorough analysis with a depth of 30:
 
 Initial impressions suggested parity with industry staples like ChessBase or Lichess, yet reality proved otherwise. Utilizing a recent challenging game from the 2024 Champions League, I instructed Chessify to analyze via the ChessBase plugin, employing *Fine* and *9s* parameters. The game, characterized by a tense climax resulting in a draw, exposed a significant discrepancy:
 
-1. ChessBase Tactical Analysis
+#### ChessBase Tactical Analysis
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=nNnDqfUIXcgWG1elveS60I0zIeLvvKgmmmwDFpbsiMIiR7OuL75ArDMSGRmDPPpW'></iframe>
 
 Subsequently, using the standard PGN from the ICCF website, I subjected it to Chessify's full game analysis, configured with a depth of 20, which is the standard preset on the the website.
 
-2. Chessify Full Game Analysis
+#### Chessify Full Game Analysis
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=yFHpqEPJQk5D3BZo3YSiU/Q4FP/Cm3qRxfMH3qPDHuakP01X9doz7tvtMuATRRav'></iframe>
 
-The disparity is stark! Chessify flagged move 33. ..g5?! as a Black inaccuracy, favoring White with a 1.01-point advantage, only to later suggest the erroneous move 34. Bd2!? for White, erroneously indicating a minor advantage. The correct alternative, 34. Qd2, was overlooked.
+The disparity is stark! Chessify flagged move 33. ..g5?! as a Black inaccuracy, favoring White with a 1.01-point advantage, only to later suggest the erroneous move 34. Bd2!? for White, erroneously indicating a minor advantage. That this was the only correct move was overlooked and really weird, Chessify suggested then the alternative 34. Bd2, which is exactly the move I made.
 
 In contrast, Lichess failed to identify any flaws:
 
@@ -94,3 +100,9 @@ Chessify support team
 
 In the ever-evolving landscape of chess technology, Chessify emerges as a promising contender. Its integration of the ICCF database heralds a new era of accessibility and analysis. However, discrepancies in analysis accuracy and the disjointed nature of its mobile app underscore areas for improvement. As enthusiasts, we eagerly anticipate advancements that align with the seamless, intuitive experience we crave in our pursuit of chess excellence.
 
+**Amici Sumus**
+
+
+> [Subscribe to receive exclusive chess tips, updates, and strategies directly in your inbox](https://follow.it/senior-chess-improver?leanpub) 
+
+> [Follow me on Mastodon for chess insights and more.](https://mastodon.online/invite/mWSpfQP8)
