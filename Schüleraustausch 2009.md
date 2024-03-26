@@ -5,8 +5,6 @@ title: Schüleraustausch 2009
 
 # Schüleraustausch 2009
 
-**Tränen beim Abschied**
-
 <font size="3"><b>Tränen beim Abschied</b></font>
 </p>
 <p>
