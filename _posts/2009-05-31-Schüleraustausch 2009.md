@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: post
 title: Schüleraustausch 2009
+date: 2009-05-30
+description:  Schüleraustasuch der Schüler des Collège St. Joseph in Ernée
+img: ernee.jpeg # Add image post (optional)
 ---
 
 # Schüleraustausch 2009
-
+<p>
 <font size="3"><b>Tränen beim Abschied</b></font>
 </p>
 <p>
@@ -26,7 +29,7 @@ Einige kunstinteressierte Schüler nahmen mit ihren Austauschpartnern an dem Jug
 &nbsp;
 </p>
 <p>
-<img src="./Schüleraustausch 2009_files/Frankreich_2009.jpg" height="495" width="660">
+<img src="{{site.baseurl}}/Schüleraustausch 2009_files/Frankreich_2009.jpg" height="495" width="660">
 </p>
 <p>
 &nbsp;
@@ -57,19 +60,13 @@ Tim Komberg, 9b.
 &nbsp;
 </p>
 <p>
-<img src="./Schüleraustausch 2009_files/Ernee_2009_MontStMichel.jpg" height="495" width="660">
-</p>
-<p>
 &nbsp;
 </p>
 <p>
-<img src="./Schüleraustausch 2009_files/Ernee_2009_Laval.jpg" height="495" width="660">
+<img src="{{site.baseurl}}/Schüleraustausch 2009_files/Ernee_2009_Laval.jpg" height="495" width="660">
 </p>
 <p>
 &nbsp;
-</p>
-<p>
-<img src="./Schüleraustausch 2009_files/Ernee_2009_Abschlussfeier.jpg" height="495" width="660">
 </p>
 <p>
 &nbsp;
