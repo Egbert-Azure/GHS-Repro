@@ -26,8 +26,8 @@ menu__settings:
         title: 'Historie'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/lebensbild/'
+        title: 'Lebensbild'
 
 #-------------------------------
 # Hero Settings

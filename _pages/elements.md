@@ -1,144 +1,29 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
-image: '/images/38.jpg'
+title: Lebensbild
+permalink: /lebensbild/
+image: 
+author: elke
+date: 06-11-2001
 ---
 
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
+<blockquote>
+Sobald einer in einer Sache Meister geworden ist,
+sollte er in einer neuen Sache Schüler werden.
+</blockquote>
 
-***
+## Gerhart Hauptmann
 
-## Headings by default:
+Schon zu Beginn des Jahres 1961 bestanden enge Beziehungen zwischen dem Vorsitzenden des Heimatbundes Rybnik und der Städtischen Realschule für Jungen, um die Kontakte zwischen Heimatvertriebenen und Einheimischen enger zu knüpfen und den Gedanken der Wiedervereinigung lebendig zu erhalten.. .
+Als der Städtischen Realschule für Jungen in Dorsten der Name Gerhart-Hauptmann-Schule gegeben wurde,ging man davon aus, dass Gerhart Hauptmann als Mensch und Dichter zu würdigen sei.
 
-# H1 Default styles for headings
-## H2 Default styles for headings
-### H3 Default styles for headings
-#### H4 Default styles for headings
-##### H5 Default styles for headings
-###### H6 Default styles for headings
+Gerhart Hauptmann wurde am 15. November 1862 in Obersalzbrunn geboren.
+Sein Vater war Besitzer des Gasthofes „Zur Preußischen Krone“. Nach einer glücklichen Kindheit begann für Gerhart Hauptmann mit dem Eintritt in die Städt. Realschule in Breslau eine Zeit, von der er später rückblickend sagte, er habe gleichsam „immerwährendes Zahnweh“ gehabt. Der Schulbesuch wurde vorzeitig abgebrochen. 1878 verließ Hauptmann Breslau und wurde Landwirtschaftseleve auf dem Pachtgut  eines Onkels. Aber auch dieser Versuch mißlang; Hauptmann zog sich ein Lungenleiden zu, an dem er noch lange zu leiden hatte.
 
-***
+Unentschlossen, ohne Gespür für den ihm gemäßen Weg, versuchte sich Hauptmann als Bildhauer, besuchte 1880 die Bildhauerklasse der Breslauer Werkkunstschule und war Privatschüler von Professor Haertel. Die unglückliche Verbindung mit Marie Thienemann, von der er sich später scheiden ließ, konnte nicht dazu beitragen, Hauptmann Ruhe und innere Sicherheit zu geben. 1882 verließ er die Kunstschule und immatrikulierte sich an der Universität Jena; er hörte Geschichte, Archäologie und Literatur. Aber wieder hielt er nicht durch. Er unterbrach das Studium durch Auslandsaufenthalte, Italien lockte. Hauptmann erkrankte an Malaria, wechselte nach der Genesung 1884 zur Universität Berlin und verlegte bald darauf seinen Wohnsitz nach Erkner, einem Vorort der Hauptstadt.
+Hier in Berlin scheint der endgültige Durchbruch gelungen zu sein. In Zusammenarbeit mit Arno Holz und Johannes  Schlag, gestützt auf die wohlwollenden Kritiken des schon 70jährigen Fontane, fand Hauptmann den Stil, der ihn als wichtigsten Vertreter des Naturalismus ausweisen sollte, wobei aber nie vergessen werden darf, daß Hauptmann die Grenzen dieser Epoche bald überschritt.
+Als Dichter des Naturalismus offenbart sich Hauptmann, indem er die Wirklichkeit immer schärfer ins Auge faßt und den Menschen aus bedingenden Lebensumständen und aus umspannenden Lebensmächten heraus zu deuten sucht. Sein Ernst und Wahrheitssinn bestehen auf treuester Wiedergabe äußerer Vorgänge und tiefster Durchdringung der Menschenseele. Hauptmann ist der kräftigste Verkünder des sozialen Mitleids.
+Sein großes Verdienst bleibt es, der verwaisten deutschen Bühne wieder deutsche Bühnenstücke von bleibenden Werten gegeben zu haben. Das hat sonst kein einziger Neuromantiker fertiggebrach
 
-## Lists
-
-### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-***
-
-## Table
-
-<div class="table-container">
-  <table>
-    <tr><th>Header 1</th><th>Header 2</th><th>Header 3</th><th>Header 4</th><th>Header 5</th></tr>
-    <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
-    <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
-    <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
-    <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
-    <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td><td>Row:5 Cell:4</td><td>Row:5 Cell:5</td></tr>
-    <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
-  </table>
-</div>
-
-***
-
-## Quotes
-
-#### A quote looks like this:
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>– George Bernard Shaw</cite>
-
-***
-
-
-
-## Syntax Highlighter
-
-```css
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #1c2021;
-}
-
-li {
-  width: 200px;
-  min-height: 250px;
-  border: 1px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  margin: 5px;
-}
-```
-
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
-
-***
-
-## Images
-
-![Rom]({{site.baseurl}}/images/39.jpg#wide)
-*Photo by [Jairph](https://unsplash.com/photos/FC9J9L04xuM) on [Unsplash](https://unsplash.com/)*
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/07.jpg" loading="lazy">
-    <img src="/images/04.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/08.jpg" loading="lazy">
-    <img src="/images/20.jpg" loading="lazy">
-    <img src="/images/24.jpg" loading="lazy">
-    <img src="/images/21.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-![Italy]({{site.baseurl}}/images/23.jpg)
-*Photo by [Juliana Malta](https://unsplash.com/photos/tHXX4fl3-ms) on [Unsplash](https://unsplash.com/)*
-
-***
-
-## Youtube Embed
-
-<p><iframe src="https://www.youtube.com/embed/2b2gJu-g3qE" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-## Vimeo Embed
-
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+*06-11-2001
+Elke Heidrich*
