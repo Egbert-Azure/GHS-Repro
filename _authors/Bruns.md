@@ -3,6 +3,11 @@ username: rolf
 name: Rolf Bruns
 description: Lehrer und Vertrauenslehrer
 image: '/images/dummy-man.png' # Add image post (optional)
+cover: 
+location: Dorsten
+website: 
+twitter: 
+facebook: 
 ---
 
 

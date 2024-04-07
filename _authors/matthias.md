@@ -3,7 +3,7 @@ username: matthias
 name: Mathias Brinkmann
 image: '/images/student-male.png'
 cover: 
-location: New York
+location: Dorsten
 website: 
 twitter: 
 facebook: 

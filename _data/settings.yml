@@ -2,7 +2,7 @@
 # Site Settings
 title: GHS
 logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Mria is a multipurpose blog theme for Jekyll
+description: GHS webpage
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -14,16 +14,16 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Autoren & Lehrer'
+    - title: 'Autoren'
       url: '/authors/'
     - title: 'Lehrer'
       url: '/lehrer/'
     - title: 'Videos'
       url: '/videos/'
-    - title: 'Pages'
+    - title: 'Weiteres'
       submenu:
       - url: '/about/'
-        title: 'About'
+        title: 'Historie'
       - url: '/contact/'
         title: 'Contact'
       - url: '/elements/'
@@ -35,7 +35,7 @@ hero:
   enable: true
   hero__title: Gerhart-Hauptmann Realschule Dorsten
   hero__description: Aus dem Webarchiv restaurierte Seite der ehemaligen Gerhart-Hauptmann-Realschule in Dorsten. Angereichert mit neuen Eindrücken und Erinnerungen aus der Perspective der ehemaliegen Schüler.
-  hero__image: # You can add hero image. For example '/images/06.jpg'
+  hero__image: '/images/ghs_hero.jpg' # You can add hero image. For example '/images/06.jpg'
 
 
 #-------------------------------

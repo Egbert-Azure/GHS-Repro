@@ -3,7 +3,7 @@ username: elke
 name: Elke Heidrich
 image: '/images/dummy-woma.png'
 cover:
-location: Germany
+location: Dorsten
 website: 
 twitter: 
 facebook: 

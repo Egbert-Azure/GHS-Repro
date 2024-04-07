@@ -3,7 +3,7 @@ username: wilhelm
 name: Wilhelm Zimolong
 image: '/images/zimolong.jpg' # Add image post (optional)
 cover:
-location: Gelsenkirchen
+location: Gladbeck
 website: https://de.wikipedia.org/wiki/Wilhelm_Zimolong
 twitter: 
 facebook: 
