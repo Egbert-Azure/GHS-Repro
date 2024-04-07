@@ -3,7 +3,7 @@ layout: post
 date: 2024-02-28 at 5:52
 title: Wilhelm Zimolong 
 description: Kunstleher der Gerhart-Hauptmann-Realchule und Kűnstler
-img: zimolong.jpg # Add image post (optional)
+imgage: '/images/zimolong.jpg' # Add image post (optional)
 ---
 
 # Kunstleher Wihelm Zimolong 

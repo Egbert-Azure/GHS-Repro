@@ -3,7 +3,7 @@ layout: post
 date: 2024-03-28 at 5:52
 title: Rolf Bruns
 description: Lehrer und Vertrauenslehrer
-img: # Add image post (optional)
+image: # Add image post (optional)
 ---
 
 
