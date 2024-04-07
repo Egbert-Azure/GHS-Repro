@@ -12,7 +12,7 @@ So konnten wir im Januar 1984 als eine der ersten Realschulen im Kreis Recklingh
 
 
 <p><b>Januar 1984: Erstes Betriebspraktikum</b>
-<br><img src="{{site.baseurl}}/Berufswahlorientierung_files/praktikum.gif" hspace="5" vspace="3" height="195" width="264" align="LEFT">
+<br><img src="{{site.baseurl}}/images/praktikum.gif" hspace="5" vspace="3" height="195" width="264" align="LEFT">
 <br><font color="#FFFFFF">m</font>
 <br>
 Seitdem haben mehr als 1400 Schüler/innen unserer Schule das Praktikum in den unterschiedlichsten Bereichen erfolgreich durchlaufen; und nicht selten wurde der Praktikumsbetrieb später auch der angestrebte Ausbildungsbetrieb!
