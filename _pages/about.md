@@ -5,12 +5,73 @@ permalink: /about/
 image: '/images/ghs_hero.jpg'
 ---
 
-Hier Historie mit Bildern
+# Die Geschichte der Gerhart-Hauptmann-Realschule
 
+1959 erwies es sich als notwendig, in Dorsten eine Realschule für Jungen einzurichten.
+Wer jetzt aber glaubt, daß man die Mädchen ignoriert hat, der irrt sich gewaltig, denn für diese gab es bereits die Ursulinen-Realschule.
 
+Die neugegründete Realschule startete am 1. April 1960 im Gebäude der Marienschule mit 60 Schülern in zwei Klassen.
 
+<br>
+<br>
+<img src="{{site.baseurl}}/Schulgeschichte_files/mariens.JPG" alt="Marienschule" title="Marienschule" width="600" height="359"><br>
+<br>
 
-Die Schule heute, einige Jahre nach nach der Stillegung (März 2024)
+Der Bau der Gerhart-Hauptmann-Schule begann im Jahre 1962. <br>
+Der erste Spatenstich erfolgte am 4.6.1962. <br>
+Dieser wurde auch dringend notwendig, denn die Marienschule platzte aus allen Nähten. <br>
+Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine andere in den Keller der Marienschule ausweichen.<br>
+<br>
+<img src="{{site.baseurl}}/Schulgeschichte_files/baustell.JPG" alt="Bau der GHS" title="Bau der GHS" width="600" height="329"><br>
+<br>
+<br>
+Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht.<br>
+Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte
+dann endlich am 24. März 1964 der lang ersehnte Einzug in die neue
+Schule.<br>
+<br>
+<br>
+Im Schuljahr 1966/67stand die Namensgebung der Schule an. Auf Anregung
+des damaligen Schulleiters und nach Beratungen in Lehrerkonferenzen
+bekam die Realschule den Namen "Gerhart-Hauptmann-Schule, Städtische
+Realschule für Jungen".<br>
+<br>
+<br>
+Da das Interesse an der Realschule größer war als das Angebot, wurde
+1966 zur Entlastung die Erich-Klausener-Realschule gegründet. <br>
+<br>
+<br>
+Nach mühevollen Verhandlungen konnte am 27. 11. 1967 mit dem Bau der Großturnhalle begonnen werden. <br>
+Nach dem Richtfest am 07. 06. 1968 wurde die Einweihung der Turnhalle
+am 7./8. 03. 1969 zu einem herausragenden sportlichen Ereignis. Neben
+Schülern zeigten auch Turner der Nationalriege ihr können. <br>
+<br>
+<br>
+Weil 100 Schüler erkrankten, gab es 1968 (1. - 3. 2.) drei Tage Grippe-Ferien.<br>
+<br>
+<br>
+Steigende Schülerzahlen forderten den Ausbau der Schule. Nach dem
+Richtfest am 29. 01. 1971 wurde am 15. 02. 1972 der Neubau bezogen. <br>
+Er beherbergte drei Klassenräume: einen Musikraum, einen Medienraum und ein Sprachlabor.<br>
+<br>
+<br>
+<img src="{{site.baseurl}}/Schulgeschichte_files/schule.jpg" alt="Neubau" title="Neubau" width="600" height="457"><br>
+<br>
+<br>
+
+Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der
+Schulgeschichte: Es konnten nun auch Mädchen die
+Gerhart-Hauptmann-Schule besuchen. <br>
+<br>
+<br>
+Wieder wurde das Schulgebäude zu klein, so dass im Schuljahr 1982/83
+eine Filiale in unserem "Geburtshaus", der ehemaligen Marienschule, mit
+zwei Klassen bezogen wurde. 1985 wurden aus pädagogischen und
+schulorganisatorischen Gründen alle vier Klassen 6 dort untergebracht.
+
+# Und heute?
+
+Die Schule heute, acht Jahre nach nach der Stillegung (März 2024)
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
