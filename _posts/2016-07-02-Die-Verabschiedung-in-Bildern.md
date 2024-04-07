@@ -33,6 +33,7 @@ Katja
     <img src="/images/verabschiedung-6.jpg" loading="lazy" alt="Gang">
     <img src="/images/verabschiedung-7.jpg" loading="lazy" alt="Klassen">
     <img src="/images/verabschiedung-8.jpg" loading="lazy" alt="Klassen">
+    <img src="/images/karten.jpg" loading="lazy" alt="Klassen">
   </div>
   <em>Gallery / <a target="_blank">Fotos: Katja Neumann</a></em>
 </div>
