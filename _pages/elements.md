@@ -12,6 +12,19 @@ Sobald einer in einer Sache Meister geworden ist,
 sollte er in einer neuen Sache Schüler werden.
 </blockquote>
 
+<tbody>
+		<tr>
+			<td style="width: 250px"> <img src="{{site.baseurl}}/Wer war Gerhart Hauptmann__files/Gerhart_1.BMP" width="250" height="333"></td>
+			<td style="width: 410px">
+			<div align="center">
+			</div>
+			<p>
+			&nbsp;
+			</p>
+			</td>
+		</tr>
+	</tbody>
+
 ## Gerhart Hauptmann
 
 Schon zu Beginn des Jahres 1961 bestanden enge Beziehungen zwischen dem Vorsitzenden des Heimatbundes Rybnik und der Städtischen Realschule für Jungen, um die Kontakte zwischen Heimatvertriebenen und Einheimischen enger zu knüpfen und den Gedanken der Wiedervereinigung lebendig zu erhalten.
