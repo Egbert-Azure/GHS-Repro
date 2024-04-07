@@ -2,6 +2,7 @@
 layout: post
 title: Schüleraustausch 2009
 date: 2009-05-30
+author: matthias
 description: Schüleraustasuch der Schüler des Collège St. Joseph in Ernée
 image: '/images/ernee.jpeg' # Add image post (optional)
 ---

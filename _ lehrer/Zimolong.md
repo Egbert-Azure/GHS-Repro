@@ -1,9 +1,12 @@
 ---
-layout: post
-date: 2024-02-28 at 5:52
-title: Wilhelm Zimolong 
-description: Kunstleher der Gerhart-Hauptmann-Realchule und Kűnstler
+username: wilhelm
+name: Wilhelm Zimolong
 image: '/images/zimolong.jpg' # Add image post (optional)
+cover:
+location: Gelsenkirchen
+website: https://de.wikipedia.org/wiki/Wilhelm_Zimolong
+twitter: 
+facebook: 
 ---
 
 # Kunstleher Wihelm Zimolong 

@@ -1,11 +1,11 @@
 ---
 username: elke
 name: Elke Heidrich
-image: '/images/03-1.jpg'
+image: '/images/dummy-woma.png'
 cover:
 location: Germany
-website: https://www.google.com
-twitter: https://twitter.com
-facebook: https://www.facebook.com
+website: 
+twitter: 
+facebook: 
 ---
 Elke Heidrich tbd: details details details (fake image)
