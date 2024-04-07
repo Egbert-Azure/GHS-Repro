@@ -4,11 +4,8 @@ title: Berufswahlorientierung seit 1984
 date: 2001-09-26
 author: elke
 description:  Förderung der Berufswahlreife (Berufsorientierung) seit Januar 1984 dreiwöchiges Betriebspraktikum ermöglicht.
-image: berufswa.gif # Add image post (optional)
+image: '/images/berufswa.gif' # Add image post (optional)
 ---
-
-Author: Elke Heidrich 
-
 
 Die Förderung der Berufswahlreife (Berufsorientierung) hat an unserer Schule eine lange Tradition. Noch bevor es für die Realschule verpflichtend wurde, beschloss die Schulkonferenz der Gerhart-Hauptmann-Schule bereits für das Schuljahr 1983/84 die Einführung eines Schülerbetriebspraktikums.
 So konnten wir im Januar 1984 als eine der ersten Realschulen im Kreis Recklinghausen dank der guten Kooperation mit den heimischen Unternehmen und Einrichtungen 87 Mädchen und Jungen der Klassen 9 ein dreiwöchiges Betriebspraktikum ermöglichen.
