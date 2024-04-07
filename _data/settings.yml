@@ -116,12 +116,12 @@ footer__menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
+    - title: 'Historie'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+    - title: 'Lebensbild'
+      url: '/lebensbild/'
 
 
 #-------------------------------
