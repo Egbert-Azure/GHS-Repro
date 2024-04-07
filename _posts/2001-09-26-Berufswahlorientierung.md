@@ -2,9 +2,9 @@
 layout: post
 title: Berufswahlorientierung seit 1984
 date: 2001-09-26
-author: Elke Heidrich
+author: elke
 description:  Förderung der Berufswahlreife (Berufsorientierung) seit Januar 1984 dreiwöchiges Betriebspraktikum ermöglicht.
-img: berufswa.gif # Add image post (optional)
+image: berufswa.gif # Add image post (optional)
 ---
 
 Author: Elke Heidrich 
