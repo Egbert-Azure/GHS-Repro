@@ -66,7 +66,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: Geschichten # To display the tag section, specify your favorite tag.
+  tag: Partnerschaften # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
@@ -74,7 +74,7 @@ tag__settings:
 author__section:
   enable: false
   author__section__title: Hello, my name is Egbert.
-  author__section__description: I’m a retired Microsoft Executive, Amateur Genealogist, Amateur Chess Player, Mentor, Book Author and former student of GHS.
+  author__section__description: I’m a retired Microsoft Executive, Amateur Genealogist, Amateur Chess Player, Mentor, Book Author and proud alumni of GHS, graduated 1975.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/200.png

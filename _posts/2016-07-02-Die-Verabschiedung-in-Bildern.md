@@ -7,6 +7,7 @@ description: Verabschiedung anlässlich der Schließung der GHS
 image: '/images/ghs-bild.jpg' # Add image post (optional)
 tags: [Schließung, Verabschiedung, Historie, Bilder]
 tags_color: '#835F46'
+featured: true
 ---
 
 # Liebe Ehemalige!
@@ -22,6 +23,7 @@ Hier einige Fotos mit meinen Eindruecken
 
 Katja
 
+2016-05-12
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
