@@ -24,8 +24,8 @@ menu__settings:
       submenu:
       - url: '/about/'
         title: 'Historie'
-      - url: '/contact/'
-        title: 'Contact'
+      - url: '/kontakt/'
+        title: 'Kontakt'
       - url: '/lebensbild/'
         title: 'Lebensbild'
 
@@ -100,12 +100,15 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
+# - {icon: "twitter", link: "https://twitter.com"}
+- {icon: "facebook", link: "https://www.facebook.com/groups/1716532678562413"}
 # - {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
-- {icon: "instagram", link: "https://instagram.com"}
+# - {icon: "pinterest", link: "https://pinterest.com"}
+# - {icon: "vimeo", link: "https://vimeo.com"}
+# - {icon: "instagram", link: "https://instagram.com"}
+- {icon: "linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
+- {icon: "rss", link: "https://follow.it/senior-chess-improver?leanpub"}
+- {icon: "usd", link: "https://www.buymeacoffee.com/chesslife"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -118,8 +121,8 @@ footer__menu__settings:
       url: '/'
     - title: 'Historie'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
+    - title: 'Kontakt'
+      url: '/kontakt/'
     - title: 'Lebensbild'
       url: '/lebensbild/'
 
