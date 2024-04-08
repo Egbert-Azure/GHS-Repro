@@ -108,7 +108,7 @@ social:
 # - {icon: "instagram", link: "https://instagram.com"}
 - {icon: "linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
 - {icon: "rss", link: "https://follow.it/ghs?leanpub?leanpub"}
-- {icon: "usd", link: "https://www.buymeacoffee.com/chesslife"}
+# - {icon: "usd", link: "https://www.buymeacoffee.com/chesslife"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
