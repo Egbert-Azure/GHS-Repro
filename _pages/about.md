@@ -3,6 +3,7 @@ layout: page
 title: Historie
 permalink: /about/
 image: '/images/ghs_hero.jpg'
+tags: [Geschichten]
 ---
 
 # Die Geschichte der Gerhart-Hauptmann-Realschule
