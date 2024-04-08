@@ -28,9 +28,22 @@ Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine ande
 Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht.<br>
 Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte
 dann endlich am 24. März 1964 der lang ersehnte Einzug in die neue
-Schule.<br>
+Schule.
 <br>
-<br>
+
+Am 01. 04. 1964 übernahm **Frau Rademacher** den Dienst als Schulsekretärin.
+
+**Herr Wagner** war zu dieser Zeit der Hausmeister und wohnte in der Hausmeisterwohnung mit seiner Frau auf dem Schulgelände in der sehr modernen Hausmwiesterwohnung.
+In der grossen Pause gab er mit Hilfe der Schüler Milch und Kakao Tüten aus.
+
+Zu ihm gab es auf der GHS Website von 2001 folgenden Eintrag:
+
+**Ein Loblied dem Hausmeister**
+
+*Wenn es regnet - die elektrische Schelle verträgt keine Feuchtigkeit - läuft er mit der Handglocke durch das Gebäude oder über den Schulhof, am Ende der Stunde etwas pünktlicher als am Ende der Pause ("Die Kinder müssen sich doch auch einmal richtig erholen!").*
+
+*Die Pfützen auf dem Schulhof werden mit dem Besen beseitigt ("Damit die Kinder keine nassen Füße kriegen!"). Wenn am Ende des Vormittags nur noch eine Klasse Unterricht hat, schellt es überhaupt nicht, dann klopft der Hausmeister an die Klassentür und sagt, dass die Stunde zu Ende sei ("Damit die Kinder sich nicht erschrecken!")*
+
 Im Schuljahr 1966/67stand die Namensgebung der Schule an. Auf Anregung
 des damaligen Schulleiters und nach Beratungen in Lehrerkonferenzen
 bekam die Realschule den Namen "Gerhart-Hauptmann-Schule, Städtische
