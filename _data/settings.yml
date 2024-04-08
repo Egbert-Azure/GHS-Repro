@@ -66,7 +66,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: Partnerschaften # To display the tag section, specify your favorite tag.
+  tag: Geschichten # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
@@ -139,7 +139,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier:  https-ghs-site-myvortexcloud-com.disqus.com # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: https-ghs-site-myvortexcloud-com # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
