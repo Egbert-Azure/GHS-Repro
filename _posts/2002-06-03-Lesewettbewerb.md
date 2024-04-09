@@ -2,9 +2,9 @@
 layout: post
 title: Lesewettbewerb
 date: 2002-06-03
-author:
+author: 
 description: Vorlese-Wettbewerb der Klassen 5 & 6 (Dezember 2001)
-image: # Add image post (optional)
+image: '/images/dreiSieger.JPG' # Add image post (optional)
 video_embed:
 tags: [Wettbewerb]
 tags_color: '#618770'
