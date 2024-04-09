@@ -2,7 +2,6 @@
 layout: post
 title: Interview Sportlehrer Effing
 date: 1975-01-01
-author:
 description: Interview mit Sportlehrer Effing - Überspielt von AGFA SUPERBER 60+6 Tape
 image: # Add image post (optional)
 video_embed:
