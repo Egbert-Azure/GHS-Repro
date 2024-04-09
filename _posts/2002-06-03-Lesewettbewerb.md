@@ -26,7 +26,7 @@ featured: true
   <img id="Bild70" height="274" width="178" src="{{site.baseurl}}/Lese-Wettbewerb_files/der_sieger.JPG" border="0" alt="Tim ">
   <br><br>
   <div style="text-align: center;">
-    Sieger<br>
+    der Sieger<br>
     <b style="font-size: larger;">André Korte</b>
   </div>
   <br>

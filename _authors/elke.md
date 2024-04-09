@@ -1,11 +1,11 @@
 ---
 username: elke
 name: Elke Heidrich
-image: '/images/dummy-woma.png'
+image: '/images/verabschiedung-elke-heidrich2.jpg'
 cover:
 location: Dorsten
 website: 
 twitter: 
 facebook: 
 ---
-Elke Heidrich tbd: details details details (fake image)
+Elke Heidrich war die letzte REktorin der Gerhart-Hauptmann-Realschule.
