@@ -6,7 +6,7 @@ author:
 description: Vorlese-Wettbewerb der Klassen 5 & 6 (Dezember 2001)
 image: '/images/dreiSieger.JPG' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb]
+tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 ---
 
