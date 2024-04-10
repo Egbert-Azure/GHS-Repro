@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lesewettbewerb
-date: 2002-06-03
+date: 2001-06-03
 author: 
 description: Vorlese-Wettbewerb der Klassen 5 & 6 (Dezember 2001)
 image: '/images/dreiSieger.JPG' # Add image post (optional)
