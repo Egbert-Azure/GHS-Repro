@@ -8,11 +8,16 @@ image: '/images/Berlin Ostern 1988.jpg' # Add image post (optional)
 video_embed:
 tags: [Geschichten, Abschlussfahrt]
 tags_color: '#618770'
+featured: true
 ---
-Titelbild E. Schroeer, 1988
+<div style="text-align: center;">
+  <small>Titelbild E. Schroeer, 1988</small>
+</div>
 
-## Erinnerungen von Norbert Bogatzki
-erstellt im Jahr 2024 = 50 Jahre später … wie die Zeit vergeht
+<br>
+
+# Erinnerungen von Norbert Bogatzki
+> erstellt im Jahr 2024 = 50 Jahre später … wie die Zeit vergeht
 
 Die Abschlussfahrt nach Berlin im Jahr 1974 war ein unvergessliches Erlebnis für die Klasse 10a. Auf dem Foto sind einige der Teilnehmer zu sehen, darunter Niermann, Lietz, Kaufmann, Hennewig, Derwing, Eckrath, die Gebrüder Burdenski, Schmitt und Bogatzki.
 
