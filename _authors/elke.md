@@ -8,4 +8,4 @@ website:
 twitter: 
 facebook: 
 ---
-Elke Heidrich war die letzte REktorin der Gerhart-Hauptmann-Realschule.
+Elke Heidrich war die letzte Rektorin der Gerhart-Hauptmann-Realschule.
