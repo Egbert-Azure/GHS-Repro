@@ -25,6 +25,8 @@ Die Abschlussfahrt nach Berlin im Jahr 1974 war ein unvergessliches Erlebnis fü
 
 
 ![Abschlussfahrt Berlin 1974](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-1974-Ehlert-Lueck-Bogatzki-Schmitt_sepia.jpg>){: width="400px"}
+
+
 Von allen Klassenkameraden habe ich leider keine Fotos mehr, hier noch die Fotos welche ich habe.
 
 <div class="gallery-box">
