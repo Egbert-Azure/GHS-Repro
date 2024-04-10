@@ -8,4 +8,4 @@ website:
 twitter: 
 facebook: 
 ---
-Ehemalige Schülerin der GHS und Gründerin der GHS Facebook Group. Abschlussjahr 1984.
+Ehemalige Schülerin der GHS und Gründerin der GHS Facebook Group und Wegbereiterin zur Wiederbelebung dieser Website. Abschlussjahr 1987.
