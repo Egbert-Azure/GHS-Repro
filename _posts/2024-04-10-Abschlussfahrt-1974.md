@@ -23,6 +23,8 @@ Die Abschlussfahrt nach Berlin im Jahr 1974 war ein unvergessliches Erlebnis fü
 
 ![Abschlussfahrt Berlin 1974](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-1974-Niermann-Lietz-Kaufmann-Hennewig-Derwing-Eckrath-Gebrüder Burdenski-Schmitt-Bogatzki-sepia.jpg>){: width="400px"}
 
+
+![Abschlussfahrt Berlin 1974](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-1974-Ehlert-Lueck-Bogatzki-Schmitt_sepia.jpg>){: width="400px"}
 Von allen Klassenkameraden habe ich leider keine Fotos mehr, hier noch die Fotos welche ich habe.
 
 <div class="gallery-box">
@@ -36,13 +38,9 @@ Von allen Klassenkameraden habe ich leider keine Fotos mehr, hier noch die Fotos
 
 Zum damaligen Zeitpunkt war Deutschland ja noch geteilt in BRD und DDR, und natürlich war der gesamte Planet nicht so global aufgestellt und infrastrukturell vernetzt wie heute. Mit dem Flugzeug zu fliegen war – da ja die Kosten für eine Klassenfahrt aus dem öffentlichen Sektor zu bezahlen waren – auch zu teuer, also wurde die Fahrt mit dem Bus durchgeführt. Die Fahrt führte durch das Staatsgebiet der DDR, damals durfte man auch nur bestimmte Straßen nach Berlin benutzen, sogenannte „Transitstrecken“. Insoweit war es für viele von uns ebenso neu wie spannend „das andere Deutschland“ erstmals aus dem Bus heraus zu sehen.
 
-Von allen Klassenkameraden habe ich leider keine Fotos mehr, hier noch die Fotos welche ich habe.
-
-![Abschlussfahrt Berlin 1974](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-1974-Ehlert-Lueck-Bogatzki-Schmitt_sepia.jpg>){: width="400px"}
+# Besichtigungen
 
 In Berlin selbst hatten wir diverse Besichtigungstermine, dies waren 
-
-# Besichtigungen
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
@@ -54,7 +52,7 @@ In Berlin selbst hatten wir diverse Besichtigungstermine, dies waren
     <img src="{{site.baseurl}}/images/Blick-vom-Fernsehturm_sepia.jpg" width="400px" loading="lazy" alt="Besuch im Osten-Blick vom Fernsehturm">
     <img src="{{site.baseurl}}/images/Schloss Charlottenburg_sepia.jpg" width="400px" loading="lazy" alt="Schloß Charlottenburg">
   </div>
-  <em>Gallery / <a target="_blank">Fotos: Norbert Bogatzki Neumann</a></em>
+  <em>Gallery / <a target="_blank">Fotos: Norbert Bogatzki</a></em>
 </div>
 
 # Damals in Ostberlin
