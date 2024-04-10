@@ -27,7 +27,7 @@ featured: true
   <br><br>
   <div style="text-align: center;">
     der Sieger<br>
-    <b style="font-size: larger;">André Korte</b>
+    <b style="font-size: larger;">Tim Menningen</b>
   </div>
   <br>
 

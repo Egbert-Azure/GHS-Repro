@@ -2,7 +2,7 @@
 layout: post
 title: Chemie entdecken - Kleber - bärenstark!
 date: 2002-06-03
-author: elke
+author: 
 description: Herstellung eines Klebstoffes aus Gummibärchen bzw. aus Kartoffeln
 image: '/images/kartoffel.JPG' # Add image post (optional)
 video_embed:
