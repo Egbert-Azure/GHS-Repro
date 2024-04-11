@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chemie entdecken - Kleber - bärenstark!
-date: 2002-06-03
+date: 2002-02-03
 author: 
 description: Herstellung eines Klebstoffes aus Gummibärchen bzw. aus Kartoffeln
 image: '/images/kartoffel.JPG' # Add image post (optional)
@@ -62,13 +62,15 @@ Zweite Erkenntnis: geschmolzene Gummibärchen riechen gut und sehen toll aus...
 
 Um die Klebekraft der einzelnen Kleber vergleichen zu können, wurden jeweils 6 cm lange und 1 cm breite Papierstreifen am Streifenende auf einer Fläche von 1 cm² mit Klebstoff versehen. Das andere Ende wurde mit Tesafilm verstärkt und gelocht, so dass die Zugfestigkeit mit einem Newtonmeter festgestellt werden konnte.
 
+<img id="Bild78" height="139" width="123" src="{{site.baseurl}}/images/2002_1_files/kleb1.JPG" border="0" alt="...der Test">
+
 Fazit: Alle Kleber klebten zur Überraschung der Schüler sehr gut. “Kartoffelkleber” ist besonders für Papier geeignet, “Gummibärchenkleber” besonders für Holz.
 
 	
 # 3. Versuchstag: Herstellung eigener Kleber
 
 <div style="text-align: center;">
-  <small>keine Fotos mehr vorhanden</small>
+  <small>nicht alle Fotos vorhanden</small>
 </div>
 
 <br>
@@ -79,5 +81,5 @@ Fazit: Alle Kleber klebten zur Überraschung der Schüler sehr gut. “Kartoffel
 - Martins Weizen-Kleber
 
 - Marks Pellkartoffel-Kleber
-
+<img id="Bild78" height="139" width="123" src="{{site.baseurl}}/images/2002_1_files/mark.JPG" border="0" alt="...der Test">
 
