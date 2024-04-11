@@ -85,7 +85,7 @@ Eine sehr bescheidene Auwahl der vielen vielen Themen unseres Kunstlehrers Wilhe
 
 Zimolong ermöglichte es den Schülern auch, Nachdrucke großer Künstler aus der Klett Schulgalerie zu erwerben, und seine Haltung war klar: "Besser eine gute Reproduktion als keine Kunst". Diese Ausstellungen und Projekte prägten nicht nur den Kunstunterricht, sondern auch das gesamte Schulumfeld und förderten eine Atmosphäre der Kreativität und des Engagements.
 
-Das Bild "Vega-Kontosh" aus dem Jahr 1971 von Vicor Vasarely hängt noch heute bei mir daheim in meinem office. Natürlich nicht im Original, sondern aus der Klett Bibliothek. Das ist evtl. wieder eine andere Geschichte.
+Das Bild "Vega-Kontosh" aus dem Jahr 1971 von Victor Vasarely hängt noch heute bei mir daheim in meinem office. Natürlich nicht im Original, sondern aus der Klett Bibliothek. Das ist evtl. wieder eine andere Geschichte.
 
 <img src="{{site.baseurl}}/images/vega-kontosh.jpg" alt="Litographie" title="Litographie" width="300" height="150"><br>
 
