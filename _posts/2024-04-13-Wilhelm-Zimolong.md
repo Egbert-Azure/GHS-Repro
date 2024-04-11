@@ -66,9 +66,11 @@ Unter seiner Leitung gab es jährlich eine "Kunstausstellung" bei der er Werke d
 Im Gedächtnis ist mir selbst auch die Kunstausstellung mit Anti Kriegs Themen. Im Innenhof - dem Atrium - hatten wir dazu eine Puppe als gefallenen Soldaten drapiert.
 Leider sind die S/W Aufnahmen dieses Objektes verloren gegangen.
 
+Die Vielfalt und Kreativität dieser Ausstellungen waren beeindruckend und prägend bis zum heutigen Tag. Noch heute besitze ich die Kunstkataloge der Ruhrfestspiel Ausstellungen dieser Zeit oder Essen Volkwang Museum Ausstellungen, die er uns mehr als an's Herz gelegt hat.
+Auch wenn ich heute eine Kunstaustellung besuche - letztens "The Art of Banksy: "Without Limits" - ein Kunstkatalog muss sein.
+
 Zimolongs Einfluss ging jedoch über den Kunstunterricht hinaus. Er unterstützte Demos und Sit-Ins, bei denen die Schüler ihre Stimme für verschiedene Anliegen erhoben. Sein Engagement und seine Offenheit für gesellschaftliche Themen machten ihn zu einem respektierten Lehrer und Mentor für viele Schüler, deren Erinnerungen an ihn bis heute lebendig sind. Heute wahrscheinlich nicht vorstellbar, aber das Tragen eines US Parka (oder Bundeswehr Parka) mit Che Guevara Konterfei auf dem Ruecken oder Peace Symbol wurde als Provokation verstanden.
 
-Unter seiner Leitung gab es jährlich eine Kunstausstellung, bei der er Werke der Schüler auswählte und in den Gängen und Räumen der Schule präsentierte. Dazu wurden dann auch die Eltern eingeladen. Zu St. Martin organisierte er eine Ausstellung mit selbstgebastelten Laternen, die abstrakte Interpretationen biblischer Themen darstellten. Die Vielfalt und Kreativität dieser Ausstellungen waren beeindruckend.
 
 ## Einige Projekte, die unter Zimolongs Anleitung entstanden:
 
