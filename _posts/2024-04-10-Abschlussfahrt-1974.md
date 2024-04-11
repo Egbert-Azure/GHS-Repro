@@ -6,8 +6,8 @@ date: 2024-04-10
 description: Erinnerungen an die Abschlussfahrt der Klasse 10a
 image: '/images/Berlin Ostern 1988.jpg' # Add image post (optional)
 video_embed:
-tags: [Geschichten, Abschlussfahrt]
-tags_color: '#618770'
+tags: [Geschichten, Erinnerungen, Abschlussfahrt]
+tags_color: '#4c49cb'
 featured: true
 ---
 <div style="text-align: center;">
