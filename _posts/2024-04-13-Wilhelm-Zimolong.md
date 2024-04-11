@@ -21,9 +21,9 @@ Wilhelm Bernhard Zimolong (* 12. Mai 1922 in Elberfeld; † 11. März 1979 in Es
 
 # Begegung
 
-1968 trat ich zum ersten Mal meinen Weg mit dem Fahrrad zur städtischen Realschule für Jungen - später Gerhart-Hauptmann-Realschule Dorsten - an. Kein leichtes Unterfangen, der Schulweg war fast 4km lang, Busse fuhren zwar, aber das kostete Geld. Also, mein Fahrrad war angesagt. Die neue Schule galt als beste Schule und mein Vater - Heinrich Bernhard Schröer - machte es mir möglich diese Schule zu besuchen. Meine erste Fahrt und auch die folgenden mussste ich nicht allein antreten. Ich stoppte bei Horst Knieps, dem Bruder meines späteren Schwagers, mein Gitarrenlehrer und nun mein Lotse in den ersten Tagen. Horst war älter und gehörte zu den ersten Jahrgängen von 1965 oder 66. Der Weg von der Wasserstrasse über die Burgsdorfstrasse (dort wohnte Horst) ging entlang der Halterner Strasse, vorbei an der Zeche Fuerst Leopold und dann durch die - etwas gruselige - Unterführung der Zechenbahn. Manchmal querte auch noch die Lorenschmalspurbahn den Weg und wir mussten warten. Aber das ist eine andere Geschichte.
+1968 trat ich zum ersten Mal meinen Weg mit dem Fahrrad zur städtischen Realschule für Jungen - später Gerhart-Hauptmann-Realschule Dorsten - an. Kein leichtes Unterfangen, der Schulweg war fast 4km lang, Busse fuhren zwar, aber das kostete Geld. Also, mein Fahrrad war angesagt. Die neue Schule galt als beste Schule und mein Vater - Heinrich Bernhard Schröer - machte es mir möglich diese Schule zu besuchen. Meine erste Fahrt und auch die folgenden musste ich nicht allein antreten. Ich stoppte bei Horst Knieps, dem Bruder meines späteren Schwagers, mein Gitarrenlehrer und nun mein Lotse in den ersten Tagen. Horst war älter und gehörte zu den ersten Jahrgängen von 1965 oder 66. Der Weg von der Wasserstrasse über die Burgsdorfstrasse (dort wohnte Horst) ging entlang der Halterner Strasse, vorbei an der Zeche Fuerst Leopold und dann durch die - etwas gruselige - Unterführung der Zechenbahn. Manchmal querte auch noch die Lorenschmalspurbahn den Weg und wir mussten warten. Aber das ist eine andere Geschichte.
 
-Alle Lehrer stellten sich vor. Darunter Herr Hesse, Glackemeyer, Bruns... und, ja, und Herr Zimolong. Ein Mann der schon durch sein Auftreten die Aufmerksamkeit auf sich zog, wie er gekleidet war, sprach und... er trug eine Baskenmütze (Beret). Faszinierend! 
+Alle Lehrer stellten sich vor. Darunter die Herren Hesse, Glackemeyer, Bruns... und, ja, und Herr Zimolong. Ein Mann der schon durch sein Auftreten die Aufmerksamkeit auf sich zog, wie er gekleidet war, sprach und... er trug eine Baskenmütze (Beret). Faszinierend! 
 Kunstunterricht stand schon in der ersten Woche an! Ich war gespannt!
 
 # Der Künstler der kein Franzose war
@@ -34,7 +34,7 @@ Was war Wilhelm Zimolong für ein Mensch?
 > Er war lebensfroh, witzig, ein guter Unterhalter. Aber auch ein Familienmensch.
  Sigrid Zimolong
 
-Na gut, ein wenig Franzose war er doch schon, denn 1953 reiste er mit seiner Frau für drei Monate mit dem Fahrrad durch Frankreich, bepackt mit Leinwand, Pinseln und Farbe. Und mit einem Ziel vor Augen: Picasso treffen. Wie er uns erzählte, haben sie nur seine Lebensgefährtin angetroffen. Aber seine Liebe zu Frankreich, speziell Südfrankreich hat er behalten.
+Na gut, ein wenig Franzose war er doch schon, denn 1953 reiste er mit seiner Frau für drei Monate mit dem Fahrrad durch Frankreich, bepackt mit Leinwand, Pinseln und Farbe. Und mit einem Ziel vor Augen: Picasso treffen. Wie er uns erzählte, haben sie nur seine Lebensgefährtin angetroffen. Aber seine Liebe zu Frankreich, speziell Südfrankreich hat er behalten. Er erzählte diese Geschichte voller Stolz auf das Erreichte und die Eindrücke.
 
 Sein Unterricht war inspirierend, er machte neugierig, man konnte experimentieren und erfand für sich eine neue Sicht der Dinge.
 Seine eigenen Werke waren beeindruckend.
@@ -57,9 +57,9 @@ Gerade habe ich einmal im Netz geschaut und da wird tatsächlich diese Lithograp
 
 <img src="{{site.baseurl}}/images/zimolong-werke.jpg" alt="Litographie" title="Litographie" width="300" height="150"><br>
 
-Einige in unserer Klasse wollten Werke von ihm kaufen. Das gab dann einen Aufstand von der Elterpflegschaft (oder wie immer sich das damals nannte) und er wurde in unserer Klasse durch den Kunstlehrer Karl Korte (Spitzname Flieger Karl Korte) ersetzt. Ist mir bis heute absolut unverständlich! Das hat ihn sehr verletzt,er war tief betroffen.
+Einige in unserer Klasse wollten Werke von ihm kaufen. Das gab dann einen Aufstand von der Elterpflegschaft (oder wie immer sich das damals nannte) und er wurde in unserer Klasse durch den Kunstlehrer Karl Korte (Spitzname Flieger Karl Korte) ersetzt. Ist mir bis heute absolut unverständlich! Das hat ihn sehr verletzt,er war tief betroffen. Das muss in der 7. Klasse, also um 1971 gewesen sein.
 
-Zimolong war von 1966 bis 1979 an der Schule, also bis zu seinem Tod. Als ich nochmals Herrn Bruns besuchte, um ein Buch abzuoholen, das ich ihm geliehen hatte, war Zimolong wohl schon krank. Muss 1977 oder 1978 gewesen sein, denn ich hatte schon meine eigene Wohnung in Klein-Reken (auch eine andere Geschichte). Ich habe ihn nicht mehr angetroffen.
+Zimolong war von 1966 bis 1979 an der Schule, also bis zu seinem Tod. Als ich nochmals Herrn Bruns besuchte, um ein Buch abzuholen, das ich ihm geliehen hatte, war Zimolong wohl schon krank. Muss 1977 oder 1978 gewesen sein, denn ich hatte schon meine eigene Wohnung in Klein-Reken (auch eine andere Geschichte). Ich habe ihn nicht mehr angetroffen.
 
 Unter seiner Leitung gab es jährlich eine "Kunstausstellung" bei der er Werke der Schüler auswählte und die in den Gängen und Räumen ausgestellt wurden. Zu St. Martin organisierte er eine Ausstellung mit den gebastelten Laternen, die alle unterschiedliche Abstraktionen der biblischen Themen hatten. Fand ich immer grossartig. Die Kreissparkasse hat dazu einen ersten Preis gesponsort und der lokale Baunternehmer (Egbert Bolmerg hiess er glaube ich). Der erste Preis, den ich einmal mit meiner "Luftabllon Laterne" gewonnen hatte, war ein Sparbuch mit 25 DM bei der Kreissparkasse Dorsten. Ein Jahr wurden z.b. Luftballons verwendet die mit in Tapetenkleister getränkten Papierbahnen umschlossen wurden. Danach wurde der Ballon zerstochen und die dann enstandene Laterne mit farbigen Papier beklebt. Kubistische Motive waren da angesagt. Auch angelehnt an Zimolongs Litho's der Sixtinischen Kapelle. Ein weiteres Thema war dann in einem anderen Jahr "der Punkt". Schwarze Pappe war das Grundmaterial, die Fenster der Laternen wurden ausgeschnitten und mit durchsichtigem Papier (weiss) als Fenster beklebt. Dann wurden mit einem Locher aus eben gleicher schwarzer Bastelpappe gelocht und diese "Punkte" dann auf das mit Kleber bestrichene Papier aufgestreut oder in Mustern oder Darstellungen aufgetragen.
 
@@ -85,7 +85,7 @@ Eine sehr bescheidene Auwahl der vielen vielen Themen unseres Kunstlehrers Wilhe
 
 Zimolong ermöglichte es den Schülern auch, Nachdrucke großer Künstler aus der Klett Schulgalerie zu erwerben, und seine Haltung war klar: "Besser eine gute Reproduktion als keine Kunst". Diese Ausstellungen und Projekte prägten nicht nur den Kunstunterricht, sondern auch das gesamte Schulumfeld und förderten eine Atmosphäre der Kreativität und des Engagements.
 
-Das Bild "Vega-Kontosh" aus dem Jahr 1971 von Vicor Vasarely hängt noch heute bei mir daheim in meinem office.
+Das Bild "Vega-Kontosh" aus dem Jahr 1971 von Vicor Vasarely hängt noch heute bei mir daheim in meinem office. Natürlich nicht im Original, sondern aus der Klett Bibliothek. Das ist evtl. wieder eine andere Geschichte.
 
 <img src="{{site.baseurl}}/images/vega-kontosh.jpg" alt="Litographie" title="Litographie" width="300" height="150"><br>
 
