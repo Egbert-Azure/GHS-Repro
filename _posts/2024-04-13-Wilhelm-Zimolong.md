@@ -47,7 +47,7 @@ Er lehrte uns zu sehen. Seine Themen waren politisch - wie die 68er nun einmal w
 
 Das fand ich damals ziemlich abgefahren! Eine völlig neue Sicht der Dinge.
 
-So wurde auf Zeichenblock Grösse DIN A2 mit Bleistift das grobe Motiv gezeichnet und dann mit Linien frei Hand bis zu den Konturen gemalt, dann wurde versetzt mit der Linie fortgefahren. So entstanden Engel, Kirchen, Tiere und andere Motive. Der Zeichenblock A2 war damals ein Novum und musste im Schreibwarenhandel bestellt werden. Ein echter Kostenfaktor. Vor dem Hintergrund der damals 25 DM Schulbuchgutscheine, die mit dem Preis eines Dierke Weltatlas von 24 DM schon ausgeschöpft waren, eine Investition.
+So wurde auf Zeichenblock Grösse DIN A2 mit Bleistift das grobe Motiv gezeichnet und dann mit Linien frei Hand mit der Tuschfeder und unterschiedlichen Federstärken bis zu den Konturen gemalt, dann wurde versetzt mit der Linie fortgefahren. So entstanden Engel, Kirchen, Tiere und andere Motive. Der Zeichenblock A2 war damals ein Novum und musste im Schreibwarenhandel bestellt werden. Ein echter Kostenfaktor. Vor dem Hintergrund der damals 25 DM Schulbuchgutscheine, die mit dem Preis eines Dierke Weltatlas von 24 DM schon ausgeschöpft waren, eine Investition.
 
 Ähnlichkeit hatten die eher abstrakten Projekte dann mit Simon Rohlen's Werken. Hier ein Beispiel zur Illustration.
 
