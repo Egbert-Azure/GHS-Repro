@@ -49,7 +49,7 @@ Das fand ich damals ziemlich abgefahren! Eine völlig neue Sicht der Dinge.
 
 So wurde auf Zeichenblock Grösse DIN A2 mit Bleistift das grobe Motiv gezeichnet und dann mit Linien frei hand bis zu den Konturen gemalt, dann wurde versetzt mit der Linie fortgefahren. So entstanden Engel, Kirchen, Tiere und andere Motive. Der Zeichenblock A2 war damals ein Novum und musste im Schreibwarenhandel bestellt werden. Ein echter Kostenfaktor. Vor dem Hintergrund der damals 25 DM Schulbuchgutscheine, die mit dem Preis eines Dierke Weltatlas von 24 DM schon ausgeschöpft waren, eine Investition.
 
-Ähnlichkeit hatten die eher abstrakten Projekte dann mit Simon Rohl's Werken. Hier ein Beispiel zur Illustration.
+Ähnlichkeit hatten die eher abstrakten Projekte dann mit Simon Rohlen's Werken. Hier ein Beispiel zur Illustration.
 
 <img src="{{site.baseurl}}/images/s-l1600.jpg" alt="Der Strich" title="Simon Rohl" width="300" height="150"><br>
 
