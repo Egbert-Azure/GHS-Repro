@@ -8,7 +8,7 @@ website: https://de.wikipedia.org/wiki/Wilhelm_Zimolong
 twitter: 
 facebook:
 video_embed:
-tags: [Geschichten, Erinnerungen, Abschlussfahrt]
+tags: [Geschichten, Erinnerungen, Lehrer]
 tags_color: '#4c49cb' 
 ---
 
