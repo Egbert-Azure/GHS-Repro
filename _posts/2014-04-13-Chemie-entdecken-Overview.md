@@ -29,8 +29,8 @@ Jessica Weinbach wurde zum 4. Mal mit der Urkunde "mit großem Erfolg" geehrt. Z
 # Wettbewerbe
 
 - 1 / 2001    (De-Inking - Ein Schritt zu neuem Papier)
-- 2 / 2001    (Chemie ist life-science)
-- 1 / 2002    (Kleber - bärenstark)
+- 2 / 2001    [Chemie ist life-science]({% post_url 2024-04-13-Chemie-entdecken-life-science  %})
+- 1 / 2002    [Kleber - bärenstark]({% post_url 2024-04-11-Chemie-entdecken-Kleber %})
 - 2 / 2002    (Dem Korrosionsmonster auf der Spur)
 - 1 / 2003    (Schriftgeheimnisse)
 - 2 / 2003    (Sprudelnder Antrieb - Brausetabletten)
