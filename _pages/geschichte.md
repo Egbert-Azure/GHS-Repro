@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Historie
-permalink: /about/
+title: Geschichte
+permalink: /Geschichte/
 image: '/images/ghs_hero.jpg'
 tags: [Geschichten]
 ---

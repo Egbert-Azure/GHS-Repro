@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lehrer
-permalink: /lehrer/
+title: Kollegium
+permalink: /kollegium/
 image: 
 ---
 

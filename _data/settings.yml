@@ -14,20 +14,21 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Autoren'
+    - title: 'Autoren & Lehrer'
       url: '/authors/'
-    - title: 'Lehrer'
-      url: '/lehrer/'
-    - title: 'Videos'
-      url: '/videos/'
+    - title: 'Kollegium'
+      url: '/Kollegium/'
+#    - title: 'Videos'
+#      url: '/videos/'
     - title: 'Weiteres'
       submenu:
-      - url: '/about/'
-        title: 'Historie'
-      - url: '/kontakt/'
-        title: 'Kontakt'
+      - url: '/geschichte/'
+        title: 'Geschichte'
       - url: '/lebensbild/'
         title: 'Lebensbild'
+      - url: '/kontakt/'
+        title: 'Kontakt'
+
 
 #-------------------------------
 # Hero Settings
@@ -119,12 +120,13 @@ footer__menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Historie'
-      url: '/about/'
-    - title: 'Kontakt'
-      url: '/kontakt/'
+    - title: 'Geschichte'
+      url: '/Geschichte/'
     - title: 'Lebensbild'
       url: '/lebensbild/'
+    - title: 'Kontakt'
+      url: '/kontakt/'
+
 
 
 #-------------------------------
