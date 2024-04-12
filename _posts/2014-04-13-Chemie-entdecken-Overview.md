@@ -3,7 +3,7 @@ layout: post
 title: Experimentalwettbewerb "Chemie entdecken"
 date: 2011-02-03
 author: andreas
-description: Tradition an der Gerhart-Hauptmann-Realschule
+description: Tradition an der Gerhart-Hauptmann-Realschule - Übersicht der Projekte und Wettbewerbe
 image: '/images/celogy.jpg' # Add image post (optional)
 video_embed:
 tags: [Wettbewerb, Projekte]
