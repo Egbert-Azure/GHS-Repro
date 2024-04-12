@@ -8,7 +8,7 @@ image: '/images/pflanzen.jpg' # Add image post (optional)
 video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 
 <small>Photo by <a href="https://unsplash.com/@elsbethcat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Beth Macdonald</a> on <a href="https://unsplash.com/photos/green-plant-on-clear-glass-vase-ymm91YNUPZE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
