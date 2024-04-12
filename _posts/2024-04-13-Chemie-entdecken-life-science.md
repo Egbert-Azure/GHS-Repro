@@ -2,7 +2,7 @@
 layout: post
 title: 	Thema Chemie ist Life-Science
 date: 2001-06-03
-author: 
+author: andreas
 description: In diesem Experiment wurde der Einfluss unterschiedlicher Faktoren auf das Pflanzenwachstum untersucht
 image: '/images/pflanzen.jpg' # Add image post (optional)
 video_embed:
