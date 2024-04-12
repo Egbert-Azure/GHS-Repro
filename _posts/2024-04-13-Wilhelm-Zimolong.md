@@ -57,7 +57,7 @@ Gerade habe ich einmal im Netz geschaut und da wird tatsächlich diese Lithograp
 
 <img src="{{site.baseurl}}/images/zimolong-werke.jpg" alt="Litographie" title="Litographie" width="300" height="150"><br>
 
-Einige in unserer Klasse wollten Werke von ihm kaufen. Das gab dann einen Aufstand von der Elternpflegschaft (oder wie immer sich das damals nannte) und er wurde in unserer Klasse durch den Kunstlehrer Karl Korte (Spitzname Flieger Karl Korte) ersetzt. Ist mir bis heute absolut unverständlich! Das hat ihn sehr verletzt,er war tief betroffen. Das muss in der 7. Klasse, also um 1971 gewesen sein.
+Einige in unserer Klasse wollten Werke von ihm kaufen. Das gab dann einen Aufstand von der Elternpflegschaft (oder wie immer sich das damals nannte) und er wurde in unserer Klasse durch den Kunstlehrer Karl Korte (Spitzname Flieger Karl Korte) ersetzt. Ist mir bis heute absolut unverständlich! Das hat ihn sehr verletzt, er war tief betroffen. Das muss in der 7. Klasse, also um 1971 gewesen sein. Es spiegelte den autoritären Führungstil wieder. Es herrschte zu der Zeit ein zunächst nie angezweifeltes Obrigkeitsverhältnis. Regel eins: der Lehrer hatte immer Recht, der Schüler immer Unrecht. Also half auch nicht, dass wir Schüler für Zimolong aussagten, protestierten und bestätigten das Herr Zimolong keinen aktiven Verkauf seiner Werke an die Schüler betrieben hatte. Regel eins trat in Kraft.
 
 Zimolong war von 1966 bis 1979 an der Schule, also bis zu seinem Tod. Als ich nochmals Herrn Bruns besuchte, um ein Buch abzuholen, das ich ihm geliehen hatte, war Zimolong wohl schon krank. Muss 1977 oder 1978 gewesen sein, denn ich hatte schon meine eigene Wohnung in Klein-Reken (auch eine andere Geschichte). Ich habe ihn nicht mehr angetroffen.
 
@@ -65,6 +65,8 @@ Unter seiner Leitung gab es jährlich eine "Kunstausstellung" bei der er Werke d
 
 Im Gedächtnis ist mir selbst auch die Kunstausstellung mit Anti Kriegs Themen. Im Innenhof - dem Atrium - hatten wir dazu eine Puppe als gefallenen Soldaten drapiert.
 Leider sind die S/W Aufnahmen dieses Objektes verloren gegangen.
+
+Mein Freund seit Schultagen - Kalle - brachte mir noch in Erinnerung wie stolz wir waren, als wir unsere Kunstobjekte in der Kreissparkasse Dorsten als riesige Wand vor uns fanden. Ganz Dorsten konnte die Objekte sehen. Wir hatten jeder eine Kiste mit Fenster gebaut und dahinter irgend etwas eingestellt. Eine Kiste war dabei gewesen, in der irgend etwas Verderbliches war. Das war Absicht und es sollte vor langsam verrotten. Hat leider nicht ganz funktioniert bei diesem einen Objekt, und wir mussten daher die Ausstellungswand in der Kreissparkasse früher auflösen als gedacht.
 
 Die Vielfalt und Kreativität dieser Ausstellungen waren beeindruckend und prägend bis zum heutigen Tag. Noch heute besitze ich die Kunstkataloge der Ruhrfestspiel Ausstellungen dieser Zeit oder Essen Volkwang Museum Ausstellungen, die er uns mehr als an's Herz gelegt hat.
 
