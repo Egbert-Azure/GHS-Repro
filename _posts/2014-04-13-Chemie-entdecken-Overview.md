@@ -10,10 +10,17 @@ tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 featured: true
 ---
+<div style="text-align: center;">
+  <small>Bilder konnten nicht restauriert werden und zur Illustration ersetzt</small>
+</div>
+
+<br>
 
 Bereits 15 Mal in Folge, seit 1/2001, hat die Gerhart-Hauptmann-Realschule an dem Kölner Experimentalwettbewerb "Chemie entdecken" für die Klassenstufen 5 - 10 teilgenommen.
 
 Mit zahlreichen Urkunden wie "mit Erfolg teilgenommen" sowie einigen "mit großem Erfolg teigenommen" bis hin zu Urkunden "mit besonderem Erfolg teilgenommen" wurden teilnehmende Schülerinnen und Schüler geehrt.
+
+<img src="/images/Chemie_files/Ch_2008_alle.jpg.png" width="325" height="180"> 
 
 Die Teilnahme an den Wettbewerben wurde von dem ehemaligen 2. Konrektor der Gerhart-Hauptmann-Realschule, Herrn Lisson, im Jahr 2001 ins Leben gerufen. Bald konnte er auch seine Chemiekolleginnen Frau Olbrich und Frau Schlicker für eine Teilnahme - gleich mit ganzen Klassenverbänden - begeistern. Der Höhepunkt der Urkundenverteilung für erfolgreiche Arbeit erfolgte mit dem Thema "Seifen - was ist das?" im Jahr 1/2007. 78 Urkunden wurden im Sommer 2007 verteilt, wobei allein die ehemalige Klasse 5b (heute 6b) unter der Leitung von Frau Schlicker mit 17 Urkunden einen absoluten Rekord darstellten.
 
@@ -25,6 +32,8 @@ Alexander Herborn, mit 6 Urkunden beglückt, erwartet aufgrund seiner dreimalige
 
 
 Jessica Weinbach wurde zum 4. Mal mit der Urkunde "mit großem Erfolg" geehrt. Zwei weitere Male erhielt sie die Urkunde "mit besonderem Erfolg" (höchste Auszeichnung!). Beide Schülerinnen streben nach Beendigung der Schulzeit eine Ausbildung im chemischen Sektor an.
+
+<img src="/images/Chemie_files/Ch_2008_Gruppe.JPG.png" width="325" height="244">&nbsp; 
 
 # Wettbewerbe
 
