@@ -17,6 +17,23 @@ featured: true
 
 <br>
 
+# Hintergrund
+
+Wir beginnen im Jahrgang 5 mit einer Stunde pro Woche zum Thema »Lernen lernen«. Umsetzungsmöglichkeiten gibt es im herkömmlichen Unterricht und auch zu Hause mehr als genug.
+
+Unsere Schule bietet für den Jahrgang 5 das Fach „Lernen lernen“ an, in dem den Schülerinnen und Schülern Fähigkeiten, Lernstrategien selbst zu steuern und zu optimieren, vermittelt werden. Neben dem Vorstellen und Einüben von Lerntechniken werden auch eigene Lernprozesse und Nachdenken über das eigene Lernverhalten gefördert. Dieser Unterricht findet in der Regel im Klassenverband bei dem Klassenlehrer statt.
+
+
+Unsere Schule bietet für den Jahrgang 6 das Fach „Soziales lernen“ an. Hierbei sollen besonders Selbstvertrauen und soziale Kompetenzen, die im täglichen Miteinander eine Rolle spielen, gefördert werden. Da der Unterricht im Klassenverband stattfindet, wird besonders auf das Miteinander in dieser Gruppe Rücksicht genommen. In Spielen und Projekten zur Förderung der Kooperation, Kommunikation und gemeinschaftlichen Konfliktlösung entwickeln die Schülerinnen und Schüler ihre Fähigkeiten weiter.
+
+
+Soziales Lernen in der Jahrgangsstufe 6 soll den Schülern und Schülerinnen Hilfen zum angemessenen Umgang miteinander geben. Denn wir finden es z. B. gar nicht »cool«, wenn man sich verbal attackiert.
+Auch dann nicht, wenn man so allmählich in die so genannten »Flegeljahre« kommt.
+Die Schwelle zum Erwachsenwerden ist mit Widerständen, Machtkämpfen, Stimmungsschwankungen und Unsicherheiten verbunden. Auch die Interessen verlagern sich. Das spürt man verstärkt in den Jahrgangsstufen 7 und 8. Hier möchten wir unsere Schülerinnen und Schüler durch sportliche, kreative und sozialpädagogische Angebote begleiten.
+Alle Schüler und Schülerinnen nehmen im Verlauf des Schuljahres an jedem Angebot verpflichtend teil.
+
+
+# Jung trifft Alt
 
 Schülerinnen und Schüler der Gerhart-Hauptmann-Realschule beendeten das gemeinsame Begegnungsprojekt mit dem Altenzentrum Maria Lindenhof mit einer Gegeneinladung der Bewohner in die Schule. Einige hundert Jahre Lebenserfahrung kamen zusammen, mit denen die Bewohnerinnen und Bewohner von Maria Lindenhof die Schüler des 8. Jahrgangs in ihren Bann zogen.
 
