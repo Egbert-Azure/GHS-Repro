@@ -2,7 +2,7 @@
 layout: post
 title: Lesewettbewerb
 date: 2001-06-03
-author: 
+author: sebastian
 description: Vorlese-Wettbewerb der Klassen 5 & 6 (Dezember 2001)
 image: '/images/dreiSieger.JPG' # Add image post (optional)
 video_embed:
