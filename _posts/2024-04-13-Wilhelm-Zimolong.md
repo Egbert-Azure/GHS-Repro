@@ -10,6 +10,7 @@ facebook:
 video_embed:
 tags: [Geschichten, Erinnerungen, Lehrer]
 tags_color: '#4c49cb' 
+featured: true
 ---
 
 # Wer war er
