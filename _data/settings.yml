@@ -20,6 +20,8 @@ menu__settings:
       url: '/Kollegium/'
 #    - title: 'Videos'
 #      url: '/videos/'
+    - title: 'Ehemalige'
+      url: '/ehemalige/'
     - title: 'Weiteres'
       submenu:
       - url: '/geschichte/'

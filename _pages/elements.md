@@ -4,7 +4,7 @@ title: Lebensbild
 permalink: /lebensbild/
 image: 
 author: elke
-date: 06-11-2001
+date: 2001-06-11
 ---
 
 <blockquote>
