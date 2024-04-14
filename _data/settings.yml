@@ -28,7 +28,8 @@ menu__settings:
         title: 'Lebensbild'
       - url: '/kontakt/'
         title: 'Kontakt'
-
+      - url: '/about/'
+        title: 'About'
 
 #-------------------------------
 # Hero Settings
@@ -126,6 +127,8 @@ footer__menu__settings:
       url: '/lebensbild/'
     - title: 'Kontakt'
       url: '/kontakt/'
+    - title: 'About'
+      url: '/about/'
 
 
 
