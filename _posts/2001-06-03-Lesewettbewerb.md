@@ -8,7 +8,7 @@ image: '/images/dreiSieger.JPG' # Add image post (optional)
 video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 
 <div style="text-align: center;">
