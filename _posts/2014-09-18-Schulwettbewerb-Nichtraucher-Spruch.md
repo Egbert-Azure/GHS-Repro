@@ -4,12 +4,15 @@ Title: Schulwettbewerb - Der Nichtraucher-Spruch
 author: elke
 date: 2014-09-18
 description: Weg mit den Kippen, das versifft die Lippen
-image: '/images/Neues_files/notes.jpg' # Add image post (optional)
+image: '/images/Neues_files/nosmoke.jpg' # Add image post (optional)
 video_embed:
 tags: [Neuigkeiten, Wettbewerb]
 tags_color: '#b25642'
 featured: false
 ---
+
+<small>Photo by <a href="https://unsplash.com/@btcarpenter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Beau Carpenter</a> on <a href="https://unsplash.com/photos/a-white-wall-with-a-logo-EyK-LDR38u4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+  
 
 DORSTEN "Weg mit den Kippen, das versifft die Lippen" - mit dieser Zeile und einer schönen Schulhofgestaltung haben Aylin Sentürk, Rukayye Cil und Sophie Klomfaß die Jury der Drogenberatung Westvest überzeugt.
 
