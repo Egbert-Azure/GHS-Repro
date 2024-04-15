@@ -20,7 +20,7 @@ featured: true
     <img src="{{site.baseurl}}/images/Neues_files/Buecherei_5a_2013_01.jpg" loading="lazy">
     <img src="{{site.baseurl}}/images/Neues_files/Buecherei_5a_2013_02.jpg" loading="lazy">
     <img src="{{site.baseurl}}/images/Neues_files/Buecherei_5a_2013_03.jpg" loading="lazy">
-    <img src="{{site.baseurl}}/images/Neues_files/Buecherei_5a_2013_03.jpg" loading="lazy">    
+    <img src="{{site.baseurl}}/images/Neues_files/Buecherei_5a_2013_04.jpg" loading="lazy">    
   </div>
   <em>Gallery / <a target="_blank">Fotos via Wayback Machine</a></em>
 </div>
