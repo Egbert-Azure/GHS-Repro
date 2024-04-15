@@ -93,7 +93,7 @@ Von oben links nach rechts:
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="{{site.baseurl}}/Schulgeschichte_files/Aufnahme aus den 60ern - Goette.jpg" loading="lazy" alt="Luftaufnahme 60er">
+    <img src="{{site.baseurl}}/Schulgeschichte_files/Aufnahme aus den 60er - Goette.jpg" loading="lazy" alt="Luftaufnahme 60er">
     <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette.jpg" loading="lazy" alt="Marienschule">
     <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette2.jpg" loading="lazy" alt="Marienschule">
     <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette3.jpg" loading="lazy" alt="Marienschule">
