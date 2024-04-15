@@ -63,15 +63,12 @@ Er beherbergte drei Klassenräume: einen Musikraum, einen Medienraum und ein Spr
 <img src="{{site.baseurl}}/Schulgeschichte_files/schule.jpg" alt="Neubau" title="Neubau" width="600" height="457"><br>
 <br>
 <br>
-Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der Schulgeschichte: Es konnten nun auch Mädchen die Gerhart-Hauptmann-Schule besuchen. <br>
+Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der Schulgeschichte: Es konnten nun auch Mädchen die Gerhart-Hauptmann-Schule besuchen.
 <br>
 <br>
-Wieder wurde das Schulgebäude zu klein, so dass im Schuljahr 1982/83
-eine Filiale in unserem "Geburtshaus", der ehemaligen Marienschule, mit
-zwei Klassen bezogen wurde. 1985 wurden aus pädagogischen und
-schulorganisatorischen Gründen alle vier Klassen 6 dort untergebracht.
+Wieder wurde das Schulgebäude zu klein, so dass im Schuljahr 1982/83 eine Filiale in unserem "Geburtshaus", der ehemaligen Marienschule, mit zwei Klassen bezogen wurde. 1985 wurden aus pädagogischen und schulorganisatorischen Gründen alle vier Klassen 6 dort untergebracht.
 
-# Historische Fotos aus dem Archiv von Johannes Götte
+# Historische Fotos aus dem Archiv
 
 Von oben links nach rechts:
 1. Aufnahme aus den 60zigern
