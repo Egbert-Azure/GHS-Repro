@@ -37,9 +37,11 @@ Zu ihm gab es auf der GHS-Website von 2001 folgenden Eintrag:
 
 **Ein Loblied dem Hausmeister**
 
-*Wenn es regnet - die elektrische Schelle verträgt keine Feuchtigkeit - läuft er mit der Handglocke durch das Gebäude oder über den Schulhof, am Ende der Stunde etwas pünktlicher als am Ende der Pause ("Die Kinder müssen sich doch auch einmal richtig erholen!").*
+<blockquote style="font-size: smaller;">
+    <p>Wenn es regnet - die elektrische Schelle verträgt keine Feuchtigkeit - läuft er mit der Handglocke durch das Gebäude oder über den Schulhof, am Ende der Stunde etwas pünktlicher als am Ende der Pause ("Die Kinder müssen sich doch auch einmal richtig erholen!").</p>
+    <p>Die Pfützen auf dem Schulhof werden mit dem Besen beseitigt ("Damit die Kinder keine nassen Füße bekommen!"). Wenn am Ende des Vormittags nur noch eine Klasse Unterricht hat, schellt es überhaupt nicht, dann klopft der Hausmeister an die Klassentür und sagt, dass die Stunde zu Ende sei ("Damit die Kinder sich nicht erschrecken!").</p>
+</blockquote>
 
-*Die Pfützen auf dem Schulhof werden mit dem Besen beseitigt ("Damit die Kinder keine nassen Füße bekommen!"). Wenn am Ende des Vormittags nur noch eine Klasse Unterricht hat, schellt es überhaupt nicht, dann klopft der Hausmeister an die Klassentür und sagt, dass die Stunde zu Ende sei ("Damit die Kinder sich nicht erschrecken!")*
 
 Im Schuljahr 1966/67 stand die Namensgebung der Schule an. Auf Anregung des damaligen Schulleiters Max Kuon und nach Beratungen in Lehrerkonferenzen bekam die Realschule den Namen *"Gerhart-Hauptmann-Schule, Städtische Realschule für Jungen"*.
 <br>
