@@ -18,6 +18,7 @@ date: 2024-04-14
 | 27.11.2013  | Gorke Kevin        | dorsten wulfen   | DIESE SCHULE IST EINER DER BESTEN IM VEST ICH VERMISSE DIE SCHULZEIT AK 2010. VIELE GRÜSSE AN ALLE LEHRKRÄFTE ;) |
 | 21.05.2013  | Simone Netzlaff-Zierdt | Winsen/Luhe  | Hallo, ich bin eine ehemalige Schülerin Eurer Schule. Ich war damals von 1998 bis 1991 bei Herrn Bruns in der Klasse. Weiß jemand wie es ihm geht? Oder auch Frau Meissner, die wir damals in Biologie/Chemie hatten? Wie geht's ihr? LG Simone |
 
+
 # Ehemalige
 
 ## Abschluss 1966
