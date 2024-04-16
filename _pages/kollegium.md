@@ -8,8 +8,8 @@ image:
 
 # Stand 2000 
 
-<img id="Bild6" height="304" width="605" src="{{site.baseurl}}/images/Lehrer_files/lehrer.JPG" border="0" alt="Das Lehrerkollegium 2001">
-<img id="Bild4" height="158" width="348" src="{{site.baseurl}}/images/Lehrer_files/Lehrerkonturen_und_Nummer.JPG" border="0" alt="The who is who">
+<img id="Bild6" height="304" width="605" src="{{site.baseurl}}/images/Lehrer_files/lehrer.JPG" border="0" alt="Das Lehrerkollegium 2001" loading="lazy">
+<img id="Bild4" height="158" width="348" src="{{site.baseurl}}/images/Lehrer_files/Lehrerkonturen_und_Nummer.JPG" border="0" loading="lazy" alt="der 50ste" alt="The who is who">
 
 #### Es fehlen:
 Fr. Fornefeld, Fr. Richter, Hr. Queens
@@ -32,6 +32,8 @@ Fr. Fornefeld, Fr. Richter, Hr. Queens
 | 14     | Fr. Bücker       | 29     | Fr. Hinzmann     |
 | 15     | Fr. Braun        |        |                  |
 
-# Stand 1987
+# Stand 1985
 
-<img id="Bild6" height="304" width="605" src="{{site.baseurl}}/images/Lehrer_files/lehrer-1987.JPG" border="0" alt="Das Lehrerkollegium 1987">
+<img id="Bild7" height="304" width="605" src="{{site.baseurl}}/images/Lehrer_files/lehrer-1985_edited.jpg" border="0" loading="lazy" alt="der 50ste" alt="Das Lehrerkollegium 1985">
+
+<img id="Bild7" height="304" width="605" src="{{site.baseurl}}/images/Lehrer_files/lehrerkonturen-1985.JPG" border="0" loading="lazy" alt="der 50ste" alt="Das Lehrerkollegium 1985">

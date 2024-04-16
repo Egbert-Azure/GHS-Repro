@@ -14,7 +14,7 @@ Die neugegründete Realschule startete am 1. April 1960 im Gebäude der Mariensc
 
 <br>
 <br>
-<img src="{{site.baseurl}}/Schulgeschichte_files/mariens.JPG" alt="Marienschule" title="Marienschule" width="600" height="359"><br>
+<img src="{{site.baseurl}}/images/Schulgeschichte_files/mariens.JPG" alt="Marienschule" title="Marienschule" width="600" height="359"><br>
 <br>
 
 Der Bau der Gerhart-Hauptmann-Schule begann im Jahre 1962. <br>
@@ -22,7 +22,7 @@ Der erste Spatenstich erfolgte am 4. Juni 1962. <br>
 Dieser wurde auch dringend notwendig, denn die Marienschule platzte aus allen Nähten. <br>
 Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine andere in den Keller der Marienschule ausweichen.<br>
 <br>
-<img src="{{site.baseurl}}/Schulgeschichte_files/baustell.JPG" alt="Bau der GHS" title="Bau der GHS" width="600" height="329"><br>
+<img src="{{site.baseurl}}/images/Schulgeschichte_files/baustell.JPG" alt="Bau der GHS" title="Bau der GHS" width="600" height="329"><br>
 <br>
 <br>
 Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht. Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte dann endlich am 24. März 1964 der lang ersehnte Einzug in die neue Schule.
@@ -77,13 +77,19 @@ Steigende Schülerzahlen forderten den Ausbau der Schule. Nach dem Richtfest am 
 Er beherbergte drei Klassenräume: einen Musikraum, einen Medienraum und ein Sprachlabor.<br>
 <br>
 <br>
-<img src="{{site.baseurl}}/Schulgeschichte_files/schule.jpg" alt="Neubau" title="Neubau" width="600" height="457"><br>
+<img src="{{site.baseurl}}/images/Schulgeschichte_files/schule.jpg" alt="Neubau" title="Neubau" width="600" height="457"><br>
 <br>
 <br>
 Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der Schulgeschichte: Es konnten nun auch Mädchen die Gerhart-Hauptmann-Schule besuchen.
 <br>
 <br>
 Wieder wurde das Schulgebäude zu klein, so dass im Schuljahr 1982/83 eine Filiale in unserem "Geburtshaus", der ehemaligen Marienschule, mit zwei Klassen bezogen wurde. 1985 wurden aus pädagogischen und schulorganisatorischen Gründen alle vier Klassen 6 dort untergebracht.
+
+# Die GHS wird 50
+
+Zum 50. Jubiläum stellten sich die Schüler zu dieser Aufnahme. Sponsoren für den Kran waren Volksbank und Sparkasse.
+
+<img src="{{site.baseurl}}/images/Schulgeschichte_files/GHS_Jub_Kran.jpg"  loading="lazy" alt="der 50ste">
 
 # Historische Fotos aus dem Archiv
 
@@ -95,10 +101,10 @@ Von oben links nach rechts:
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="{{site.baseurl}}/Schulgeschichte_files/Aufnahme aus den 60er - Goette.jpg" loading="lazy" alt="Luftaufnahme 60er">
-    <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette.jpg" loading="lazy" alt="Marienschule">
-    <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette2.jpg" loading="lazy" alt="Marienschule">
-    <img src="{{site.baseurl}}/Schulgeschichte_files/mariens-1950-Goette3.jpg" loading="lazy" alt="Marienschule">
+    <img src="{{site.baseurl}}/images/Schulgeschichte_files/Aufnahme aus den 60er - Goette.jpg" loading="lazy" alt="Luftaufnahme 60er">
+    <img src="{{site.baseurl}}/images/Schulgeschichte_files/mariens-1950-Goette.jpg" loading="lazy" alt="Marienschule">
+    <img src="{{site.baseurl}}/images/Schulgeschichte_files/mariens-1950-Goette2.jpg" loading="lazy" alt="Marienschule">
+    <img src="{{site.baseurl}}/images/Schulgeschichte_files/mariens-1950-Goette3.jpg" loading="lazy" alt="Marienschule">
   </div>
   <em>Gallery / <a target="_blank">Fotos: Johannes Götte</a></em>
 </div>
