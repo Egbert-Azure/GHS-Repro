@@ -22,6 +22,11 @@ Außerdem hatten sie viel Spaß bei gemeinsamen sportlichen Aktivitäten wie z.B
 Nach einer Woche hieß es dann Abschied nehmen. Es gab viele Umarmungen und Tränen bei der Abreise.
 Einige Schüler freuen sich aber bereits  auf ein Wiedersehen im September beim Fest „St. Grégoire“ in Ernée.
 
-<img src="{{site.baseurl}}/images/Neues_files/Frankreichaustausch2013.jpeg"><br>
-
-<img src="{{site.baseurl}}/images/Neues_files/Frankreichaustausch2013-2.jpeg"><br>
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="{{site.baseurl}}/images/Neues_files/Frankreichaustausch2013-2.jpeg" alt="Frankreich 2013">
+    <img src="{{site.baseurl}}/images/Neues_files/Frankreichaustausch2013.jpeg" alt="Frankreich 2013">
+    <img src="{{site.baseurl}}/images/Neues_files/Mont Saint Michel Gruppenbild Donnerstag.jpg" alt="Frankreich 2013">
+  </div>
+  <em>Gallery / <a target="_blank">Fotos: Waybackmachine</a></em>
+</div>
