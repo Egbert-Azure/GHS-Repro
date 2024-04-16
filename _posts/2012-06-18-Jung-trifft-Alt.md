@@ -6,7 +6,7 @@ author: andreas
 description: Schüler der Gerhart-Hauptmann-Realschule beendeten das gemeinsame Begegnungsprojekt mit dem Altenzentrum Maria Lindenhof mit einer Gegeneinladung der Bewohner in die Schule.
 image: '/images/Jung trifft Alt_files/Perst_Jung_alt_2012_001.jpg' # Add image post (optional)
 video_embed:
-tags: [Projekte]
+tags: [Projekte, PERST]
 tags_color: '#618770'
 featured: true
 ---
