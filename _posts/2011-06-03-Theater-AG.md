@@ -6,7 +6,7 @@ author: sebastian
 description: Theaterstücke in Eigenproduktion 
 image: '/images/theater.jpg' # Add image post (optional)
 video_embed:
-tags: [Projekte, Aktivitäten]
+tags: [Projekte, Aktivitäten, AG]
 tags_color: '#cb4949'
 featured: false
 ---
@@ -14,7 +14,9 @@ featured: false
 
 Die GHS bietet den Schülerinnen und Schülern aller Klassenstufen die Möglichkeit, Theater zu spielen. Diese AG ist nicht nur ein Beitrag, das Schulleben zu erweitern, sondern bietet vielen Schülerinnen und Schülern die Möglichkeit, sich selbst als Person zu entwickeln. Sie lernen in einer Gemeinschaft ein Projekt zu entwickeln und durchzuführen und haben hierbei die Möglichkeit, verschiedene künstlerische Ausdrucksformen auszuprobieren. Die Schülerinnen und Schüler können hier in Eigenproduktion Theaterstücke verfassen und aufführen, so dass die Bedürfnisse und Möglichkeiten jeder Spielgruppe berücksichtigt werden. Dabei ist der Prozess genauso wichtig wie das Produkt, welches am Ende aufgeführt wird. 
 
-Die aktuelle Gruppe (einige Fotos fehlen)
+Die aktuelle Gruppe:
+
+<img src="{{site.baseurl}}/images/Theater - AG_files/Theater_2011_1.jpg" width="660" height="495">
 <img src="{{site.baseurl}}/images/Theater - AG_files/Theater_2011_2.jpg" width="660" height="495">
 
 
