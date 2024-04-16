@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Krabat Nacht
+title: Krabat Nacht
 author: elke
 date: 2013-02-24
 description: Leseabend Krabat im Deutschunterricht

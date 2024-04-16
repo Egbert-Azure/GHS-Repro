@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Schulwettbewerb - Der Nichtraucher-Spruch
+title: Schulwettbewerb - Der Nichtraucher-Spruch
 author: elke
 date: 2014-09-18
 description: Weg mit den Kippen, das versifft die Lippen

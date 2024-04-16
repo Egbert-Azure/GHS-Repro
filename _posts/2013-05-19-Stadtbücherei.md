@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Stadtbücherei
+title: Stadtbücherei
 author: elke
 date: 2013-05-19
 description: Schüler der Gerhart-Hauptmann-Realschule in die Welt der Bücherei entführt
@@ -13,7 +13,9 @@ featured: true
 <small>Photo by <a href="https://unsplash.com/@syinq?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Susan Q Yin</a> on <a href="https://unsplash.com/photos/books-on-brown-wooden-shelf-2JIvboGLeho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   
 
-„Wie viele Bücher kann man eigentlich an einem Tag ausleihen?“ oder  „Was passiert, wenn das entliehene Buch verloren oder beschädigt wird?“  und  „Gibt es hier auch Bücher über Flugzeuge?“ Das waren Fragen, die die Klasse 5a der Gerhart-Hauptmann-Realschule dringend beantwortet haben wollte. Daher machten sie sich nach der ersten Stunde zu Fuß auf den Weg zur Stadtbücherei, um hier um 9.30 Uhr die ganze Welt der Bücher für sich allein zu haben.
+„Wie viele Bücher kann man eigentlich an einem Tag ausleihen?“ oder  „Was passiert, wenn das entliehene Buch verloren oder beschädigt wird?“  und  „Gibt es hier auch Bücher über Flugzeuge?“ 
+
+Das waren Fragen, die die Klasse 5a der Gerhart-Hauptmann-Realschule dringend beantwortet haben wollte. Daher machten sie sich nach der ersten Stunde zu Fuß auf den Weg zur Stadtbücherei, um hier um 9.30 Uhr die ganze Welt der Bücher für sich allein zu haben.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">

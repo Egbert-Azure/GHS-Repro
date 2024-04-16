@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Tag der offenen Tür 2014
+title: Tag der offenen Tür 2014
 author: elke
 date: 2014-04-05
 description: We´ve got talents

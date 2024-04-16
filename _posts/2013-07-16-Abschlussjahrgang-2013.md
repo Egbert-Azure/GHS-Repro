@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Unser Abschlussjahrgang 2013
+title: Unser Abschlussjahrgang 2013
 author: elke
 date: 2013-07-16
 description: Gruppenfoto
