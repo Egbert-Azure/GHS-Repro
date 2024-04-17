@@ -32,7 +32,7 @@ Einige kunstinteressierte Schüler nahmen mit ihren Austauschpartnern an dem Jug
 &nbsp;
 </p>
 <p>
-<img src="{{site.baseurl}}/Schüleraustausch 2009_files/Frankreich_2009.jpg" height="495" width="660">
+<img src="{{site.baseurl}}/images/Schüleraustausch 2009_files/Frankreich_2009.jpg" height="495" width="660">
 </p>
 <p>
 &nbsp;
@@ -66,7 +66,7 @@ Tim Komberg, 9b.
 &nbsp;
 </p>
 <p>
-<img src="{{site.baseurl}}/Schüleraustausch 2009_files/Ernee_2009_Laval.jpg" height="495" width="660">
+<img src="{{site.baseurl}}/images/Schüleraustausch 2009_files/Ernee_2009_Laval.jpg" height="495" width="660">
 </p>
 <p>
 &nbsp;
