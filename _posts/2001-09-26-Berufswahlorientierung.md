@@ -7,6 +7,7 @@ description: Förderung der Berufswahlreife (Berufsorientierung) seit Januar 198
 image: '/images/berufswa.gif' # Add image post (optional)
 tags: [Praktikum, Berufswahl]
 tags_color: '#835F46'
+featured: false
 ---
 
 Die Förderung der Berufswahlreife (Berufsorientierung) hat an unserer Schule eine lange Tradition. Noch bevor es für die Realschule verpflichtend wurde, beschloss die Schulkonferenz der Gerhart-Hauptmann-Schule bereits für das Schuljahr 1983/84 die Einführung eines Schülerbetriebspraktikums.

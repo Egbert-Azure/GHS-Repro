@@ -7,6 +7,7 @@ description: Grundschüler entdecken Gerhart-Hauptmann-Realschule
 image: # Add image post (optional)
 tags: [Veranstaltungen, Berufswahl]
 tags_color: '#835F46'
+featured: false
 ---
 
 TBD: find Fotos

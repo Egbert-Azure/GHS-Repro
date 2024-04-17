@@ -7,6 +7,7 @@ description: Schüleraustasuch - Tränenreicher Abschied in Ernée - 2011
 image: '/images/Mont Saint Michel Gruppenbild Donnerstag.jpg' # Add image post (optional)
 tags: [Partnerschaften, Auslandskontakt]
 tags_color: '#835F46'
+featured: false
 ---
 
 Am vergangenen Sonntag fiel es den 24 Schülern der Gerhart-Hauptmann-Realschule Dorsten und der Gesamtschule Schermbeck schwer, sich von ihren Austauschpartnern und ihren Gasteltern zu trennen, nachdem sie sie in der Zeit vom 14. bis zum 19. Juni immer mehr in ihr Herz geschlossen hatten.  Es handelte sich um den Rückbesuch im Rahmen des traditionellen Austausches mit dem Collège St.-Joseph in Ernée. Zwei Wochen zuvor  hatten die deutschen Jugendlichen ihre Austauschpartner bereits in Dorsten und Schermbeck  empfangen. Sie lernten nun die französische Lebensweise und das Schulleben in Frankreich kennen.

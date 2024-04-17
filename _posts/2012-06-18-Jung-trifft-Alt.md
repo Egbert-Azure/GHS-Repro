@@ -8,7 +8,7 @@ image: '/images/Jung trifft Alt_files/Perst_Jung_alt_2012_001.jpg' # Add image p
 video_embed:
 tags: [Projekte, PERST]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 
 <div style="text-align: center;">

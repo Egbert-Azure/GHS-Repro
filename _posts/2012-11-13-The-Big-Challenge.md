@@ -8,7 +8,7 @@ image: '/images/The Big Challenge_files/challenge.jpg' # Add image post (optiona
 video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
-featured: true
+featured: false
 ---
 
 <small>Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-chalkboard-with-the-word-possible-written-on-it-Jxi526YIQgA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a><small>

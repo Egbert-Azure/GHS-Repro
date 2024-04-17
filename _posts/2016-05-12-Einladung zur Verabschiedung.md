@@ -7,6 +7,7 @@ description: Einladung zur Verabschiedung anlässlich der Schließung der GHS
 image: '/images/ghs-bild.jpg' # Add image post (optional)
 tags: [Schließung]
 tags_color: '#835F46'
+featured: false
 ---
 
 

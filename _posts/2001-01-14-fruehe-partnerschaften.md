@@ -7,6 +7,7 @@ description: Erste Auslandskontakte und Partnerschaften in den 70er Jahren
 image: '/images/crawley.jpg' # Add image post (optional)
 tags: [Auslandskontakte, Partnerschaften]
 tags_color: '#835F46'
+featured: false
 ---
 
 Schon wenige Jahre nach Gründung der Schule wurden die ersten Kontakte zum Ausland geknüpft.

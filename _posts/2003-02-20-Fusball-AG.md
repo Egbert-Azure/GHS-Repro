@@ -4,10 +4,11 @@ title: Stadtmeister 2002
 date: 2003-02-20
 author: lars
 description: D-Jugend Fußballmannschaft ist Stadtmeister 2002
-image: # Add image post (optional)
+image: /images/Mannschaftsbild.jpeg # Add image post (optional)
 video_embed:
 tags: [AG, Sport, Fussball, Stadtmeister]
 tags_color: '#835F46'
+featured: false
 ---
 
 ### AG-Leiter: Hr. Veenstra
