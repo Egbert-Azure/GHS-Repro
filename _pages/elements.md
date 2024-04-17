@@ -14,7 +14,7 @@ sollte er in einer neuen Sache Schüler werden.
 
 <tbody>
 		<tr>
-			<td style="width: 250px"> <img src="{{site.baseurl}}/Wer war Gerhart Hauptmann__files/Gerhart_1.BMP" width="250" height="333"></td>
+			<td style="width: 250px"> <img src="{{site.baseurl}}/images/Wer war Gerhart Hauptmann__files/Gerhart_1.BMP" width="250" height="333"></td>
 			<td style="width: 410px">
 			<div align="center">
 			</div>
@@ -25,7 +25,7 @@ sollte er in einer neuen Sache Schüler werden.
 		</tr>
 	</tbody>
 
-## Gerhart Hauptmann
+## Wer war Gerhart Hauptmann?
 
 Schon zu Beginn des Jahres 1961 bestanden enge Beziehungen zwischen dem Vorsitzenden des Heimatbundes Rybnik und der Städtischen Realschule für Jungen, um die Kontakte zwischen Heimatvertriebenen und Einheimischen enger zu knüpfen und den Gedanken der Wiedervereinigung lebendig zu erhalten.
 Als der Städtischen Realschule für Jungen in Dorsten der Name Gerhart-Hauptmann-Schule gegeben wurde,ging man davon aus, dass Gerhart Hauptmann als Mensch und Dichter zu würdigen sei.
