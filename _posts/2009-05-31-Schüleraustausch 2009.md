@@ -7,6 +7,7 @@ description: Schüleraustasuch der Schüler des Collège St. Joseph in Ernée
 image: '/images/ernee.jpeg' # Add image post (optional)
 tags: [Partnerschaften, Auslandskontakt]
 tags_color: '#835F46'
+featured: false
 ---
 
 # Schüleraustausch 2009
