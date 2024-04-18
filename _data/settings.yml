@@ -38,7 +38,7 @@ menu__settings:
 hero:
   enable: true
   hero__title: Gerhart-Hauptmann Realschule Dorsten
-  hero__description: Aus dem Webarchiv restaurierte Seite der ehemaligen Gerhart-Hauptmann-Realschule in Dorsten. Angereichert mit neuen Eindrücken und Erinnerungen aus der Perspetive der ehemaligen Schüler. Alle Beiträge unter 'Blog'
+  hero__description: Aus dem Webarchiv restaurierte Seite der ehemaligen Gerhart-Hauptmann-Realschule in Dorsten. Angereichert mit neuen Eindrücken und Erinnerungen aus der Perspetive der ehemaligen Schüler.
   hero__image: '/images/ghs_hero.jpg' # You can add hero image. For example '/images/06.jpg'
 
 
