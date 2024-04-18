@@ -3,7 +3,7 @@ layout: post
 title: Die Foto AG
 author: Egbert
 date: 2024-04-18
-description: Eine Zeitreise zurück in die analoge Welt der Fotografie
+description: Eine Zeitreise zurück in die analoge Welt der Fotografie - Der Lehrer Rolf Bruns initiert die erste Foto AG
 image: '/images/foto-ag.jpg'
 video_embed: 
 tags: [Geschichten, Erinnerungen, Zeitgeist]
