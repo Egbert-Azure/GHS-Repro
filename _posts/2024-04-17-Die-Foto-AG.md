@@ -49,7 +49,7 @@ Hier schön zu sehen das Objektiv des Vergrößerers, vor dem noch Filter gelegt
     <img src="/images/Fotolabor1.jpg" loading="lazy" alt="Fotolabor">
     <img src="/images/Fotolabor2.jpg" loading="lazy" alt="Fotolabor">
   </div>
-  <em>Gallery / [Vergrößerer und Dunkelkammer](#)</em>
+  <em>Gallery / Vergrößerer und Dunkelkammer</em>
 </div>
 
 Zur Erläuterung einige der wesentlichen Komponenten und Materialien, die man für ein solches Heimfotolabor benötigte:
