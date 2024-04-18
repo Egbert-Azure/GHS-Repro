@@ -32,7 +32,7 @@ Eine zweite Kamera war eine 35mm-Filmkamera von Leica.
     <img src="/images/hasselblad1.jpg" loading="lazy" alt="Mittelformat">
     <img src="/images/hasselblad2.jpg" loading="lazy" alt="Mittelformat">
   </div>
-  <em>Gallery / [Hasselblad & Rollei mit typischem Rollfilm](#)</em>
+  <em>Gallery / Hasselblad & Rollei mit typischem Rollfilm</em>
 </div>
 
 Der Einstieg in die Welt der Fotografie begann für uns mit der Herstellung von Fotogrammen. Diese erste Berührung mit Fotopapier und Entwicklerflüssigkeiten diente nicht nur dazu, grundlegende technische Fähigkeiten zu erlernen, sondern auch das kreative Auge für Motivgestaltung zu schärfen. Von diesen ersten Schritten aus entwickelten wir unsere Fertigkeiten unter Anleitung von Herrn Bruns weiter und wagten uns bald an die spannende Aufgabe des Fotografierens selbst.
