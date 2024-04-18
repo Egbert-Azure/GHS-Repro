@@ -8,7 +8,7 @@ image: '/images/foto-ag.jpg'
 video_embed: 
 tags: [Geschichten, Erinnerungen, Zeitgeist]
 tags_color: '#4c49cb'
-featured: true
+featured: false
 ---
 
 <small>Photo by [Shannia Christanty](https://unsplash.com/@shanniacy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-film-strip-with-a-building-in-the-background-VLcR2YhFHN8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small>

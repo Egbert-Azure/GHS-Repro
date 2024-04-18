@@ -8,7 +8,7 @@ image: '/images/Berlin Ostern 1988.jpg' # Add image post (optional)
 video_embed:
 tags: [Geschichten, Erinnerungen, Abschlussfahrt]
 tags_color: '#4c49cb'
-featured: true
+featured: false
 ---
 <div style="text-align: center;">
   <small>Titelbild E. Schroeer, 1988</small>

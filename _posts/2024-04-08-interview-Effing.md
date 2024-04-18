@@ -7,6 +7,7 @@ image: # Add image post (optional)
 video_embed:
 tags: [Interview, Sport, Effing, Geschichten]
 tags_color: '#835F46'
+featured: false
 ---
 
 Der Hintergrund zu diesem Interview ist nicht bekannt. Es muss in den 70er Jahren gemacht worden sein. Zu der Zeit gab es ein Schulprojekt, bei dem Schüler zu verschiedenen Themen Interviews machten. Dies könnte eines davon gewesen sein.

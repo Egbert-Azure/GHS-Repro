@@ -7,7 +7,7 @@ description: Zu Besuch in Ernée
 image: '/images/Neues_files/malo.jpg' # Add image post (optional)
 tags: [Partnerschaften, Auslandskontakt]
 tags_color: '#835F46'
-featured: true
+featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@tobiastu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tobias Tullius</a> on <a href="https://unsplash.com/photos/white-castle-front-of-trees-at-daytime-uSQPYNvanKA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   
