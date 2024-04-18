@@ -13,7 +13,7 @@ featured: false
 <small>Photo by <a href="https://unsplash.com/@octadan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Octavian Dan</a> on <a href="https://unsplash.com/photos/projects-text-on-pink-and-orange-b21Ty33CqVs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
- Die Verlinkung zu den Projekten mit Details und Bildern konnte nicht widerhergestellt werden</small>
+<small>Die Verlinkung zu den Projekten mit Details und Bildern konnte nicht widerhergestellt werden</small>
 
 Bereits zum zweiten Mal haben die Schülerinnen und Schüler des 8. Jahrgangs einen ganzen Vormittag lang Projekte innerhalb ihrer Neigungsschwerpunkte (entspricht dem vierten Hauptfach) durchgeführt. In vier Gruppen (Französisch-, Sozialwissenschafts-, Naturwissenschafts- und Informatik-Kurs) wurden verschiedene Problemstellungen außerhalb der gewohnten Klassenstrukturen bearbeitet.
 
