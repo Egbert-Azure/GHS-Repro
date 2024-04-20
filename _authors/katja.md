@@ -8,4 +8,4 @@ website:
 twitter: 
 facebook: 
 ---
-Ehemalige Schülerin der GHS und Gründerin der GHS Facebook Group und Wegbereiterin zur Wiederbelebung dieser Website. Abschlussjahr 1987.
+Gründerin der GHS Facebook-Gruppe, Abschlussjahrgang 1987, Mitgründerin von Filmkultur am Niederrhein e. V. (nicht mehr aktiv), Mitgründerin von Krachgarten Kultur e. V. Wesel und zuständig für Socialmedia sowie Presse, liebt Musik auch von unbekannteren Bands, ihre Familie, ihre Katze, ihren Garten, interessiert an Kunst, Kultur, Büchern, Genealogie, Fotografieren.
