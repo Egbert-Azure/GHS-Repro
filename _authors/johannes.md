@@ -1,7 +1,7 @@
 ---
 username: johannes
 name: Johannes Götte
-image: '/images/katja.jpg'
+image: '/images/johannes.jpg'
 cover:
 location: Deutschland
 website: 
