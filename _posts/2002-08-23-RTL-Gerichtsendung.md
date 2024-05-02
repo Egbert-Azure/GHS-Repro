@@ -4,12 +4,14 @@ title: Dr. Ruth Hertz - RTL
 author: andreas
 date: 2002-08-23
 description: Die Klasse 9b in der Gerichtssendung
-image: '/images/Neues_files/notes.jpg' # Add image post (optional)
+image: '/images/Neues_files/tv.jpg' # Add image post (optional)
 video_embed:
 tags: [Neuigkeiten]
 tags_color: '#b25642'
 featured: false
 ---
+<small>Photo by <a href="https://unsplash.com/@sammcghee?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sam McGhee</a> on <a href="https://unsplash.com/photos/person-sitting-in-front-bookshelf-KieCLNzKoBo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+  
 
 Richter Gnadenlos Dennis und Protokollführer Patrick
 
