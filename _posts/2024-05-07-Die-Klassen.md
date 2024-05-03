@@ -15,7 +15,7 @@ featured: false
 Nicht nur die Schliessung seit 2016 beschäftigt die Ehemaligen der Gerhart-Hauptmann-Schule, sonder auch der geplante Abriss.
 Wie einige andere Ehemalige auch habe ich versucht bei einem letzten Rundgang in 2016 einiges zu dokumentieren.
 
-Dieser Blog zeigt die Gebäude.
+Dieser Blog zeigt die Gebäude und einen Teil der Aussenanlagen.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
