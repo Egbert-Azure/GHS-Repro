@@ -5,7 +5,7 @@ date: 2024-05-03
 author: katja
 description: Teil 1 - Die Gebäude - ein virtueller Rundgang während der Verabschiedung
 image: '/images/ghs-bild.jpg' # Add image post (optional)
-tags: [Schließung, Verabschiedung, Erinnerungen]
+tags: [Schließung, Rundgang, Erinnerungen]
 tags_color: '#835F46'
 featured: false
 ---
@@ -22,7 +22,7 @@ Dieser Blog zeigt die Gebäude.
     <img src="/images/fb_ghs_gebaeude_02_07_16/maedchentoilette1.jpg" loading="lazy" alt="Maedchentoilette">
     <img src="/images/fb_ghs_gebaeude_02_07_16/schulhof_ueberblick1.jpg" loading="lazy" alt="Schulhof">
     <img src="/images/fb_ghs_gebaeude_02_07_16/schulhof_ueberblick2.jpg" loading="lazy" alt="Schulhof">
-    <img src="/images/fb_ghs_gebaeude_02_07_16/Sportplatz.jpg" loading="lazy" alt="Sportplatz">
+    <img src="/images/fb_ghs_gebaeude_02_07_16/sportplatz1.jpg" loading="lazy" alt="Sportplatz">
     <img src="/images/fb_ghs_gebaeude_02_07_16/tanne1.jpg" loading="lazy" alt="Tanne">
     <img src="/images/fb_ghs_gebaeude_02_07_16/tanne2.jpg" loading="lazy" alt="Tanne">
     <img src="/images/fb_ghs_gebaeude_02_07_16/trakt_klassenraeume_hinten1.jpg" loading="lazy" alt="Hinten">
@@ -32,7 +32,7 @@ Dieser Blog zeigt die Gebäude.
     <img src="/images/fb_ghs_gebaeude_02_07_16/trakt_klassenraeume1.jpg" loading="lazy" alt="Klassenraum">
     <img src="/images/fb_ghs_gebaeude_02_07_16/trakt_klassenraeume2.jpg" loading="lazy" alt="Klassenraum">
     <img src="/images/fb_ghs_gebaeude_02_07_16/trakt_klassenraeume3.jpg" loading="lazy" alt="Klassenraum">
-    <img src="/images/fb_ghs_gebaeude_02_07_16/turnhalle.jpg" loading="lazy" alt="Turnhalle">
+    <img src="/images/fb_ghs_gebaeude_02_07_16/turnhalle1.jpg" loading="lazy" alt="Turnhalle">
     <img src="/images/fb_ghs_gebaeude_02_07_16/verwaltungstrakt_atrium1.jpg" loading="lazy" alt="Verwaltung">
     <img src="/images/fb_ghs_gebaeude_02_07_16/verwaltungstrakt_chemieraum1.jpg" loading="lazy" alt="Chemieraum">
     <img src="/images/fb_ghs_gebaeude_02_07_16/verwaltungstrakt_lehrerzimmer1.jpg" loading="lazy" alt="Lehrerzimmer">
