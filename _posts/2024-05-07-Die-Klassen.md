@@ -25,6 +25,8 @@ Dieser Blog zeigt die Gebäude und einen Teil der Aussenanlagen.
     <img src="/images/fb_ghs_gebaeude_02_07_16/schulhof_ueberblick1.jpg" loading="lazy" alt="Schulhof">
     <img src="/images/fb_ghs_gebaeude_02_07_16/schulhof_ueberblick2.jpg" loading="lazy" alt="Schulhof">
     <img src="/images/fb_ghs_gebaeude_02_07_16/sportplatz1.jpg" loading="lazy" alt="Sportplatz">
+    <img src="/images/fb_ghs_gebaeude_02_07_16/sportplatz2.jpg" loading="lazy" alt="Sportplatz">
+    <img src="/images/fb_ghs_gebaeude_02_07_16/sportplatz3.jpg" loading="lazy" alt="Sportplatz">
     <img src="/images/fb_ghs_gebaeude_02_07_16/tanne1.jpg" loading="lazy" alt="Tanne">
     <img src="/images/fb_ghs_gebaeude_02_07_16/tanne2.jpg" loading="lazy" alt="Tanne">
     <img src="/images/fb_ghs_gebaeude_02_07_16/trakt_klassenraeume_hinten1.jpg" loading="lazy" alt="Hinten">
