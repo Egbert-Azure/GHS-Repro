@@ -4,12 +4,12 @@ title: Ein letzter Rundgang - Die Gebäude
 date: 2024-05-03
 author: katja
 description: Teil 1 - Die Gebäude - ein virtueller Rundgang während der Verabschiedung
-image: '/images/klassenraum.jpg' # Add image post (optional)
+image: '/images/b_ghs_gebaeude_02_07_16/title.jpeg' # Add image post (optional)
 tags: [Schließung, Rundgang]
 tags_color: '#835F46'
 featured: false
 ---
-<small>Photo by <a href="https://unsplash.com/@ivalex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ivan Aleksic</a> on <a href="https://unsplash.com/photos/brown-wooden-table-and-chairs-PDRFeeDniCk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+<small>Photo by Katja Neumann</small>
   
 Nicht nur die Schliessung seit 2016 beschäftigt die Ehemaligen der Gerhart-Hauptmann-Schule, sonder auch der geplante Abriss.
 Wie einige andere Ehemalige auch habe ich versucht bei einem letzten Rundgang in 2016 einiges zu dokumentieren.
