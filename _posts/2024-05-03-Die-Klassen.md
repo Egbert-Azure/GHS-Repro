@@ -11,7 +11,6 @@ featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@ivalex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ivan Aleksic</a> on <a href="https://unsplash.com/photos/brown-wooden-table-and-chairs-PDRFeeDniCk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   
-
 Nicht nur die Schliessung seit 2016 beschäftigt die Ehemaligen der Gerhart-Hauptmann-Schule, sonder auch der geplante Abriss.
 Wie einige andere Ehemalige auch habe ich versucht bei einem letzten Rundgang in 2016 einiges zu dokumentieren.
 
