@@ -1,5 +1,5 @@
 ---
-username: andreas
+username: jane
 name: Jane Bunzeck
 description: Abschlussjahr 1998
 image: '/images/dummy-woma.jpg' # Add image post (optional)
