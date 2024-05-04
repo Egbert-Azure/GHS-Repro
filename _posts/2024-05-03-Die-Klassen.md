@@ -4,7 +4,7 @@ title: Ein letzter Rundgang - Die Gebäude
 date: 2024-05-03
 author: katja
 description: Teil 1 - Die Gebäude - ein virtueller Rundgang während der Verabschiedung
-image: '/images/b_ghs_gebaeude_02_07_16/title.jpeg' # Add image post (optional)
+image: '/images/b_ghs_gebaeude_02_07_16/gebaeude-art.jpeg' # Add image post (optional)
 tags: [Schließung, Rundgang]
 tags_color: '#835F46'
 featured: false
