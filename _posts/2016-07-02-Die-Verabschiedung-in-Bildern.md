@@ -5,7 +5,7 @@ date: 2016-05-12
 author: katja
 description: Verabschiedung anlässlich der Schließung der GHS
 image: '/images/ghs-bild.jpg' # Add image post (optional)
-tags: [Schließung, Verabschiedung, Erinnerungen, Geschichten]
+tags: [Schließung, Verabschiedung, Geschichten]
 tags_color: '#835F46'
 featured: false
 ---
