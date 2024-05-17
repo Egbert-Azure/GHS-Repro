@@ -53,4 +53,3 @@ Dieser Blog zeigt die Klassen und ist der zweite Teil.
   <em>Gallery / <a target="_blank">Fotos: Katja Neumann</a></em>
 </div>
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support the Page on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee, which will be donated to Revived Soldiers of Ukraine! Thank you!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
