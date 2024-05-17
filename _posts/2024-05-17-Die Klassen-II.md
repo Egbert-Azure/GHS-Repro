@@ -31,7 +31,11 @@ Dieser Blog zeigt die Klassen und ist der zweite Teil.
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum9.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum10.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum11.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum12.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum13.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum14.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/chemieraum1.jpg" loading="lazy" alt="Chemieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/chemieraum2.jpg" loading="lazy" alt="Chemieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1ab.jpg" loading="lazy" alt="Flur">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1d.jpg" loading="lazy" alt="Flur">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1h.jpg" loading="lazy" alt="Flur">
