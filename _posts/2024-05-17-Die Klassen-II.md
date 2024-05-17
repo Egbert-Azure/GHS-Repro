@@ -41,6 +41,7 @@ Dieser Blog zeigt die Klassen und ist der zweite Teil.
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum17.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/chemieraum1.jpg" loading="lazy" alt="Chemieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/chemieraum2.jpg" loading="lazy" alt="Chemieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/chemieraum3.jpg" loading="lazy" alt="Chemieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1ab.jpg" loading="lazy" alt="Flur">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1d.jpg" loading="lazy" alt="Flur">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1h.jpg" loading="lazy" alt="Flur">
