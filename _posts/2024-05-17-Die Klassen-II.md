@@ -21,6 +21,8 @@ Dieser Blog zeigt die Klassen und ist der zweite Teil.
 <img src="/images/fb_ghs_raeume_02_07_16/anbau1.jpg" loading="lazy" alt="Anbau">
 <img src="/images/fb_ghs_raeume_02_07_16/anbau2.jpg" loading="lazy" alt="Anbau">
 <img src="/images/fb_ghs_raeume_02_07_16/aula1.jpg" loading="lazy" alt="Aula">
+<img src="/images/fb_ghs_raeume_02_07_16/aula2.jpg" loading="lazy" alt="Aula">
+<img src="/images/fb_ghs_raeume_02_07_16/aula3.jpg" loading="lazy" alt="Aula">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum1.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum3.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum4.jpg" loading="lazy" alt="Biologieraum">
@@ -34,6 +36,9 @@ Dieser Blog zeigt die Klassen und ist der zweite Teil.
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum12.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum13.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/biologieraum14.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum15.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum16.jpg" loading="lazy" alt="Biologieraum">
+<img src="/images/fb_ghs_raeume_02_07_16/biologieraum17.jpg" loading="lazy" alt="Biologieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/chemieraum1.jpg" loading="lazy" alt="Chemieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/chemieraum2.jpg" loading="lazy" alt="Chemieraum">
 <img src="/images/fb_ghs_raeume_02_07_16/flur1ab.jpg" loading="lazy" alt="Flur">
