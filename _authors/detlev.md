@@ -1,6 +1,6 @@
 ---
-username: detlef
-name: Detlef Stoffel
+username: detlev
+name: Detlev Stoffel
 image: '/images/detlef.jpg' # Add image post (optional)
 cover:
 location: Deutschland
