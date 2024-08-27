@@ -12,7 +12,7 @@ featured: false
 <small> Text scan von Johannes Götte</small>
 
 Bei der Dursicht alter Zeitungen über unsere Schule und auf der Suche nach historischem, bin ich im Heimatkalender von 1969 fündig geworden.
-Der Artikel vom ehemaligen Direktor der Schule - Max Kuon - spiegelt sein Engagement für die Schule und den Namenspatron wieder.
+Der Artikel vom ehemaligen Direktor der Schule - Max Kuon - spiegelt sein Engagement für die Schule und den Namenspatron wieder. Max Kuon konnte trefflich über Gerhart Hauptmann referieren und lies dazu auch keine Gelegenheit aus.
 
 # D i r e k t o r  M a x  K u o n
 
