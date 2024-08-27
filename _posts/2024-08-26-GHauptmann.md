@@ -4,7 +4,7 @@ title: Gerhart-Hauptmann der Namenspatron der Schule
 date: 2024-08-26
 author: johannes
 description: Max Kuon, der Direktor der Gerhart Hauptmann Schule, schrieb 1969 für den Heimatkalender über Namenspatron der städtische Realschule für Jungen
-image: '/images/Wer war Gerhart Hauptmann__files/heimatkalender69.jpg' # Add image post (optional)
+image: '/images/Wer war Gerhart Hauptmann__files/heimatkalender1969.jpg' # Add image post (optional)
 tags: [Schulgeschichte, Geschichten, Heimatkalender]
 tags_color: '#835F46'
 featured: false
@@ -20,6 +20,6 @@ Der Artikel vom ehemaligen Direktor der Schule - Max Kuon - spiegelt sein Engage
 
 <img src="/images/Wer war Gerhart Hauptmann__files/HKL 1969 S_097.jpg" loading="lazy" alt="Artikel">
 <img src="/images/Wer war Gerhart Hauptmann__files/HKL 1969 S_098.jpg" loading="lazy" alt="Artikel">
-<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1968 S_099.jpg" loading="lazy" alt="Artikel">
-<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1968 S_100.jpg" loading="lazy" alt="Artikel">
-<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1968 S_101.jpg" loading="lazy" alt="Artikel">
+<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1969 S_099.jpg" loading="lazy" alt="Artikel">
+<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1969 S_100.jpg" loading="lazy" alt="Artikel">
+<img src="/images/Wer war Gerhart Hauptmann__files/HKL 1969 S_101.jpg" loading="lazy" alt="Artikel">
