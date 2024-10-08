@@ -10,7 +10,6 @@ tags: [Geschichten, Erinnerungen, Zeitgeist]
 tags_color: '#4c49cb'
 featured: false
 ---
-<video controls src="../videos/2024-10-07 GHS Turnhalle.mp4" title="Title"></video>
 
 Am 5. Oktober hielt ich ein letztes Mal an der Gerhart Hauptmann Realschule, einem Ort, der Generationen geprägt hat. Ihre Turnhalle, einst der Stolz des Ruhrgebiets, war weit mehr als nur eine Sportstätte. Als sie 1969 eingeweiht wurde, galt sie als die modernste ihrer Art, ein Symbol für Innovation und Fortschritt. Diese sogenannte Multifunktionshalle konnte durch eine Trennwand, die von der Decke herabgelassen wurde, in eine große und eine kleinere Halle unterteilt werden.
 
