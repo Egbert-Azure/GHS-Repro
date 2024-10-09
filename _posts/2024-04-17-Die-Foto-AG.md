@@ -89,7 +89,8 @@ Wir zogen los mit den Schulkameras oder mit der eigenen. Ich selbst hatte zur Ko
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <img src="/images/kodakinstamatic.jpg" loading="lazy" alt="Kamera">
-    <img src="/images/zeiss-ikon.jpeg" loading="lazy" alt="Kamera" style="width: 50%;">
+    <img src="/images/zeiss-ikon-Ikonta.jpeg" loading="lazy" alt="Kamera" style="width: 50%;">
+    <img src="/images/Voigtlaender.jpg" loading="lazy" alt="Kamera" style="width: 50%;">
   </div>
   <em>Gallery / Erste Kameras</em>
 </div>
