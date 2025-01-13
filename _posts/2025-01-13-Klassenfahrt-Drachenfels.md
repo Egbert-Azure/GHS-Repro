@@ -18,6 +18,8 @@ Die Fahrt war mit einem Unkostenbeitrag von 10 DM pro Schüler verbunden, zusät
 Der Tag begann früh mit einer Busfahrt, organisiert vom Reiseunternehmen Hortlik, das damals häufig von der Gerhart Hauptmann Realschule für Jungen gebucht wurde. Frau Brüggemann begleitete uns mit viel Engagement, und die Stimmung war ausgelassen, als wir mit der Fähre „Drachenfels“ den Rhein überquerten.
 
 Auf der Überfahrt schoss ich ein besonderes Foto: Herr Glackemeyer und Frau Brüggemann, beide mit stilvollen Sonnenbrillen, im Hintergrund unsere Schulkameraden Ehlert, Stoll, Lampe und Schmitt. Es war einer dieser Momente, die die Zeit stillstehen lassen, eingefangen in Schwarz-Weiß.
+Und Herr Glackemeyer mit seiner unvermeidlichen Aktentasche. Ich habe zwar keine Ahnung wofür er sie bei einem Schulausflug brauchte, aber sie war sein ständiger Begleiter.
+
 
 <img src="/images/drachenfels/IMG_148.JPG" loading="lazy" alt="Glackemeyer">
 
