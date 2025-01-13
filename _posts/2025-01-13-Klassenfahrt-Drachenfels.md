@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ein Sommertag auf Klassenfahrt - Drachenfels und Düsseldorfer Flughafen
+title: Klassenfahrt zum Drachenfels
 author: egbert
 date: 2025-01-13
 description: Erinnerungen an eine Klassenfahrt im Jahr 1970, geprägt von Rheinromantik, alten Ruinen und den Abenteuern eines warmen Sommertages.
@@ -34,8 +34,7 @@ Diese Klassenfahrt bleibt mir als ein Tag in Erinnerung, an dem wir nicht nur Se
     <img src="/images/drachenfels/IMG_1487.JPG" loading="lazy" alt="Fahrt zum Drachenfels">
     <img src="/images/drachenfels/IMG_1488.JPG" loading="lazy" alt="Fahrt zum Drachenfels">
     <img src="/images/drachenfels/IMG_1489.JPG" loading="lazy" alt="Fahrt zum Drachenfels">
-    <img src="/images/drachenfels/IMG_1490.JPG" loading="lazy" alt="Flughafen">
-    <img src="/images/drachenfels/IMG_1491.JPG" loading="lazy" alt="Flughafen">        
+    <img src="/images/drachenfels/IMG_1490.JPG" loading="lazy" alt="Flughafen">    
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
 </div>
