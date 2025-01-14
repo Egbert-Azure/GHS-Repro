@@ -1,15 +1,18 @@
 ---
 layout: post
 title: Die Partnerschaft zwischen der Gerhart-Hauptmann-Realschule und Crawley
-author: dein-name
+author: egbert
 date: 2025-01-14
 description: Die Geschichte der Schulpartnerschaft zwischen der Gerhart-Hauptmann-Realschule in Dorsten und der Thomas-Bennett-School in Crawley, England.
-image: '/images/partnerschaft/gerhart-hauptmann-realschule-crawley.jpg'
+image: '/images/crawley/tbschool.jpg'
 video_embed: 
 tags: [Partnerschaft, Geschichte, Klassenfahrt]
 tags_color: '#4c49cb'
 featured: false
 ---
+
+<small> Foto Michael of Crawley </small>
+
 
 ## Die Partnerschaft zwischen der Gerhart-Hauptmann-Realschule und Crawley
 
@@ -29,26 +32,47 @@ Anfang 1974 berichtete Hans Fabian, damals Vorsitzender des Freundeskreises Craw
 
 Im März 1974 besuchten 39 Schüler und drei Lehrer der Thomas-Bennett-School aus Crawley Dorsten. Dabei nahmen sie zwei Tage am Unterricht der Gerhart-Hauptmann-Realschule teil. Die englischen Schüler waren in Privathaushalten untergebracht, um den Austausch zu intensivieren. Bereits im Juni 1974 reisten Schüler aus Dorsten zum Gegenbesuch nach Crawley. Insgesamt nahmen vier Klassen an dem Austausch teil.
 
+Im Jahr 1974 wurde das Thomas Bennett Community College in Crawley einer bedeutenden Reorganisation unterzogen. Die Schule wurde zu einer Oberstufe für Schüler im Alter von 12 bis 18 Jahren umstrukturiert. Dies bedeutete, dass frühere Erstklässler ein zusätzliches Jahr in den Primarschulen verblieben.
+
 ### Erste Austausch-Erfahrungen – Schüler der Thomas-Bennett-School besuchen die Gerhart-Hauptmann-Realschule für Jungen
 
 Ein besonderer Aspekt des Austauschs waren die privaten Unterkünfte der Schüler. Bei mir wohnte Peter Leare, während sein Bruder Paul Leare bei Karl-Heinz Mast untergebracht war. Diese persönlichen Begegnungen legten den Grundstein für viele erste internationale Freundschaften und Bekannschaften.
 
 Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss Lembeck und zur Stadtbesichtigung. Peter und ich entdeckten unsere gemeinsame Leidenschaft fürs Angeln, auch wenn wir nur mäßigen Erfolg hatten. Ein Highlight war der Besuch der Diskothek im Jugendheim St. Josef, einem damals beliebten Jugend-Szenentreffpunkt. Weitere Aktivitäten führten uns nach Wulfen, wo wir ebenfalls die Jugend-Diskothek besuchten.
 
-Unsere Klassenlehrerin Frau Erika Dickhoefer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". 
+Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". 
 Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-    <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-    <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-    <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-    <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
-    <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">    
+    <figure>
+      <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
+      <figcaption>in der Mitte Fr.Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, danaben Direktor Max Kuon </figcaption>
+    </figure>
+    <figure>
+      <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <figcaption>Karl-Heinz Mast mit Gästen</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
+      <figcaption>Ausflug zum Schloss Lembeck</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <figcaption>Besuch der Jugend-Diskothek St. Josef</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
+      <figcaption>Angeln an einem lokalen Gewässer</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <figcaption>Gruppenbild bei einem Ausflug</figcaption>
+    </figure>
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
 </div>
+
 
 ### Fazit
 
