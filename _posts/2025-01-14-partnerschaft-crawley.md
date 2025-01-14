@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Die Partnerschaft zwischen der Gerhart-Hauptmann-Realschule und Crawley
+title: Schüleraustausch März 1974
 author: egbert
 date: 2025-01-14
 description: Die Geschichte der Schulpartnerschaft zwischen der Gerhart-Hauptmann-Realschule in Dorsten und der Thomas-Bennett-School in Crawley, England.
 image: '/images/crawley/tbschool.jpg'
 video_embed: 
-tags: [Partnerschaft, Geschichte, Klassenfahrt]
+tags: [Partnerschaft, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
 ---
@@ -47,31 +47,32 @@ Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
   <div class="gallery gallery--post">
     <figure>
       <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption><small>in der Mitte Fr.Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, danaben Direktor Max Kuon </small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>in der Mitte Fr. Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, daneben Direktor Max Kuon</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption><small>Peter @ Schloss Lembeck</small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Peter @ Schloss Lembeck</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption>Ausflug Stadt Dorsten</figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Ausflug Stadt Dorsten</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption><small>Abreise (v.L.) Andreas Kieslcih, Peter Leare, K-H Mast, Paul Leare, N.N.</small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise (v.L.) Andreas Kieslich, Peter Leare, K-H Mast, Paul Leare, N.N.</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption><small>Abreise - der Bus aus Crawley</small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise - der Bus aus Crawley</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption><small>Gruppenbild bei Abreise</small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Gruppenbild bei Abreise</small></figcaption>
     </figure>
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
 </div>
+
 
 
 ### Fazit
