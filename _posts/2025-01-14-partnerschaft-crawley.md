@@ -47,27 +47,27 @@ Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
   <div class="gallery gallery--post">
     <figure>
       <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption>in der Mitte Fr.Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, danaben Direktor Max Kuon </figcaption>
+      <figcaption><small>in der Mitte Fr.Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, danaben Direktor Max Kuon </small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption>Karl-Heinz Mast mit Gästen</figcaption>
+      <figcaption><small>Peter @ Schloss Lembeck</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption>Ausflug zum Schloss Lembeck</figcaption>
+      <figcaption>Ausflug Stadt Dorsten</figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption>Besuch der Jugend-Diskothek St. Josef</figcaption>
+      <figcaption><small>Abreise (v.L.) Andreas Kieslcih, Peter Leare, K-H Mast, Paul Leare, N.N.</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption>Angeln an einem lokalen Gewässer</figcaption>
+      <figcaption><small>Abreise - der Bus aus Crawley</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption>Gruppenbild bei einem Ausflug</figcaption>
+      <figcaption><small>Gruppenbild bei Abreise</small></figcaption>
     </figure>
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
