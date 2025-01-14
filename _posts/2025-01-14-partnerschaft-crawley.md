@@ -40,7 +40,7 @@ Ein besonderer Aspekt des Austauschs waren die privaten Unterkünfte der Schüle
 
 Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss Lembeck und zur Stadtbesichtigung. Peter und ich entdeckten unsere gemeinsame Leidenschaft fürs Angeln, auch wenn wir nur mäßigen Erfolg hatten. Ein Highlight war der Besuch der Diskothek im Jugendheim St. Josef, einem damals beliebten Jugend-Szenentreffpunkt. Weitere Aktivitäten führten uns nach Wulfen, wo wir ebenfalls die Jugend-Diskothek besuchten.
 
-Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". 
+Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
 Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
 
 <div class="gallery-box">
