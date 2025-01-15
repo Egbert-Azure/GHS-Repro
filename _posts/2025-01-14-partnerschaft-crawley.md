@@ -39,9 +39,49 @@ Im Jahr 1974 wurde das Thomas Bennett Community College in Crawley einer bedeute
 Ein besonderer Aspekt des Austauschs waren die privaten Unterkünfte der Schüler. Bei mir wohnte Peter Leare, während sein Bruder Paul Leare bei Karl-Heinz Mast untergebracht war. Diese persönlichen Begegnungen legten den Grundstein für viele erste internationale Freundschaften und Bekannschaften.
 
 Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss Lembeck und zur Stadtbesichtigung. Peter und ich entdeckten unsere gemeinsame Leidenschaft fürs Angeln, auch wenn wir nur mäßigen Erfolg hatten. Ein Highlight war der Besuch der Diskothek im Jugendheim St. Josef, einem damals beliebten Jugend-Szenentreffpunkt. Weitere Aktivitäten führten uns nach Wulfen, wo wir ebenfalls die Jugend-Diskothek besuchten.
+Die Diskotheken waren durchaus ein Highlight und unsere neuen englsichen Freunde waren ziemlich erstaunt, dass man sowohl Bier als auch Zigaretten mit 16 Jahren in Deutschland bekommt.
+Wie wir im nächsten Blog über den Gegenbesuch sehen werden ein Unding in England. Hinzu kam die Stärke des deutschen Bieres und die Trinktemperatur.
+Die Ergebnisse am anderen Tag war eine durchaus als *Kontentrationsschwäche* zu sehende geringere Aufmerksamkeit im Unterricht der nichtsahnenden Fr. Dickhöfer.
+Mit von der Partie auf unseren Disko Touren war natürlich unser näherer Freundeskreis, wie z.b. Alfred Lietz, sein Bruder Matthias, Norbert Bogatzki.
+Die Anziehungskraft der Engländer auf die Damenwelt war durchaus willkommen.
+Und noch etwas: der Tanzstil war völlig anders.
+
+Die Verwunderung bei alltäglichen Dingen wie z.B. ein Brötchen mit Wurst oder Käse zu belegen oder mit Marmelade zu bestreichen. 
+Und dann etwas was Direktor Kuon noch in einer kleinen Ansprache erwaehnen sollte und fuer ein "yeah, true" und bei uns "ach soooo" in der Zuhoererschaft sorgte.
+Deutsche Betten. Tja die trivialen Dinge des Lebens.
+Der Unterschied bei Bettwäsche zwischen England und Deutschland liegt vor allem in der Art, wie die Betten gemacht werden und wie die Bettdecken genutzt werden.
+Das war fuer die Jungs kompliziert und ungewohnt.
+
+Betrachten wir das mal aus der humoristisch wissenschaftlichen Sicht:
+
+## Verblüffung eines Engländers in Deutschland
+
+Ein Besuch in Deutschland könnte für einen Engländer so manche Überraschung bereithalten – vor allem im Schlafzimmer!
+
+### Separate Bettdecken  
+„Was, jeder hat seine eigene Decke?!“ könnte der erste Gedanke eines Engländers sein. Während in England oft heldenhaft um eine gemeinsame Bettdecke gekämpft wird (wer zieht stärker?), herrscht in Deutschland Frieden: Jeder hat seine eigene Decke. Keine nächtlichen Schlachten, kein Deckenklau – nur deutsche Effizienz!
+Ob das bei diesem Besuch zutraf, kann ich nicht sagen und selbst wenn "what happens in Vegas stays in Vegas".
+
+### Quadratische Kopfkissen  
+Deutsche Kissen sind nicht nur groß, sie sind auch quadratisch. Für Engländer, die kleinere, rechteckige Kissen gewohnt sind, wirkt das wie eine Einladung zu einem Kissenschlachtfinale in Übergröße.
+
+### Kein Top Sheet  
+Wo ist das Laken unter der Decke? In England ist das „Top Sheet“ ein fester Bestandteil des Betts – als zusätzliche Barriere zur Sauberkeit und manchmal auch als Mini-Sauna in heißen Nächten. In Deutschland hingegen gilt: Eine Bettdecke reicht. Minimalismus oder praktischer Pragmatismus? Entscheide selbst!
+
+### Bettdecken-Wechsel  
+Der deutsche Ansatz, die Bettdecke regelmäßig komplett in einen neuen Bezug zu stecken, wirkt auf Engländer wie ein unnötig komplizierter Fitnesskurs. In England wird oft nur das flache Laken gewaschen – das Duvet bleibt unberührt, fast wie ein Heiligtum.
+
+### Temperaturdebatten
+Deutsche Bettdecken sind oft dicker und wärmer – ein potenzieller Schock für Engländer, die es gewohnt sind, mehrere Schichten anzulegen oder sogar in der „Frostschutz-Modus“-Schicht zu schlafen.
+
+Die Erkenntnis, das es saisonale Decken-Wechsel in Deutschland gibt (Wechsel zwischen Sommer- und Winterdecken) war ein Beleg für die deutsche Perfektion im Allgemeinen und in Schlaffragen im Besonderen.
+
+Wie gesagt, Kuon hatte mit seinen Ausführungen die Lacher auf seiner Seite.
+
+Zurueck in die Schule. An zwei Tagen sollte voellig normaler Unterricht - allerdings alles in Englsich- sein.
 
 Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
-Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
+Frau Dickhöfer war langjähriges Mitglied im Freundeskreis Crawley.
 
 Zum Anbschied habe ich Peter mein Shirt geschenkt. Das fand er ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
 Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer noch in.
