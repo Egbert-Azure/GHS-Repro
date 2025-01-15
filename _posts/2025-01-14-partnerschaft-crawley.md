@@ -41,7 +41,7 @@ Ein besonderer Aspekt des Austauschs waren die privaten Unterkünfte der Schüle
 Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss Lembeck und zur Stadtbesichtigung. Peter und ich entdeckten unsere gemeinsame Leidenschaft fürs Angeln, auch wenn wir nur mäßigen Erfolg hatten. Ein Highlight war der Besuch der Diskothek im Jugendheim St. Josef, einem damals beliebten Jugend-Szenentreffpunkt. Weitere Aktivitäten führten uns nach Wulfen, wo wir ebenfalls die Jugend-Diskothek besuchten.
 Die Diskotheken waren durchaus ein Highlight und unsere neuen englsichen Freunde waren ziemlich erstaunt, dass man sowohl Bier als auch Zigaretten mit 16 Jahren in Deutschland bekommt.
 Wie wir im nächsten Blog über den Gegenbesuch sehen werden ein Unding in England. Hinzu kam die Stärke des deutschen Bieres und die Trinktemperatur.
-Die Ergebnisse am anderen Tag war eine durchaus als *Kontentrationsschwäche* zu sehende geringere Aufmerksamkeit im Unterricht der nichtsahnenden Fr. Dickhöfer.
+Die Ergebnisse am anderen Tag war eine durchaus als *Konzentrationsschwäche* zu sehende geringere Aufmerksamkeit im Unterricht der nichtsahnenden Fr. Dickhöfer.
 Mit von der Partie auf unseren Disko Touren war natürlich unser näherer Freundeskreis, wie z.b. Alfred Lietz, sein Bruder Matthias, Norbert Bogatzki.
 Die Anziehungskraft der Engländer auf die Damenwelt war durchaus willkommen.
 Und noch etwas: der Tanzstil war völlig anders.
