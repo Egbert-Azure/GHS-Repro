@@ -77,9 +77,9 @@ Die Erkenntnis, das es saisonale Decken-Wechsel in Deutschland gibt (Wechsel zwi
 
 Wie gesagt, Kuon hatte mit seinen Ausführungen die Lacher auf seiner Seite.
 
-Zurueck in die Schule. An zwei Tagen sollte voellig normaler Unterricht - allerdings alles in Englsich- sein.
+Zurück in die Schule. An zwei Tagen sollte völlig normaler Unterricht - allerdings alles in Englisch- sein.
 
-Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
+Unsere Klassenlehrerin Frau Erika Dickhöfer war um den normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
 Frau Dickhöfer war langjähriges Mitglied im Freundeskreis Crawley.
 
 Zum Anbschied habe ich Peter mein Shirt geschenkt. Das fand er ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
