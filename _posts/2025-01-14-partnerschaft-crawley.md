@@ -73,7 +73,6 @@ Der deutsche Ansatz, die Bettdecke regelmäßig komplett in einen neuen Bezug zu
 
 ### Temperaturdebatten
 Deutsche Bettdecken sind oft dicker und wärmer – ein potenzieller Schock für Engländer, die es gewohnt sind, mehrere Schichten anzulegen oder sogar in der „Frostschutz-Modus“-Schicht zu schlafen.
-
 Die Erkenntnis, das es saisonale Decken-Wechsel in Deutschland gibt (Wechsel zwischen Sommer- und Winterdecken) war ein Beleg für die deutsche Perfektion im Allgemeinen und in Schlaffragen im Besonderen.
 
 Wie gesagt, Kuon hatte mit seinen Ausführungen die Lacher auf seiner Seite.
