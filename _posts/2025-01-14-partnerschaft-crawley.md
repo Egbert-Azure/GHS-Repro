@@ -43,6 +43,9 @@ Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss 
 Unsere Klassenlehrerin Frau Erika Dickhöfer war um normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
 Frau Dicköfer war langjähriges Mitglied im Freundeskreis Crawley.
 
+Zum Anbschied habe ich Peter mein Shirt geschenkt. Das fand er ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
+Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer noch in.
+
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <figure>
