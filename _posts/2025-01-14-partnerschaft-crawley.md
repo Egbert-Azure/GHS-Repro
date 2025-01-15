@@ -54,24 +54,24 @@ Das war für die Jungs kompliziert und ungewohnt.
 
 Betrachten wir das mal aus der humoristisch wissenschaftlichen Sicht:
 
-## Verblüffung eines Engländers in Deutschland
+### Verblüffung eines Engländers in Deutschland
 
 Ein Besuch in Deutschland könnte für einen Engländer so manche Überraschung bereithalten – vor allem im Schlafzimmer!
 
-### Separate Bettdecken  
+#### Separate Bettdecken  
 „Was, jeder hat seine eigene Decke?!“ könnte der erste Gedanke eines Engländers sein. Während in England oft heldenhaft um eine gemeinsame Bettdecke gekämpft wird (wer zieht stärker?), herrscht in Deutschland Frieden: Jeder hat seine eigene Decke. Keine nächtlichen Schlachten, kein Deckenklau – nur deutsche Effizienz!
 Ob das bei diesem Besuch zutraf, kann ich nicht sagen und selbst wenn "what happens in Vegas stays in Vegas".
 
-### Quadratische Kopfkissen  
+#### Quadratische Kopfkissen  
 Deutsche Kissen sind nicht nur groß, sie sind auch quadratisch. Für Engländer, die kleinere, rechteckige Kissen gewohnt sind, wirkt das wie eine Einladung zu einem Kissenschlachtfinale in Übergröße.
 
-### Kein Top Sheet  
+#### Kein Top Sheet  
 Wo ist das Laken unter der Decke? In England ist das „Top Sheet“ ein fester Bestandteil des Betts – als zusätzliche Barriere zur Sauberkeit und manchmal auch als Mini-Sauna in heißen Nächten. In Deutschland hingegen gilt: Eine Bettdecke reicht. Minimalismus oder praktischer Pragmatismus? Entscheide selbst!
 
-### Bettdecken-Wechsel  
+#### Bettdecken-Wechsel  
 Der deutsche Ansatz, die Bettdecke regelmäßig komplett in einen neuen Bezug zu stecken, wirkt auf Engländer wie ein unnötig komplizierter Fitnesskurs. In England wird oft nur das flache Laken gewaschen – das Duvet bleibt unberührt, fast wie ein Heiligtum.
 
-### Temperaturdebatten
+#### Temperaturdebatten
 Deutsche Bettdecken sind oft dicker und wärmer – ein potenzieller Schock für Engländer, die es gewohnt sind, mehrere Schichten anzulegen oder sogar in der „Frostschutz-Modus“-Schicht zu schlafen.
 Die Erkenntnis, das es saisonale Decken-Wechsel in Deutschland gibt (Wechsel zwischen Sommer- und Winterdecken) war ein Beleg für die deutsche Perfektion im Allgemeinen und in Schlaffragen im Besonderen.
 
@@ -82,7 +82,7 @@ Zurück in die Schule. An zwei Tagen sollte völlig normaler Unterricht - allerd
 Unsere Klassenlehrerin Frau Erika Dickhöfer war um den normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
 Frau Dickhöfer war langjähriges Mitglied im Freundeskreis Crawley.
 
-Zum Anbschied habe ich Peter mein Shirt geschenkt. Das fand er ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
+Zum Anbschied habe ich Peter mein (hellblaues) Shirt geschenkt. Der fand das Shirt ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
 Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer noch in.
 
 <div class="gallery-box">
