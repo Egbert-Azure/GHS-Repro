@@ -47,10 +47,10 @@ Die Anziehungskraft der Engländer auf die Damenwelt war durchaus willkommen.
 Und noch etwas: der Tanzstil war völlig anders.
 
 Die Verwunderung bei alltäglichen Dingen wie z.B. ein Brötchen mit Wurst oder Käse zu belegen oder mit Marmelade zu bestreichen. 
-Und dann etwas was Direktor Kuon noch in einer kleinen Ansprache erwaehnen sollte und fuer ein "yeah, true" und bei uns "ach soooo" in der Zuhoererschaft sorgte.
+Und dann etwas was Direktor Kuon noch in einer kleinen Ansprache erwähnen sollte und fuer ein "yeah, true" und bei uns "ach soooo" in der Zuhörerschaft sorgte.
 Deutsche Betten. Tja die trivialen Dinge des Lebens.
 Der Unterschied bei Bettwäsche zwischen England und Deutschland liegt vor allem in der Art, wie die Betten gemacht werden und wie die Bettdecken genutzt werden.
-Das war fuer die Jungs kompliziert und ungewohnt.
+Das war für die Jungs kompliziert und ungewohnt.
 
 Betrachten wir das mal aus der humoristisch wissenschaftlichen Sicht:
 
