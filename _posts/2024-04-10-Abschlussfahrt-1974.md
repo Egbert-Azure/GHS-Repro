@@ -11,7 +11,7 @@ tags_color: '#4c49cb'
 featured: false
 ---
 <div style="text-align: center;">
-  <small>Titelbild E. Schroeer, 1988</small>
+  <small>Titelbild E. Schroeer, Praktica LLT, Kodak Gold, 1988</small>
 </div>
 
 <br>
