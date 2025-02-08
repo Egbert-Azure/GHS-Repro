@@ -6,7 +6,7 @@ date: 2025-02-08
 description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
 image: '/images/crawley/The George Hotel.jpg'
 video_embed: 
-tags: [Partnerschaft, Geschichte, Klassenfahrt, Schüleraustausch]
+tags: [Geschichten, Erinnerungen, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
 ---
@@ -101,7 +101,14 @@ Neben dem Schulalltag gab es auch spannende Ausflüge:
 
 - **Brighton:** Eine beeindruckende Küstenstadt mit ihrem berühmten Pier.  
 Wir durften in kleinen Gruppen die Pier und Brighton erkunden. Besonders spannend fanden wir die Spielautomatenhallen, die eine fast magische Anziehungskraft auf uns ausübten. Flipper, Spielautomaten und andere Attraktionen sorgten für viele lachende Gesichter.
-Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.  
+Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Crawley/BrightonIMG_1501.jpg" loading="lazy" alt="Birghton">
+  </div>
+  <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
+</div>
 
 - **London:** Eine pulsierende Metropole mit Highlights wie dem Tower of London und der Themse.  
 Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
@@ -116,7 +123,7 @@ Auf der Fähre trafen wir auf eine Mädchenklasse aus England. Das war sehr turb
 
 Als wir in Dorsten ankamen, wartete die Presse auf uns. Es war schließlich der erste offizielle Besuch einer Dorstener Schule. Daraus entstand dieser Zeitungsbericht. Bis heute muss ich immer noch über den Austausch von Kochrezepten schmunzeln. Na ja, wird schon stimmen, aber eigentlich waren andere Dinge wichtiger für uns.
 
-![alt text](../images/Crawley/crawley2.jpg)
+<img src="../images/Crawley/crawley2.jpg" alt="alt text" width="600">
 
 ### Fazit
 

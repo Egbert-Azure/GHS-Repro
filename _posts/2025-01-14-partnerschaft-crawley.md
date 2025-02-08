@@ -6,7 +6,7 @@ date: 2025-01-14
 description: Die Geschichte der Schulpartnerschaft zwischen der Gerhart-Hauptmann-Realschule in Dorsten und der Thomas-Bennett-School in Crawley, England.
 image: '/images/crawley/IMG_1495[1].JPG'
 video_embed: 
-tags: [Partnerschaft, Geschichte, Klassenfahrt, Schüleraustausch]
+tags: [Erinnerungen, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
 ---
