@@ -1,126 +1,121 @@
 ---
 layout: post
-title: Schüleraustausch März 1974
-author: egbert
-date: 2025-01-14
-description: Die Geschichte der Schulpartnerschaft zwischen der Gerhart-Hauptmann-Realschule in Dorsten und der Thomas-Bennett-School in Crawley, England.
-image: '/images/crawley/IMG_1495[1].JPG'
+title: Klassenfahrt 10a 1974
+author: Egbert
+date: 2025-02-08
+description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England.
+image: '/images/crawley/IMG_1496[1] edited.jpg'
 video_embed: 
 tags: [Partnerschaft, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
 ---
 
-<small> Foto E. Schroeer- Kodak Instamatic, 1974 </small>
+<small>Foto E. Schröer – Kodak Instamatic, 1974</small>
+
+<small>Danke an Kalle und Dirk für den Input und das Auffrischen des Erlebten</small>
+
+### Die Vorbereitung und Abreise
+
+Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
+
+Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
+
+Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cliffs of Dover auftauchten, stieg die Aufregung. Nach weiteren 1,5 Stunden Fahrt auf der „falschen Seite“ erreichten wir erschöpft, aber gespannt unser Ziel: die Thomas Bennett School in Crawley.
+
+---
+
+![Anfahrt](../images/Crawley/karte.png)
+
+### Unterbringung bei Gastfamilien
+
+Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit Fragen.
+
+Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Dahinter befand sich ein kleiner Garten.
+
+Am nächsten Morgen weckte mich Mrs. Leare mit einer Tasse Tee ans Bett – eine für mich ungewohnte, aber sehr angenehme Geste. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
+
+---
+
+### Erste Eindrücke vom Schulalltag
+
+Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Auch die Ganztagsschule war ungewohnt. Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
+
+---
+
+### Freizeit und Abenteuer
+
+Natürlich waren wir als Jugendgruppe voller Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen entkommen – ein echtes Abenteuer!
+
+Das Abenteuer endete für Kalle und Akki allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
+
+![Pub](../images/Crawley/the-pub-early-autumn.jpg)
+
+---
+
+### Ein Angelausflug
+
+Peter und ich teilten eine Leidenschaft: das Angeln. So machten wir uns auf zum nahe gelegenen Tilgate Park und - **Tilgate Lake**.  
+
+Wir fingen zunächst ein paar Köderfische, um dann auf Hechtfang zu gehen. Es waren einige Angler an dem lauen Abend da, aber nichts tat sich. Ich fragte Peter, ob er keine Blinker hätte. Die Ausstattung war etwas dürftig, aber ich fand einen kleinen Blinker. In England gibt es nicht nur Linksverkehr, sondern auch die Kurbel einer Angelrolle ist an der „falschen“ Seite. Ein Stahlvorfach hatte er nicht, und so musste ein Kevlar-Vorfach herhalten.
+
+Nach einigen Würfen spürte ich einen kleinen Schlag in der Rute. Nichts tat sich – ich dachte an einen Hänger und kurbelte die Schnur auf Spannung. In dem Moment kam der Hecht an die Oberfläche und versuchte, mit Rollbewegungen den Haken loszuwerden. Vergeblich! Ich drillte den Brocken – schätzungsweise 10 Pfund oder mehr – so gut ich konnte. Allerdings trieb mich die Kurbel auf der „falschen“ Seite in den Wahnsinn. Peter's Schwester flitzte nach Hause, um den Eltern Bescheid zu sagen. Die kamen wenig später mit einem Fotoapparat.
+
+Der Hecht stieg mehrfach aus dem Wasser und versuchte, sich loszuschütteln. Dann – *peng* – riss das Kevlar-Vorfach, der Blinker flog durch die Luft, und der Hecht tauchte ab. Das war’s. Dumm haben wir geschaut.
+
+Sogar die Enten im Park schienen uns auszulachen
+
+![Tilgate Park](../images/Crawley/CrawleyParkIMG_1503.jpg)
+
+---
+
+### Die Schuldisco und Kalles Jacke
+
+Beinahe fiel auch die Abreise ins Wasser – zumindest für Kalle. Ihm wurde seine Jeansjacke in der Schuldisco gestohlen. Darin befanden sich nicht nur sein Portemonnaie, sondern auch sein Reisepass. Der Aufwand, einen Interimspass zu bekommen, war erheblich. Aber wofür ist eine Klassenlehrerin da?
+
+Kalle erinnert sich: „Meine Jeansjacke wurde mir mitsamt aller Papiere und meinem Geld gestohlen, während wir in der Schuldisco waren. Frau Dickhöfer war ziemlich sauer, weil sie dachte, wir wären mal wieder auf eigene Faust losgezogen. Das konnte ich jedoch klären, da mein Gastgeber zusammen mit seiner kleinen Schwester die Idee hatte, in die Disco zu gehen. Die beiden waren dabei und hatten statt harter Getränke etwas Softeres besorgt – ‚Cydrebeer‘. Hat zwar gedauert, aber mit der Zeit machte es auch lustig.“
+
+Trotzdem blieb die Panik nicht aus, als die Jacke verschwunden war. Die halbe Schule wurde auf den Kopf gestellt, und viele halfen mit. In der Jacke befanden sich neben dem Personalausweis auch Kalles frisch erstandener Führerschein der Klasse 4. „Warum ich den überhaupt mitgenommen hatte, weiß ich bis heute nicht. Aber seit dieser Zeit lief ich noch jahrelang mit einem ‚Ersatzführerschein‘ herum, gekennzeichnet mit zwei gekreuzten Balken. Leider waren diese Balken bei uns in Good Old Germany als sogenannte ‚Säuferbalken‘ bekannt, was ich bei jeder Polizeikontrolle erklären musste.“
+
+Ein halbes Jahr nach der Rückkehr tauchte die Jacke, inklusive der Papiere – allerdings zerrissen –, wieder auf. Man hatte sie auf dem Schuldach gefunden.
+
+---
+
+### Erinnerungen an besondere Momente
+
+Dirk Ruschitzka erinnert sich, dass wir das legendäre Deutschland-Holland-Endspiel der WM 1974 im Chemiesaal der Schule sahen. Das Ergebnis ist bekannt: 2:1 für Deutschland! Eine weniger angenehme Erinnerung war Willis Einkauf von Whisky, der für uns alle neu war. Dirks Gasteltern hatten lange damit zu tun, die Flecken vom Wohnzimmerteppich zu entfernen. Frau Dickhöfer fand das am nächsten Tag gar nicht amüsant.  
 
 
-## Die Partnerschaft zwischen der Gerhart-Hauptmann-Realschule und Crawley
+---
 
-Die Freundschaft zwischen der Gerhart-Hauptmann-Realschule und der englischen Stadt Crawley ist ein Teil der größeren Partnerschaft zwischen Dorsten und Crawley, die am 15. Oktober 1973 feierlich besiegelt wurde. Doch wie kam es eigentlich zu dieser Verbindung?
+## Ausflüge und Erlebnisse
 
-### Die Entstehung der Partnerschaft Dorsten-Crawley
+Neben dem Schulalltag gab es auch spannende Ausflüge:  
 
-Schon länger war eine Städtepartnerschaft im Gespräch, wie mein Vater, Mitglied der SPD-Ratsfraktion und des Schulausschusses, damals berichtete. Leider verstarb er im Januar 1971. Sein Freund und Parteikollege Hans Fabian, verantwortlich für diese Idee, führte das Vorhaben weiter und wurde ein großer Unterstützer. Im Dezember 1971 regten Ratsmitglieder der Stadt Dorsten offiziell an, eine Partnerschaft mit einer ähnlich großen angelsächsischen Stadt einzugehen. Bereits einen Tag nach dem Beschluss des Hauptausschusses erhielt Dorsten die Mitteilung, dass Crawley eine deutsche Partnerstadt suchte.
+- **Brighton:** Eine beeindruckende Küstenstadt mit ihrem berühmten Pier.  
+Wir durften in kleinen Gruppen die Pier und Brighton erkunden. Besonders spannend fanden wir die Spielautomatenhallen, die eine fast magische Anziehungskraft auf uns ausübten. Flipper, Spielautomaten und andere Attraktionen sorgten für viele lachende Gesichter.
+Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.  
 
-Nach gegenseitigen Besuchen von Delegationen aus beiden Städten wurde die Partnerschaft am 15. Oktober 1973 im Rathaus Dorsten offiziell mit der Unterzeichnung der Urkunden besiegelt. Zeitgleich wurde der Freundeskreis Crawley e.V. als Pendant zur Town Twinning Association in Crawley gegründet, mit dem Ziel, Begegnungen zwischen den Einwohnern der beiden Städte zu fördern – besonders zwischen Jugendlichen über Sport, Kultur oder Schulaustausch.
+- **London:** Eine pulsierende Metropole mit Highlights wie dem Tower of London und der Themse.  
+Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
 
-Bis zu seinem Tod im Jahr 2004 war Hans Fabian eine zentrale Figur der Partnerschaft. In einer Nachricht der Crawley Town Twinning Association wurde er gewürdigt: „Hans Fabian war ein langjähriges Mitglied des Dorstener Stadtrats und des Partnerschaftskomitees. Er war unter den ersten Delegationen, die Crawley besuchten, und kehrte viele Male zurück – offiziell und privat. Seine großartige Stimme begeisterte viele Menschen in Crawley.“
+---
 
-### Erste Schritte der Schulpartnerschaft
+### Die Rückfahrt
 
-Anfang 1974 berichtete Hans Fabian, damals Vorsitzender des Freundeskreises Crawley, dass erste Freundschaften zwischen Schulklassen aus Dorsten und Crawley geknüpft wurden. Diese sollten im folgenden Jahr durch Austauschbesuche vertieft werden.
+Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Dann kam Peter und beglich seine Schulden. Wir hatten auf das Spiel Deutschland gegen England gewettet. Engländer sind eben echte Sportsleute.
 
-Im März 1974 besuchten 39 Schüler und drei Lehrer der Thomas-Bennett-School aus Crawley Dorsten. Dabei nahmen sie zwei Tage am Unterricht der Gerhart-Hauptmann-Realschule teil. Die englischen Schüler waren in Privathaushalten untergebracht, um den Austausch zu intensivieren. Bereits im Juni 1974 reisten Schüler aus Dorsten zum Gegenbesuch nach Crawley. Insgesamt nahmen vier Klassen an dem Austausch teil.
+Auf der Fähre trafen wir auf eine Mädchenklasse aus England. Das war sehr turbulent und sie schrieben mit Kugelschreiber und Filzstift ihre Adressen auf meinen und den Rücken einiger der anderen aus meiner Klasse. Leider hatte es keinen Nutzen. Erstens war es nicht in Spiegelschrift, und zweitens war es bis zur Ankunft zu Hause unleserlich. Aber es war trotzdem lustig.
 
-Im Jahr 1974 wurde das Thomas Bennett Community College in Crawley einer bedeutenden Reorganisation unterzogen. Die Schule wurde zu einer Oberstufe für Schüler im Alter von 12 bis 18 Jahren umstrukturiert. Dies bedeutete, dass frühere Erstklässler ein zusätzliches Jahr in den Primarschulen verblieben.
+Als wir in Dorsten ankamen, wartete die Presse auf uns. Es war schließlich der erste offizielle Besuch einer Dorstener Schule. Daraus entstand dieser Zeitungsbericht. Bis heute muss ich immer noch über den Austausch von Kochrezepten schmunzeln. Na ja, wird schon stimmen, aber eigentlich waren andere Dinge wichtiger für uns.
 
-### Erste Austausch-Erfahrungen – Schüler der Thomas-Bennett-School besuchen die Gerhart-Hauptmann-Realschule für Jungen
-
-Ein besonderer Aspekt des Austauschs waren die privaten Unterkünfte der Schüler. Bei mir wohnte Peter Leare, während sein Bruder Paul Leare bei Karl-Heinz Mast untergebracht war. Diese persönlichen Begegnungen legten den Grundstein für viele erste internationale Freundschaften und Bekannschaften.
-
-Während ihres Aufenthalts unternahmen wir Ausflüge, unter anderem zum Schloss Lembeck und zur Stadtbesichtigung. Peter und ich entdeckten unsere gemeinsame Leidenschaft fürs Angeln, auch wenn wir nur mäßigen Erfolg hatten. Ein Highlight war der Besuch der Diskothek im Jugendheim St. Josef, einem damals beliebten Jugend-Szenentreffpunkt. Weitere Aktivitäten führten uns nach Wulfen, wo wir ebenfalls die Jugend-Diskothek besuchten.
-Die Diskotheken waren durchaus ein Highlight und unsere neuen englsichen Freunde waren ziemlich erstaunt, dass man sowohl Bier als auch Zigaretten mit 16 Jahren in Deutschland bekommt.
-Wie wir im nächsten Blog über den Gegenbesuch sehen werden ein Unding in England. Hinzu kam die Stärke des deutschen Bieres und die Trinktemperatur.
-Die Ergebnisse am anderen Tag war eine durchaus als *Konzentrationsschwäche* zu sehende geringere Aufmerksamkeit im Unterricht der nichtsahnenden Fr. Dickhöfer.
-Mit von der Partie auf unseren Disko Touren war natürlich unser näherer Freundeskreis, wie z.b. Alfred Lietz, sein Bruder Matthias, Norbert Bogatzki.
-Die Anziehungskraft der Engländer auf die Damenwelt war durchaus willkommen.
-Und noch etwas: der Tanzstil war völlig anders.
-
-Die Verwunderung bei alltäglichen Dingen wie z.B. ein Brötchen mit Wurst oder Käse zu belegen oder mit Marmelade zu bestreichen. 
-Und dann etwas was Direktor Kuon noch in einer kleinen Ansprache erwähnen sollte und fuer ein "yeah, true" und bei uns "ach soooo" in der Zuhörerschaft sorgte.
-Deutsche Betten. Tja die trivialen Dinge des Lebens.
-Der Unterschied bei Bettwäsche zwischen England und Deutschland liegt vor allem in der Art, wie die Betten gemacht werden und wie die Bettdecken genutzt werden.
-Das war für die Jungs kompliziert und ungewohnt.
-
-Betrachten wir das mal aus der humoristisch wissenschaftlichen Sicht:
-
-### Verblüffung eines Engländers in Deutschland
-
-Ein Besuch in Deutschland könnte für einen Engländer so manche Überraschung bereithalten – vor allem im Schlafzimmer!
-
-#### Separate Bettdecken  
-„Was, jeder hat seine eigene Decke?!“ könnte der erste Gedanke eines Engländers sein. Während in England oft heldenhaft um eine gemeinsame Bettdecke gekämpft wird (wer zieht stärker?), herrscht in Deutschland Frieden: Jeder hat seine eigene Decke. Keine nächtlichen Schlachten, kein Deckenklau – nur deutsche Effizienz!
-Ob das bei diesem Besuch zutraf, kann ich nicht sagen und selbst wenn "what happens in Vegas stays in Vegas".
-
-#### Quadratische Kopfkissen  
-Deutsche Kissen sind nicht nur groß, sie sind auch quadratisch. Für Engländer, die kleinere, rechteckige Kissen gewohnt sind, wirkt das wie eine Einladung zu einem Kissenschlachtfinale in Übergröße.
-
-#### Kein Top Sheet  
-Wo ist das Laken unter der Decke? In England ist das „Top Sheet“ ein fester Bestandteil des Betts – als zusätzliche Barriere zur Sauberkeit und manchmal auch als Mini-Sauna in heißen Nächten. In Deutschland hingegen gilt: Eine Bettdecke reicht. Minimalismus oder praktischer Pragmatismus? Entscheide selbst!
-
-#### Bettdecken-Wechsel  
-Der deutsche Ansatz, die Bettdecke regelmäßig komplett in einen neuen Bezug zu stecken, wirkt auf Engländer wie ein unnötig komplizierter Fitnesskurs. In England wird oft nur das flache Laken gewaschen – das Duvet bleibt unberührt, fast wie ein Heiligtum.
-
-#### Temperaturdebatten
-Deutsche Bettdecken sind oft dicker und wärmer – ein potenzieller Schock für Engländer, die es gewohnt sind, mehrere Schichten anzulegen oder sogar in der „Frostschutz-Modus“-Schicht zu schlafen.
-Die Erkenntnis, das es saisonale Decken-Wechsel in Deutschland gibt (Wechsel zwischen Sommer- und Winterdecken) war ein Beleg für die deutsche Perfektion im Allgemeinen und in Schlaffragen im Besonderen.
-
-Wie gesagt, Kuon hatte mit seinen Ausführungen die Lacher auf seiner Seite.
-
-Zurück in die Schule. An zwei Tagen sollte völlig normaler Unterricht - allerdings alles in Englisch- sein.
-
-Unsere Klassenlehrerin Frau Erika Dickhöfer war um den normalen Unterricht redlich bemüht. Bei einer nun fast doppelt so großen Gruppe testosterongesteuerter Jungen ein vergebliches Unterfangen. Während diejenigen, die von Anfang an in ihrer Klasse waren und etwa 1-2 Jahre jünger waren als diejenigen, die entweder in der 7. oder 9. Klasse eine "Ehrenrunde" drehten, brav folgten, war diese Gruppe doch sehr – sagen wir einmal – "kreativ". Ich gebe zu, ich war in dieser Gruppe, aber nicht allein.
-Frau Dickhöfer war langjähriges Mitglied im Freundeskreis Crawley.
-
-Zum Anbschied habe ich Peter mein (hellblaues) Shirt geschenkt. Der fand das Shirt ziemlich cool mit der Schnürung, war wahrscheinlich so in UK nicht zu bekommen. Auf dem Foto ganz gut zu sehen.
-Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer noch in.
-
-<div class="gallery-box">
-  <div class="gallery gallery--post">
-    <figure>
-      <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>in der Mitte Fr. Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, daneben Direktor Max Kuon</small></figcaption>
-    </figure>
-    <figure>
-      <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Peter @ Schloss Lembeck</small></figcaption>
-    </figure>
-    <figure>
-      <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Ausflug Stadt Dorsten</small></figcaption>
-    </figure>
-    <figure>
-      <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise (v.L.) Andreas Kieslich, Peter Leare, K-H Mast, Paul Leare, N.N.</small></figcaption>
-    </figure>
-    <figure>
-      <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise - der Bus aus Crawley</small></figcaption>
-    </figure>
-    <figure>
-      <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Gruppenbild bei Abreise</small></figcaption>
-    </figure>
-  </div>
-  <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
-</div>
-
-
+![alt text](../images/Crawley/crawley2.jpg)
 
 ### Fazit
 
-Die Partnerschaft zwischen der Gerhart-Hauptmann-Realschule und der Thomas-Bennett-School in Crawley war ein wichtiger Beitrag zur Förderung des europäischen Gedankens von Einheit und Freundschaft. Sie hat Schüler inspiriert und kulturelle Brücken geschaffen, die bis heute bestehen.
+Nach 50 Jahren erinnert man sich an viele Details, sowohl an wichtige als auch an weniger bedeutende. Und wenn alles gut läuft, wird es im Oktober ein Wiedersehen geben – teils persönlich, teils virtuell. Die drei Organisatoren planen ein Klassentreffen. Wenn nicht jetzt, wann dann?
 
-Mit Fotos und Erinnerungen wird dieser Beitrag die Geschichte und Bedeutung dieser Partnerschaft lebendig halten.
+Zu Peter und seiner Familie habe ich den Kontakt verloren. Doch auf LinkedIn konnte ich ihn wiederfinden und erfuhr, dass Peter heute -0 wie ich -in den USA lebt, in Bedford, New Hampshire. Sein Bruder blieb in Crawley und führt dort ein Handwerksgeschäft.
 
-Im zweiten Teil des Blogs geht es dann um den Gegenbesuch.
+
+
