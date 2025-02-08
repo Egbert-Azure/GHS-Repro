@@ -3,8 +3,8 @@ layout: post
 title: Klassenfahrt 10a 1974
 author: Egbert
 date: 2025-02-08
-description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England.
-image: '/images/crawley/IMG_1496[1] edited.jpg'
+description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
+image: '/images/crawley/The George Hotel.jpg'
 video_embed: 
 tags: [Partnerschaft, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
@@ -13,7 +13,7 @@ featured: false
 
 <small>Foto E. Schröer – Kodak Instamatic, 1974</small>
 
-<small>Danke an Kalle und Dirk für den Input und das Auffrischen des Erlebten</small>
+<small>Danke an meine Co-Autoren Kalle und [Dirk](https://ghs.myvortexcloud.com/dirk) für den Input und das Auffrischen des Erlebten</small>
 
 ### Die Vorbereitung und Abreise
 
@@ -29,11 +29,11 @@ Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cl
 
 ### Unterbringung bei Gastfamilien
 
-Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit Fragen.
+Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie und unsere Gast in Deutschland, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig, also nicht mehr an der Thomas-Bennett School. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit Fragen.
 
-Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Dahinter befand sich ein kleiner Garten.
+Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Hinter dem Küchenbereich befand eine Tür mit Ausgang zum ein kleinen Garten. Eine schmale Treppe führte nach oben in die 2 Etagen darüber.
 
-Am nächsten Morgen weckte mich Mrs. Leare mit einer Tasse Tee ans Bett – eine für mich ungewohnte, aber sehr angenehme Geste. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
+Am nächsten Morgen weckte mich Mrs. Leare mit einer Tasse Tee ans Bett – eine für mich ungewohnte, aber sehr angenehme Geste. Konnte man sich wirklich daran gewöhnen. Gemessen an meinen Familienverhältnissen war dies mehr als wohltuend. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
 
 ---
 
@@ -45,7 +45,7 @@ Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. 
 
 ### Freizeit und Abenteuer
 
-Natürlich waren wir als Jugendgruppe voller Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen entkommen – ein echtes Abenteuer!
+Natürlich waren wir als Jugendgruppe voller Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemaess ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
 Das Abenteuer endete für Kalle und Akki allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
 
