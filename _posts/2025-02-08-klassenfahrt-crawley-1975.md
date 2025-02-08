@@ -106,12 +106,23 @@ Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <img src="/images/Crawley/BrightonIMG_1501.jpg" loading="lazy" alt="Birghton">
+    <img src="/images/Crawley/BrightonIMG_1506.jpg" loading="lazy" alt="Birghton">
+    <img src="/images/Crawley/CrawleyIMG_1502.jpg" loading="lazy" alt="Birghton">
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
 </div>
 
 - **London:** Eine pulsierende Metropole mit Highlights wie dem Tower of London und der Themse.  
 Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Crawley/LondonIMG_1497.jpg" loading="lazy" alt="London">
+    <img src="/images/Crawley/LondonIMG_1499.jpg" loading="lazy" alt="London">
+    <img src="/images/Crawley/LondonIMG_1500[1].jpg" loading="lazy" alt="London">
+  </div>
+  <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
+</div>
 
 ---
 
