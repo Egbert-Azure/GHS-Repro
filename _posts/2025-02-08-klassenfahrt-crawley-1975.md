@@ -11,7 +11,7 @@ tags_color: '#4c49cb'
 featured: false
 ---
 
-<small>Foto E. Schröer – Kodak Instamatic, 1974</small>
+<small>Foto E. Schröer – Kodak Instamatic, 1974 - The George Hotel</small>
 
 <small>Danke an meine Co-Autoren Kalle und [Dirk](https://ghs.myvortexcloud.com/dirk) für den Input und das Auffrischen des Erlebten</small>
 
@@ -22,6 +22,7 @@ Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawle
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
 Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cliffs of Dover auftauchten, stieg die Aufregung. Nach weiteren 1,5 Stunden Fahrt auf der „falschen Seite“ erreichten wir erschöpft, aber gespannt unser Ziel: die Thomas Bennett School in Crawley.
+Dort wurden wir schon von den Vetretern der Gastfamilien erwartet.
 
 ---
 
@@ -29,17 +30,17 @@ Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cl
 
 ### Unterbringung bei Gastfamilien
 
-Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie und unsere Gast in Deutschland, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig, also nicht mehr an der Thomas-Bennett School. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit Fragen.
+Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie und unsere Gast in Deutschland, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig, also nicht mehr an der Thomas-Bennett School. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit tausend Fragen über Deutschland.
 
 Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Hinter dem Küchenbereich befand eine Tür mit Ausgang zum ein kleinen Garten. Eine schmale Treppe führte nach oben in die 2 Etagen darüber.
 
-Am nächsten Morgen weckte mich Mrs. Leare mit einer Tasse Tee ans Bett – eine für mich ungewohnte, aber sehr angenehme Geste. Konnte man sich wirklich daran gewöhnen. Gemessen an meinen Familienverhältnissen war dies mehr als wohltuend. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
+Am nächsten Morgen weckte uns Mrs. Leare mit einer Tasse Tee ans Bett (Paul und ich teilten uns das Zimmer) – eine für mich ungewohnte, aber sehr angenehme Geste. Konnte man sich wirklich daran gewöhnen. Gemessen an meinen Familienverhältnissen war dies mehr als wohltuend. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
 
 ---
 
 ### Erste Eindrücke vom Schulalltag
 
-Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Auch die Ganztagsschule war ungewohnt. Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
+Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Einen praktischen Werksunterricht gab es auch. Dort schreinerte man kleiner Dinge und lernte den Umgang mit Säge, Bohr- und Schleifmaschinen. Auch die Ganztagsschule war ungewohnt. Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
 
 ---
 
@@ -65,7 +66,13 @@ Der Hecht stieg mehrfach aus dem Wasser und versuchte, sich loszuschütteln. Dan
 
 Sogar die Enten im Park schienen uns auszulachen
 
-![Tilgate Park](../images/Crawley/CrawleyParkIMG_1503.jpg)
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Crawley/CrawleyParkIMG_1503.jpg" loading="lazy" alt="Tilgate Park">
+    <img src="/images/Crawley/Tilgate_Lake.jpg" loading="lazy" alt="Tilgate Park">
+  </div>
+  <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
+</div>
 
 ---
 
