@@ -21,6 +21,7 @@ Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawle
 Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. 
 Eigentlich war es üblich eine sogenannte "Abschlussfahrt" in der 10ten Klasse zu machen, also später im Jahr. Aber die Partnerschaft mit Crawley musste vorangetrieben werden.
 Und so waren wir halt relativ früh mit der "grossen Fahrt" dran. Oder in anderen Worten: eine weitere Fahrt gab es nicht.
+
 Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. 
 Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
 
@@ -114,7 +115,7 @@ Neben dem Schulalltag gab es auch spannende Ausflüge:
 Wir durften in kleinen Gruppen die Pier und Brighton erkunden. Besonders spannend fanden wir die Spielautomatenhallen, die eine fast magische Anziehungskraft auf uns ausübten. Flipper, Spielautomaten und andere Attraktionen sorgten für viele lachende Gesichter.
 Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.
 
-Auf demersten Bild bin ich und ganz rechts Friedrich Schmidt.
+Auf dem ersten Bild bin ich und ganz rechts Friedrich (Fitti) Schmidt.
 Auf dem zweiten Bild rechts mit der gelben Regenjacke ist Dirk Ruschitzka und links neben ihm Willi Huesken
 
 <div class="gallery-box">
@@ -127,7 +128,10 @@ Auf dem zweiten Bild rechts mit der gelben Regenjacke ist Dirk Ruschitzka und li
 </div>
 
 - **London:** Eine pulsierende Metropole mit Highlights wie dem Tower of London und der Themse.  
-Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
+Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. 
+In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. 
+Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. 
+Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
