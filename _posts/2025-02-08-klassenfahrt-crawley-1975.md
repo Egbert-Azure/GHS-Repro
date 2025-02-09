@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Klassenfahrt der 10a 1974 Nach England
+title: Klassenfahrt der 10a 1974 nach England
 author: Egbert
 date: 2025-02-08
 description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
@@ -47,7 +47,9 @@ Am nächsten Morgen weckte uns Mrs. Leare mit einer Tasse Tee ans Bett (Paul und
 
 ### Erste Eindrücke vom Schulalltag
 
-Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Einen praktischen Werksunterricht gab es auch. Dort schreinerte man kleiner Dinge und lernte den Umgang mit Säge, Bohr- und Schleifmaschinen. Auch die Ganztagsschule war ungewohnt. Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
+Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Einen praktischen Werksunterricht gab es auch. Dort schreinerte man kleiner Dinge und lernte den Umgang mit Säge, Bohr- und Schleifmaschinen. Auch die Ganztagsschule war ungewohnt. 
+Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
+Trotzdem, es war mir sehr peinlich.
 
 ---
 
