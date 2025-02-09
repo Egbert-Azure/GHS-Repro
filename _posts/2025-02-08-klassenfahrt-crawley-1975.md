@@ -134,11 +134,13 @@ Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt i
 
 ### Die Rückfahrt
 
-Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Dann kam Peter und beglich seine Schulden. Wir hatten auf das Spiel Deutschland gegen England gewettet. Engländer sind eben echte Sportsleute.
+Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Peter kam schließlich noch vorbei, um seine Schulden zu begleichen. Wir hatten auf das Spiel Deutschland gegen England gewettet, und wie man es von Engländern kennt – echte Sportsleute, die zu ihrem Wort stehen.
 
-Auf der Fähre trafen wir auf eine Mädchenklasse aus England. Das war sehr turbulent und sie schrieben mit Kugelschreiber und Filzstift ihre Adressen auf meinen und den Rücken einiger der anderen aus meiner Klasse. Leider hatte es keinen Nutzen. Erstens war es nicht in Spiegelschrift, und zweitens war es bis zur Ankunft zu Hause unleserlich. Aber es war trotzdem lustig.
+Die Verpflegung, die mir Mrs. Leare für die Rückreise mitgab, hätte locker für zwei Tage gereicht. Es gab gefüllte kleine Pasteten und Sandwiches, liebevoll in den typischen englischen Schichten belegt – einige mit Senf, andere mit Mayonnaise.
 
-Als wir in Dorsten ankamen, wartete die Presse auf uns. Es war schließlich der erste offizielle Besuch einer Dorstener Schule. Daraus entstand dieser Zeitungsbericht. Bis heute muss ich immer noch über den Austausch von Kochrezepten schmunzeln. Na ja, wird schon stimmen, aber eigentlich waren andere Dinge wichtiger für uns.
+Auf der Fähre wurde es dann turbulent, als wir auf eine Mädchenklasse aus England trafen. Es herrschte ein ausgelassenes Chaos, und die Mädchen schrieben mit Kugelschreibern und Filzstiften ihre Adressen auf meinen Rücken sowie auf die Rücken einiger Mitschüler aus meiner Klasse. Leider war das Ganze wenig hilfreich: Zum einen hätte die Schrift in Spiegelschrift sein müssen, und zum anderen war sie bis zu unserer Ankunft zu Hause komplett unleserlich. Trotzdem war es eine lustige Aktion, an die ich mich noch heute mit einem Schmunzeln erinnere.
+
+Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Dieser Austausch war der erste offizielle Besuch einer Dorstener Schule im Ausland, was natürlich für Aufmerksamkeit sorgte. Ein Zeitungsbericht wurde verfasst, und bis heute muss ich über den vermeintlichen Austausch von Kochrezepten schmunzeln. Es mag stimmen, aber für uns standen damals wohl andere Dinge im Vordergrund.
 
 <img src="../images/Crawley/crawley2.jpg" alt="alt text" width="800">
 
