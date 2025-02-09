@@ -21,7 +21,7 @@ Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawle
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
-![Abfahrt](../images/Crawley/img_1496[1])
+![Abfahrt](../images/Crawley/IMG_1496[1]%20edited.jpg)
 <small>v.l. Egbert Schröer - Joachim(Jockel) Klein - am Bus Hans- Josef Mälzer, dann Lothar Stein, Dieter Sojka, Ludger Stollbrink, ganz rechts Udo Ostrop</small>
 
 Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cliffs of Dover auftauchten, stieg die Aufregung. Nach weiteren 1,5 Stunden Fahrt auf der „falschen Seite“ erreichten wir erschöpft, aber gespannt unser Ziel: die Thomas Bennett School in Crawley.
