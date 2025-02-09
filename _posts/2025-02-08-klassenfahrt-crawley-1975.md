@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Klassenfahrt 10a 1974
+title: Klassenfahrt der 10a 1974 Nach England
 author: Egbert
 date: 2025-02-08
 description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
@@ -17,7 +17,10 @@ featured: false
 
 ### Die Vorbereitung und Abreise
 
-Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
+Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. 
+Eigentlich war es üblich eine sogenannte "Abschlussfahrt" in der 10ten Klasse zu machen, also später im Jahr. Aber die Partnerschaft mit Crawley musste vorangetrieben werden.
+Und so waren wir halt relativ früh mit der "grossen Fahrt" dran. Oder in adneren Worten: eine weitere Fahrt gab es nicht.
+Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
@@ -50,9 +53,9 @@ Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. 
 
 ### Freizeit und Abenteuer
 
-Natürlich waren wir als thestseron gesteuerte reine Jugengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
+Natürlich waren wir als Thestosteron gesteuerte reine Jungengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
-Das Abenteuer endete für Kalle und Akki allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
+Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
 
 ![Pub](../images/Crawley/the-pub-early-autumn.jpg)
 
