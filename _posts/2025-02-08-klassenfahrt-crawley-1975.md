@@ -137,7 +137,7 @@ Auf der Fähre trafen wir auf eine Mädchenklasse aus England. Das war sehr turb
 
 Als wir in Dorsten ankamen, wartete die Presse auf uns. Es war schließlich der erste offizielle Besuch einer Dorstener Schule. Daraus entstand dieser Zeitungsbericht. Bis heute muss ich immer noch über den Austausch von Kochrezepten schmunzeln. Na ja, wird schon stimmen, aber eigentlich waren andere Dinge wichtiger für uns.
 
-<img src="../images/Crawley/crawley2.jpg" alt="alt text" width="600">
+<img src="../images/Crawley/crawley2.jpg" alt="alt text" width="800">
 
 ### Fazit
 
