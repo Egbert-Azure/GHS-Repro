@@ -36,7 +36,7 @@ Dort wurden wir schon von den Vetretern der Gastfamilien erwartet.
 
 Ich wurde von der Familie Leare aufgenommen. Mr. Leare holte mich von der Schule ab. Peter, der Sohn der Familie und unsere Gast in Deutschland, war auf einem Schulausflug und würde erst zwei Tage später zurückkehren. Sein Bruder Paul war bereits berufstätig, also nicht mehr an der Thomas-Bennett School. Besonders die kleine Schwester der Familie empfing mich herzlich und löcherte mich mit tausend Fragen über Deutschland.
 
-Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Hinter dem Küchenbereich befand eine Tür mit Ausgang zum ein kleinen Garten. Eine schmale Treppe führte nach oben in die 2 Etagen darüber.
+Das Haus war ein typisches englisches Reihenhaus mit direktem Zugang vom Eingang zum „Living Room“. Die Küche war für deutsche Verhältnisse ungewöhnlich, mit Barhockern und einer Theke vor dem Gasherd und Backofen. Hinter dem Küchenbereich befand sich eine Tür mit Ausgang zum ein kleinen Garten. Eine schmale Treppe führte nach oben in die 2 Etagen darüber.
 
 Am nächsten Morgen weckte uns Mrs. Leare mit einer Tasse Tee ans Bett (Paul und ich teilten uns das Zimmer) – eine für mich ungewohnte, aber sehr angenehme Geste. Konnte man sich wirklich daran gewöhnen. Gemessen an meinen Familienverhältnissen war dies mehr als wohltuend. Nach einem klassischen englischen Frühstück mit Bacon und Eggs holte mich Chris, ein englischer Schüler, der bei dem Besuch in Dorsten bei Bernhardt Bittner untergebracht war, ab, und wir gingen gemeinsam zur Schule.
 
@@ -50,7 +50,7 @@ Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. 
 
 ### Freizeit und Abenteuer
 
-Natürlich waren wir als Jugendgruppe voller Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemaess ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
+Natürlich waren wir als thestseron gesteuerte reine Jugengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
 Das Abenteuer endete für Kalle und Akki allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
 
@@ -107,7 +107,7 @@ Neben dem Schulalltag gab es auch spannende Ausflüge:
 Wir durften in kleinen Gruppen die Pier und Brighton erkunden. Besonders spannend fanden wir die Spielautomatenhallen, die eine fast magische Anziehungskraft auf uns ausübten. Flipper, Spielautomaten und andere Attraktionen sorgten für viele lachende Gesichter.
 Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.
 
-Erste Bild bin ich und ganz rechts Friedrich Schmidt.
+Auf demersten Bild bin ich und ganz rechts Friedrich Schmidt.
 Auf dem zweiten Bild rechts mit der gelben Regenjacke ist Dirk Ruschitzka und links neben ihm Willi Huesken
 
 <div class="gallery-box">
@@ -149,7 +149,7 @@ Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Die
 
 Nach 50 Jahren erinnert man sich an viele Details, sowohl an wichtige als auch an weniger bedeutende. Und wenn alles gut läuft, wird es im Oktober ein Wiedersehen geben – teils persönlich, teils virtuell. Die drei Organisatoren planen ein Klassentreffen. Wenn nicht jetzt, wann dann?
 
-Zu Peter und seiner Familie habe ich den Kontakt verloren. Doch auf LinkedIn konnte ich ihn wiederfinden und erfuhr, dass Peter heute -0 wie ich -in den USA lebt, in Bedford, New Hampshire. Sein Bruder blieb in Crawley und führt dort ein Handwerksgeschäft.
+Zu Peter und seiner Familie habe ich den Kontakt verloren. Doch auf LinkedIn konnte ich ihn wiederfinden und erfuhr, dass Peter heute - wie ich -in den USA lebt, in Bedford, New Hampshire. Sein Bruder blieb in Crawley und führt dort ein Handwerksgeschäft.
 
 
 
