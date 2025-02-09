@@ -103,6 +103,9 @@ Neben dem Schulalltag gab es auch spannende Ausflüge:
 Wir durften in kleinen Gruppen die Pier und Brighton erkunden. Besonders spannend fanden wir die Spielautomatenhallen, die eine fast magische Anziehungskraft auf uns ausübten. Flipper, Spielautomaten und andere Attraktionen sorgten für viele lachende Gesichter.
 Das Wetter war so lala, trotzdem rannte der ein oder andere zumindest bis zu den Knien in's Meer.
 
+Erste Bild bin ich und ganz rechts Friedrich Schmidt.
+Auf dem zweiten Bild rechts mit der gelben Regenjacke ist Dirk Ruschitzka und links neben ihm Willi Huesken
+
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <img src="/images/Crawley/BrightonIMG_1501.jpg" loading="lazy" alt="Birghton">
