@@ -17,10 +17,12 @@ featured: false
 
 ### Die Vorbereitung und Abreise
 
-Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. 
+Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. 
+Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. 
 Eigentlich war es üblich eine sogenannte "Abschlussfahrt" in der 10ten Klasse zu machen, also später im Jahr. Aber die Partnerschaft mit Crawley musste vorangetrieben werden.
-Und so waren wir halt relativ früh mit der "grossen Fahrt" dran. Oder in adneren Worten: eine weitere Fahrt gab es nicht.
-Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
+Und so waren wir halt relativ früh mit der "grossen Fahrt" dran. Oder in anderen Worten: eine weitere Fahrt gab es nicht.
+Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. 
+Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
