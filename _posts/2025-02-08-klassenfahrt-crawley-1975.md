@@ -21,7 +21,8 @@ Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawle
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
-![Abfahrt](../images/Crawley/IMG_1496[1]%20edited.jpg)
+<img src="../images/Crawley/IMG_1496[1]%20edited.jpg" alt="Abfahrt" width="400">
+
 <small>v.l. Egbert Schröer - Joachim(Jockel) Klein - am Bus Hans- Josef Mälzer, dann Lothar Stein, Dieter Sojka, Ludger Stollbrink, ganz rechts Udo Ostrop</small>
 
 Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cliffs of Dover auftauchten, stieg die Aufregung. Nach weiteren 1,5 Stunden Fahrt auf der „falschen Seite“ erreichten wir erschöpft, aber gespannt unser Ziel: die Thomas Bennett School in Crawley.
@@ -61,7 +62,7 @@ Das Abenteuer endete für Kalle und Akki allerdings mit einer Begegnung mit den 
 
 Peter und ich teilten eine Leidenschaft: das Angeln. So machten wir uns auf zum nahe gelegenen Tilgate Park und - **Tilgate Lake**.  
 
-Wir fingen zunächst ein paar Köderfische, um dann auf Hechtfang zu gehen. Es waren einige Angler an dem lauen Abend da, aber nichts tat sich. Ich fragte Peter, ob er keine Blinker hätte. Die Ausstattung war etwas dürftig, aber ich fand einen kleinen Blinker. In England gibt es nicht nur Linksverkehr, sondern auch die Kurbel einer Angelrolle ist an der „falschen“ Seite. Ein Stahlvorfach hatte er nicht, und so musste ein Kevlar-Vorfach herhalten.
+Wir fingen zunächst ein paar Köderfische, um dann auf Hechtfang zu gehen. Es waren einige Angler an dem lauen Abend da, aber nichts tat sich. Ich fragte Peter, ob er keine Blinker hätte. Die Ausstattung war etwas dürftig, aber ich fand einen guten Heintz Blinker, ziemlich große Ausführung. In England gibt es nicht nur Linksverkehr, sondern auch die Kurbel einer Angelrolle ist an der „falschen“ Seite, hier also dann "rechts". Ein Stahlvorfach hatte er nicht, und so musste ein Kevlar-Vorfach herhalten.
 
 Nach einigen Würfen spürte ich einen kleinen Schlag in der Rute. Nichts tat sich – ich dachte an einen Hänger und kurbelte die Schnur auf Spannung. In dem Moment kam der Hecht an die Oberfläche und versuchte, mit Rollbewegungen den Haken loszuwerden. Vergeblich! Ich drillte den Brocken – schätzungsweise 10 Pfund oder mehr – so gut ich konnte. Allerdings trieb mich die Kurbel auf der „falschen“ Seite in den Wahnsinn. Peter's Schwester flitzte nach Hause, um den Eltern Bescheid zu sagen. Die kamen wenig später mit einem Fotoapparat.
 
