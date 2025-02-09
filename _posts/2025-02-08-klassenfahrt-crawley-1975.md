@@ -146,7 +146,8 @@ Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
 
 ### Die Rückfahrt
 
-Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Peter kam schließlich noch vorbei, um seine Schulden zu begleichen. Wir hatten auf das Spiel Deutschland gegen England gewettet, und wie man es von Engländern kennt – echte Sportsleute, die zu ihrem Wort stehen.
+Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Peter kam schließlich noch vorbei, um seine Schulden zu begleichen. 
+Wir hatten auf das Spiel Deutschland gegen Holland gewettet, und wie man es von Engländern kennt – echte Sportsleute, die zu ihrem Wort stehen.
 
 Die Verpflegung, die mir Mrs. Leare für die Rückreise mitgab, hätte locker für zwei Tage gereicht. Es gab gefüllte kleine Pasteten und Sandwiches, liebevoll in den typischen englischen Schichten belegt – einige mit Senf, andere mit Mayonnaise.
 
