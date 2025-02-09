@@ -60,7 +60,10 @@ Trotzdem, es war mir sehr peinlich.
 
 Natürlich waren wir als Thestosteron gesteuerte reine Jungengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
-Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies. Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden.
+Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies. 
+Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. 
+Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden. Es ging glimpflich aus als die Bbbies ihnen gegenüber standen.
+Ausser "Passkontrolle" und einige Worte in für uns unverständlichem British Englisch und das war’s.
 
 ![Pub](../images/Crawley/the-pub-early-autumn.jpg)
 
@@ -76,7 +79,7 @@ Nach einigen Würfen spürte ich einen kleinen Schlag in der Rute. Nichts tat si
 
 Der Hecht stieg mehrfach aus dem Wasser und versuchte, sich loszuschütteln. Dann – *peng* – riss das Kevlar-Vorfach, der Blinker flog durch die Luft, und der Hecht tauchte ab. Das war’s. Dumm haben wir geschaut.
 
-Sogar die Enten im Park schienen uns auszulachen
+Sogar die Enten im Park schienen uns auszulachen.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
@@ -151,7 +154,9 @@ Wir hatten auf das Spiel Deutschland gegen Holland gewettet, und wie man es von 
 
 Die Verpflegung, die mir Mrs. Leare für die Rückreise mitgab, hätte locker für zwei Tage gereicht. Es gab gefüllte kleine Pasteten und Sandwiches, liebevoll in den typischen englischen Schichten belegt – einige mit Senf, andere mit Mayonnaise.
 
-Auf der Fähre wurde es dann turbulent, als wir auf eine Mädchenklasse aus England trafen. Es herrschte ein ausgelassenes Chaos, und die Mädchen schrieben mit Kugelschreibern und Filzstiften ihre Adressen auf meinen Rücken sowie auf die Rücken einiger Mitschüler aus meiner Klasse. Leider war das Ganze wenig hilfreich: Zum einen hätte die Schrift in Spiegelschrift sein müssen, und zum anderen war sie bis zu unserer Ankunft zu Hause komplett unleserlich. Trotzdem war es eine lustige Aktion, an die ich mich noch heute mit einem Schmunzeln erinnere.
+Auf der Fähre wurde es dann turbulent, als wir auf eine Mädchenklasse aus England trafen. Es herrschte ein ausgelassenes Chaos, und die Mädchen schrieben mit Kugelschreibern und Filzstiften ihre Adressen auf meinen Rücken sowie auf die Rücken einiger Mitschüler aus meiner Klasse. 
+Leider war das Ganze wenig hilfreich: Zum einen hätte die Schrift in Spiegelschrift sein müssen, und zum anderen war sie bis zu unserer Ankunft zu Hause komplett unleserlich. 
+Trotzdem war es eine lustige Aktion, an die ich mich noch heute mit einem Schmunzeln erinnere.
 
 Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Dieser Austausch war der erste offizielle Besuch einer Dorstener Schule im Ausland, was natürlich für Aufmerksamkeit sorgte. Ein Zeitungsbericht wurde verfasst, und bis heute muss ich über den vermeintlichen Austausch von Kochrezepten schmunzeln. Es mag stimmen, aber für uns standen damals wohl andere Dinge im Vordergrund.
 
@@ -159,7 +164,7 @@ Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Die
 
 ### Fazit
 
-Nach 50 Jahren erinnert man sich an viele Details, sowohl an wichtige als auch an weniger bedeutende. Und wenn alles gut läuft, wird es im Oktober ein Wiedersehen geben – teils persönlich, teils virtuell. Die drei Organisatoren planen ein Klassentreffen. Wenn nicht jetzt, wann dann?
+Nach 50 Jahren erinnert man sich doch noch an viele Details, sowohl an wichtige als auch an weniger bedeutende. Und wenn alles gut läuft, wird es im Oktober ein Wiedersehen geben – teils persönlich, teils virtuell. Die drei Organisatoren planen ein Klassentreffen. Wenn nicht jetzt, wann dann?
 
 Zu Peter und seiner Familie habe ich den Kontakt verloren. Doch auf LinkedIn konnte ich ihn wiederfinden und erfuhr, dass Peter heute - wie ich -in den USA lebt, in Bedford, New Hampshire. Sein Bruder blieb in Crawley und führt dort ein Handwerksgeschäft.
 
