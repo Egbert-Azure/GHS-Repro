@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ein magischer Abend
-author: Oliver
+author: oliver
 date: 2025-02-08
 description: Das 5. Klassentreffen der 10b (Abschlussjahrgang 1985)
 image: '/images/Klassentreffen1985.jpg'
