@@ -74,7 +74,7 @@ Musik war keine Selbstverständlichkeit. **Sie musste erobert werden.**
 
 > *„Ein Album, das mir Welten eröffnete, von denen ich nicht wusste, dass sie existieren.“*
 
-Nach dem ersten Durchhören verstand er, warum die älteren Mitschüler damals so traurig waren – und sich nicht bewegen ließen, einfach weiterzumachen, als wäre nichts geschehen.  
+Nach dem ersten Durchhören von *Electric Ladyland* verstand er -so erzählte er mir-, warum die älteren Mitschüler damals so traurig waren – und sich nicht bewegen ließen, einfach weiterzumachen, als wäre nichts geschehen.  
 **So war das mit dem kleinen Dirk und seiner großen Liebe zur Musik.**
 
 ---
