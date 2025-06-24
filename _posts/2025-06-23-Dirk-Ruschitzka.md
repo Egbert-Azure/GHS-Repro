@@ -2,7 +2,7 @@
 layout: post
 title: "Wie der kleine Dirk zur Musik kam"
 author: egbert
-date: 2025-06-22
+date: 2025-06-24
 description: "Eine posthume Erinnerung an Dirk Ruschitzka – und wie seine Liebe zur Musik begann"
 video_embed: https://www.youtube.com/embed/D45llnmYQ2g?si=2BD_CRUK85aJtA5e
 image: '/images/Dirk-Blog.jpg'
