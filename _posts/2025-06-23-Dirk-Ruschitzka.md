@@ -27,13 +27,13 @@ Als wir dann der von Katja Neumann initiierten Facebook-Gruppe beitraten und ich
 
 Nachdem der Blog zu Wilhelm Zimolong online ging, schrieb mir Dirk:
 
-> *„Lieber Egbert, obwohl – wie du ja vielleicht weißt – ich nicht sehr glücklich an dieser Schule war (zu viele Arschlöcher, angefangen mit Herrn Hesse, dem Herrenmenschen), hat deine Geschichte einige Erinnerungen an andere Ereignisse wachgerufen, die mich mehr geprägt haben, als es mir als Kind bewusst war. Ich erinnere den Tag, als Hendrix gestorben war (kannte ich natürlich nicht), und die Großen auch unter massiven Drohungen der Lehrerschaft nicht bereit waren, sich von ihrer improvisierten Trauerfeier zu erheben, um wieder in die Klassen zu gehen. Falls du mal gelegentlich am Grab von Jimi vorbeigehst, stell mal für mich eine Kerze auf.“*
+<span style="font-size: 110%; font-style: italic;">„Lieber Egbert, obwohl – wie du ja vielleicht weißt – ich nicht sehr glücklich an dieser Schule war (zu viele Arschlöcher, angefangen mit Herrn Hesse, dem Herrenmenschen), hat deine Geschichte einige Erinnerungen an andere Ereignisse wachgerufen, die mich mehr geprägt haben, als es mir als Kind bewusst war. Ich erinnere den Tag, als Hendrix gestorben war (kannte ich natürlich nicht), und die Großen auch unter massiven Drohungen der Lehrerschaft nicht bereit waren, sich von ihrer improvisierten Trauerfeier zu erheben, um wieder in die Klassen zu gehen. Falls du mal gelegentlich am Grab von Jimi vorbeigehst, stell mal für mich eine Kerze auf.“</span>
 
 Ich antwortete:
 
-> *„Hi Dirk, wäre es ok, wenn ich dir einen Entwurf re: Jimi Hendrix schreibe und schicke?“*
+<span style="font-size: 110%; font-style: italic;">„Hi Dirk, wäre es ok, wenn ich dir einen Entwurf re: Jimi Hendrix schreibe und schicke?“</span>
 
-> *„Hallo Egbert, schön, wenn du die Erinnerung an das Sit-In aufgreifen willst. Vielleicht mache ich noch eine andere Geschichte draus – aus der Reihe: Wie der kleine Dirk an den Rock’n’Roll kam. Da hat ja wirklich jeder eine ganz persönliche Beziehung zu seiner großen Liebe.“*
+<span style="font-size: 110%; font-style: italic;">„Hallo Egbert, schön, wenn du die Erinnerung an das Sit-In aufgreifen willst. Vielleicht mache ich noch eine andere Geschichte draus – aus der Reihe: Wie der kleine Dirk an den Rock’n’Roll kam. Da hat ja wirklich jeder eine ganz persönliche Beziehung zu seiner großen Liebe.“</span>
 
 Und dann kam der Blog 👉 [Club 27 - Der Tag, an dem Jimi Hendrix starb](https://ghs.myvortexcloud.com/blog/jimi)
 Es verschmolzen darin unsere beiden Erinnerungen.
