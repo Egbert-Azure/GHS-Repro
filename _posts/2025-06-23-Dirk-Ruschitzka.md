@@ -21,7 +21,7 @@ Dirk Ruschitzka war nicht einfach nur ein Schulfreund. Wir haben uns über Faceb
 
 Als ich vor einigen Jahren im Podcast [*Music Talks*](https://www.musictalkspod.com/396031/episodes/3750155-episode-22-egbert-schroer-a-highway-star) von *Terry Smith* zu Gast war, hat er diesen mit echter Begeisterung verfolgt. Die Gäste wählen aus jedem Jahrzehnt ihres Lebens ein Lied aus und erzählen Terry, wie sie ihre Auswahl getroffen haben und warum ihnen diese Lieder so viel bedeuten – eine sehr persönliche Musikgeschichte.
 
-<span style="font-size: 90%; font-style: italic;">„Hab die Stunde sehr genossen ...“<br><strong>— Dirk Ruschitzka</strong></span>
+<span style="font-size: 110%; font-style: italic;">„Hab die Stunde sehr genossen ...“<br><strong>— Dirk Ruschitzka</strong></span>
 
 Als wir dann der von Katja Neumann initiierten Facebook-Gruppe beitraten und ich anfing, die ehemaligen Webseiten nicht nur zu restaurieren, sondern auch Geschichten der Ehemaligen zusammenzutragen, kamen auch bei Dirk viele Erinnerungen hoch.
 
