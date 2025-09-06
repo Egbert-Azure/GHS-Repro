@@ -88,27 +88,27 @@ Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <figure>
-      <img src="/images/Crawley/IMG_1531[1] edited.JPG" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1531.JPG" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>in der Mitte Fr. Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, daneben Direktor Max Kuon</small></figcaption>
     </figure>
     <figure>
-      <img src="/images/Crawley/IMG_1524[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1524.jpg" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Peter @ Schloss Lembeck</small></figcaption>
     </figure>
     <figure>
-      <img src="/images/Crawley/IMG_1526[1] edited.JPG" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1526.JPG" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Ausflug Stadt Dorsten</small></figcaption>
     </figure>
     <figure>
-      <img src="/images/Crawley/IMG_1494[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1494.jpg" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise (v.L.) Andreas Kieslich, Peter Leare, K-H Mast, Paul Leare, N.N.</small></figcaption>
     </figure>
     <figure>
-      <img src="/images/Crawley/IMG_1495[1].JPG" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1495.JPG" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Abreise - der Bus aus Crawley</small></figcaption>
     </figure>
     <figure>
-      <img src="/images/Crawley/IMG_1530[1] edited.jpg" loading="lazy" alt="Besuch aus England">
+      <img src="/images/Crawley/IMG_1530.jpg" loading="lazy" alt="Besuch aus England">
       <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>Gruppenbild bei Abreise</small></figcaption>
     </figure>
   </div>
