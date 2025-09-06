@@ -27,7 +27,7 @@ Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
 
-<img src="../images/Crawley/IMG_1496[1]%20edited.jpg" alt="Abfahrt" width="400">
+<img src="../images/Crawley/IMG_1496.jpg" alt="Abfahrt" width="400">
 
 <small>v.l. Egbert Schröer - Joachim(Jockel) Klein - am Bus Hans- Josef Mälzer, dann Lothar Stein, Dieter Sojka, Ludger Stollbrink, ganz rechts Udo Ostrop</small>
 
@@ -140,7 +140,7 @@ Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
   <div class="gallery gallery--post">
     <img src="/images/Crawley/LondonIMG_1497.jpg" loading="lazy" alt="London">
     <img src="/images/Crawley/LondonIMG_1499.jpg" loading="lazy" alt="London">
-    <img src="/images/Crawley/LondonIMG_1500[1].jpg" loading="lazy" alt="London">
+    <img src="/images/Crawley/LondonIMG_1500.jpg" loading="lazy" alt="London">
   </div>
   <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
 </div>

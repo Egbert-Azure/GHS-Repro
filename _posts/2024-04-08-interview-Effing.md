@@ -10,7 +10,7 @@ tags_color: '#835F46'
 featured: false
 ---
 
-Der Hintergrund zu diesem Interview ist nicht bekannt. Es muss in den 70er Jahren gemacht worden sein. Zu der Zeit gab es ein Schulprojekt, bei dem Schüler zu verschiedenen Themen Interviews machten. Dies könnte eines davon gewesen sein.
+Der Hintergrund zu diesem Interview ist nicht exakt bekannt. Es muss in den 70er Jahren gemacht worden sein. Zu der Zeit gab es ein Schulprojekt, bei dem Schüler zu verschiedenen Themen Interviews machten. Dies könnte eines davon gewesen sein. Schüler wurden mit mit ihren Kassettenrekordern in Gruppen eingeteilt und die Gruppe wählte dann ein bestimmtes Thema. So wurden neben diesem Interview mit Effing dann auch "Umfragen" in der Einkaufsstrasse in Holsterhausen gemacht
 
 Es wurde von Oliver Krajewski aus Marl auf soundcloud gestellt. Oliver hat das Tape für Claudia Engel digitalisiert.
 

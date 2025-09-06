@@ -101,21 +101,22 @@ mailchimp__settings:
 # Footer Settings
 footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
 
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
 
 # Social Links
 social:
-# - {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://www.facebook.com/groups/1716532678562413"}
-# - {icon: "codepen", link: "https://codepen.io"}
-# - {icon: "pinterest", link: "https://pinterest.com"}
-# - {icon: "vimeo", link: "https://vimeo.com"}
-# - {icon: "instagram", link: "https://instagram.com"}
+# - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-facebook", link: "https://www.facebook.com/groups/1716532678562413"}
+# - {icon: "fa-brands fa-codepen", link: "https://codepen.io"}
+# - {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
+# - {icon: "fa-brands fa-vimeo-v", link: "https://vimeo.com"}
 - {icon: "linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
 - {icon: "rss", link: "https://follow.it/ghs?leanpub?leanpub"}
 # - {icon: "usd", link: "https://www.buymeacoffee.com/chesslife"}
 
-# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
-# Other icons can be found at https://ionicons.com/v4/
+# Example of adding a new link to the footer - {icon: "instagram", link: "fa-brands fa-instagram"}
+# Other icons can be found at https://fontawesome.com/icons
 
 
 # Footer Navigation
