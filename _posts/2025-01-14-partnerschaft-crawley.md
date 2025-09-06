@@ -4,7 +4,7 @@ title: Schüleraustausch März 1974
 author: egbert
 date: 2025-01-14
 description: Die Geschichte der Schulpartnerschaft zwischen der Gerhart-Hauptmann-Realschule in Dorsten und der Thomas-Bennett-School in Crawley, England.
-image: '/images/crawley/IMG_1495[1].JPG'
+image: '/images/crawley/IMG_1495.JPG'
 video_embed: 
 tags: [Erinnerungen, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
