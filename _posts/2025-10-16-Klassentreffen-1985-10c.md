@@ -56,4 +56,35 @@ Der Abend war insgesamt geprägt von **kleinen und großen Erinnerungen**, von G
 
 ### Erinnerungen an Herrn Kronen
 
-Auch **Herr Kronen** wurde nicht vergessen: Einige Tage vor dem Treffen suchten ehemalige Schüler ihn auf, um ihn persönlich einzuladen. Doch mit **98 Jahren**, eingeschränktem Seh- und Hörvermögen, fühlte er sich für ein solches Wieders
+Auch **Herr Kronen** wurde nicht vergessen: Einige Tage vor dem Treffen suchten ehemalige Schüler ihn auf, um ihn persönlich einzuladen. Doch mit **98 Jahren**, eingeschränktem Seh- und Hörvermögen, fühlte er sich für ein solches Wiedersehen nicht mehr fit genug – ließ aber **herzliche Grüße** an seine frühere Klasse ausrichten.
+
+---
+
+### Ein Versprechen für die Zukunft
+
+Am Ende des Abends waren sich alle einig: **Das nächste Wiedersehen wird nicht erst in weiteren 40 Jahren stattfinden.**  
+Zu groß war die Freude, zu lebendig die Gespräche und zu stark das Gefühl, wieder „zurück in der alten Klasse“ zu sein.
+
+---
+
+📸 **Fotos vom Abend**
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (1).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 1">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (2).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 2">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (3).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 3">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (4).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 4">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (5).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 5">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (6).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 6">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (7).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 7">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (8).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 8">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (9).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 9">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (10).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 10">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (11).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 11">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (12).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 12">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (13).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 13">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (14).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 14">
+  </div>
+  <em>Gallery · Fotos: Detlev Stoffel</em>
+</div>
