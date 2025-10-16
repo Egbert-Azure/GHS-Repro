@@ -16,7 +16,7 @@ featured: false
 **„Das Klassentreffen der Jahrgangsstufe 1985“** – so titelte die *Dorstener Zeitung*. Und tatsächlich:
 Die ehemalige **Klasse 10c der Gerhart-Hauptmann-Realschule**, Abschlussjahrgang **1985**, traf sich nach **vier Jahrzehnten** erstmals wieder – ein besonderes Ereignis voller Emotionen, Erinnerungen und Geschichten, das bei **Hülsdünker** gefeiert wurde.
 
-<img src="images/Klassentreffen-1985-10c/Zeitung.jpg>
+<img src="images/Klassentreffen-1985-10c/Zeitung.jpg">
 
 ---
 
