@@ -24,7 +24,7 @@ Die ehemalige **Klasse 10c der Gerhart-Hauptmann-Realschule**, Abschlussjahrgang
 
 Von den damaligen Schülerinnen und Schülern waren **16 Ehemalige** gekommen. Besonders gefreut hat sich die Runde über den Besuch von gleich **drei Lehrkräften**, die eigens für diesen Anlass erschienen: **Gerd Braun**, **Henrike Braun** und **Claudia Mölken**.  
 
-Dass sich Gerd Braun – inzwischen **85 Jahre alt** – noch einmal auf den Weg machte, freute alle ganz besonders. Seine Frau Henrike ist 13 Jahre jünger, und auch **Claudia Mölken** war sofort wieder „mittendrin“ im Klassentreffen, als wäre seit der letzten Unterrichtsstunde kaum Zeit vergangen.
+Dass sich Gerd Braun – inzwischen **85 Jahre alt** – noch einmal auf den Weg machte, freute alle ganz besonders. Gemeinsam mit seinen damaligen Kolleginnen **Henrike Braun** und **Claudia Mölken** war er sofort wieder „mittendrin“ im Klassentreffen – als wären seit der letzten gemeinsamen Schulzeit kaum Jahrzehnte vergangen.
 
 ---
 
