@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 40 Jahre später – Wiedersehen der Klasse 10c
-author: egbert
+author: detlev
 date: 2025-06-28
 description: Das erste Klassentreffen der 10c (Abschlussjahrgang 1985) – vier Jahrzehnte nach dem Schulabschluss
-image: '/images/klassentreffen-10c-1985.jpg'
+image: '/images/Klassentreffen-1985-10c/Titel-1985-10c.jpg'
 video_embed: 
 tags: [Erinnerungen, Klassentreffen, 10c, 1985]
 tags_color: '#b25642'
