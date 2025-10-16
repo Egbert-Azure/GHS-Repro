@@ -67,5 +67,5 @@ Zu groß war die Freude, zu lebendig die Gespräche und zu stark das Gefühl, wi
     <img src="/images/Klassentreffen-1985-10c/1985-10c (13).jpg" loading="lazy">
     <img src="/images/Klassentreffen-1985-10c/1985-10c (14).jpg" loading="lazy">
   </div>
-  <em>Gallery / <a target="_blank">Fotos: Egbert Schroeer</a></em>
+  <em>Gallery / <a target="_blank">Fotos: Detlev Stoffel</a></em>
 </div>
