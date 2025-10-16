@@ -13,9 +13,10 @@ featured: false
 
 ## 40 Jahre später – Wiedersehen der Klasse 10c (Abschlussjahrgang 1985)
 
-**„Unsere Abschlussklasse trifft sich morgen zum ersten Klassentreffen nach 40 Jahren“** – so titelte die *Dorstener Zeitung* am **26. Juni 2025**. Und tatsächlich: Am **28. Juni 2025** wurde aus dieser kleinen Ankündigung ein großes Wiedersehen.  
-
+**„Das Klassentreffen der Jahrgangsstufe 1985“** – so titelte die *Dorstener Zeitung*. Und tatsächlich:
 Die ehemalige **Klasse 10c der Gerhart-Hauptmann-Realschule**, Abschlussjahrgang **1985**, traf sich nach **vier Jahrzehnten** erstmals wieder – ein besonderes Ereignis voller Emotionen, Erinnerungen und Geschichten, das bei **Hülsdünker** gefeiert wurde.
+
+<img src="images/Klassentreffen-1985-10c/Zeitung.jpg>
 
 ---
 
