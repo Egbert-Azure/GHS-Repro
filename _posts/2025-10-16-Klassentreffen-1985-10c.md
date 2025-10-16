@@ -13,10 +13,12 @@ featured: false
 
 ## 40 Jahre später – Wiedersehen der Klasse 10c (Abschlussjahrgang 1985)
 
-**„Das Klassentreffen der Jahrgangsstufe 1985“** – so titelte die *Dorstener Zeitung*. Und tatsächlich:
-Die ehemalige **Klasse 10c der Gerhart-Hauptmann-Realschule**, Abschlussjahrgang **1985**, traf sich nach **vier Jahrzehnten** erstmals wieder – ein besonderes Ereignis voller Emotionen, Erinnerungen und Geschichten, das bei **Hülsdünker** gefeiert wurde.
+Im Frühjahr hatte die *Dorstener Zeitung* bereits über das Klassentreffen der **10b (Abschlussjahrgang 1985)** berichtet – ein Ereignis, das den Auftakt zu mehreren Jubiläumstreffen ehemaliger GHS-Klassen bildete. 
 
 <img src="/images/Klassentreffen-1985-10c/Zeitung.jpg" loading="lazy" alt="Zeitungsartikel zum Klassentreffen der Jahrgangsstufe 1985 in der Dorstener Zeitung">
+
+Nun, einige Monate später, war es am **28. Juni 2025** auch für die **10c** soweit:  
+Die ehemalige Klasse traf sich nach **vier Jahrzehnten** erstmals wieder – ein besonderes Ereignis voller Emotionen, Erinnerungen und Geschichten, das bei **Hülsdünker** gefeiert wurde.
 
 ---
 
