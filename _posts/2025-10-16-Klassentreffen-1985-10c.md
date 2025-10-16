@@ -5,7 +5,7 @@ author: detlev
 date: 2025-10-16
 description: Das erste Klassentreffen der 10c (Abschlussjahrgang 1985) – vier Jahrzehnte nach dem Schulabschluss
 image: '/images/Klassentreffen-1985-10c/Titel-1985-10c.jpg'
-video_embed: 
+video_embed:
 tags: [Erinnerungen, Klassentreffen, 10c, 1985]
 tags_color: '#b25642'
 featured: false
@@ -16,7 +16,7 @@ featured: false
 **„Das Klassentreffen der Jahrgangsstufe 1985“** – so titelte die *Dorstener Zeitung*. Und tatsächlich:
 Die ehemalige **Klasse 10c der Gerhart-Hauptmann-Realschule**, Abschlussjahrgang **1985**, traf sich nach **vier Jahrzehnten** erstmals wieder – ein besonderes Ereignis voller Emotionen, Erinnerungen und Geschichten, das bei **Hülsdünker** gefeiert wurde.
 
-<img src="images/Klassentreffen-1985-10c/Zeitung.jpg" loading="lazy" alt="Zeitung">
+<img src="/images/Klassentreffen-1985-10c/Zeitung.jpg" loading="lazy" alt="Zeitungsartikel zum Klassentreffen der Jahrgangsstufe 1985 in der Dorstener Zeitung">
 
 ---
 
@@ -53,20 +53,20 @@ Zu groß war die Freude, zu lebendig die Gespräche und zu stark das Gefühl, wi
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (1).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (2).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (3).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (4).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (5).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (6).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (7).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (8).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (9).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (10).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (11).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (12).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (13).jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1985-10c/1985-10c (14).jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (1).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 1">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (2).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 2">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (3).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 3">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (4).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 4">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (5).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 5">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (6).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 6">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (7).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 7">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (8).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 8">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (9).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 9">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (10).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 10">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (11).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 11">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (12).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 12">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (13).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 13">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (14).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 14">
   </div>
-  <em>Gallery / <a target="_blank">Fotos: Detlev Stoffel</a></em>
+  <em>Gallery · Fotos: Detlev Stoffel</em>
 </div>
