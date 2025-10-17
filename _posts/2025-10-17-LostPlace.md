@@ -63,10 +63,8 @@ Die Gerhart-Hauptmann-Schule galt bei ihrer Eröffnung einst als eine der modern
 
 Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinnerungsstücke aus vergangenen Zeiten auf – wie etwa ein alter **Raumplan aus dem Jahr 2013**, der zeigt, welche Lehrer damals in welchen Klassenräumen unterrichteten. Ein kleines Stück Schulgeschichte, das viele von uns sofort wieder in die eigene Schulzeit zurückversetzt.
 
-![Raumplan von 2013](/images/ghs-abriss/raumplan-2013.jpg)  
+![Raumplan von 2013](/images/ghs-abriss/raumplan.jpg)  
 *Gefunden bei einer Begehung: der originale Raumplan der GHS von 2013.*
-
----
 
 ## Fazit
 
