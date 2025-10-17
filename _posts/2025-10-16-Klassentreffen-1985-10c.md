@@ -89,4 +89,11 @@ Zu groß war die Freude, zu lebendig die Gespräche und zu stark das Gefühl, wi
     <img src="/images/Klassentreffen-1985-10c/1985-10c (7).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 7">
     <img src="/images/Klassentreffen-1985-10c/1985-10c (8).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 8">
     <img src="/images/Klassentreffen-1985-10c/1985-10c (9).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 9">
-    <img src="/images/Klassentreffen-1985-10c/1985
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (10).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 10">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (11).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 11">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (12).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 12">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (13).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 13">
+    <img src="/images/Klassentreffen-1985-10c/1985-10c (14).jpg" loading="lazy" alt="Klassentreffen 10c – Foto 14">
+  </div>
+  <em>Gallery · Fotos: Detlev Stoffel</em>
+</div>
