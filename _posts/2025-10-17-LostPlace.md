@@ -32,7 +32,7 @@ Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** a
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/ghs-abriss/abriss-11.jpg" loading="lazy" alt="Abriss – Zugang Südseite">
+    <img src="/images/ghs-abriss/abriss-10.jpg" loading="lazy" alt="Abriss – Zugang Südseite">
     <img src="/images/ghs-abriss/abriss-13.jpg" loading="lazy" alt="Abriss – BauWatch Banner am Eingang">
     <img src="/images/ghs-abriss/abriss-12.jpg" loading="lazy" alt="Abriss – Innenhof mit Absperrung">
   </div>
