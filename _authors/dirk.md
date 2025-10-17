@@ -25,4 +25,4 @@ Dirks Geschichte steht für eine Generation im Aufbruch – für Neugier, Freund
 
 ### Ein Herzensprojekt von Dirk
 
-<img src="/images/Dirk-Muehle.jpg" loading="lazy" alt="Historische Mühle – eines von Dirks Herzensprojekten" style="max-width:50%; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+<img src="/images/Dirk/Dirk-Muehle.jpg" loading="lazy" alt="Historische Mühle – eines von Dirks Herzensprojekten" style="max-width:50%; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
