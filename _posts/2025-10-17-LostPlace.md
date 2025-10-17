@@ -17,9 +17,18 @@ Für viele von uns ist die ehemalige **Gerhart-Hauptmann-Realschule** noch immer
 
 ### Vom Schulhaus zur Abenteurer-Kulisse
 
-Immer mehr sogenannte *Urban Explorer* oder **Lost-Place-Abenteurer** suchen in den leerstehenden Räumen den besonderen Nervenkitzel. Türen und Fenster stehen vielerorts offen, und der Zugang ist längst kein Hindernis mehr. Auch mehrere **Obdachlose** haben die verlassenen Klassenzimmer und Flure inzwischen als Schlafplatz entdeckt.  
+Immer mehr sogenannte *Urban Explorer* oder **Lost-Place-Abenteurer** suchen in den leerstehenden Räumen den besonderen Nervenkitzel. Türen und Fenster stehen vielerorts offen, und der Zugang ist längst kein Hindernis mehr. Auch mehrere **Obdachlose** haben die verlassenen Klassenzimmer und Flure inzwischen als Schlafplatz entdeckt.
 
-Leider blieb es nicht nur bei harmlosen Erkundungstouren: In der **Turnhalle wurde ein Feuer gelegt** – glücklicherweise ohne großen Schaden, doch der Vorfall zeigt, wie sehr sich die Situation verändert hat.  
+Leider blieb es nicht nur bei harmlosen Erkundungstouren: In der **Turnhalle wurde ein Feuer gelegt** – glücklicherweise ohne größeren Schaden, doch der Vorfall zeigt, wie sehr sich die Situation verändert hat.
+
+Bei einem meiner letzten Besuche habe ich da, **bevor die Kameras installiert wurden**, jemanden mit einer **Schubkarre** angetroffen, der sich die **roten Pflastersteine** weggeholt hat; **die Schule ist also auch ein Baustofflieferant.**
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/ghs-abriss/abriss (1).jpg" loading="lazy" alt="Fehlende rote Pflastersteine im überdachten Gang der ehemaligen GHS; Aufnahme vor Installation der Kameras.">
+  </div>
+  <em>Foto: Norbert Bogatzki</em>
+</div>
 
 ---
 
@@ -32,9 +41,9 @@ Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** a
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/ghs-abriss/abriss-10.jpg" loading="lazy" alt="Abriss – Zugang Südseite">
-    <img src="/images/ghs-abriss/abriss-13.jpg" loading="lazy" alt="Abriss – BauWatch Banner am Eingang">
-    <img src="/images/ghs-abriss/abriss-12.jpg" loading="lazy" alt="Abriss – Innenhof mit Absperrung">
+    <img src="/images/ghs-abriss/abriss-10.jpg" loading="lazy" alt="BauWatch-Überwachungsbanner an der ehemaligen Gerhart-Hauptmann-Realschule, angebracht an einer Außenwand im herbstlich bewachsenen Schulhof.">
+    <img src="/images/ghs-abriss/abriss-12.jpg" loading="lazy" alt="Mit Graffiti besprühtes BauWatch-Sicherheitsbanner am verschlossenen Eingangstor des Schulgeländes, umgeben von Herbstlaub und Bäumen.">
+    <img src="/images/ghs-abriss/abriss-13.jpg" loading="lazy" alt="Informationsschild zur Videoüberwachung und Datenschutz-Hinweise nach Art. 13 DSGVO, ausgehängt am Gelände der ehemaligen Gerhart-Hauptmann-Realschule.">
   </div>
   <em>Gallery · Fotos: Norbert Bogatzki</em>
 </div>
