@@ -13,13 +13,6 @@ featured: false
 
 ## Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen
 
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <video controls style="max-width:60%; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-    <source src="/images/ghs-abriss/rundblick.mp4" type="video/mp4">
-    Ihr Browser unterstützt kein HTML5-Video.
-  </video>
-</div>
-
 Für viele von uns ist die ehemalige **Gerhart-Hauptmann-Realschule** noch immer ein Ort voller Erinnerungen – an Klassenfahrten, Pausenhofgeschichten und unvergessliche Stunden im Unterricht. Doch die Realität vor Ort sieht mittlerweile ganz anders aus: Der geplante Abriss lässt weiterhin auf sich warten, und das Gelände hat sich in den letzten Jahren zu einem regelrechten **„Lost Place“** entwickelt.
 
 ---
@@ -75,6 +68,18 @@ Die Gerhart-Hauptmann-Schule galt bei ihrer Eröffnung einst als eine der modern
   </div>
   <em>Galerie · Eindrücke des heutigen Schulgeländes rund um das Hauptgebäude</em>
 </div>
+
+---
+
+### Das ehemalige Hausmeisterhaus
+
+Im folgenden kurzen Smartphone-Video ist das alte – damals hypermoderne – **Hausmeisterhaus mit Fernheizung** zu sehen, in dem einst *„Joe“ Wagner* mit seiner Frau lebte. Gut zu erkennen ist, dass es **bis heute bewohnt** ist: Im Garten hängt Wäsche auf der Leine, und aus dem Schornstein wächst ein kleiner **Birkenbaum** – den hätte man längst entfernen können.
+
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <video controls style="max-width:60%; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+    <source src="/images/ghs-abriss/hausmeisterhaus.mp4" type="video/mp4">
+    Ihr Browser unterstützt kein HTML5-Video.
+  </video>
 
 ---
 
