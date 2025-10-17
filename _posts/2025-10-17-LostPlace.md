@@ -7,13 +7,14 @@ categories: [GHS, Abriss, Geschichte]
 tags: [GHS, Lost Place, Dorsten, BauWatch, Schulgeschichte]
 description: "Während der Abriss der Gerhart-Hauptmann-Realschule weiter auf sich warten lässt, hat sich das Gelände zu einem Lost Place entwickelt – inklusive Security-Maßnahmen und Videoüberwachung."
 image: '/images/ghs-abriss/raumplan.jpg'
+tags_color: '#4c49cb'
 featured: false
 ---
 
 ## Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen
 
-<div style="margin:20px 0;">
-  <video controls style="max-width:100%; border-radius:12px;">
+<div style="display: flex; justify-content: center; margin: 30px 0;">
+  <video controls style="max-width:60%; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
     <source src="/images/ghs-abriss/rundblick.mp4" type="video/mp4">
     Ihr Browser unterstützt kein HTML5-Video.
   </video>
@@ -31,11 +32,9 @@ Leider blieb es nicht nur bei harmlosen Erkundungstouren: In der **Turnhalle wur
 
 Bei einem meiner letzten Besuche habe ich da, **bevor die Kameras installiert wurden**, jemanden mit einer **Schubkarre** angetroffen, der sich die **roten Pflastersteine** weggeholt hat; **die Schule ist also auch ein Baustofflieferant.**
 
-<div class="gallery-box">
-  <div class="gallery gallery--post">
-    <img src="/images/ghs-abriss/abriss (1).jpg" loading="lazy" alt="Fehlende rote Pflastersteine im überdachten Gang der ehemaligen GHS; Aufnahme vor Installation der Kameras." style="max-width:70%; height:auto;">
-  </div>
-  <em>Foto: Norbert Bogatzki</em>
+<div style="text-align:center; margin: 20px 0;">
+  <img src="/images/ghs-abriss/abriss (1).jpg" loading="lazy" alt="Fehlende rote Pflastersteine im überdachten Gang der ehemaligen GHS; Aufnahme vor Installation der Kameras." style="max-width:50%; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  <p><em>Foto: Norbert Bogatzki</em></p>
 </div>
 
 ---
@@ -83,8 +82,10 @@ Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinne
 
 Das gezeigte Fundstück stammt nicht von mir, sondern wurde mir freundlicherweise von einer jungen Dame aus der **„Lost-Place-Association“** überlassen. Sie hat es bei einer ihrer Begehungen entdeckt und mir zur Verfügung gestellt. Im Weiteren möchte sie sich umhören, ob auch andere Personen noch Fotos oder Funde aus ihren Erkundungen teilen können.
 
-<img src="/images/ghs-abriss/raumplan.jpg" style="max-width:70%; height:auto;">
-*Raumplan der GHS – gefunden bei einer Lost-Place-Begehung und zur Verfügung gestellt.*
+<div style="text-align:center; margin: 20px 0;">
+  <img src="/images/ghs-abriss/raumplan.jpg" style="max-width:50%; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  <p><em>Raumplan der GHS – gefunden bei einer Lost-Place-Begehung und zur Verfügung gestellt.</em></p>
+</div>
 
 ---
 
