@@ -61,8 +61,10 @@ Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** a
 
 Die Gerhart-Hauptmann-Schule galt bei ihrer Eröffnung einst als eine der modernsten Realschulen im Ruhrgebiet. Besonders die **Turnhalle** war ein echtes Aushängeschild, in dem zahlreiche sportliche Erfolge gefeiert wurden. Heute ist von diesem Glanz kaum noch etwas zu spüren: **zerbrochene Fenster, verlassene Klassenzimmer, überwucherte Wege** und leere Treppenhäuser prägen das Bild.
 
-![Verlassene Treppe im Schulgebäude](/images/ghs-abriss/abriss (17).jpg)  
-*Verwaiste Flure und Treppen erinnern nur noch entfernt an den Schulalltag.*
+<div style="text-align:center; margin: 20px 0;">
+  <img src="/images/ghs-abriss/abriss (17).jpg" loading="lazy" alt="Verlassene Treppe im Schulgebäude der ehemaligen GHS, die nur noch entfernt an den Schulalltag erinnert." style="max-width:50%; height:auto; border-radius:8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  <p><em>Verwaiste Flure und Treppen erinnern nur noch entfernt an den Schulalltag.</em></p>
+</div>
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
