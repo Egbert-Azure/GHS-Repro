@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen"
-author: "Norbert Bogatzki"
+author: norbert
 date: 2025-10-17
 categories: [GHS, Abriss, Geschichte]
 tags: [GHS, Lost Place, Dorsten, BauWatch, Schulgeschichte]
@@ -75,7 +75,7 @@ Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinne
 
 Das gezeigte Fundstück stammt nicht von mir, sondern wurde mir freundlicherweise von einer jungen Dame aus der **„Lost-Place-Association“** überlassen. Sie hat es bei einer ihrer Begehungen entdeckt und mir zur Verfügung gestellt. Im Weiteren möchte sie sich umhören, ob auch andere Personen noch Fotos oder Funde aus ihren Erkundungen teilen können.
 
-![Raumplan von 2013](/images/ghs-abriss/raumplan-2013.jpg)  
+<img src="/images/ghs-abriss/abriss (2).jpg">
 *Raumplan der GHS – gefunden bei einer Lost-Place-Begehung und zur Verfügung gestellt.*
 
 ---
@@ -83,6 +83,3 @@ Das gezeigte Fundstück stammt nicht von mir, sondern wurde mir freundlicherweis
 ## Fazit
 
 Auch wenn der endgültige Abriss noch auf sich warten lässt, verändert sich das Bild unserer alten Schule stetig. Vielleicht ist gerade jetzt die letzte Gelegenheit, noch einmal einen Blick auf diesen besonderen Ort zu werfen – bevor er bald endgültig Geschichte ist. Oder in Schubladen und Schränken nachzuschauen, ob es noch Fotos gibt.
-
-Viele Grüße  
-**Norbert Bogatzki**
