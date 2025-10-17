@@ -75,7 +75,7 @@ Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinne
 
 Das gezeigte Fundstück stammt nicht von mir, sondern wurde mir freundlicherweise von einer jungen Dame aus der **„Lost-Place-Association“** überlassen. Sie hat es bei einer ihrer Begehungen entdeckt und mir zur Verfügung gestellt. Im Weiteren möchte sie sich umhören, ob auch andere Personen noch Fotos oder Funde aus ihren Erkundungen teilen können.
 
-<img src="/images/ghs-abriss/abriss (2).jpg">
+<img src="/images/ghs-abriss/raumplan.jpg">
 *Raumplan der GHS – gefunden bei einer Lost-Place-Begehung und zur Verfügung gestellt.*
 
 ---
