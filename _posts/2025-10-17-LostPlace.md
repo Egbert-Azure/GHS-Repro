@@ -13,13 +13,6 @@ featured: false
 
 ## Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen
 
-<div style="display: flex; justify-content: center; margin: 30px 0;">
-  <video controls style="max-width:60%; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-    <source src="/images/ghs-abriss/rundblick.mp4" type="video/mp4">
-    Ihr Browser unterstützt kein HTML5-Video.
-  </video>
-</div>
-
 Für viele von uns ist die ehemalige **Gerhart-Hauptmann-Realschule** noch immer ein Ort voller Erinnerungen – an Klassenfahrten, Pausenhofgeschichten und unvergessliche Stunden im Unterricht. Doch die Realität vor Ort sieht mittlerweile ganz anders aus: Der geplante Abriss lässt weiterhin auf sich warten, und das Gelände hat sich in den letzten Jahren zu einem regelrechten **„Lost Place“** entwickelt.
 
 ---
