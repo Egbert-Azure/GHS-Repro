@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen"
-author: norbert
+author: "Norbert Bogatzki"
 date: 2025-10-17
 categories: [GHS, Abriss, Geschichte]
 tags: [GHS, Lost Place, Dorsten, BauWatch, Schulgeschichte]
@@ -11,7 +11,7 @@ video_embed: /images/ghs-abriss/rundblick.mp4
 
 ## Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen
 
-Für viele von uns ist die ehemalige **Gerhart-Hauptmann-Realschule** noch immer ein Ort voller Erinnerungen – an Klassenfahrten, Pausenhofgeschichten und unvergessliche Stunden im Unterricht. Doch die Realität vor Ort sieht mittlerweile ganz anders aus: Der geplante Abriss lässt weiterhin auf sich warten, und das Gelände hat sich in den letzten Jahren zu einem regelrechten **„Lost Place“** entwickelt.  
+Für viele von uns ist die ehemalige **Gerhart-Hauptmann-Realschule** noch immer ein Ort voller Erinnerungen – an Klassenfahrten, Pausenhofgeschichten und unvergessliche Stunden im Unterricht. Doch die Realität vor Ort sieht mittlerweile ganz anders aus: Der geplante Abriss lässt weiterhin auf sich warten, und das Gelände hat sich in den letzten Jahren zu einem regelrechten **„Lost Place“** entwickelt.
 
 ---
 
@@ -35,9 +35,7 @@ Bei einem meiner letzten Besuche habe ich da, **bevor die Kameras installiert wu
 ### Stadt reagiert mit Sicherheitsmaßnahmen
 
 Um solchen Vorfällen vorzubeugen, hat die Stadt Dorsten nun reagiert:  
-Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** ausgestattet. Über eine beauftragte Sicherheitsfirma – erkennbar an den „**Geschützt durch BauWatch**“-Schildern – wurden Kameras installiert, die das Gelände rund um die Uhr überwachen sollen. Auch entsprechende **Hinweisschilder gemäß DSGVO** informieren nun über die Videoüberwachung.  
-
-*Hinweisschilder und BauWatch-Banner schützen mittlerweile das Gelände.*
+Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** ausgestattet. Über eine beauftragte Sicherheitsfirma – erkennbar an den „**Geschützt durch BauWatch**“-Schildern – wurden Kameras installiert, die das Gelände rund um die Uhr überwachen sollen. Auch entsprechende **Hinweisschilder gemäß DSGVO** informieren nun über die Videoüberwachung.
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
@@ -48,23 +46,39 @@ Das Gelände ist mittlerweile **umzäunt** und mit einer **Videoüberwachung** a
   <em>Gallery · Fotos: Norbert Bogatzki</em>
 </div>
 
+*Hinweisschilder und BauWatch-Banner schützen mittlerweile das Gelände.*
+
 ---
 
 ### Ein Blick zurück
 
 Die Gerhart-Hauptmann-Schule galt bei ihrer Eröffnung einst als eine der modernsten Realschulen im Ruhrgebiet. Besonders die **Turnhalle** war ein echtes Aushängeschild, in dem zahlreiche sportliche Erfolge gefeiert wurden. Heute ist von diesem Glanz kaum noch etwas zu spüren: **zerbrochene Fenster, verlassene Klassenzimmer, überwucherte Wege** und leere Treppenhäuser prägen das Bild.
 
-![Verlassene Treppe im Schulgebäude](/images/ghs-abriss/treppenhaus.jpg)  
+![Verlassene Treppe im Schulgebäude](/images/ghs-abriss/abriss (17).jpg)  
 *Verwaiste Flure und Treppen erinnern nur noch entfernt an den Schulalltag.*
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/ghs-abriss/abriss (2).jpg" loading="lazy" alt="Außenansicht der ehemaligen Turnhalle mit starkem Bewuchs und Bauzaun.">
+    <img src="/images/ghs-abriss/abriss (3).jpg" loading="lazy" alt="Bunter Schülerkorridor mit verblasster Wandbemalung, heute leer und ungenutzt.">
+    <img src="/images/ghs-abriss/abriss (4).jpg" loading="lazy" alt="Gebäudeseite mit Graffiti und provisorischer Absperrung.">
+    <img src="/images/ghs-abriss/abriss (5).jpg" loading="lazy" alt="Leerer Schulhof mit Schatten und überwucherter Umgebung.">
+  </div>
+  <em>Galerie · Eindrücke des heutigen Schulgeländes rund um das Hauptgebäude</em>
+</div>
 
 ---
 
 ### Fundstücke aus vergangenen Tagen
 
-Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinnerungsstücke aus vergangenen Zeiten auf – wie etwa ein alter **Raumplan aus dem Jahr 2013**, der zeigt, welche Lehrer damals in welchen Klassenräumen unterrichteten. Ein kleines Stück Schulgeschichte, das viele von uns sofort wieder in die eigene Schulzeit zurückversetzt.
+Zwischen Staub, Schutt und verwitterten Schulmöbeln tauchen immer wieder Erinnerungsstücke aus vergangenen Zeiten auf – wie etwa ein alter **Raumplan aus dem Jahr 2013**, der zeigt, welche Lehrer damals in welchen Räumen unterrichteten.  
 
-![Raumplan von 2013](/images/ghs-abriss/raumplan.jpg)  
-*Gefunden bei einer Begehung: der originale Raumplan der GHS von 2013.*
+Das gezeigte Fundstück stammt nicht von mir, sondern wurde mir freundlicherweise von einer jungen Dame aus der **„Lost-Place-Association“** überlassen. Sie hat es bei einer ihrer Begehungen entdeckt und mir zur Verfügung gestellt. Im Weiteren möchte sie sich umhören, ob auch andere Personen noch Fotos oder Funde aus ihren Erkundungen teilen können.
+
+![Raumplan von 2013](/images/ghs-abriss/raumplan-2013.jpg)  
+*Raumplan der GHS – gefunden bei einer Lost-Place-Begehung und zur Verfügung gestellt.*
+
+---
 
 ## Fazit
 
