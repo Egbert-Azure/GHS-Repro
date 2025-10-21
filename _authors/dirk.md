@@ -12,8 +12,8 @@ facebook:
 ## In Erinnerung an Dirk Ruschitzka  
 *21. April 1959 – 12. Mai 2025*
 
-> If I don’t meet you again in this world, I’ll see you in the next one. And don’t be late.
-> — Jimi Hendrix
+**If I don’t meet you again in this world, I’ll see you in the next one. And don’t be late.**
+**— Jimi Hendrix**
 
 Dirk war ehemaliger Schüler der **Gerhart-Hauptmann-Realschule** (Abschlussjahrgang 1975) und ein guter Freund. Musik war seine große Leidenschaft – sie begleitete ihn sein ganzes Leben und verband uns bis zuletzt.
 
