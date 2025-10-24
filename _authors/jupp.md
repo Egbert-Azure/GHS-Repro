@@ -2,7 +2,7 @@
 username: jupp
 name: Hans-Josef Melzer
 description: Abschlussjahr 1975
-image:  # Add image post (optional)
+image: '/images/jupp.jpg' # Add image post (optional)
 cover: 
 location: 
 website: 

@@ -75,8 +75,10 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
 <div class="gallery-box">
   <div class="gallery gallery--post">
     <img src="/images/Klassentreffen-1975-10a/20250210_140704.jpg" loading="lazy" alt="Block der Jahrgänge 8/9/10">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140714.jpg" loading="lazy" alt="Block der Jahrgänge 5/6/7">
     <img src="/images/Klassentreffen-1975-10a/20250210_140727.jpg" loading="lazy" alt='"Neubau" - Sprachlabor und Klasse C'>
     <img src="/images/Klassentreffen-1975-10a/20250210_140735.jpg" loading="lazy" alt="Schulhof - Blick zum Chemieraum">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140808.jpg" loading="lazy" alt="Joe Wagner Hausmeisterwohnung">
     <img src="/images/Klassentreffen-1975-10a/20250210_140824.jpg" loading="lazy" alt="Toiletten von der Schulhofseite">
     <img src="/images/Klassentreffen-1975-10a/20250210_140845.jpg" loading="lazy" alt="Schulhof - Blick zur Turnhalle">
     <img src="/images/Klassentreffen-1975-10a/20250210_140848.jpg" loading="lazy" alt="Turnhalle Eingang">
@@ -85,5 +87,5 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
     <img src="/images/Klassentreffen-1975-10a/20250210_141030.jpg" loading="lazy" alt="Fahrradständer Nord">
     <img src="/images/Klassentreffen-1975-10a/20250210_141032.jpg" loading="lazy" alt="Toiletten von der Rückseite">
   </div>
-  <em>Gallery · Fotos: Bernhard Bittner</em>
+  <em>Gallery · Fotos: Egbert Schroeer</em>
 </div>
