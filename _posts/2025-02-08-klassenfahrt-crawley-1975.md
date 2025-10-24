@@ -17,12 +17,12 @@ featured: false
 
 ### Die Vorbereitung und Abreise
 
-Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt. 
-Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues. 
+Wie ich im letzten Blog beschrieben habe, wurde der Schüleraustausch mit Crawley durch einen Gegenbesuch offiziell besiegelt.
+Ende Juni, Anfang Juli 1974 war es dann soweit: Die Schüler der Klasse 10a machten sich auf den Weg, begleitet von ihrer Klassenlehrerin Frau Erika Dickhöfer und Herrn Osterhues.
 Eigentlich war es üblich eine sogenannte "Abschlussfahrt" in der 10ten Klasse zu machen, also später im Jahr. Aber die Partnerschaft mit Crawley musste vorangetrieben werden.
 Und so waren wir halt relativ früh mit der "grossen Fahrt" dran. Oder in anderen Worten: eine weitere Fahrt gab es nicht.
 
-Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte. 
+Schon auf der Hinfahrt gab es die ersten kleinen Abenteuer. Herr Osterhues, dem die Zigaretten ausgingen, musste seine Hemmungen überwinden und bat die Schüler um Nachschub – natürlich Samson, selbstgedrehte.
 Frau Dickhöfer, stets auf Zucht und Ordnung bedacht, war davon wenig begeistert.
 
 Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer Begleiter. Der Busfahrer, ein freundlicher Typ, war immer für einen Plausch zu haben.  
@@ -50,7 +50,7 @@ Am nächsten Morgen weckte uns Mrs. Leare mit einer Tasse Tee ans Bett (Paul und
 
 ### Erste Eindrücke vom Schulalltag
 
-Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Einen praktischen Werksunterricht gab es auch. Dort schreinerte man kleiner Dinge und lernte den Umgang mit Säge, Bohr- und Schleifmaschinen. Auch die Ganztagsschule war ungewohnt. 
+Der Unterricht an der Thomas Bennett School war ganz anders als in Deutschland. Besonders beeindruckend fand ich die praktischen Experimente im Chemie- und Physikunterricht. Einen praktischen Werksunterricht gab es auch. Dort schreinerte man kleiner Dinge und lernte den Umgang mit Säge, Bohr- und Schleifmaschinen. Auch die Ganztagsschule war ungewohnt.
 Mittags hätte ich eigentlich zur Familie Leare zurückkehren sollen, was ich anfangs missverstanden hatte. Frau Leare wartete vergeblich auf mich. Zum Glück klärte sich das schnell, und ab dem nächsten Tag lief alles reibungslos – es gab klassische Fish & Chips.
 Trotzdem, es war mir sehr peinlich.
 
@@ -60,7 +60,7 @@ Trotzdem, es war mir sehr peinlich.
 
 Natürlich waren wir als Thestosteron gesteuerte reine Jungengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
-Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies. 
+Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies.
 Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen.
 Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden. Es ging glimpflich aus als die Bobbies ihnen gegenüber standen.
 Ausser "Passkontrolle" und einige Worte in für uns unverständlichem British Englisch und das war’s.
@@ -107,7 +107,6 @@ Ein halbes Jahr nach der Rückkehr tauchte die Jacke, inklusive der Papiere – 
 
 Dirk Ruschitzka erinnert sich, dass wir das legendäre Deutschland-Holland-Endspiel der WM 1974 im Chemiesaal der Schule sahen. Das Ergebnis ist bekannt: 2:1 für Deutschland! Eine weniger angenehme Erinnerung war Willis Einkauf von Whisky, der für uns alle neu war. Dirks Gasteltern hatten lange damit zu tun, die Flecken vom Wohnzimmerteppich zu entfernen. Frau Dickhöfer fand das am nächsten Tag gar nicht amüsant.  
 
-
 ---
 
 ## Ausflüge und Erlebnisse
@@ -131,9 +130,9 @@ Auf dem zweiten Bild rechts mit der gelben Regenjacke ist Dirk Ruschitzka und li
 </div>
 
 - **London:** Eine pulsierende Metropole mit Highlights wie dem Tower of London und der Themse.  
-Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden. 
-In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben. 
-Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah. 
+Nach einem informativen Pflichtprogramm hatten wir die Möglichkeit, die Stadt in kleinen Gruppen zu erkunden.
+In einem Pub, das wir besuchten, glaubte ich meine Kamera verloren zu haben.
+Doch eines der Mädchen, die uns in der Woche nicht aus den Augen liessen und uns begleiten durften, hatte sie an sich genommen, und hatte einen Heidenspass, als sie mich in Panik sah.
 Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
 
 <div class="gallery-box">
@@ -149,13 +148,13 @@ Meine Erleichterung war gross, als ich die Kamera wieder in den Händen hielt.
 
 ### Die Rückfahrt
 
-Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Peter kam schließlich noch vorbei, um seine Schulden zu begleichen. 
+Der Abschied war herzlich, und wir tauschten noch die letzten Adressen aus. Peter kam schließlich noch vorbei, um seine Schulden zu begleichen.
 Wir hatten auf das Spiel Deutschland gegen Holland gewettet, und wie man es von Engländern kennt – echte Sportsleute, die zu ihrem Wort stehen.
 
 Die Verpflegung, die mir Mrs. Leare für die Rückreise mitgab, hätte locker für zwei Tage gereicht. Es gab gefüllte kleine Pasteten und Sandwiches, liebevoll in den typischen englischen Schichten belegt – einige mit Senf, andere mit Mayonnaise.
 
-Auf der Fähre wurde es dann turbulent, als wir auf eine Mädchenklasse aus England trafen. Es herrschte ein ausgelassenes Chaos, und die Mädchen schrieben mit Kugelschreibern und Filzstiften ihre Adressen auf meinen Rücken sowie auf die Rücken einiger Mitschüler aus meiner Klasse. 
-Leider war das Ganze wenig hilfreich: Zum einen hätte die Schrift in Spiegelschrift sein müssen, und zum anderen war sie bis zu unserer Ankunft zu Hause komplett unleserlich. 
+Auf der Fähre wurde es dann turbulent, als wir auf eine Mädchenklasse aus England trafen. Es herrschte ein ausgelassenes Chaos, und die Mädchen schrieben mit Kugelschreibern und Filzstiften ihre Adressen auf meinen Rücken sowie auf die Rücken einiger Mitschüler aus meiner Klasse.
+Leider war das Ganze wenig hilfreich: Zum einen hätte die Schrift in Spiegelschrift sein müssen, und zum anderen war sie bis zu unserer Ankunft zu Hause komplett unleserlich.
 Trotzdem war es eine lustige Aktion, an die ich mich noch heute mit einem Schmunzeln erinnere.
 
 Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Dieser Austausch war der erste offizielle Besuch einer Dorstener Schule im Ausland, was natürlich für Aufmerksamkeit sorgte. Ein Zeitungsbericht wurde verfasst, und bis heute muss ich über den vermeintlichen Austausch von Kochrezepten schmunzeln. Es mag stimmen, aber für uns standen damals wohl andere Dinge im Vordergrund.
@@ -167,6 +166,3 @@ Als wir schließlich in Dorsten ankamen, wartete die Presse bereits auf uns. Die
 Nach 50 Jahren erinnert man sich doch noch an viele Details, sowohl an wichtige als auch an weniger bedeutende. Und wenn alles gut läuft, wird es im Oktober ein Wiedersehen geben – teils persönlich, teils virtuell. Die drei Organisatoren planen ein Klassentreffen. Wenn nicht jetzt, wann dann?
 
 Zu Peter und seiner Familie habe ich den Kontakt verloren. Doch auf LinkedIn konnte ich ihn wiederfinden und erfuhr, dass Peter heute - wie ich -in den USA lebt, in Bedford, New Hampshire. Sein Bruder blieb in Crawley und führt dort ein Handwerksgeschäft.
-
-
-
