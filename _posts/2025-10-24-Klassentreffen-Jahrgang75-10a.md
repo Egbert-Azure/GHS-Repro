@@ -13,7 +13,7 @@ description: "Ehemalige der Gerhart-Hauptmann-Realschule trafen sich nach 50 Jah
 Im Juni 1975 war der letzte Schultag für 32 Schüler der **Gerhart-Hauptmann-Realschule Dorsten**.  
 Am **18. Oktober 2025** trafen sich 18 von ihnen, um dieses besondere Jubiläum gemeinsam zu feiern. Der goldene Abschlussjahrgang beging sein 50-jähriges Klassentreffen in geselliger Runde im Restaurant **Grüterig in Dorf Hervest**.
 
-Von den Teilnehmenden hatte einer die längste Anreise aus **München**, während die größte Entfernung – **Redmond (US-Westküste)** – per Videokonferenz überbrückt wurde. So konnte auch der weit entfernt lebende ehemalige Mitschüler **Egbert Schroeer** live aus den USA teilnehmen.
+Von den Teilnehmenden hatte einer die längste Anreise aus **München**, Karl-Heinz Mast, während die größte Entfernung – **Redmond (US-Westküste)** – per Videokonferenz überbrückt wurde. So konnte auch der weit entfernt lebende ehemalige Mitschüler **Egbert Schröer** live aus den USA teilnehmen.
 
 Die alten Geschichten waren schnell wieder präsent, Erinnerungen wurden aufgefrischt, und es wurde viel gelacht. Nach diesem rundum gelungenen Abend beschlossen die Teilnehmenden, den bisherigen **Fünf-Jahres-Rhythmus** künftiger Treffen zu verkürzen – künftig soll man sich **mindestens alle zweieinhalb Jahre** wiedersehen.
 
