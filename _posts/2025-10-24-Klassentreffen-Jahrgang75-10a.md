@@ -56,25 +56,20 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0001.jpg" loading="lazy"> 
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0002.jpg" loading="lazy">
     <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0003.jpg" loading="lazy">
     <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0007.jpg" loading="lazy">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0004.jpg" loading="lazy" alt="Fröhliche Runde der ehemaligen Schüler mit Getränken und Fotos aus alten Tagen.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0005.jpg" loading="lazy" alt="Stimmungsvolles Foto der Jubiläumsfeier im Restaurant Grüterig.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0006.jpg" loading="lazy" alt="Detailaufnahme eines Erinnerungsalbums oder alter Klassenfotos.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0011.jpg" loading="lazy" alt="Gesellige Stimmung beim gemeinsamen Essen der Klasse 10a.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0012.jpg" loading="lazy" alt="Digitale Zuschaltung von Egbert Schroeer aus Redmond (USA) während des Treffens.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0014.jpg" loading="lazy" alt="Gedenkfoto für Dirk Ruschitzka (1959–2025), langjähriger Teilnehmer der Klassentreffen.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0015.jpg" loading="lazy" alt="Stimmungsvolle Szene beim Ausklang des Abends im Restaurant Grüterig.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0022.jpg" loading="lazy" alt="Letzter Gruppenblick – 50 Jahre später vereint im Lachen, Erinnern und Freundschaft.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0004.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0005.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0006.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0011.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0012.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0014.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0015.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0022.jpg" loading="lazy">
   </div>
   <em>Gallery · Fotos: Bernhard Bittner</em>
 </div>
 
 
-**Text:** Jupp Melzer
+## Ein Blick zurück
 
-**Fotos & Montage:** Bernhard Bittner
-
-**Ort:** Restaurant Grüterig, Dorf Hervest, Dorsten
