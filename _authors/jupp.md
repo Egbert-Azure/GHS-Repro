@@ -10,4 +10,4 @@ twitter:
 facebook: 
 ---
 
-Ehemaligre Schüler der Gerhart-Hauptmann-Realschule, Abschlussjahrgang 1975, Klasse 10a
+Ehemaliger Schüler der Gerhart-Hauptmann-Realschule, Abschlussjahrgang 1975, Klasse 10a
