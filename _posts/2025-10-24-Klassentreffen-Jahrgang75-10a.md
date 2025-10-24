@@ -104,5 +104,5 @@ Am **24. Oktober 2025** erschien in der **Dorstener Zeitung** ein Artikel über 
     <img src="/images/Klassentreffen-1975-10a/20250210_141030.jpg" loading="lazy" alt="Fahrradständer Nord">
     <img src="/images/Klassentreffen-1975-10a/20250210_141032.jpg" loading="lazy" alt="Toiletten von der Rückseite">
   </div>
-  <em>Gallery · Fotos: Egbert Schroeer</em>
+  <em>Gallery · Fotos: Bernhard Bittner</em>
 </div>
