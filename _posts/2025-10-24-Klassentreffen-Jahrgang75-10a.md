@@ -70,6 +70,20 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
   <em>Gallery · Fotos: Bernhard Bittner</em>
 </div>
 
-
 ## Ein Blick zurück
 
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140704.jpg" loading="lazy" alt="Block der Jahrgänge 8/9/10">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140727.jpg" loading="lazy" alt='"Neubau" - Sprachlabor und Klasse C'>
+    <img src="/images/Klassentreffen-1975-10a/20250210_140735.jpg" loading="lazy" alt="Schulhof - Blick zum Chemieraum">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140824.jpg" loading="lazy" alt="Toiletten von der Schulhofseite">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140845.jpg" loading="lazy" alt="Schulhof - Blick zur Turnhalle">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140848.jpg" loading="lazy" alt="Turnhalle Eingang">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140859.jpg" loading="lazy" alt="Fahrradständer neben der Turnhalle">
+    <img src="/images/Klassentreffen-1975-10a/20250210_140912.jpg" loading="lazy" alt="Eingang">
+    <img src="/images/Klassentreffen-1975-10a/20250210_141030.jpg" loading="lazy" alt="Fahrradständer Nord">
+    <img src="/images/Klassentreffen-1975-10a/20250210_141032.jpg" loading="lazy" alt="Toiletten von der Rückseite">
+  </div>
+  <em>Gallery · Fotos: Bernhard Bittner</em>
+</div>
