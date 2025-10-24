@@ -4,7 +4,7 @@ title: "50 Jahre später – Wiedersehen der Klasse 10a (Abschlussjahrgang 1975)
 date: 2025-10-24
 categories: [Klassentreffen, Ehemalige]
 author: jupp
-image: /images/Klassentreffen-1975-10a/20251020_111928.jpg
+image: /images/Klassentreffen-1975-10a/Dorstener Zeitung.jpg
 description: "Ehemalige der Gerhart-Hauptmann-Realschule trafen sich nach 50 Jahren in geselliger Runde – mit einem digitalen Gruß aus den USA und einem stillen Gedenken an Dirk Ruschitzka."
 ---
 
@@ -69,6 +69,23 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
   </div>
   <em>Gallery · Fotos: Bernhard Bittner</em>
 </div>
+
+---
+
+## In der Dorstener Zeitung
+
+Auch die lokale Presse berichtete über das besondere Jubiläum:  
+Am **24. Oktober 2025** erschien in der **Dorstener Zeitung** ein Artikel über das 50-jährige Klassentreffen der 10a der Gerhart-Hauptmann-Realschule.
+
+<div style="display:flex;justify-content:center;margin:30px 0;">
+  <img src="/images/Klassentreffen-1975-10a/Dorstener Zeitung.jpg"
+       alt="Zeitungsartikel über das 50-jährige Klassentreffen der GHS Dorsten in der Dorstener Zeitung vom 24. Oktober 2025"
+       style="max-width:80%;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.3);">
+</div>
+
+<em>Quelle: Dorstener Zeitung, Ausgabe vom 24.10.2025 · Foto: Privat</em>
+
+---
 
 ## Ein Blick zurück
 
