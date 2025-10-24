@@ -28,7 +28,7 @@ Seine Fröhlichkeit, sein Humor und seine Leidenschaft für Musik bleiben allen 
 
 ---
 
-## Menü des Abends – Restaurant Grüterig
+## Menü des Abends – Restaurant Grütering
 
 Auch kulinarisch wurde das Jubiläum besonders gestaltet.  
 Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kleine Auswahlkarte vorbereitet:
