@@ -37,8 +37,8 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
   Hühnersuppe mit Fleischeinlage · Carpaccio vom Rinderfilet mit Rucola und Parmesan · Scampispieß auf Knoblauch-Dill-Sauce  
 
 - **Hauptgerichte:**  
-  Schnitzel „Wiener Art“ mit Pommes und Sauce nach Wahl · Lustiger Bosniak (Rumpsteak mit Schinken und Käse) ·   
-  Zanderfilet mit Brokkoliröschen und Butterreis · Rinderfilet „Art des Hauses“ · Schweinefilet „Hubertus“ ·   
+  Schnitzel „Wiener Art“ mit Pommes und Sauce nach Wahl · Lustiger Bosniak (Rumpsteak mit Schinken und Käse) ·
+  Zanderfilet mit Brokkoliröschen und Butterreis · Rinderfilet „Art des Hauses“ · Schweinefilet „Hubertus“ ·
   Vegetarisch: Champignons „Berner Art“ oder gebackener Ziegenkäse  
 
 - **Desserts:**  
@@ -52,6 +52,32 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
 
 ---
 
-**Text:** Jupp Melzer  
-**Fotos & Montage:** Bernhard Bittner 
+## Eindrücke vom Abend
+
+<div class="gallery-box">
+  <div class="gallery gallery--post">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0000.jpg" loading="lazy" alt="Gruppenfoto der Klasse 10a beim 50-jährigen Klassentreffen im Restaurant Grüterig in Dorf Hervest.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0001.jpg" loading="lazy" alt="Ehemalige Schülerinnen und Schüler der Gerhart-Hauptmann-Realschule im Gespräch während des Jubiläumstreffens.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0002.jpg" loading="lazy" alt="Blick auf die festlich gedeckte Tafel im Restaurant Grüterig mit Speisekarten und Getränken.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0003.jpg" loading="lazy" alt="Lachende Teilnehmer der Klasse 10a beim Wiedersehen nach 50 Jahren.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0007.jpg" loading="lazy" alt="Gruppenfoto mit weiteren Gästen und ehemaligen Mitschülern der 10a.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0001.jpg" loading="lazy" alt="Detailaufnahme der Jubiläumstafel mit Menükarte und Getränken.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0002.jpg" loading="lazy" alt="Ehemalige Klassenkameraden im Gespräch am Tisch während des Treffens.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0003.jpg" loading="lazy" alt="Teilnehmer tauschen Erinnerungen und Geschichten aus der Schulzeit aus.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0004.jpg" loading="lazy" alt="Fröhliche Runde der ehemaligen Schüler mit Getränken und Fotos aus alten Tagen.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0005.jpg" loading="lazy" alt="Stimmungsvolles Foto der Jubiläumsfeier im Restaurant Grüterig.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0006.jpg" loading="lazy" alt="Detailaufnahme eines Erinnerungsalbums oder alter Klassenfotos.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0011.jpg" loading="lazy" alt="Gesellige Stimmung beim gemeinsamen Essen der Klasse 10a.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0012.jpg" loading="lazy" alt="Digitale Zuschaltung von Egbert Schroeer aus Redmond (USA) während des Treffens.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0014.jpg" loading="lazy" alt="Gedenkfoto für Dirk Ruschitzka (1959–2025), langjähriger Teilnehmer der Klassentreffen.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0015.jpg" loading="lazy" alt="Stimmungsvolle Szene beim Ausklang des Abends im Restaurant Grüterig.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0022.jpg" loading="lazy" alt="Letzter Gruppenblick – 50 Jahre später vereint im Lachen, Erinnern und Freundschaft.">
+  </div>
+  <em>Gallery · Fotos: Bernhard Bittner & Egbert Schroeer</em>
+</div>
+
+**Text:** Jupp Melzer
+
+**Fotos & Montage:** Bernhard Bittner
+
 **Ort:** Restaurant Grüterig, Dorf Hervest, Dorsten
