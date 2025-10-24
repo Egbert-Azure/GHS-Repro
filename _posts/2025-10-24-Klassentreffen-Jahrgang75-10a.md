@@ -56,11 +56,10 @@ Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kle
 
 <div class="gallery-box">
   <div class="gallery gallery--post">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0001.jpg" loading="lazy" alt="Ehemalige Schülerinnen und Schüler der Gerhart-Hauptmann-Realschule im Gespräch während des Jubiläumstreffens.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0002.jpg" loading="lazy" alt="Blick auf die festlich gedeckte Tafel im Restaurant Grüterig mit Speisekarten und Getränken.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0003.jpg" loading="lazy" alt="Lachende Teilnehmer der Klasse 10a beim Wiedersehen nach 50 Jahren.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0007.jpg" loading="lazy" alt="Gruppenfoto mit weiteren Gästen und ehemaligen Mitschülern der 10a.">
-    <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0003.jpg" loading="lazy" alt="Teilnehmer tauschen Erinnerungen und Geschichten aus der Schulzeit aus.">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0001.jpg" loading="lazy"> 
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0002.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0003.jpg" loading="lazy">
+    <img src="/images/Klassentreffen-1975-10a/IMG-20251018-WA0007.jpg" loading="lazy">
     <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0004.jpg" loading="lazy" alt="Fröhliche Runde der ehemaligen Schüler mit Getränken und Fotos aus alten Tagen.">
     <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0005.jpg" loading="lazy" alt="Stimmungsvolles Foto der Jubiläumsfeier im Restaurant Grüterig.">
     <img src="/images/Klassentreffen-1975-10a/IMG-20251019-WA0006.jpg" loading="lazy" alt="Detailaufnahme eines Erinnerungsalbums oder alter Klassenfotos.">
