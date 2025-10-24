@@ -31,7 +31,7 @@ Seine Fröhlichkeit, sein Humor und seine Leidenschaft für Musik bleiben allen 
 ## Menü des Abends – Restaurant Grütering
 
 Auch kulinarisch wurde das Jubiläum besonders gestaltet.  
-Das Team des **Restaurants Grüterig** hatte eigens für die Klasse 10a eine kleine Auswahlkarte vorbereitet:
+Das Team des **Restaurants Grütering** hatte eigens für die Klasse 10a eine kleine Auswahlkarte vorbereitet:
 
 - **Vorspeisen:**  
   Hühnersuppe mit Fleischeinlage · Carpaccio vom Rinderfilet mit Rucola und Parmesan · Scampispieß auf Knoblauch-Dill-Sauce  
