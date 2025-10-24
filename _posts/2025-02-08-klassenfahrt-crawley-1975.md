@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Klassenfahrt der 10a 1974 nach England
-author: Egbert
+author: egbert
 date: 2025-02-08
 description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
 image: '/images/crawley/The George Hotel.jpg'
@@ -61,8 +61,8 @@ Trotzdem, es war mir sehr peinlich.
 Natürlich waren wir als Thestosteron gesteuerte reine Jungengruppe voller - na ja  sagen wir.. Entdeckerdrang. Trotz Begleitung schafften wir es, die örtlichen Pubs zu erkunden und auf eigen Faust loszuziehen. Frau Dickhoefer fand das gemäss ihrem Lehrauftrag natürlich nicht gut. Besonders beliebt war „The New Moon“. Dank Willi, der über 18 war, konnten wir den Altersbeschränkungen meistens entkommen – ein echtes Abenteuer!
 
 Das Abenteuer endete für Kalle (Karl-Heinz Mast) und Akki (Andreas Kieslich) allerdings mit einer Begegnung mit den englischen Bobbies. 
-Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen. 
-Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden. Es ging glimpflich aus als die Bbbies ihnen gegenüber standen.
+Im jugendlichen Übermut zogen sie sich an einem Bretterzaun hoch, um darüber zu schauen.
+Die im Garten sitzende Bewohnerin machte einen Höllenlärm und rief die Polizei. Schlecht für die beiden. Es ging glimpflich aus als die Bobbies ihnen gegenüber standen.
 Ausser "Passkontrolle" und einige Worte in für uns unverständlichem British Englisch und das war’s.
 
 ![Pub](../images/Crawley/the-pub-early-autumn.jpg)
