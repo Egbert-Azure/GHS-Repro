@@ -32,39 +32,39 @@ export default {
   text: {
     // Over a year old when mailed: a post brought back from the old school website.
     label: (item, now) => (now - Date.parse(item.date) > YEAR ? "Aus dem Archiv" : "Neuer Beitrag"),
-    readButton: "Beitrag lesen",
-    subjectMany: (n) => `${n} neue Beiträge – ${NAME}`,
+    readButton: "Weiterlesen",
+    subjectMany: (n) => `${n} neue Beiträge auf der GHS-Seite`,
     headingMany: "Neu auf der GHS-Seite",
-    more: (n) => (n === 1 ? "… und ein weiterer neuer Beitrag." : `… und ${n} weitere neue Beiträge.`),
-    moreButton: "Alle Beiträge im Blog",
+    more: (n) => (n === 1 ? "Außerdem gibt es einen weiteren neuen Beitrag." : `Außerdem gibt es ${n} weitere neue Beiträge.`),
+    moreButton: "Alle Beiträge ansehen",
 
     subscriberFooter: ({ a, unsubscribeUrl }) =>
-      `Du bekommst diese E-Mail, weil Du den Newsletter von ${NAME} auf ${a(SITE, HOST)} abonniert hast. ` +
-      `${a(unsubscribeUrl, "Abmelden")} mit einem Klick.`,
+      `Sie erhalten diese E-Mail, weil Sie den Newsletter der GHS-Seite (${a(SITE, HOST)}) abonniert haben. ` +
+      `Hier können Sie sich mit einem Klick ${a(unsubscribeUrl, "abmelden")}.`,
     subscriberFooterText: ({ unsubscribeUrl }) =>
-      `Du bekommst diese E-Mail, weil Du den Newsletter von ${NAME} auf ${HOST} abonniert hast.\n` +
+      `Sie erhalten diese E-Mail, weil Sie den Newsletter der GHS-Seite (${HOST}) abonniert haben.\n` +
       `Abmelden mit einem Klick: ${unsubscribeUrl}`,
 
     confirm: {
-      subject: `Bitte bestätigen: Newsletter ${NAME}`,
-      heading: "Ein Klick zur Bestätigung",
-      intro: "Danke für Deine Anmeldung. Bitte bestätige Deine Adresse, dann bekommst Du eine kurze E-Mail, sobald auf der Seite etwas Neues erscheint.",
-      button: "Anmeldung bestätigen",
-      ignore: "Du hast Dich nicht angemeldet? Dann ignoriere diese E-Mail einfach. Du bekommst nichts weiter.",
-      footer: ({ a }) => `Verschickt, weil jemand diese Adresse auf ${a(`${SITE}/newsletter/`, `${HOST}/newsletter/`)} eingetragen hat.`,
+      subject: "Bitte bestätigen Sie Ihr Abonnement des GHS-Newsletters",
+      heading: "Bitte bestätigen Sie Ihr Abonnement",
+      intro: "Vielen Dank für Ihr Interesse am Newsletter der GHS-Seite. Bitte bestätigen Sie Ihr Abonnement mit einem Klick auf den Button. Danach erhalten Sie eine kurze E-Mail, sobald es einen neuen Beitrag gibt.",
+      button: "Abonnement bestätigen",
+      ignore: "Sie haben sich nicht angemeldet? Dann ignorieren Sie diese E-Mail einfach. Sie erhalten dann keine weiteren Nachrichten.",
+      footer: ({ a }) => `Diese E-Mail wurde verschickt, weil Ihre Adresse auf ${a(`${SITE}/newsletter/`, `${HOST}/newsletter/`)} eingetragen wurde.`,
     },
 
     moved: {
-      subject: `${NAME}: Der Newsletter ist umgezogen`,
+      subject: "Der GHS-Newsletter ist umgezogen",
       heading: "Der Newsletter ist umgezogen",
       paragraphs: ({ a, detailsUrl }) => [
-        "Du hast die Neuigkeiten der GHS-Seite bisher über follow.it bekommen. Ab jetzt verschickt die Seite sie selbst: ohne Werbung, nur eine kurze E-Mail, wenn ein neuer Beitrag erscheint.",
-        `Es geht auch um Deine Daten. Deine Adresse liegt nicht mehr bei einer Newsletter-Firma, die von Werbung lebt, sondern bei der Seite selbst. Sie wird nur für diesen Newsletter verwendet und nie weitergegeben oder verkauft. Die E-Mails enthalten kein Tracking, und beim Abmelden wird Deine Adresse gelöscht. ${a(detailsUrl, "Wie Deine Adresse behandelt wird")}.`,
-        "Du musst nichts tun. Wenn Du den Newsletter nicht mehr bekommen möchtest, meldest Du Dich unten mit einem Klick ab.",
+        "Bisher haben Sie die Neuigkeiten der GHS-Seite über den Dienst follow.it erhalten. Ab sofort verschickt die Seite den Newsletter selbst – ohne Werbung und nur dann, wenn es einen neuen Beitrag gibt.",
+        `Ihre E-Mail-Adresse liegt damit nicht mehr bei einem Newsletter-Dienst, der sich über Werbung finanziert. Sie wird ausschließlich für diesen Newsletter verwendet und weder weitergegeben noch verkauft. ${a(detailsUrl, "Mehr zum Datenschutz")}`,
+        "Sie müssen nichts weiter tun. Wenn Sie den Newsletter nicht mehr erhalten möchten, können Sie sich unten mit einem Klick abmelden.",
         "Viele Grüße<br>Egbert",
       ],
-      detailsUrl: `${SITE}/newsletter/#deine-adresse`,
-      latestLabel: "Neuester Beitrag",
+      detailsUrl: `${SITE}/newsletter/#datenschutz`,
+      latestLabel: "Der neueste Beitrag",
       visitButton: "Zur GHS-Seite",
     },
   },

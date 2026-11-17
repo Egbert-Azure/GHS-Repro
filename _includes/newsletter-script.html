@@ -26,7 +26,7 @@
       .then(function (response) { return response.json(); })
       .then(function (data) { window.location.replace("/newsletter/?state=" + encodeURIComponent(data.state || "error-link")); })
       .catch(function () {
-        action.textContent = "Da ist etwas schiefgegangen. Bitte versuche den Link aus Deiner E-Mail in einer Minute noch einmal.";
+        action.textContent = "Leider ist ein Fehler aufgetreten. Bitte klicken Sie in einer Minute noch einmal auf den Link in Ihrer E-Mail.";
       });
   }
 })();
