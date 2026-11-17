@@ -1,0 +1,41 @@
+---
+title: Newsletter
+description: "Eine kurze E-Mail, wenn auf der Seite etwas Neues erscheint. Keine Werbung, sonst nichts."
+permalink: /newsletter/
+---
+<div class="newsletter-status" data-newsletter-states hidden>
+  <p data-state="check-your-inbox" hidden><strong>Fast geschafft.</strong> Bitte schau in Dein Postfach und klicke auf den Link in der E-Mail, um die Anmeldung zu bestätigen. Nach ein paar Minuten noch keine E-Mail da? Dann schau bitte im Spam-Ordner nach.</p>
+  <p data-state="welcome" hidden><strong>Du bist angemeldet.</strong> Danke! Du bekommst eine kurze E-Mail, sobald es etwas Neues gibt.</p>
+  <p data-state="unsubscribed" hidden><strong>Du bist abgemeldet.</strong> Deine Adresse ist gelöscht. Schade, dass Du gehst. Du bist jederzeit wieder willkommen.</p>
+  <p data-state="error-email" hidden>Diese E-Mail-Adresse sieht nicht richtig aus. Bitte prüfe sie und versuche es noch einmal.</p>
+  <p data-state="error-link" hidden>Dieser Link funktioniert nicht mehr. Bitte melde Dich unten neu an.</p>
+  <p data-state="error-busy" hidden>Da ist bei mir etwas schiefgegangen. Bitte versuche es später noch einmal.</p>
+</div>
+
+<div class="form-box newsletter-box">
+  <form class="form" action="/api/subscribe" method="POST" data-newsletter-form>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="newsletter-email">Deine E-Mail-Adresse</label>
+      <input class="form__input" id="newsletter-email" type="email" name="email" autocomplete="email" placeholder="Deine E-Mail-Adresse..." required>
+    </div>
+    <div class="form__group newsletter-trap" aria-hidden="true">
+      <label for="newsletter-website">Dieses Feld bitte leer lassen</label>
+      <input id="newsletter-website" type="text" name="website" tabindex="-1" autocomplete="off">
+    </div>
+    <div class="form__group">
+      <button class="button" type="submit">Anmelden</button>
+    </div>
+  </form>
+</div>
+
+<h2>Was Du bekommst</h2>
+
+<p>Eine kurze E-Mail, wenn ein neuer Beitrag erscheint oder ein alter aus dem Webarchiv zurückkehrt: Titel, zwei Zeilen und ein Link. Mehr nicht.</p>
+
+<h2 id="deine-adresse">Deine Adresse</h2>
+
+<p>Deine Adresse wird nur für diesen Newsletter verwendet. Sie liegt beim Hoster der Seite, Netlify, und die E-Mails verschickt der Maildienst Resend. Sie wird nie weitergegeben oder verkauft, und die E-Mails enthalten kein Tracking. Du bestätigst die Anmeldung mit einem Klick, jede E-Mail hat einen Link zum Abmelden mit einem Klick, und beim Abmelden wird Deine Adresse gelöscht.</p>
+
+<p>Lieber einen Feedreader? Hier ist der <a href="{{ '/feed.xml' | relative_url }}">RSS-Feed</a>.</p>
+
+{% include newsletter-script.html %}

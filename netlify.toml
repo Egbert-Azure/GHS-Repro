@@ -1,0 +1,4 @@
+# Build settings (command, publish folder) stay in the Netlify UI.
+# Node.js only builds the Netlify Functions (the newsletter).
+[build.environment]
+  NODE_VERSION = "22"

@@ -1,0 +1,8 @@
+{
+  "name": "ghs-repro",
+  "private": true,
+  "description": "Netlify Functions for ghs.myvortexcloud.com (newsletter). The site itself is Jekyll.",
+  "dependencies": {
+    "@netlify/blobs": "^10.7.13"
+  }
+}
