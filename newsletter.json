@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /newsletter.json
+sitemap: false
+---
+{%- comment -%}
+  What the newsletter function announces: every post on the site, newest first.
+  All of them, not only the newest, because posts restored from the web archive keep
+  their old date. A post with "newsletter: false" in its front matter is never mailed.
+  Pictures come through the Netlify Image CDN as JPEG (Outlook can't show WebP),
+  cropped to 3:2 from the top so heads in class photos stay in.
+{%- endcomment -%}
+{%- assign mailposts = site.posts | where_exp: "p", "p.newsletter != false" -%}
+{
+  "posts": [
+    {%- for p in mailposts %}
+    {%- capture img %}{% if p.image %}{{ site.url }}/.netlify/images?url={{ p.image | url_encode | replace: "+", "%20" }}&w=1040&h=694&fit=cover&position=top&fm=jpg&q=80{% endif %}{% endcapture %}
+    {"title": {{ p.title | jsonify }}, "description": {{ p.description | default: p.excerpt | strip_html | strip_newlines | strip | truncate: 220 | jsonify }}, "url": {{ p.url | absolute_url | jsonify }}, "date": {{ p.date | date_to_xmlschema | jsonify }}, "image": {{ img | strip | jsonify }}}{% unless forloop.last %},{% endunless %}
+    {%- endfor %}
+  ]
+}

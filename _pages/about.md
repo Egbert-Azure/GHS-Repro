@@ -15,5 +15,5 @@ Over time old content will appear here on the website, restored from the webarch
 
 Actually the site is still in the makeing and some functions might be limited. To get the latest and greatest updates, just follow the website and
 
-[<ion-icon name="logo-rss"></ion-icon> Please subscribe](https://follow.it/ghs?leanpub?leanpub)
+[Please subscribe to the newsletter](/newsletter/)
 

@@ -1,0 +1,24 @@
+/* Newsletter sign-up (/newsletter/) */
+.newsletter-status {
+  margin: 0 0 32px;
+  padding: 16px 20px;
+  background: var(--background-alt-color);
+  border-left: 3px solid var(--brand-color);
+  border-radius: 8px;
+
+  p {
+    margin: 0;
+  }
+}
+
+.newsletter-box {
+  margin-bottom: 48px;
+}
+
+.newsletter-trap {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}

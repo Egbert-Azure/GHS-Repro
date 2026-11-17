@@ -111,8 +111,9 @@ social:
 # - {icon: "fa-brands fa-codepen", link: "https://codepen.io"}
 # - {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
 # - {icon: "fa-brands fa-vimeo-v", link: "https://vimeo.com"}
-- {icon: "linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/"}
-- {icon: "rss", link: "https://follow.it/ghs?leanpub?leanpub"}
+- {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/egbert-schroeer/", label: "LinkedIn"}
+- {icon: "fa-solid fa-envelope", link: "/newsletter/", label: "Newsletter per E-Mail"}
+- {icon: "fa-solid fa-rss", link: "/feed.xml", label: "RSS-Feed"}
 # - {icon: "usd", link: "https://www.buymeacoffee.com/chesslife"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "fa-brands fa-instagram"}
@@ -130,6 +131,8 @@ footer__menu__settings:
       url: '/lebensbild/'
     - title: 'Kontakt'
       url: '/kontakt/'
+    - title: 'Newsletter'
+      url: '/newsletter/'
     - title: 'About'
       url: '/about/'
 

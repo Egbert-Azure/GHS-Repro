@@ -1,0 +1,33 @@
+<script>
+/* Newsletter pages: /newsletter/?state=... shows the matching message. The confirm and
+   unsubscribe pages post their token to the function and then go back to /newsletter/. */
+(function () {
+  var params = new URLSearchParams(window.location.search);
+  var states = document.querySelector("[data-newsletter-states]");
+  if (states) {
+    var state = params.get("state");
+    var message = state && states.querySelector('[data-state="' + CSS.escape(state) + '"]');
+    if (message) {
+      message.hidden = false;
+      states.hidden = false;
+      if (["check-your-inbox", "welcome", "unsubscribed"].indexOf(state) >= 0) {
+        var form = document.querySelector("[data-newsletter-form]");
+        if (form) form.hidden = true;
+      }
+    }
+  }
+  var action = document.querySelector("[data-newsletter-action]");
+  if (action) {
+    var token = params.get("t") || "";
+    fetch(action.getAttribute("data-newsletter-action") + "?t=" + encodeURIComponent(token), {
+      method: "POST",
+      headers: { Accept: "application/json" }
+    })
+      .then(function (response) { return response.json(); })
+      .then(function (data) { window.location.replace("/newsletter/?state=" + encodeURIComponent(data.state || "error-link")); })
+      .catch(function () {
+        action.textContent = "Leider ist ein Fehler aufgetreten. Bitte klicken Sie in einer Minute noch einmal auf den Link in Ihrer E-Mail.";
+      });
+  }
+})();
+</script>

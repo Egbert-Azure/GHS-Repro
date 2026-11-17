@@ -51,5 +51,18 @@ defaults:
       layout: "author"
 
 
+exclude:
+  - netlify   # Netlify Functions (the newsletter), not part of the site
+  - netlify.toml
+  - package.json
+  - package-lock.json
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
 sass:
   style: compressed
