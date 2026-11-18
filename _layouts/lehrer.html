@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- A teacher's profile: photo, name, role, text, and the posts about him or her -->
+<!-- A teacher's profile: photo, name, role, text, the Kollegium photos, and every post that mentions him or her -->
 <div class="container">
   <div class="page-head lehrer-kopf">
     <div class="lehrer-kopf__bild">
@@ -20,19 +20,34 @@ layout: default
   <article class="page">
     <div class="page__content">
       {{ content }}
+
+      {% if page.kollegium %}
+      <p class="lehrer-kollegium"><i class="fa-solid fa-users" aria-hidden="true"></i>
+        Auf dem Kollegiumsfoto:
+        {% for k in page.kollegium %}<a href="{{ '/kollegium/' | relative_url }}#stand-{{ k.jahr }}">{{ k.jahr }}, Nr. {{ k.nr }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}
+      </p>
+      {% endif %}
+
+      {% if page.autor %}
+        {% assign lehrer_autor = site.authors | where: "slug", page.autor | first %}
+        {% if lehrer_autor %}<p><a href="{{ lehrer_autor.url | relative_url }}">Beiträge von {{ lehrer_autor.name }} <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>{% endif %}
+      {% endif %}
+
       {% if page.website %}<p><a href="{{ page.website }}" target="_blank" rel="noopener">Mehr bei Wikipedia</a></p>{% endif %}
     </div>
 
-    {% if page.beitraege %}
+    {% if page.suche %}
+    {% include lehrer-treffer.html suche=page.suche %}
+    {% if lehrer_treffer.size > 0 %}
     <section class="lehrer-beitraege">
-      <h2 class="thema__titel">Mehr über {{ page.name }}</h2>
+      <h2 class="thema__titel">{{ page.name }} in den Beiträgen</h2>
       <div class="row">
-        {% for name in page.beitraege %}
-          {% assign lp = site.posts | where_exp: "p", "p.path contains name" | first %}
-          {% if lp %}<div class="col col-6 col-t-12">{% include karte.html post=lp %}</div>{% endif %}
+        {% for lp in lehrer_treffer %}
+          <div class="col col-6 col-t-12">{% include karte.html post=lp %}</div>
         {% endfor %}
       </div>
     </section>
+    {% endif %}
     {% endif %}
   </article>
 </div>
