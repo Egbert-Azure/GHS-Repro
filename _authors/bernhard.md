@@ -2,7 +2,7 @@
 username: bernhard
 name: Bernhard Bittner
 description: Abschlussjahr 1975
-image: '/images/student-male.png'
+image: '/images/bernhard.jpg'
 cover:
 location:
 website:
