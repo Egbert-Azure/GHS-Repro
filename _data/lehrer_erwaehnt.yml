@@ -37,8 +37,6 @@
 - name: Frau Schlicker
   rolle: Chemie
   suche: [Schlicker]
-- name: Herr Sellheyer
-  suche: [Sellheyer]
 - name: Tobias Steinhausen
   rolle: Sozialwissenschaften
   suche: [Steinhausen]

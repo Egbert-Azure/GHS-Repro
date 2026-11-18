@@ -43,7 +43,7 @@ Wer ist wer? Die Nummern auf den Umrisszeichnungen gehören zu den Namen in den 
 |--------|------------------|--------|------------------|
 | 1      | Frau Flötgen (Ehefrau, keine Lehrerin) | 20 | Frau Sprickermann (Ehefrau des Hausmeisters) |
 | 2      | Frau Meissner    | 21     | Frau Downer      |
-| 3      | (Referendarin)   | 22     | Herr Sellheyer   |
+| 3      | (Referendarin)   | 22     | [Herr Sellheyer](/lehrer/sellheyer/) |
 | 4      | (Referendarin)   | 23     | Frau Thelen      |
 | 5      | Frau Vennewald (Säger) | 24 | [Herr Fißer](/lehrer/fisser/) |
 | 6      | Frau Fink        | 25     | [Herr Bruns](/lehrer/bruns/) |

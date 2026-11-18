@@ -227,3 +227,7 @@
   img { display: block; width: 100%; height: auto; border: 1px solid var(--border-color); border-radius: 4px; }
   figcaption { margin-top: 6px; font-size: 14px; color: var(--text-alt-color); }
 }
+
+/* Second author under the post title: "A und B" on one line */
+.post__autoren { margin-bottom: 6px; font-size: 14px; .post__author__name { margin-bottom: 0; } }
+.mitautor .card-author { margin-top: 16px; }
