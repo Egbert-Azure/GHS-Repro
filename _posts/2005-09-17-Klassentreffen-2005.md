@@ -8,8 +8,7 @@ image: /images/Klassentreffen-2005/gruppenfoto.jpg
 description: "30 Jahre nach der Schulentlassung trafen sich Ehemalige der Klasse 10a (Abschlussjahrgang 1975) am 17. September 2005 zum Klassentreffen."
 tags_color: '#b25642'
 featured: false
-rubrik: erinnerungen
-thema: Abschlussjahrgänge
+rubrik: neues
 tags: [Klassentreffen]
 ---
 
