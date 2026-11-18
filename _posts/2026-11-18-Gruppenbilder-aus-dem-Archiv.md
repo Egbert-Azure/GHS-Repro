@@ -28,11 +28,9 @@ Vorne liegt der Sportlehrer [Gerd Sellheyer](/lehrer/sellheyer/).
 
 Hinter ihm hocken von links Thorsten Badde, Michael Brünnig, Oliver Albert, Michael Thust, Martina Heinrich, Hüseyn Davraz, Bärbel Jauer und Nicola Lützner (Otte). Stehend von links: Carsten Meichsner (hinten im hellblauen T-Shirt), Astrid Regina Stappert (halb verdeckt, neben dem Jungen im blauen Adidas-Trikot), Petra Hosemann, Gaby Seifert (im weißen Pulli), Anke Ridderbusch (im dunkelblauen Pulli), mit Brille Astrid Brinkmann (Zuschlag) und Manuela Lidtke (im gelben Pulli). Hinter Astrid Brinkmann steht Robert Craddock.
 
-Ob das Turnhallenfoto in unserer Großturnhalle entstand, wissen wir nicht sicher. Auf den Fotos von 2024 im Beitrag [Abschied von der Turnhalle](/blog/turnhalle) sehen die Wände anders aus: weiße Steine und helle Paneele statt gelochter Steine und brauner Holzverkleidung.
-
 <figure>
   <img src="/images/klassenfotos-radmer-krenz/klassenraum.jpg" loading="lazy" alt="Klassenfoto im Klassenraum">
   <figcaption style="margin-top: 6px; font-size: 0.85em;">Im Klassenraum</figcaption>
 </figure>
 
-Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Jahr diese Klasse ihren Abschluss gemacht hat, in welchem Schuljahr die Fotos entstanden sind, welche Klasse im Klassenraum zu sehen ist und wo das Turnhallenfoto entstand? Schreib uns über das [Kontaktformular](/kontakt/).
+Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Jahr diese Klasse ihren Abschluss gemacht hat? Schreib uns über das [Kontaktformular](/kontakt/).
