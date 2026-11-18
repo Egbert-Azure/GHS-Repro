@@ -1,7 +1,7 @@
 ---
 name: Peter Sladek
 description: Schulleiter
-image:
+image: '/images/lehrer/sladek.jpg'
 kollegium:
   - jahr: 2000
     nr: 22

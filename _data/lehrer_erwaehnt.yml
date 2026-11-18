@@ -22,8 +22,6 @@
 - name: Herr Hofmann
   rolle: Informatik
   suche: [Herr Hofmann]
-- name: Karl-Heinz Klocke
-  suche: [Klocke]
 - name: Christina Köhn
   rolle: Sozialwissenschaften
   suche: [Christina Köhn, Frau Koehn]
