@@ -1,7 +1,7 @@
 ---
 name: Elke Heidrich
 description: Informatiklehrerin und Konrektorin
-image: '/images/verabschiedung-elke-heidrich2.jpg'
+image: '/images/lehrer/heidrich.jpg'
 kollegium:
   - jahr: 2000
     nr: 23

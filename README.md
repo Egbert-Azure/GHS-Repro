@@ -18,8 +18,10 @@ Every post belongs to one of four areas. The area is one line in the post's fron
 rubrik: archiv            # restored from the old school website (2001–2016)
 rubrik: erinnerungen      # memories of alumni; also needs a thema: line (see below)
 rubrik: schulgeschichte   # history of the school
-rubrik: neues             # reunions, the school grounds, current news
+rubrik: wiedersehen       # every class reunion (whatever the year), the school grounds, current news
 ```
+
+A post can belong to two areas; it then shows up in both and counts in both: `rubrik: [wiedersehen, erinnerungen]` (plus the `thema:` line for Erinnerungen), as in the 2005 reunion.
 
 Memories also name their group, exactly as written on the Erinnerungen page (`themen:` in `_pages/erinnerungen.html`):
 

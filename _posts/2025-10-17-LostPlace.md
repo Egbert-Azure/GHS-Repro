@@ -9,7 +9,7 @@ description: "Während der Abriss der Gerhart-Hauptmann-Realschule weiter auf si
 image: '/images/ghs-abriss/raumplan.jpg'
 tags_color: '#4c49cb'
 featured: false
-rubrik: neues
+rubrik: wiedersehen
 ---
 
 ## Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen

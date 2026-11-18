@@ -2,3 +2,13 @@
 # Node.js only builds the Netlify Functions (the newsletter).
 [build.environment]
   NODE_VERSION = "22"
+
+# The area "Neues" was renamed "Wiedersehen" (Nov 2026); keep old links working.
+[[redirects]]
+  from = "/neues"
+  to = "/wiedersehen/"
+  status = 301
+[[redirects]]
+  from = "/neues/*"
+  to = "/wiedersehen/"
+  status = 301
