@@ -32,6 +32,4 @@ Am 24. Oktober 2015, 40 Jahre nach der Schulentlassung, trafen sich ehemalige Sc
   </div>
 </div>
 
-<small>Fotos: Bernhard Bittner</small>
-
 Warst Du dabei, weißt Du mehr über den Abend oder hast Du weitere Fotos? Schreib uns über das [Kontaktformular](/kontakt/).
