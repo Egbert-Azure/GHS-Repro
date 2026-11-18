@@ -6,7 +6,7 @@ date: 2024-04-18
 description: Eine Zeitreise zurück in die analoge Welt der Fotografie - Der Lehrer Rolf Bruns initiert die erste Foto AG
 image: '/images/foto-ag.jpg'
 video_embed: 
-tags: [Geschichten, Erinnerungen, Zeitgeist]
+tags: [AGs, Lehrer]
 tags_color: '#4c49cb'
 featured: false
 rubrik: erinnerungen

@@ -5,7 +5,7 @@ date: 2001-08-01
 author: barbara
 description: Barbara Dirks stellt sich vor
 image: # Add image post (optional)
-tags: [SV, Schulsprecher]
+tags: [Schulleben]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

@@ -6,7 +6,7 @@ author: elke
 description: Projekttag des 8. Jahrgangs an der Gerhart-Hauptmann-Realschule
 image: '/images/projects.jpg' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Projekte]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

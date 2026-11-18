@@ -1,6 +1,6 @@
 <!-- begin comments -->
 <div class="show-comments animate">
-  <button class="button button--big disqus-button" id="show-comments-button" onclick="disqus();return false;">Show Comments</button>
+  <button class="button button--big disqus-button" id="show-comments-button" onclick="disqus();return false;">Kommentare anzeigen</button>
 </div>
 
 <div id="disqus_thread" class="post__comments">
@@ -9,6 +9,7 @@
 
 <script>
   var disqus_loaded = false;
+  var disqus_config = function () { this.language = "de"; };
   var disqus_shortname = '{{ site.data.settings.disqus-identifier }}';
   var disqus_container = document.getElementById("disqus_thread");
   function disqus() {
@@ -29,7 +30,7 @@
   }
 </script>
 
-<noscript>Please enable JavaScript to view the
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+<noscript>Für die Kommentare wird JavaScript benötigt.
+  <a href="https://disqus.com/?ref_noscript">Kommentare von Disqus</a>
 </noscript>
 <!-- end comments -->

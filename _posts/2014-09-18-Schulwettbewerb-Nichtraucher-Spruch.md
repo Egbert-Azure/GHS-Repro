@@ -6,7 +6,7 @@ date: 2014-09-18
 description: Weg mit den Kippen, das versifft die Lippen
 image: '/images/Neues_files/nosmoke.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten, Wettbewerb]
+tags: [Schulleben, Wettbewerbe]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

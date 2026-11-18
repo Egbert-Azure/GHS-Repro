@@ -1,19 +1,11 @@
 ---
-username: egbert
-name: Egbert Schroeer
-image: 
-cover:
-location: USA
-website: 
-twitter: 
-facebook:
+title: Über diese Seite
 ---
 
-I'm a retired Microsoft Executive, Amateur Genealogist, Amateur Chess Player, Mentor, Book Author, and proud alum of GHS graduating class of 1975. I am deeply invested in preserving the rich legacy of our beloved school. In the face of its closure in 2016 and impending demolition, it's crucial to ensure that the memories, achievements, and traditions of Great GHS are not forgotten. Through this website, I aim to create a digital archive where alumni, faculty, and community members can come together to reminisce, share stories, and celebrate the lasting impact of our alma mater. Together, let's ensure that the spirit of Great GHS continues to inspire future generations.
+Diese Seite bewahrt die Erinnerung an die Gerhart-Hauptmann-Realschule in Dorsten. Die Schule wurde 2016 nach 56 Jahren geschlossen, das Gebäude soll abgerissen werden.
 
-Over time old content will appear here on the website, restored from the webarchive while new content from GHS alumni will be published too.
+Hier kommt dreierlei zusammen: die alte Website der Schule aus den Jahren 2001 bis 2016, wiederhergestellt aus dem Webarchiv; die Geschichte der Schule seit ihrer Gründung 1960; und die Erinnerungen von Ehemaligen, Lehrern und allen, die mit der Schule verbunden sind.
 
-Actually the site is still in the makeing and some functions might be limited. To get the latest and greatest updates, just follow the website and
+Ich bin Egbert Schroeer, Abschlussjahrgang 1975, Klasse 10a. Früher war ich Führungskraft bei Microsoft, heute lebe ich im Ruhestand in den USA. Ich beschäftige mich mit Familienforschung, Fotografie und Fernschach, bin Mentor und schreibe Bücher.
 
-[Please subscribe to the newsletter](/newsletter/)
-
+Die Seite lebt von den Beiträgen der Ehemaligen. Wenn Du Fotos, Zeitungsartikel oder Erinnerungen hast, schreib mir über das [Kontaktformular](/kontakt/). Über neue Beiträge informiert Dich der [Newsletter](/newsletter/).

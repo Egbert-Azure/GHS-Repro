@@ -5,7 +5,7 @@ date: 2001-09-26
 author: elke
 description: Förderung der Berufswahlreife (Berufsorientierung) seit Januar 1984 dreiwöchiges Betriebspraktikum ermöglicht.
 image: '/images/berufswa.gif' # Add image post (optional)
-tags: [Praktikum, Berufswahl]
+tags: [Schulleben]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

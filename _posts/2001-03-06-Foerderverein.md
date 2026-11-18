@@ -6,7 +6,7 @@ date: 2001-03-06
 description: Förderverein der Gerhart-Hauptmann-Schule gegründet
 image: '/images/Neues_files/notes.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten, Förderverein]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

@@ -6,7 +6,7 @@ author: andreas
 description: Die große Herausforderung – ein Englischwettbewerb
 image: '/images/The Big Challenge_files/challenge.jpg' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Wettbewerbe]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

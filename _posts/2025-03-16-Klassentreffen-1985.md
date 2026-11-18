@@ -6,7 +6,7 @@ date: 2025-03-16
 description: Das 5. Klassentreffen der 10b (Abschlussjahrgang 1985)
 image: '/images/Klassentreffen1985.jpg'
 video_embed: 
-tags: [Erinnerungen, Klassentreffen]
+tags: [Klassentreffen]
 tags_color: '#b25642'
 featured: false
 rubrik: neues

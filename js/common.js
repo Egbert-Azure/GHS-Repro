@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
     resultsContainer: document.getElementById("js-results-container"),
     json: "/search.json",
     searchResultTemplate: '<a class="search-results__item" href="{url}"><div class="search-results__image"><img src="{image}" alt="{title}"></div> <div class="search-results__content"><time class="search-results__date" datetime="{date}">{date}</time><div class="search-results__title">{title}</div></div></a>',
-    noResultsText: '<h4 class="no-results">No results found...</h4>'
+    noResultsText: '<h4 class="no-results">Keine Treffer.</h4>'
   });
 
 
@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const button = document.createElement('button');
     const copyText = 'Copy';
     button.type = 'button';
-    button.ariaLabel = 'Copy code to clipboard';
+    button.ariaLabel = 'Code kopieren';
     button.innerText = copyText;
     button.addEventListener('click', function () {
       let code = pre.querySelector('code').innerText;

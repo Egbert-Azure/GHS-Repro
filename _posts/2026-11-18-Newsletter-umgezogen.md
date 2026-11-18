@@ -6,7 +6,7 @@ date: 2026-11-18
 description: Neue Beiträge gibt es ab sofort direkt von dieser Seite per E-Mail.
 image:
 video_embed:
-tags: [GHS]
+tags: []
 tags_color: '#4c49cb'
 featured: false
 newsletter: false

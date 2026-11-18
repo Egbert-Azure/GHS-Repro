@@ -8,17 +8,9 @@ date: 2024-04-14
 ---
 <small> Grubenfahrt Zeche Fuerst Leopold, 1968 - Foto: Waybackmachine</small>
 
-# Aus dem Gästebuch
+Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die Liste wächst mit jedem Hinweis: Fehlst Du, oder kennst Du jemanden, der fehlt? Dann schreib uns über das [Kontaktformular](/kontakt/).
 
-| Datum       | Name               | Ort              | Mitteilung                                                                                   |
-|-------------|--------------------|------------------|----------------------------------------------------------------------------------------------|
-| 29.02.2016  | J.M.               | Dorsten Hardt    | Schöne Grüße an Frau Olbrich, Frau Heß, Herr Keßler und Herr Kaul. Vorausgesetzt es sind alle noch da. Und ich hoffe alle Gebäude bleiben in ihrer jetzigen Form bestehen. |
-| 11.02.2016  | J.M.               | Dorsten Hardt    | Vermisse die GHS sehr stark. Wenn ich könnte würde ich die 6 Jahre gerne nochmal dort sein. Zudem komme ich mit der Schließung nicht klar. (... es hätte die EKS treffen sollen !) |
-| 13.11.2015  | ***                | Dorsten          | GHS ist die beste Schule der Welt !!! 13.11.15                                               |
-| 27.11.2013  | Gorke Kevin        | dorsten wulfen   | DIESE SCHULE IST EINER DER BESTEN IM VEST ICH VERMISSE DIE SCHULZEIT AK 2010. VIELE GRÜSSE AN ALLE LEHRKRÄFTE ;) |
-| 21.05.2013  | Simone Netzlaff-Zierdt | Winsen/Luhe  | Hallo, ich bin eine ehemalige Schülerin Eurer Schule. Ich war damals von 1998 bis 1991 bei Herrn Bruns in der Klasse. Weiß jemand wie es ihm geht? Oder auch Frau Meissner, die wir damals in Biologie/Chemie hatten? Wie geht's ihr? LG Simone |
-
-# Ehemalige
+<h1 id="jahrgaenge">Nach Abschlussjahrgang</h1>
 
 ## Abschluss 1966
 
@@ -139,6 +131,8 @@ date: 2024-04-14
 
 - Klasse 10
   - Katja Neumann
+- Klasse 10a? (Frau Braun)
+  - Katja Link
 - Klasse 10b (Herr Flötgen)
   - Volker Radmer
 - Klasse 10d (Herr Flüchter)
@@ -146,11 +140,6 @@ date: 2024-04-14
 - Klasse 10e (Herr Sellheier)
   - Wolfgang Booke
   - Christoph Engel
-
-## Abschluss 1987
-
-- Klasse 10d (Frau Braun)
-  - Katja Link
 
 ## Abschluss 1988
 
@@ -167,3 +156,15 @@ date: 2024-04-14
 ## Abschluss 1991
 
 - Carsten Duwenbeck, Klassenlehrer: Herr Rünker
+
+<h1 id="gaestebuch">Aus dem Gästebuch</h1>
+
+<small>Einträge aus dem Gästebuch der alten Schulseite, 2013 bis 2016.</small>
+
+| Datum       | Name               | Ort              | Mitteilung                                                                                   |
+|-------------|--------------------|------------------|----------------------------------------------------------------------------------------------|
+| 29.02.2016  | J.M.               | Dorsten Hardt    | Schöne Grüße an Frau Olbrich, Frau Heß, Herr Keßler und Herr Kaul. Vorausgesetzt es sind alle noch da. Und ich hoffe alle Gebäude bleiben in ihrer jetzigen Form bestehen. |
+| 11.02.2016  | J.M.               | Dorsten Hardt    | Vermisse die GHS sehr stark. Wenn ich könnte würde ich die 6 Jahre gerne nochmal dort sein. Zudem komme ich mit der Schließung nicht klar. (... es hätte die EKS treffen sollen !) |
+| 13.11.2015  | ***                | Dorsten          | GHS ist die beste Schule der Welt !!! 13.11.15                                               |
+| 27.11.2013  | Gorke Kevin        | dorsten wulfen   | DIESE SCHULE IST EINER DER BESTEN IM VEST ICH VERMISSE DIE SCHULZEIT AK 2010. VIELE GRÜSSE AN ALLE LEHRKRÄFTE ;) |
+| 21.05.2013  | Simone Netzlaff-Zierdt | Winsen/Luhe  | Hallo, ich bin eine ehemalige Schülerin Eurer Schule. Ich war damals von 1998 bis 1991 bei Herrn Bruns in der Klasse. Weiß jemand wie es ihm geht? Oder auch Frau Meissner, die wir damals in Biologie/Chemie hatten? Wie geht's ihr? LG Simone |

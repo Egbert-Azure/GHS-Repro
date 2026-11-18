@@ -5,7 +5,7 @@ date: 2013-06-19
 author: elke
 description: Frankreich zu Gast an der GHS
 image: '/images/Neues_files/lembeck.jpg' # Add image post (optional)
-tags: [Partnerschaften, Auslandskontakt]
+tags: [Schüleraustausch]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

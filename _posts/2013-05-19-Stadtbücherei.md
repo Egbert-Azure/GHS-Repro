@@ -6,7 +6,7 @@ date: 2013-05-19
 description: Schüler der Gerhart-Hauptmann-Realschule in die Welt der Bücherei entführt
 image: '/images/Neues_files/books.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

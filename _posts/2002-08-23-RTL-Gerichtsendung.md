@@ -6,7 +6,7 @@ date: 2002-08-23
 description: Die Klasse 9b in der Gerichtssendung
 image: '/images/tv.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

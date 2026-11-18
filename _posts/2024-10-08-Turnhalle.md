@@ -6,7 +6,7 @@ date: 2024-10-08
 description: Ein Vermächtnis aus Ziegeln, Glasbausteinen, Beton und Schweiß. Bevor der Bagger kommt - ein letzter Blick.
 image: '/images/Effing-HansCrop.jpg'
 video_embed: "/videos/2024-10-07 GHS Turnhalle.mp4"
-tags: [Geschichten, Erinnerungen, Zeitgeist]
+tags: [Abschied, Sport]
 tags_color: '#4c49cb'
 featured: false
 rubrik: neues

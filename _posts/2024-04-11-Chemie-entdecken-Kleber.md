@@ -6,7 +6,7 @@ author: andreas
 description: Herstellung eines Klebstoffes aus Gummibärchen bzw. aus Kartoffeln
 image: '/images/kartoffel.JPG' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Wettbewerbe]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

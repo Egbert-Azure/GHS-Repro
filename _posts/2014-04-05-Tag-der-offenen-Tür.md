@@ -6,7 +6,7 @@ date: 2014-04-05
 description: We´ve got talents
 image: '/images/Neues_files/notes.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

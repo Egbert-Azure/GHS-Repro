@@ -5,7 +5,7 @@ date: 2011-06-20
 author: elke
 description: Schüleraustasuch - Tränenreicher Abschied in Ernée - 2011
 image: '/images/Mont Saint Michel Gruppenbild Donnerstag.jpg' # Add image post (optional)
-tags: [Partnerschaften, Auslandskontakt]
+tags: [Schüleraustausch]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

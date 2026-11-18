@@ -28,6 +28,8 @@ menu__settings:
         title: 'Videos'
       - url: '/authors/'
         title: 'Autoren'
+      - url: '/lehrer/'
+        title: 'Lehrer'
       - url: '/kontakt/'
         title: 'Kontakt'
       - url: '/newsletter/'
@@ -48,7 +50,7 @@ hero:
 # Author Global Settings
 author:
   author__name: Egbert Schroeer
-  author__bio: I’m a retired Microsoft Executive, Amateur Genealogist, Amateur Chess Player, Mentor, Book Author and former student of GHS.
+  author__bio: Abschlussjahrgang 1975, Klasse 10a. Früher Führungskraft bei Microsoft, heute im Ruhestand in den USA.
   author__avatar: /images/200.png
 
 

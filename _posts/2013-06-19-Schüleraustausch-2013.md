@@ -5,7 +5,7 @@ date: 2013-06-19
 author: elke
 description: Zu Besuch in Ernée
 image: '/images/Neues_files/malo.jpg' # Add image post (optional)
-tags: [Partnerschaften, Auslandskontakt]
+tags: [Schüleraustausch]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

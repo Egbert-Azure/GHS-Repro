@@ -5,7 +5,7 @@ date: 2024-04-08
 description: Interview mit Sportlehrer Effing aus den 70er Jahren - Überspielt von AGFA SUPERBER 60+6 Tape
 image: # Add image post (optional)
 video_embed:
-tags: [Interview, Sport, Effing, Geschichten]
+tags: [Sport, Lehrer]
 tags_color: '#835F46'
 featured: false
 rubrik: erinnerungen

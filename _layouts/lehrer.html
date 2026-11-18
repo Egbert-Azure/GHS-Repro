@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<!-- A teacher's profile: photo, name, role, text, and the posts about him or her -->
+<div class="container">
+  <div class="page-head lehrer-kopf">
+    <div class="lehrer-kopf__bild">
+      {% if page.image %}<img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.name }}">
+      {% else %}<img src="{{ site.data.settings.logo | relative_url }}" alt="" class="lehrer-kopf__logo">{% endif %}
+    </div>
+    <div class="page__info">
+      <p class="lehrer-kopf__label"><a href="{{ '/lehrer/' | relative_url }}">Lehrer</a></p>
+      <h1 class="page__title">{{ page.name | escape }}</h1>
+      {% if page.description %}<div class="page__description">{{ page.description }}</div>{% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <article class="page">
+    <div class="page__content">
+      {{ content }}
+      {% if page.website %}<p><a href="{{ page.website }}" target="_blank" rel="noopener">Mehr bei Wikipedia</a></p>{% endif %}
+    </div>
+
+    {% if page.beitraege %}
+    <section class="lehrer-beitraege">
+      <h2 class="thema__titel">Mehr über {{ page.name }}</h2>
+      <div class="row">
+        {% for name in page.beitraege %}
+          {% assign lp = site.posts | where_exp: "p", "p.path contains name" | first %}
+          {% if lp %}<div class="col col-6 col-t-12">{% include karte.html post=lp %}</div>{% endif %}
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </article>
+</div>

@@ -6,7 +6,7 @@ author: andreas
 description: In diesem Experiment wurde der Einfluss unterschiedlicher Faktoren auf das Pflanzenwachstum untersucht
 image: '/images/pflanzen.jpg' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Wettbewerbe]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

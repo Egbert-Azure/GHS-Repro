@@ -9,4 +9,4 @@ website2: https://photography.myvortexcloud.com/
 twitter: 
 facebook: 
 ---
-I'm a retired Microsoft Executive, Amateur Genealogist and Photographer, Amateur Chess Player, Mentor, Book Author, and proud alum of GHS graduating class of 1975. I am deeply invested in preserving the rich legacy of our beloved school.
+Abschlussjahrgang 1975, Klasse 10a. Früher Führungskraft bei Microsoft, heute im Ruhestand in den USA. Familienforscher, Fotograf, Fernschachspieler, Mentor und Buchautor. Mit dieser Seite möchte ich die Erinnerung an unsere Schule bewahren.

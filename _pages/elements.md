@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Lebensbild
+title: Gerhart Hauptmann – ein Lebensbild
+rubrik: archiv
 permalink: /lebensbild/
 image: 
 author: elke

@@ -5,7 +5,7 @@ date: 2001-01-14
 author: elke
 description: Erste Auslandskontakte und Partnerschaften in den 70er Jahren
 image: '/images/crawley.jpg' # Add image post (optional)
-tags: [Auslandskontakte, Partnerschaften]
+tags: [Schüleraustausch]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

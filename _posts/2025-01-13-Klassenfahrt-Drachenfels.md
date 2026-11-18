@@ -6,7 +6,7 @@ date: 2025-01-13
 description: Erinnerungen an eine Klassenfahrt im Jahr 1970, geprägt von Rheinromantik, alten Ruinen und den Abenteuern eines warmen Sommertages.
 image: '/images/drachenfels/drachenfels1970.jpg'
 video_embed: 
-tags: [Geschichten, Erinnerungen, Klassenfahrt]
+tags: [Klassenfahrten]
 tags_color: '#4c49cb'
 featured: false
 rubrik: erinnerungen

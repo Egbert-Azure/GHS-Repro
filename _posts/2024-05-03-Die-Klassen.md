@@ -5,7 +5,7 @@ date: 2024-05-03
 author: katja
 description: Teil 1 - Die Gebäude - ein virtueller Rundgang während der Verabschiedung
 image: '/images/fb_ghs_gebaeude_02_07_16/gebaeude-art.jpeg' # Add image post (optional)
-tags: [Schließung, Rundgang]
+tags: [Abschied]
 tags_color: '#4c49cb'
 featured: false
 rubrik: schulgeschichte

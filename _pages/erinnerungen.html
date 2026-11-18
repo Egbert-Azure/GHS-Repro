@@ -12,6 +12,7 @@ themen:
 {% assign alle = site.posts | where: "rubrik", "erinnerungen" %}
 <nav class="sprungmarken" aria-label="Themen">
   {% for t in page.themen %}<a href="#{{ t | slugify }}">{{ t }}</a>{% endfor %}
+  <a href="{{ '/lehrer/' | relative_url }}">Porträts unserer Lehrer <i class="fa-solid fa-arrow-right"></i></a>
 </nav>
 
 {% for t in page.themen %}

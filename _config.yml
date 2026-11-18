@@ -27,6 +27,9 @@ collections:
   authors:
     output: true
     permalink: /:name
+  lehrer:
+    output: true
+    permalink: /lehrer/:name/
 
 # Pages Path
 defaults:
@@ -49,6 +52,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "lehrer"
+    values:
+      layout: "lehrer"
 
 
 exclude:

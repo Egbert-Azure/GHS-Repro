@@ -6,7 +6,7 @@ author: lars
 description: D-Jugend Fußballmannschaft ist Stadtmeister 2002
 image: /images/Mannschaftsbild.jpeg # Add image post (optional)
 video_embed:
-tags: [AG, Sport, Fussball, Stadtmeister]
+tags: [AGs, Wettbewerbe, Sport]
 tags_color: '#835F46'
 featured: false
 rubrik: archiv

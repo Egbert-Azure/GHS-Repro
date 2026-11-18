@@ -6,7 +6,7 @@ date: 2013-07-16
 description: Gruppenfoto
 image: '/images/Neues_files/abschluss.jpg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten, Abschluss]
+tags: [Schulleben, Abschlussjahrgänge]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv
