@@ -1,0 +1,61 @@
+# Teachers who appear in posts but have no page of their own (yet).
+# Shown on /lehrer/ under "Außerdem in den Beiträgen", each with the posts that mention them.
+# name:  as shown on the page
+# rolle: optional, shown after the name
+# suche: the spellings to look for in the posts (case matters)
+# Someone gets a page of their own: create _lehrer/<nachname>.md and delete the entry here.
+
+- name: Herr Bohn
+  suche: [Herr Bohn]
+- name: Claudia Bücker
+  rolle: Französisch
+  suche: [Bücker]
+- name: Karl Werner Dickhöfer
+  suche: [Karl Werner Dickhöfer]
+- name: Horst Flötgen
+  suche: [Flötgen]
+- name: Frau Guske
+  rolle: Biologie
+  suche: [Guske]
+- name: Herr Hesse
+  suche: [Herren Hesse, Herrn Hesse]
+- name: Herr Hofmann
+  rolle: Informatik
+  suche: [Herr Hofmann]
+- name: Karl-Heinz Klocke
+  suche: [Klocke]
+- name: Christina Köhn
+  rolle: Sozialwissenschaften
+  suche: [Christina Köhn, Frau Koehn]
+- name: Marco Leinert
+  rolle: Chemie
+  suche: [Leinert]
+- name: Frau Lisson
+  rolle: Chemie und Biologie
+  suche: [Frau Lisson]
+- name: Frau Meißner
+  suche: [Frau Meißner]
+- name: Herr Reinthal
+  suche: [Reinthal]
+- name: Frau Roling
+  rolle: Französisch
+  suche: [Roling]
+- name: Herr Rünker
+  rolle: stellvertretender Rektor
+  suche: [Rünker]
+- name: Herr Scharf
+  suche: [Herr Scharf]
+- name: Frau Schlicker
+  rolle: Chemie
+  suche: [Schlicker]
+- name: Herr Sellheyer
+  suche: [Sellheyer]
+- name: Tobias Steinhausen
+  rolle: Sozialwissenschaften
+  suche: [Steinhausen]
+- name: Björn Stockhecke
+  rolle: Lehramtsanwärter
+  suche: [Stockhecke]
+- name: Herr Thies
+  rolle: Sozialwissenschaften
+  suche: [Herr Thies]

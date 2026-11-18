@@ -3,8 +3,7 @@ name: Wilhelm Zimolong
 description: Kunstlehrer von 1966 bis 1979
 image: '/images/zimolong2.jpg'
 website: https://de.wikipedia.org/wiki/Wilhelm_Zimolong
-beitraege:
-  - 2024-04-13-Wilhelm-Zimolong
+suche: [Zimolong]
 ---
 
 ## Wer war er?

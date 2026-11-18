@@ -2,8 +2,10 @@
 name: Rolf Bruns
 description: Lehrer und Vertrauenslehrer
 image:
-beitraege:
-  - 2024-04-17-Die-Foto-AG
+kollegium:
+  - jahr: 1985
+    nr: 25
+suche: [Bruns]
 ---
 
 Rolf Bruns unterrichtete Physik, Mathematik und Erdkunde.

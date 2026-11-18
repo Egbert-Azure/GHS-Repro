@@ -1,0 +1,13 @@
+{%- comment -%}
+  Finds the posts that mention a teacher, newest first, and puts them in lehrer_treffer.
+  include.suche: the spellings to look for, e.g. ["Fisser", "Fißer"]. A post counts if its title or text contains one of them.
+{%- endcomment -%}
+{%- assign lehrer_treffer = "" | split: "" -%}
+{%- for p in site.posts -%}
+  {%- for s in include.suche -%}
+    {%- if p.title contains s or p.content contains s -%}
+      {%- assign lehrer_treffer = lehrer_treffer | push: p -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}

@@ -30,6 +30,8 @@ menu__settings:
         title: 'Autoren'
       - url: '/lehrer/'
         title: 'Lehrer'
+      - url: '/kollegium/'
+        title: 'Kollegium'
       - url: '/kontakt/'
         title: 'Kontakt'
       - url: '/newsletter/'

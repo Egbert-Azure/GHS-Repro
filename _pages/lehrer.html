@@ -1,13 +1,23 @@
 ---
 layout: bereich
 title: Lehrer
-description: Porträts von Lehrern der Gerhart-Hauptmann-Realschule.
+description: Porträts von Lehrern der Gerhart-Hauptmann-Realschule, und wer in welchen Beiträgen vorkommt.
 permalink: /lehrer/
 ---
-<div class="row">
-  {% assign alle = site.lehrer | sort: "name" %}
+<a class="kollegium-band" href="{{ '/kollegium/' | relative_url }}">
+  <span class="kollegium-band__bild"><img class="lazy" data-src="{{ '/images/Lehrer_files/lehrer-1985_edited.jpg' | relative_url }}" alt="Das Kollegium 1985"></span>
+  <span class="kollegium-band__text">
+    <span class="kollegium-band__titel">Das Kollegium – wer ist wer?</span>
+    <span class="kollegium-band__info">Die Gruppenfotos von 1985 und 2000, mit den Namen aller Lehrerinnen und Lehrer.</span>
+    <span class="kollegium-band__link">Zum Kollegium <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></span>
+  </span>
+</a>
+
+<h2 class="thema__titel">Porträts</h2>
+<div class="row lehrer-karten">
+  {% assign alle = site.lehrer | sort: "slug" %}
   {% for l in alle %}
-  <div class="col col-3 col-d-6 col-t-12">
+  <div class="col col-3 col-d-4 col-t-6">
     <a class="karte" href="{{ l.url | relative_url }}">
       {% if l.image %}<span class="karte__bild"><img class="lazy" data-src="{{ l.image | relative_url }}" alt=""></span>
       {% else %}<span class="karte__bild karte__bild--leer"><img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
@@ -18,6 +28,18 @@ permalink: /lehrer/
   {% endfor %}
 </div>
 
-<p class="lehrer-hinweis">Das ganze Kollegium auf Fotos mit Namen, Stand 1985 und 2000: <a href="{{ '/kollegium/' | relative_url }}">Kollegium</a>.</p>
+<section class="lehrer-register">
+  <h2 class="thema__titel">Außerdem in den Beiträgen</h2>
+  <p class="lehrer-register__hinweis">Diese Lehrerinnen und Lehrer kommen in Beiträgen vor, haben aber noch keine eigene Seite.</p>
+  <ul class="lehrer-register__liste">
+    {% for l in site.data.lehrer_erwaehnt %}
+      {% include lehrer-treffer.html suche=l.suche %}
+      {% if lehrer_treffer.size > 0 %}
+      <li><span class="lehrer-register__name">{{ l.name }}</span>{% if l.rolle %}<span class="lehrer-register__rolle">, {{ l.rolle }}</span>{% endif %}<br>
+        {% for p in lehrer_treffer %}<a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
 
 {% include section-mitmachen.html %}

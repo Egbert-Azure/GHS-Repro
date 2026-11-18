@@ -166,5 +166,37 @@
   a { text-decoration: none; color: var(--text-alt-color); }
 }
 .lehrer-beitraege { margin: 16px 0 48px; }
-.lehrer-hinweis { margin: 8px 0 40px; color: var(--text-alt-color); }
 .lehrer-beitraege .karte { border-bottom: 0; }
+
+/* /lehrer/: the Kollegium band, and the list of teachers without a page */
+.kollegium-band { display: flex; align-items: center; gap: 32px; margin: 0 0 48px; padding: 20px; text-decoration: none;
+  border: 1px solid var(--border-color); border-radius: 12px;
+  &:hover { border-color: var(--brand-color); }
+  @media only screen and (max-width: $mobile) { flex-direction: column; align-items: stretch; gap: 16px; }
+}
+.kollegium-band__bild { flex: 0 0 44%; border-radius: 8px; overflow: hidden; line-height: 0;
+  img { width: 100%; height: auto; }
+}
+.kollegium-band__titel { display: block; margin-bottom: 8px; font-family: $heading-font-family; font-weight: 700; font-size: 24px; color: var(--heading-font-color); }
+.kollegium-band__info { display: block; margin-bottom: 14px; color: var(--text-alt-color); }
+.kollegium-band__link { font-weight: 700; color: var(--link-color); }
+.kollegium-band:hover .kollegium-band__link { color: var(--link-color-hover); }
+.lehrer-register { margin: 8px 0 48px; }
+.lehrer-register__hinweis { color: var(--text-alt-color); }
+.lehrer-register__liste { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 48px;
+  @media only screen and (max-width: $tablet) { columns: 1; }
+  li { break-inside: avoid; margin-bottom: 16px; font-size: 15px; line-height: 1.5; }
+}
+.lehrer-register__name { font-weight: 700; color: var(--heading-font-color); }
+.lehrer-register__rolle { color: var(--text-alt-color); }
+.lehrer-kollegium { font-size: 15px; color: var(--text-alt-color);
+  i { margin-right: 6px; }
+}
+.lehrer-karten .karte__bild img { object-position: center 15%; }
+@media only screen and (max-width: $mobile) {
+  .lehrer-karten { margin-left: -8px; margin-right: -8px;
+    .col { padding-left: 8px; padding-right: 8px; }
+    .karte { margin-bottom: 24px; }
+    .karte__titel { font-size: 16px; }
+  }
+}

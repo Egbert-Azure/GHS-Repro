@@ -37,7 +37,15 @@ thema: Abschlussjahrgänge
 - **Archive page** (`_pages/archiv.html`): intro text, the three restored pages, all `rubrik: archiv` posts by year. Each restored post shows a short note at the top (`_includes/archiv-hinweis.html`).
 - **Timeline** on /schulgeschichte/: `_data/chronik.yml`, one entry per year with optional links (`url:` for a page, `post:` for a post's file name without `.md`).
 - **Videos:** `video_embed:` in the front matter shows a video instead of the cover picture (a YouTube embed address or a file such as `/videos/name.mp4`); the post then gets a play icon on its card and is listed on /videos/. GitHub warns above 50 MB per file and refuses files over 100 MB; longer videos belong on YouTube.
-- **Teacher profiles** live in `_lehrer/` (one file per teacher, e.g. `_lehrer/bruns.md`, published at /lehrer/bruns/; overview at /lehrer/). Front matter: `name`, `description` (role), `image` (optional; the school logo is shown otherwise), `website` (optional, shown as "Mehr bei Wikipedia"), `beitraege` (file names of posts about the teacher, without `.md`).
+- **Teacher profiles** live in `_lehrer/`, one file per teacher, named after the surname without umlauts (`_lehrer/dickhoefer.md`, published at /lehrer/dickhoefer/). The overview at /lehrer/ shows them in file-name order, so alphabetically by surname. Front matter:
+  - `name` and `description` (the role, shown under the name)
+  - `image` (optional; the school logo is shown otherwise). Cropped portraits are in `images/lehrer/`.
+  - `suche`: the spellings to look for in the posts, e.g. `[Fisser, Fißer]`. Every post whose title or text contains one of them is listed on the profile, so new posts show up by themselves. Case matters; use `[Herr Kronen, Herrn Kronen]` rather than a bare surname if the name also has another meaning, or belongs to another person too.
+  - `kollegium` (optional): the teacher's number on the Kollegium photos, e.g. `- jahr: 1985` / `nr: 24`. It links to that photo on /kollegium/.
+  - `autor` (optional): the file name of the author page (`_authors/andreas.md` → `andreas`) for teachers who wrote posts themselves.
+  - `website` (optional, shown as "Mehr bei Wikipedia")
+- **Teachers without a page of their own** are listed on /lehrer/ under "Außerdem in den Beiträgen", from `_data/lehrer_erwaehnt.yml` (name, optional role, the same `suche` list). To give one of them a page, create the file in `_lehrer/` and delete the entry there.
+- **Kollegium** (`_pages/kollegium.md`): the staff photos of 1985 and 2000 with the numbered names; names with a profile are linked.
 - Styles for all of this: `css/_3-modules/bereiche.scss`.
 
 ## Newsletter
