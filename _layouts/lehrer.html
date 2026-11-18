@@ -21,6 +21,17 @@ layout: default
     <div class="page__content">
       {{ content }}
 
+      {% if page.foto %}
+      <figure class="lehrer-foto"><img class="lazy" data-src="{{ page.foto | relative_url }}" alt="{{ page.name }}"></figure>
+      {% endif %}
+
+      {% if page.traueranzeige %}
+      <figure class="traueranzeige">
+        <img class="lazy" data-src="{{ page.traueranzeige | relative_url }}" alt="Traueranzeige für {{ page.name }} (Ausschnitt)">
+        <figcaption>Aus der Traueranzeige</figcaption>
+      </figure>
+      {% endif %}
+
       {% if page.kollegium %}
       <p class="lehrer-kollegium"><i class="fa-solid fa-users" aria-hidden="true"></i>
         Auf dem Kollegiumsfoto:
