@@ -1,7 +1,7 @@
 ---
 name: Max Kuon
 description: Direktor der Schule
-image:
+image: '/images/lehrer/kuon.jpg'
 kollegium:
   - jahr: 1985
     nr: 11
