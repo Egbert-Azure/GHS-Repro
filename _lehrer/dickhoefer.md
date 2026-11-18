@@ -1,7 +1,7 @@
 ---
 name: Erika Dickhöfer
 description: Klassenlehrerin und Englischlehrerin
-image:
+image: '/images/lehrer/dickhoefer.jpg'
 kollegium:
   - jahr: 1985
     nr: 9

@@ -91,7 +91,7 @@ Bei dem Gegenbesuch 3 Monate später trug er es auch einmal, war wohl also immer
   <div class="gallery gallery--post">
     <figure>
       <img src="/images/Crawley/IMG_1531.JPG" loading="lazy" alt="Besuch aus England">
-      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>in der Mitte Fr. Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, daneben Direktor Max Kuon</small></figcaption>
+      <figcaption style="text-align: center; font-size: 0.8em; margin-top: 5px;"><small>in der Mitte Fr. Dickhöfer, links neben ihr Hans Fabian, rechts von ihr Herr Osterhus, ganz rechts Direktor Max Kuon</small></figcaption>
     </figure>
     <figure>
       <img src="/images/Crawley/IMG_1524.jpg" loading="lazy" alt="Besuch aus England">

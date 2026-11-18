@@ -1,7 +1,7 @@
 ---
 name: Herr Osterhues
 description: Lehrer
-image:
+image: '/images/lehrer/osterhues.jpg'
 kollegium:
   - jahr: 1985
     nr: 31
