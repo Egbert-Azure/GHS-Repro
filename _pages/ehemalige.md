@@ -72,23 +72,24 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Egbert Schröer
   - Andreas Kieslich
   - Dirk Ruschitzka
-  - Jochen Klein (?)
+  - Jochen Klein
   - Dirk Soyka
   - Lothar Stein
   - Christof Pollender
   - Udo Ostrop
   - Klaus Barheier
-  - xxx Barheier
+  - Berthold Barheier
   - Klaus Rekers
   - Ludger Stollbrink
   - Hans-Josef Melzer
+  - Karl-Heinz Mast
   - Volker Brand
   - Bernhard Bittner
+  - Andreas Wodok
   - Volker Barke (verstorben am 01.01.1996)
 
 ## Abschluss 1976
 
-- Karl-Heinz Mast
 - Klasse 10? (Herr Braun)
   - Peter Finke
 
