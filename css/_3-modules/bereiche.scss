@@ -200,3 +200,13 @@
     .karte__titel { font-size: 16px; }
   }
 }
+
+/* Author texts on /authors/ and under posts: shown in full, with their own headings and pictures */
+.authors__description, .card-author__description {
+  h2 { margin: 0 0 6px; font-size: 22px; line-height: 1.3; }
+  h3 { margin: 20px 0 10px; font-size: 19px; line-height: 1.3; }
+  p { margin-bottom: 12px; }
+  p:last-child { margin-bottom: 0; }
+  hr { margin: 20px 0; }
+  img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+}

@@ -45,6 +45,7 @@ thema: Abschlussjahrgänge
   - `autor` (optional): the file name of the author page (`_authors/andreas.md` → `andreas`) for teachers who wrote posts themselves.
   - `website` (optional, shown as "Mehr bei Wikipedia")
 - **Teachers without a page of their own** are listed on /lehrer/ under "Außerdem in den Beiträgen", from `_data/lehrer_erwaehnt.yml` (name, optional role, the same `suche` list). To give one of them a page, create the file in `_lehrer/` and delete the entry there.
+- **Authors** (`_authors/`): the text below the front matter is shown in full on the author's page, on the Autoren page and in the box under each of their posts (Markdown, headings and pictures included).
 - **Kollegium** (`_pages/kollegium.md`): the staff photos of 1985 and 2000 with the numbered names; names with a profile are linked.
 - Styles for all of this: `css/_3-modules/bereiche.scss`.
 
