@@ -124,7 +124,7 @@ layout: default
       <div class="card-author__role">Geschrieben von</div>
         {% if author %}
         <h3 class="card-author__name"><a href="{{ author.url }}" class="card-author__link">{{ author.name }}</a></h3>
-        <p class="card-author__description">{{ author.content }}</p>
+        <div class="card-author__description">{{ author.content | markdownify }}</div>
         {% else %}
         <h3 class="card-author__name"><a href="{{site.baseurl}}/about/" class="card-author__link">{{ site.data.settings.author.author__name }}</a></h3>
         <p class="card-author__description">{{ site.data.settings.author.author__bio }}</p>
