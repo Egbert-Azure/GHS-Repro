@@ -210,3 +210,9 @@
   hr { margin: 20px 0; }
   img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
 }
+
+/* Timeline: optional photo under a year's text */
+.chronik__bild { margin: 12px 0 4px;
+  img { display: block; width: 100%; max-width: 640px; height: auto; border-radius: 8px; }
+  figcaption { margin-top: 6px; font-size: 14px; color: var(--text-alt-color); }
+}

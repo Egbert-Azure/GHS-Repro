@@ -23,6 +23,7 @@ Dieser wurde auch dringend notwendig, denn die Marienschule platzte aus allen NÃ
 Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine andere in den Keller der Marienschule ausweichen.<br>
 <br>
 <img src="{{site.baseurl}}/images/Schulgeschichte_files/baustell.JPG" alt="Bau der GHS" title="Bau der GHS" width="600" height="329"><br>
+<small>Bau der Gerhart-Hauptmann-Schule; erster Spatenstich 1962</small><br>
 <br>
 <br>
 Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht. Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte dann endlich am 24. MÃ¤rz 1964 der lang ersehnte Einzug in die neue Schule.
