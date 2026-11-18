@@ -31,7 +31,7 @@ Der Bus, organisiert vom Dorstener Reiseunternehmen Hortlik, wurde unser treuer 
 
 <img src="../images/Crawley/IMG_1496.jpg" alt="Abfahrt" width="400">
 
-<small>v.l. Egbert Schröer - Joachim(Jockel) Klein - am Bus Hans- Josef Mälzer, dann Lothar Stein, Dieter Sojka, Ludger Stollbrink, ganz rechts Udo Ostrop</small>
+<small>v.l. Egbert Schröer - Joachim(Jockel) Klein - am Bus Hans- Josef Mälzer, dann Lothar Stein, Dirk Soyka, Ludger Stollbrink, ganz rechts Udo Ostrop</small>
 
 Die Fährüberfahrt nach England war ein Erlebnis. Als schließlich die White Cliffs of Dover auftauchten, stieg die Aufregung. Nach weiteren 1,5 Stunden Fahrt auf der „falschen Seite“ erreichten wir erschöpft, aber gespannt unser Ziel: die Thomas Bennett School in Crawley.
 Dort wurden wir schon von den Vetretern der Gastfamilien erwartet.
