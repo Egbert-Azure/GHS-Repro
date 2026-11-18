@@ -59,4 +59,4 @@ Wer ist wer? Die Nummern auf den Umrisszeichnungen gehören zu den Namen in den 
 | 16     | Frau Humberg     | 35     | Herr Spickermann (Hausmeister) |
 | 17     | Frau Heitkamp    | 36     | Frau Bellmann (Schulz-Zielke) |
 | 18     | Frau Hoffmann    | 37     | [Frau Mölleken](/lehrer/moelken/) |
-| 19     | Herr Flötgen     | 38     | [Herr Klocke](/lehrer/klocke/) |
+| 19     | [Herr Flötgen](/lehrer/floetgen/) | 38     | [Herr Klocke](/lehrer/klocke/) |

@@ -17,7 +17,7 @@ Die neugegründete Realschule startete am 1. April 1960 im Gebäude der Mariensc
 <img src="{{site.baseurl}}/images/Schulgeschichte_files/mariens.JPG" alt="Marienschule" title="Marienschule" width="600" height="359"><br>
 <br>
 
-Der Bau der Gerhart-Hauptmann-Schule begann im Jahre 1962. <br>
+<a id="spatenstich"></a>Der Bau der Gerhart-Hauptmann-Schule begann im Jahre 1962. <br>
 Der erste Spatenstich erfolgte am 4. Juni 1962. <br>
 Dieser wurde auch dringend notwendig, denn die Marienschule platzte aus allen Nähten. <br>
 Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine andere in den Keller der Marienschule ausweichen.<br>
@@ -26,7 +26,7 @@ Von den mittlerweile vier Klassen musste eine schon ins Jugendheim und eine ande
 <small>Bau der Gerhart-Hauptmann-Schule; erster Spatenstich 1962</small><br>
 <br>
 <br>
-Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht. Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte dann endlich am 24. März 1964 der lang ersehnte Einzug in die neue Schule.
+<a id="einzug"></a>Im Schuljahr 1963/64 wurden zwei weitere Klassen im Gymnasium untergebracht. Nach dem Richtfest, das am 30. August 1963 begangen wurde, erfolgte dann endlich am 24. März 1964 der lang ersehnte Einzug in die neue Schule.
 <br>
 
 Am 01. April 1964 übernahm **Frau Rademacher** den Dienst als Schulsekretärin.
@@ -44,13 +44,13 @@ Zu ihm gab es auf der GHS-Website von 2001 folgenden Eintrag:
 </blockquote>
 
 
-Im Schuljahr 1966/67 stand die Namensgebung der Schule an. Auf Anregung des damaligen Schulleiters Max Kuon und nach Beratungen in Lehrerkonferenzen bekam die Realschule den Namen *"Gerhart-Hauptmann-Schule, Städtische Realschule für Jungen"*.
+<a id="namensgebung"></a>Im Schuljahr 1966/67 stand die Namensgebung der Schule an. Auf Anregung des damaligen Schulleiters Max Kuon und nach Beratungen in Lehrerkonferenzen bekam die Realschule den Namen *"Gerhart-Hauptmann-Schule, Städtische Realschule für Jungen"*.
 <br>
 <br>
 Da das Interesse an der Realschule größer war als das Angebot, wurde 1966 zur Entlastung die Erich-Klausener-Realschule gegründet. <br>
 <br>
 <br>
-Nach mühevollen Verhandlungen konnte am 27. November 1967 mit dem Bau der Großturnhalle begonnen werden. Nach dem Richtfest am 07. Juni 1968 wurde die Einweihung der Turnhalle am 7./8. März 1969 zu einem herausragenden sportlichen Ereignis. Neben Schülern zeigten auch Turner der Nationalriege ihr Können.
+<a id="grossturnhalle"></a>Nach mühevollen Verhandlungen konnte am 27. November 1967 mit dem Bau der Großturnhalle begonnen werden. Nach dem Richtfest am 07. Juni 1968 wurde die Einweihung der Turnhalle am 7./8. März 1969 zu einem herausragenden sportlichen Ereignis. Neben Schülern zeigten auch Turner der Nationalriege ihr Können.
 
 <img src="{{site.baseurl}}/images/bernd-effing.jpeg" alt="Effing" title="Effing" width="300" height="230"><br>
 <br>
@@ -61,11 +61,11 @@ Nach mühevollen Verhandlungen konnte am 27. November 1967 mit dem Bau der Groß
 
 Da Dorsten schon freundschaftliche Beziehungen zur Stadt Dormans in Frankreich hatte, fuhren in den Ferien regelmäßig Schüler nach Dormans, um dort auf dem Soldatenfriedhof zu arbeiten.
 
-### Dänemark: Hindholm
+### <a id="daenemark"></a>Dänemark: Hindholm
 
 Ende 1970 kamen die ersten Schüler aus Dänemark zur Gerhart-Hauptmann-Realschule nach Dorsten. Diese Schülergruppe bestand aus 3 Jungen und 12 Mädchen. Noch im selben Jahr starteten Schüler aus Dorsten nach Dänemark. Dieser regelmäßige Austausch musste leider 1977 aufgegeben werden aufgrund der schlechten Finanzlage der dänischen Bevölkerung.
 
-### England: Crawley
+### <a id="crawley"></a>England: Crawley
 
 Im Oktober 1973 schloss die Stadt Dorsten eine Partnerschaft mit der englischen Stadt Crawley. Dieses nutzte die Gerhart-Hauptmann-Realschule und schon im März 1974 fuhren erstmals englische Schüler zu Gasteltern nach Dorsten. Der Gegenbesuch der Dorstener Schüler fand im Juni desselben Jahres statt. Doch nach einigen Jahren konnte dieses nicht mehr durchgeführt werden, da es bei den Engländern finanzielle Schwierigkeiten und schulorganisatorische Probleme gab.
 <br>
@@ -74,14 +74,14 @@ Im Oktober 1973 schloss die Stadt Dorsten eine Partnerschaft mit der englischen 
 Weil 100 Schüler erkrankten, gab es 1968 (1. - 3. Februar) drei Tage Grippe-Ferien.<br>
 <br>
 <br>
-Steigende Schülerzahlen forderten den Ausbau der Schule. Nach dem Richtfest am 29. Januar 1971 wurde am 15. Februar 1972 der Neubau bezogen. <br>
+<a id="neubau-1972"></a>Steigende Schülerzahlen forderten den Ausbau der Schule. Nach dem Richtfest am 29. Januar 1971 wurde am 15. Februar 1972 der Neubau bezogen. <br>
 Er beherbergte drei Klassenräume: einen Musikraum, einen Medienraum und ein Sprachlabor.<br>
 <br>
 <br>
 <img src="{{site.baseurl}}/images/Schulgeschichte_files/schule.jpg" alt="Neubau" title="Neubau" width="600" height="457"><br>
 <br>
 <br>
-Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der Schulgeschichte: Es konnten nun auch Mädchen die Gerhart-Hauptmann-Schule besuchen.
+<a id="maedchen"></a>Mit dem Schuljahr 1979/80 kam ein weiteres Ereignis in der Schulgeschichte: Es konnten nun auch Mädchen die Gerhart-Hauptmann-Schule besuchen.
 <br>
 <br>
 Wieder wurde das Schulgebäude zu klein, so dass im Schuljahr 1982/83 eine Filiale in unserem "Geburtshaus", der ehemaligen Marienschule, mit zwei Klassen bezogen wurde. 1985 wurden aus pädagogischen und schulorganisatorischen Gründen alle vier Klassen 6 dort untergebracht.

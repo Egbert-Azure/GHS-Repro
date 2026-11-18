@@ -46,6 +46,8 @@ thema: Abschlussjahrgänge
   - `kollegium` (optional): the teacher's number on the Kollegium photos, e.g. `- jahr: 1985` / `nr: 24`. It links to that photo on /kollegium/.
   - `autor` (optional): the file name of the author page (`_authors/andreas.md` → `andreas`) for teachers who wrote posts themselves.
   - `website` (optional, shown as "Mehr bei Wikipedia")
+  - `foto` (optional): a larger photo shown below the text (see Fisser)
+  - `traueranzeige` (optional): the obituary notice, **top part only** (verse, name, dates; no family names or addresses), saved in `images/lehrer/` as `traueranzeige-<name>.jpg`
 - **Teachers without a page of their own** are listed on /lehrer/ under "Außerdem in den Beiträgen", from `_data/lehrer_erwaehnt.yml` (name, optional role, the same `suche` list). To give one of them a page, create the file in `_lehrer/` and delete the entry there.
 - **Unknown day:** if only the year of a post is known, give it any date in that year (for sorting) and add `nur_jahr: true`; the site then shows just the year, e.g. "2010" (see Klassentreffen 2010).
 - **Authors** (`_authors/`): the text below the front matter is shown in full on the author's page, on the Autoren page and in the box under each of their posts (Markdown, headings and pictures included).
