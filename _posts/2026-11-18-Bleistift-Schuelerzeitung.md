@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Bleistift – die Schülerzeitung"
-date: 1984-11-01
-nur_jahr: true
+date: 2026-11-18
 author: olaf
 image: /images/bleistift-titel.jpg
-description: "Olaf Grewer hat beim Umzug alte Ausgaben der Schülerzeitung wiedergefunden."
+description: "Olaf Grewer hat alte Ausgaben der Schülerzeitung wiedergefunden."
 tags: [Schülerzeitung]
 tags_color: '#4c49cb'
 featured: false
@@ -13,7 +12,7 @@ rubrik: erinnerungen
 thema: Lehrer, AGs & Sport
 ---
 
-Olaf Grewer (Abschluss 1986) hat beim Umzug alte Ausgaben vom „Bleistift“ wiedergefunden, der Schülerzeitung der Gerhart-Hauptmann-Realschule. Im Juni 2024 zeigte er sie in der Facebook-Gruppe der Ehemaligen: „Ziehe gerade um; habe immer noch diese alten Schülerzeitungen 😂“
+Olaf Grewer (Abschluss 1986) hat alte Ausgaben vom „Bleistift“ wiedergefunden, der Schülerzeitung der Gerhart-Hauptmann-Realschule.
 
 <figure>
   <img src="/images/bleistift-schuelerzeitung.jpg" loading="lazy" alt="Vier Ausgaben der Schülerzeitung Bleistift: Nr. 3, Nr. 4 (November 1984), Nr. 5 und eine weitere">
