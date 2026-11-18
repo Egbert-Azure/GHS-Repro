@@ -6,7 +6,7 @@ author: sebastian
 description: Erweitertes Bildungsangebots and der GHS
 image: '/images/Haustiere in der 5a_files/Hunde_06.JPG' # Add image post (optional)
 video_embed:
-tags: [Projekte, Aktivitäten]
+tags: [Projekte]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

@@ -6,7 +6,7 @@ date: 2013-02-24
 description: Leseabend Krabat im Deutschunterricht
 image: '/images/Neues_files/krabat.jpeg' # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

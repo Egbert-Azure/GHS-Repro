@@ -6,7 +6,7 @@ date: 2001-02-02
 description: Ergebnis Wettbewerb Wissen-Geographie
 image: # Add image post (optional)
 video_embed:
-tags: [Neuigkeiten, Wettbewerb]
+tags: [Schulleben, Wettbewerbe]
 tags_color: '#b25642'
 featured: false
 rubrik: archiv

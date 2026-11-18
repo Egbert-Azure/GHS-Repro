@@ -4,7 +4,7 @@ title: "Abriss der GHS – Zwischen Lost Place und Sicherheitsmaßnahmen"
 author: norbert
 date: 2025-10-17
 categories: [GHS, Abriss, Geschichte]
-tags: [GHS, Lost Place, Dorsten, BauWatch, Schulgeschichte]
+tags: [Abschied, Schulgeschichte]
 description: "Während der Abriss der Gerhart-Hauptmann-Realschule weiter auf sich warten lässt, hat sich das Gelände zu einem Lost Place entwickelt – inklusive Security-Maßnahmen und Videoüberwachung."
 image: '/images/ghs-abriss/raumplan.jpg'
 tags_color: '#4c49cb'

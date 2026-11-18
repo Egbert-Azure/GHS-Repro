@@ -5,7 +5,7 @@ date: 2024-08-26
 author: johannes
 description: Max Kuon, der Direktor der Gerhart Hauptmann Schule, schrieb 1969 für den Heimatkalender über Namenspatron der städtische Realschule für Jungen
 image: '/images/Wer war Gerhart Hauptmann__files/heimatkalender1969.jpg' # Add image post (optional)
-tags: [Schulgeschichte, Geschichten, Heimatkalender]
+tags: [Schulgeschichte]
 tags_color: '#835F46'
 featured: false
 rubrik: schulgeschichte

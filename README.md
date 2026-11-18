@@ -31,10 +31,13 @@ thema: Abschlussjahrgänge
 ```
 
 - A post without `rubrik:` only appears under "Alle Beiträge" (/blog/).
+- **Tags:** one or two per post, from these 13 (single words, because the tag name goes into the link to the Themen page): Schulleben, AGs, Projekte, Wettbewerbe, Sport, Lehrer, Klassenfahrten, Schüleraustausch, Abschlussjahrgänge, Klassentreffen, Zeitgeist, Schulgeschichte, Abschied. Example: `tags: [Klassenfahrten, Schüleraustausch]`.
+- **Dates** are printed in German ("8. Oktober 2024") by `_includes/datum.html`; templates call it as `include datum.html date=post.date` (add `monat=true` for "Oktober 2024").
 - **Home page:** the three tiles and their texts come from `_data/bereiche.yml`; "Neu auf der Seite" shows the three newest posts outside the archive; the dark archive band shows three restored posts with a picture, picked anew at every build.
 - **Archive page** (`_pages/archiv.html`): intro text, the three restored pages, all `rubrik: archiv` posts by year. Each restored post shows a short note at the top (`_includes/archiv-hinweis.html`).
 - **Timeline** on /schulgeschichte/: `_data/chronik.yml`, one entry per year with optional links (`url:` for a page, `post:` for a post's file name without `.md`).
 - **Videos:** `video_embed:` in the front matter shows a video instead of the cover picture (a YouTube embed address or a file such as `/videos/name.mp4`); the post then gets a play icon on its card and is listed on /videos/. GitHub warns above 50 MB per file and refuses files over 100 MB; longer videos belong on YouTube.
+- **Teacher profiles** live in `_lehrer/` (one file per teacher, e.g. `_lehrer/bruns.md`, published at /lehrer/bruns/; overview at /lehrer/). Front matter: `name`, `description` (role), `image` (optional; the school logo is shown otherwise), `website` (optional, shown as "Mehr bei Wikipedia"), `beitraege` (file names of posts about the teacher, without `.md`).
 - Styles for all of this: `css/_3-modules/bereiche.scss`.
 
 ## Newsletter

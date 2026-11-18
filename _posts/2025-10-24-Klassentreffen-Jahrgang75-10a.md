@@ -9,6 +9,7 @@ description: "Ehemalige der Gerhart-Hauptmann-Realschule trafen sich nach 50 Jah
 tags_color: '#b25642'
 featured: false
 rubrik: neues
+tags: [Klassentreffen]
 ---
 
 ## 50 Jahre später – Wiedersehen der Klasse 10a (Abschlussjahrgang 1975)

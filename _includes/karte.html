@@ -5,5 +5,5 @@
   {% if p.image %}<span class="karte__bild">{% if p.video_embed %}<span class="video-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><polygon points="40,30 65,50 40,70"></polygon></svg></span>{% endif %}<img class="lazy" data-src="{{ p.image | relative_url }}" alt=""></span>
   {% else %}<span class="karte__bild karte__bild--leer">{% if p.video_embed %}<span class="video-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><polygon points="40,30 65,50 40,70"></polygon></svg></span>{% endif %}<img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
   <span class="karte__titel">{{ p.title }}</span>
-  <span class="karte__meta">{% if a %}{{ a.name }} · {% endif %}{% if include.monat %}{{ p.date | date: "%m/%Y" }}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
+  <span class="karte__meta">{% if a %}{{ a.name }} · {% endif %}{% if include.monat %}{% include datum.html date=p.date monat=true %}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
 </a>

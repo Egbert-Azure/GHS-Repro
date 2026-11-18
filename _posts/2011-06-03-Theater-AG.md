@@ -6,7 +6,7 @@ author: sebastian
 description: Theaterstücke in Eigenproduktion 
 image: '/images/theater.jpg' # Add image post (optional)
 video_embed:
-tags: [Projekte, Aktivitäten, AG]
+tags: [AGs]
 tags_color: '#cb4949'
 featured: false
 rubrik: archiv

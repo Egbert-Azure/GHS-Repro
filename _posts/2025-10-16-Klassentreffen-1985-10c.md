@@ -6,7 +6,7 @@ date: 2025-10-16
 description: Das erste Klassentreffen der 10c (Abschlussjahrgang 1985) – vier Jahrzehnte nach dem Schulabschluss
 image: '/images/Klassentreffen-1985-10c/Titel-1985-10c.jpg'
 video_embed:
-tags: [Erinnerungen, Klassentreffen, 10c, 1985, 10b, 1975]
+tags: [Klassentreffen]
 tags_color: '#b25642'
 featured: false
 rubrik: neues

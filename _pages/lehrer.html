@@ -1,0 +1,23 @@
+---
+layout: bereich
+title: Lehrer
+description: Porträts von Lehrern der Gerhart-Hauptmann-Realschule.
+permalink: /lehrer/
+---
+<div class="row">
+  {% assign alle = site.lehrer | sort: "name" %}
+  {% for l in alle %}
+  <div class="col col-3 col-d-6 col-t-12">
+    <a class="karte" href="{{ l.url | relative_url }}">
+      {% if l.image %}<span class="karte__bild"><img class="lazy" data-src="{{ l.image | relative_url }}" alt=""></span>
+      {% else %}<span class="karte__bild karte__bild--leer"><img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
+      <span class="karte__titel">{{ l.name }}</span>
+      <span class="karte__meta">{{ l.description }}</span>
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
+<p class="lehrer-hinweis">Das ganze Kollegium auf Fotos mit Namen, Stand 1985 und 2000: <a href="{{ '/kollegium/' | relative_url }}">Kollegium</a>.</p>
+
+{% include section-mitmachen.html %}

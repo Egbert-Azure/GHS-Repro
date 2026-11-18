@@ -6,7 +6,7 @@ author: andreas
 description: Tradition an der Gerhart-Hauptmann-Realschule - Übersicht der Projekte und Wettbewerbe
 image: '/images/celogy.jpg' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Wettbewerbe]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

@@ -6,7 +6,7 @@ author: andreas
 description: Erfolgreiche Teilnahme am Känguru-Wettbewerb
 image: '/images/Känguru - Mathematikwettbewerb 2010_files/Kaenguruh_2010_1.jpg' # Add image post (optional)
 video_embed:
-tags: [Wettbewerb, Projekte]
+tags: [Wettbewerbe]
 tags_color: '#618770'
 featured: false
 rubrik: archiv

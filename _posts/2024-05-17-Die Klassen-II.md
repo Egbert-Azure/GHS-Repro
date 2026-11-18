@@ -5,7 +5,7 @@ date: 2024-05-17
 author: katja
 description: Teil 2 - Die Klassen - ein virtueller Rundgang während der Verabschiedung
 image: '/images/fb_ghs_raeume_02_07_16/die-klassen-ii.jpeg' # Add image post (optional)
-tags: [Schließung, Rundgang]
+tags: [Abschied]
 tags_color: '#4c49cb'
 featured: false
 rubrik: schulgeschichte

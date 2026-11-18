@@ -6,7 +6,7 @@ date: 2025-02-08
 description: Klassenfahrt und Schüleraustausch der Gerhart-Hauptmann-Realschule nach Crawley, England
 image: '/images/crawley/The George Hotel.jpg'
 video_embed: 
-tags: [Geschichten, Erinnerungen, Klassenfahrt, Schüleraustausch]
+tags: [Klassenfahrten, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
 rubrik: erinnerungen
