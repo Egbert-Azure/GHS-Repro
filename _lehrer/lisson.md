@@ -1,7 +1,7 @@
 ---
 name: Andreas Lisson
 description: Chemielehrer und Schulleiter bis 2014
-image: '/images/Lisson-200x300.jpg'
+image: '/images/lehrer/lisson.jpg'
 kollegium:
   - jahr: 2000
     nr: 11

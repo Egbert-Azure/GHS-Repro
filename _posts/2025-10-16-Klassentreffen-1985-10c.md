@@ -9,7 +9,7 @@ video_embed:
 tags: [Klassentreffen]
 tags_color: '#b25642'
 featured: false
-rubrik: neues
+rubrik: wiedersehen
 ---
 
 ## 40 Jahre später – Wiedersehen der Klasse 10c (Abschlussjahrgang 1985)

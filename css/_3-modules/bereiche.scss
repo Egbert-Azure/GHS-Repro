@@ -192,7 +192,8 @@
 .lehrer-kollegium { font-size: 15px; color: var(--text-alt-color);
   i { margin-right: 6px; }
 }
-.lehrer-karten .karte__bild img { object-position: center 15%; }
+/* Teacher portraits are square crops: show them whole in a square frame */
+.lehrer-karten .karte__bild { aspect-ratio: 1 / 1; }
 @media only screen and (max-width: $mobile) {
   .lehrer-karten { margin-left: -8px; margin-right: -8px;
     .col { padding-left: 8px; padding-right: 8px; }

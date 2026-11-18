@@ -9,7 +9,7 @@ video_embed:
 tags: [Klassentreffen]
 tags_color: '#b25642'
 featured: false
-rubrik: neues
+rubrik: wiedersehen
 ---
 
 Am vergangenen Wochenende war es wieder soweit: Die ehemalige Klasse 10b des Abschlussjahrgangs 1985 der GHS traf sich zu ihrem inzwischen fünften Klassentreffen. Es war, wie immer, ein magischer Abend voller Erinnerungen und Austausch über vergangene und aktuelle Zeiten.

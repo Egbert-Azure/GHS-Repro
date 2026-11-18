@@ -47,7 +47,7 @@ Wer ist wer? Die Nummern auf den Umrisszeichnungen gehören zu den Namen in den 
 | 4      | (Referendarin)   | 23     | Frau Thelen      |
 | 5      | Frau Vennewald (Säger) | 24 | [Herr Fisser](/lehrer/fisser/) |
 | 6      | Frau Fink        | 25     | [Herr Bruns](/lehrer/bruns/) |
-| 7      | (Referendarin)   | 26     | Herr Dickhöfer   |
+| 7      | (Referendarin)   | 26     | [Herr Dickhöfer](/lehrer/dickhoefer-karl-werner/) |
 | 8      | Frau Rademacher (Schulsekretärin) | 27 | Frau Matzner (Bollte) |
 | 9      | [Frau Dickhöfer](/lehrer/dickhoefer/) | 28 | [Herr Glackemeyer](/lehrer/glackemeyer/) |
 | 10     | Frau Göpfert     | 29     | Herr Böing       |

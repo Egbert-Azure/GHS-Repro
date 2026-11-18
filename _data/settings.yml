@@ -10,8 +10,8 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Neues'
-      url: '/neues/'
+    - title: 'Wiedersehen'
+      url: '/wiedersehen/'
     - title: 'Erinnerungen'
       url: '/erinnerungen/'
     - title: 'Schulgeschichte'
@@ -129,8 +129,8 @@ social:
 # Footer Navigation
 footer__menu__settings:
   menu__items:
-    - title: 'Neues'
-      url: '/neues/'
+    - title: 'Wiedersehen'
+      url: '/wiedersehen/'
     - title: 'Erinnerungen'
       url: '/erinnerungen/'
     - title: 'Schulgeschichte'

@@ -8,7 +8,7 @@ image: /images/Klassentreffen-1975-10a/Dorstener Zeitung2.jpg
 description: "Ehemalige der Gerhart-Hauptmann-Realschule trafen sich nach 50 Jahren in geselliger Runde – mit einem digitalen Gruß aus den USA und einem stillen Gedenken an Dirk Ruschitzka."
 tags_color: '#b25642'
 featured: false
-rubrik: neues
+rubrik: wiedersehen
 tags: [Klassentreffen]
 ---
 

@@ -9,7 +9,7 @@ video_embed: "/videos/2024-10-07 GHS Turnhalle.mp4"
 tags: [Abschied, Sport]
 tags_color: '#4c49cb'
 featured: false
-rubrik: neues
+rubrik: wiedersehen
 ---
 <small> Video Egbert Schröer; Fotos Norbert Bogatzki und Ruhr-Nachrichten</small>
 

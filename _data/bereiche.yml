@@ -1,7 +1,7 @@
 # The site's four areas: menu pages, home page tiles, and the rubrik: value in each post.
-- key: neues
-  title: Neues
-  url: /neues/
+- key: wiedersehen
+  title: Wiedersehen
+  url: /wiedersehen/
   image: /images/Klassentreffen-1985-10c/Titel-1985-10c.jpg
   text: Klassentreffen, der Abschied von der Turnhalle und was aus dem Schulgelände wird.
 - key: erinnerungen
