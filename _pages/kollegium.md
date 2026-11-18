@@ -51,7 +51,7 @@ Wer ist wer? Die Nummern auf den Umrisszeichnungen gehören zu den Namen in den 
 | 8      | Frau Rademacher (Schulsekretärin) | 27 | Frau Matzner (Bollte) |
 | 9      | [Frau Dickhöfer](/lehrer/dickhoefer/) | 28 | [Herr Glackemeyer](/lehrer/glackemeyer/) |
 | 10     | Frau Göpfert     | 29     | Herr Böing       |
-| 11     | [Herr Kuon](/lehrer/kuon/) (Rektor) | 30 | Herr Reinthal |
+| 11     | [Herr Kuon](/lehrer/kuon/) (Rektor) | 30 | [Herr Reinthal](/lehrer/reinthal/) |
 | 12     | [Herr Kronen](/lehrer/kronen/) | 31 | [Herr Osterhus](/lehrer/osterhues/) |
 | 13     | [Herr Rünker](/lehrer/ruenker/) (stellvertretender Rektor) | 32 | ? |
 | 14     | [Herr Braun](/lehrer/braun/) | 33 | Herr Scharf |
