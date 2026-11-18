@@ -75,20 +75,20 @@ Nun, es mündete darin das viele von uns in einem Restaurant für durchschnittli
 Das Gesicht der Zöllner beim Grenzübertritt zurück von Ost nach West beim Anblick von Lück mit recht kurios anmutender Kleidung und bepackt mit Büchern könnt ihr euch sicher vorstellen!
 
 
-## Erinnerungen an Gerd Fisser
+## Erinnerungen an Gerd Fißer
 
-Hier winkt der leider 2024 verstorbene Gerd Fisser in die Kamera während der Abschlussfahrt nach Berlin 1974. Als Lehrer der neuen Generation wurde er in einer Zeit des Umbruchs anerkannt und geschätzt. Wegen seiner Ähnlichkeit mit einem Schauspieler in der Fernsehserie über Mark Twain bekam er den Spitznamen "Sam" Fißer nach Samuel Longhorn Clemens, alter Ego von Mark Twain.
+Hier winkt der leider 2024 verstorbene Gerd Fißer in die Kamera während der Abschlussfahrt nach Berlin 1974. Als Lehrer der neuen Generation wurde er in einer Zeit des Umbruchs anerkannt und geschätzt. Wegen seiner Ähnlichkeit mit einem Schauspieler in der Fernsehserie über Mark Twain bekam er den Spitznamen "Sam" Fißer nach Samuel Longhorn Clemens, alter Ego von Mark Twain.
 
-![Gerd Fisser](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-Gerd-Fisser_sepia.jpg>){: width="400px"}
+![Gerd Fißer](<{{site.baseurl}}/images/Abschlussfahrt-Berlin-Gerd-Fisser_sepia.jpg>){: width="400px"}
 
-Aus der Erinnerung – außerhalb des Schulalltages – von Norbert Bogatzki hier eine kurze Geschichte zu Herrn Fisser:
+Aus der Erinnerung – außerhalb des Schulalltages – von Norbert Bogatzki hier eine kurze Geschichte zu Herrn Fißer:
 
 Das „Scheiße-Lied“ ist ein deutsches Jugendlied das sich seit den 1970er Jahren nachweisen lässt. Auf der Rückfahrt im Bus von der Abschlussfahrt Berlin 1974 stimmte der Schüler Breil dieses Lied im Bus an.
 
 Wer das Lied nicht (mehr) kennt, kann dieses bei [Wikipedia finden](https://de.wikipedia.org/wiki/Schei%C3%9Fe_(Lied)). Auch ist es natürlich möglich, im Rahmen der eigenen Kreativität noch eigene Texte dazu zu ersinnen, wovon die teilnehmenden Schüler auch ausreichend Gebrauch gemacht haben.
 
-Einige der frei ausgedachten Gesangsinhalte waren auch nicht wirklich schön oder jugendfrei und so hat Herr Fisser sich leidlich bemüht – (was ja auch seinem Auftrag entsprach) – den Gesang zu unterbinden oder aber zumindest auf eine jugendfreie Fassung einzugrenzen.
+Einige der frei ausgedachten Gesangsinhalte waren auch nicht wirklich schön oder jugendfrei und so hat Herr Fißer sich leidlich bemüht – (was ja auch seinem Auftrag entsprach) – den Gesang zu unterbinden oder aber zumindest auf eine jugendfreie Fassung einzugrenzen.
 
-Nun, ein vollbesetzter Bus mit testosterongesteuerten ausschließlich männlichen Jugendlichen ist ab irgend einem Zeitpunkt nicht mehr wirklich steuerbar und irgendwann hat sich Herr Fisser geschlagen gegeben und hat fleißig mitgesungen.
+Nun, ein vollbesetzter Bus mit testosterongesteuerten ausschließlich männlichen Jugendlichen ist ab irgend einem Zeitpunkt nicht mehr wirklich steuerbar und irgendwann hat sich Herr Fißer geschlagen gegeben und hat fleißig mitgesungen.
 
 Ein wundervoller Pädagoge.
