@@ -15,12 +15,14 @@ permalink: /authors/
     <div class="container">
       <div class="row">
         {% for author in site.authors %}
-        {% assign post_count = site.posts | where:"author", author.username %}
+        {% assign eigene = site.posts | where:"author", author.username %}
+        {% assign mit = site.posts | where:"mitautor", author.username %}
+        {% assign post_count = eigene | concat: mit %}
         <div class="col col-4 col-d-6 col-t-12">
           <div class="authors__info">
             <a class="authors__image" href="{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a>
             <h2 class="authors__name"><a class="authors__link" href="{{ author.url }}">{{ author.name }}</a></h2>
-            <div class="authors__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Beitrag{% else %}Beiträge{% endif %}</div>
+            <div class="authors__posts__count">{{ post_count.size }} {% if post_count.size == 1 %}Beitrag{% else %}Beiträge{% endif %}</div>
             <div class="authors__description">{{ author.content | markdownify }}</div>
           </div>
         </div>

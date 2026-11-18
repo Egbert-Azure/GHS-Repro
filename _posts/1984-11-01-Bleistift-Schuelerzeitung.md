@@ -3,7 +3,7 @@ layout: post
 title: "Bleistift – die Schülerzeitung"
 date: 1984-11-01
 nur_jahr: true
-author: egbert
+author: olaf
 image: /images/bleistift-titel.jpg
 description: "Olaf Grewer hat beim Umzug alte Ausgaben der Schülerzeitung wiedergefunden."
 tags: [Schülerzeitung]

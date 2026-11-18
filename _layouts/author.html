@@ -16,12 +16,14 @@ layout: default
 <section class="author">
 
   <div class="container">
-    {% assign post_count = site.posts | where: 'author', page.username %}
+    {% assign eigene = site.posts | where: 'author', page.username %}
+    {% assign mit = site.posts | where: 'mitautor', page.username %}
+    {% assign post_count = eigene | concat: mit | sort: 'date' | reverse %}
 
     <div class="author__content">
       <div class="author__image"><img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}"></div>
       <h1 class="author__name">{{ page.name }}</h1>
-      <div class="author__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Post{% else %}Posts{% endif %}</div>
+      <div class="author__posts__count">{{ post_count.size }} {% if post_count.size == 1 %}Beitrag{% else %}Beiträge{% endif %}</div>
 
       <div class="author__info">
       {% if page.location %}
