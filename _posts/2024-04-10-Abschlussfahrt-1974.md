@@ -9,6 +9,8 @@ video_embed:
 tags: [Geschichten, Erinnerungen, Abschlussfahrt]
 tags_color: '#4c49cb'
 featured: false
+rubrik: erinnerungen
+thema: Klassenfahrten & Austausch
 ---
 <div style="text-align: center;">
   <small>Titelbild E. Schroeer, Praktica LLT, Kodak Gold, 1988</small>

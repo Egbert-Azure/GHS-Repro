@@ -9,6 +9,8 @@ video_embed:
 tags: [Geschichten, Erinnerungen, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
+rubrik: erinnerungen
+thema: Klassenfahrten & Austausch
 ---
 
 <small>Foto E. Schröer – Kodak Instamatic, 1974 - The George Hotel</small>

@@ -1,0 +1,9 @@
+{%- comment -%} A compact post card: picture (or the school logo), title, author and year. {%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign a = nil -%}{%- if p.author -%}{%- assign a = site.authors | where: 'username', p.author | first -%}{%- endif -%}
+<a class="karte" href="{{ p.url | relative_url }}">
+  {% if p.image %}<span class="karte__bild">{% if p.video_embed %}<span class="video-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><polygon points="40,30 65,50 40,70"></polygon></svg></span>{% endif %}<img class="lazy" data-src="{{ p.image | relative_url }}" alt=""></span>
+  {% else %}<span class="karte__bild karte__bild--leer">{% if p.video_embed %}<span class="video-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><polygon points="40,30 65,50 40,70"></polygon></svg></span>{% endif %}<img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
+  <span class="karte__titel">{{ p.title }}</span>
+  <span class="karte__meta">{% if a %}{{ a.name }} · {% endif %}{% if include.monat %}{{ p.date | date: "%m/%Y" }}{% else %}{{ p.date | date: "%Y" }}{% endif %}</span>
+</a>

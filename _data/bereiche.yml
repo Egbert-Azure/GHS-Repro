@@ -1,0 +1,20 @@
+# The site's four areas: menu pages, home page tiles, and the rubrik: value in each post.
+- key: neues
+  title: Neues
+  url: /neues/
+  image: /images/Klassentreffen-1985-10c/Titel-1985-10c.jpg
+  text: Klassentreffen, der Abschied von der Turnhalle und was aus dem Schulgelände wird.
+- key: erinnerungen
+  title: Erinnerungen
+  url: /erinnerungen/
+  image: /images/foto-ag.jpg
+  text: Ehemalige erzählen von Klassenfahrten, Lehrern, AGs und ihrem Abschlussjahrgang.
+- key: schulgeschichte
+  title: Schulgeschichte
+  url: /schulgeschichte/
+  image: "/images/Schulgeschichte_files/Aufnahme aus den 60er - Goette.jpg"
+  text: Von der Gründung 1960 bis heute – die wichtigsten Stationen der Schule.
+- key: archiv
+  title: Archiv der alten Schulseite
+  url: /archiv/
+  text: Die Website der Schule von 2001 bis 2016, aus dem Webarchiv wiederhergestellt.

@@ -11,6 +11,8 @@ video_embed:
 tags: [Geschichten, Erinnerungen, Lehrer]
 tags_color: '#4c49cb' 
 featured: false
+rubrik: erinnerungen
+thema: Lehrer, AGs & Sport
 ---
 
 # Wer war er

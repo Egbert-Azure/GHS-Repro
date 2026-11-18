@@ -1,0 +1,21 @@
+<!-- begin archive band: the restored website of the school -->
+{% assign archiv = site.posts | where: "rubrik", "archiv" %}
+{% assign mitbild = archiv | where_exp: "p", "p.image != nil" %}
+{% assign b = site.data.bereiche | where: "key", "archiv" | first %}
+<section class="section archiv-band animate">
+  <div class="container">
+    <div class="archiv-band__kopf">
+      <p class="archiv-band__label"><i class="fa-solid fa-box-archive" aria-hidden="true"></i> {{ site.data.archiv.zeitraum }}</p>
+      <h2 class="section__title">{{ b.title }}</h2>
+      <p class="archiv-band__text">{{ b.text }} {{ archiv.size }} Beiträge von Schulleitung, Lehrern und Schülern.</p>
+    </div>
+    <div class="row">
+      {% assign funde = mitbild | sample: 3 %}
+      {% for p in funde %}
+      <div class="col col-4 col-d-6 col-t-12">{% include karte.html post=p %}</div>
+      {% endfor %}
+    </div>
+    <a class="button archiv-band__button" href="{{ b.url | relative_url }}">Zum Archiv</a>
+  </div>
+</section>
+<!-- end archive band -->

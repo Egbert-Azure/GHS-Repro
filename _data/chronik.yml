@@ -1,0 +1,56 @@
+# Timeline on /schulgeschichte/. Each entry: year, text, optional links (title + url).
+# Facts from the history page (/geschichte/) and the posts linked here.
+- jahr: "1960"
+  text: Am 1. April beginnt die Städtische Realschule für Jungen mit 60 Schülern in zwei Klassen – untergebracht in der Marienschule.
+  links:
+    - { title: "Die Geschichte der Schule", url: "/geschichte/" }
+- jahr: "1962"
+  text: Am 4. Juni erfolgt der erste Spatenstich für das eigene Schulgebäude.
+- jahr: "1964"
+  text: Am 24. März zieht die Schule in den Neubau ein.
+- jahr: "1966/67"
+  text: Die Schule erhält den Namen Gerhart-Hauptmann-Schule.
+  links:
+    - { title: "Gerhart Hauptmann, der Namenspatron", post: "2024-08-26-GHauptmann" }
+    - { title: "Wer war Gerhart Hauptmann?", url: "/lebensbild/" }
+- jahr: "1968"
+  text: Direktor Max Kuon schreibt im Heimatkalender über die Schulchronik.
+  links:
+    - { title: "Aus der Schulchronik", post: "2024-08-13-Kuon" }
+- jahr: "1969"
+  text: Am 7. und 8. März wird die Großturnhalle eingeweiht.
+- jahr: "1970"
+  text: Die ersten Austauschschüler aus Dänemark kommen nach Dorsten.
+- jahr: "1972"
+  text: Am 15. Februar wird ein weiterer Neubau bezogen.
+- jahr: "1974"
+  text: Im März kommen erstmals Schüler aus der Partnerstadt Crawley nach Dorsten.
+  links:
+    - { title: "Schüleraustausch März 1974", post: "2025-01-14-partnerschaft-crawley" }
+- jahr: "1979/80"
+  text: Erstmals können auch Mädchen die Schule besuchen.
+- jahr: "1985"
+  text: Der erste Abschlussjahrgang mit Mädchen.
+  links:
+    - { title: "Abschlussjahrgang 1985", post: "2024-04-14-Abschluss-1985" }
+- jahr: "2001"
+  text: Die ersten Beiträge auf der Website der Schule.
+  links:
+    - { title: "Archiv der alten Schulseite", url: "/archiv/" }
+- jahr: "2010"
+  text: Die GHS wird 50.
+  links:
+    - { title: "Foto zum Jubiläum", url: "/geschichte/#die-ghs-wird-50" }
+- jahr: "2016"
+  text: Nach 56 Jahren wird die Schule geschlossen. Ehemalige, Lehrer und Schüler feiern Abschied.
+  links:
+    - { title: "Die Verabschiedung in Bildern", post: "2016-07-02-Die-Verabschiedung-in-Bildern" }
+    - { title: "Ein letzter Rundgang", post: "2024-05-03-Die-Klassen" }
+- jahr: "2024"
+  text: Abschied von der Turnhalle, bevor der Bagger kommt.
+  links:
+    - { title: "Abschied von der Turnhalle", post: "2024-10-08-Turnhalle" }
+- jahr: "2025"
+  text: Der Abriss lässt auf sich warten, das Gelände ist zum Lost Place geworden.
+  links:
+    - { title: "Zwischen Lost Place und Sicherheitsmaßnahmen", post: "2025-10-17-LostPlace" }

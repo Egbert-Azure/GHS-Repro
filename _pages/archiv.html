@@ -1,0 +1,31 @@
+---
+layout: bereich
+title: Archiv der alten Schulseite
+description: Die Website der Gerhart-Hauptmann-Realschule von 2001 bis 2016, aus dem Webarchiv wiederhergestellt.
+permalink: /archiv/
+---
+{% assign archiv = site.posts | where: "rubrik", "archiv" %}
+<div class="archiv-intro">
+  <p>Von 2001 bis zur Schließung 2016 berichteten Schulleitung, Lehrer und Schüler auf der Website der Schule über Wettbewerbe, AGs, Schüleraustausche und das Schulleben. Nach der Schließung verschwand die Seite aus dem Netz.</p>
+  <p>Ihre Beiträge wurden aus dem Webarchiv (Wayback Machine) wiederhergestellt. Wo sich ein Foto nicht retten ließ, wurde es durch ein vergleichbares ersetzt.</p>
+</div>
+
+<h2 class="thema__titel">Seiten der alten Website</h2>
+<div class="row archiv-seiten">
+  <div class="col col-4 col-t-12"><a class="archiv-seite" href="{{ '/kollegium/' | relative_url }}"><span class="archiv-seite__titel">Das Kollegium</span><span class="archiv-seite__text">Lehrerfotos mit Namen, Stand 1985 und 2000</span></a></div>
+  <div class="col col-4 col-t-12"><a class="archiv-seite" href="{{ '/lebensbild/' | relative_url }}"><span class="archiv-seite__titel">Wer war Gerhart Hauptmann?</span><span class="archiv-seite__text">Lebensbild des Namenspatrons, 2001</span></a></div>
+  <div class="col col-4 col-t-12"><a class="archiv-seite" href="{{ '/ehemalige/' | relative_url }}"><span class="archiv-seite__titel">Aus dem Gästebuch</span><span class="archiv-seite__text">Grüße von Ehemaligen, 2013 bis 2016</span></a></div>
+</div>
+
+<h2 class="thema__titel">Beiträge nach Jahren</h2>
+{% assign chronologisch = archiv | reverse %}
+{% assign jahre = chronologisch | group_by_exp: "p", "p.date | date: '%Y'" %}
+<nav class="sprungmarken" aria-label="Jahre">
+  {% for j in jahre %}<a href="#jahr-{{ j.name }}">{{ j.name }}</a>{% endfor %}
+</nav>
+{% for j in jahre %}
+<section class="archiv-jahr" id="jahr-{{ j.name }}">
+  <h3 class="archiv-jahr__titel">{{ j.name }}</h3>
+  <ul class="zeilen">{% for p in j.items %}{% include zeile.html post=p %}{% endfor %}</ul>
+</section>
+{% endfor %}

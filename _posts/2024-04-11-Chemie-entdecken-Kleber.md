@@ -9,6 +9,7 @@ video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 
 <small>Potatoe Photo by <a href="https://unsplash.com/@outsideclick?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Dan</a> on <a href="https://unsplash.com/photos/a-pile-of-potatoes-nyAs_YWU3_I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>

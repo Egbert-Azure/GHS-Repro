@@ -9,6 +9,7 @@ video_embed:
 tags: [Projekte, Aktivitäten]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 
 Die Schülerinnen und Schüler der 5a stellen ihre Haustiere vor. Sie berichten davon, was man bei der Anschaffung, Haltung und Pflege der verschiedenen Haustiere beachten muss und erzählen von interessanten, lustigen und spannenden Erlebnissen mit ihren Tieren.

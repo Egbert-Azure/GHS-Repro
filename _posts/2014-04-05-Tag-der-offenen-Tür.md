@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@dtravisphd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Travis</a> on <a href="https://unsplash.com/photos/brown-fountain-pen-on-notebook-5bYxXawHOQg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a><small>
   

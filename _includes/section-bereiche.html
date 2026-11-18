@@ -1,0 +1,19 @@
+<!-- begin areas: the three ways into the site (the archive has its own band below) -->
+<section class="section bereiche animate">
+  <div class="container">
+    <div class="row">
+      {% for b in site.data.bereiche %}{% if b.key != "archiv" %}
+      {% assign n = site.posts | where: "rubrik", b.key %}
+      <div class="col col-4 col-d-12">
+        <a class="bereich-kachel" href="{{ b.url | relative_url }}">
+          <span class="bereich-kachel__bild"><img class="lazy" data-src="{{ b.image | relative_url }}" alt=""></span>
+          <span class="bereich-kachel__titel">{{ b.title }}</span>
+          <span class="bereich-kachel__text">{{ b.text }}</span>
+          <span class="bereich-kachel__mehr">{{ n.size }} Beiträge <i class="fa-solid fa-arrow-right"></i></span>
+        </a>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end areas -->

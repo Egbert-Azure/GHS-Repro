@@ -1,0 +1,14 @@
+---
+layout: bereich
+title: Neues
+description: Klassentreffen, der Abschied von der Turnhalle und was aus dem Schulgelände wird.
+permalink: /neues/
+---
+{% assign posts = site.posts | where: "rubrik", "neues" %}
+<div class="row">
+  {% for p in posts %}
+  <div class="col col-4 col-d-6 col-t-12">{% include karte.html post=p monat=true %}</div>
+  {% endfor %}
+</div>
+
+{% include section-mitmachen.html %}

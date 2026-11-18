@@ -9,6 +9,7 @@ video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 <small> Ein Foto mit der Siegerin konnte nicht restauriert werden</small>
 

@@ -8,6 +8,7 @@ image: '/images/Neues_files/lembeck.jpg' # Add image post (optional)
 tags: [Partnerschaften, Auslandskontakt]
 tags_color: '#835F46'
 featured: false
+rubrik: archiv
 ---
 
 <small>Photo by <a href="https://unsplash.com/@esther68?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Esther Heidsiek-Schmitten</a> on <a href="https://unsplash.com/photos/a-large-building-with-two-towers-next-to-a-body-of-water-S7W9IHnG9nY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small

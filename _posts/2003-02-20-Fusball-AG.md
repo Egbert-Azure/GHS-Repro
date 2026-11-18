@@ -9,6 +9,7 @@ video_embed:
 tags: [AG, Sport, Fussball, Stadtmeister]
 tags_color: '#835F46'
 featured: false
+rubrik: archiv
 ---
 
 ### AG-Leiter: Hr. Veenstra

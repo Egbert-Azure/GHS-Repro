@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten, Förderverein]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 
 Der Förderverein der Gerhart-Hauptmann-Schule wurde am 6. März 2001 gegründet. Es handelt sich um einen eingetragenen Verein, der vom Finanzamt Gladbeck als gemeinnützig anerkannt ist, d.h. Spenden können steuerlich geltend gemacht werden.

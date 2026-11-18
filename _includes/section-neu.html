@@ -1,0 +1,16 @@
+<!-- begin new on the site: newest posts outside the archive -->
+{% assign neu = site.posts | where_exp: "p", "p.rubrik != 'archiv'" %}
+<section class="section animate">
+  <div class="container">
+    <div class="section__head">
+      <h2 class="section__title">Neu auf der Seite</h2>
+      <a class="section__link" href="{{ '/blog/' | relative_url }}">Alle Beiträge <i class="fa-solid fa-arrow-right"></i></a>
+    </div>
+    <div class="row">
+      {% for p in neu limit:3 %}
+      <div class="col col-4 col-d-6 col-t-12">{% include karte.html post=p monat=true %}</div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end new on the site -->

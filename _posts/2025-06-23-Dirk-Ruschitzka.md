@@ -9,6 +9,8 @@ image: '/images/Dirk-Blog.jpg'
 tags: [Erinnerung, Musik, Jimi Hendrix, GHS, Dirk]
 tags_color: '#4c49cb'
 featured: false
+rubrik: erinnerungen
+thema: Musik & Zeitgeist
 ---
 
 > "If I don’t meet you again in this world, I’ll see you in the next one. And don’t be late.”  

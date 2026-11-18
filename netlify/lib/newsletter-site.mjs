@@ -39,28 +39,28 @@ export default {
     moreButton: "Alle Beiträge ansehen",
 
     subscriberFooter: ({ a, unsubscribeUrl }) =>
-      `Sie erhalten diese E-Mail, weil Sie den Newsletter der GHS-Seite (${a(SITE, HOST)}) abonniert haben. ` +
-      `Hier können Sie sich mit einem Klick ${a(unsubscribeUrl, "abmelden")}.`,
+      `Du erhältst diese E-Mail, weil Du den Newsletter der GHS-Seite (${a(SITE, HOST)}) abonniert hast. ` +
+      `Hier kannst Du Dich mit einem Klick ${a(unsubscribeUrl, "abmelden")}.`,
     subscriberFooterText: ({ unsubscribeUrl }) =>
-      `Sie erhalten diese E-Mail, weil Sie den Newsletter der GHS-Seite (${HOST}) abonniert haben.\n` +
+      `Du erhältst diese E-Mail, weil Du den Newsletter der GHS-Seite (${HOST}) abonniert hast.\n` +
       `Abmelden mit einem Klick: ${unsubscribeUrl}`,
 
     confirm: {
-      subject: "Bitte bestätigen Sie Ihr Abonnement des GHS-Newsletters",
-      heading: "Bitte bestätigen Sie Ihr Abonnement",
-      intro: "Vielen Dank für Ihr Interesse am Newsletter der GHS-Seite. Bitte bestätigen Sie Ihr Abonnement mit einem Klick auf den Button. Danach erhalten Sie eine kurze E-Mail, sobald es einen neuen Beitrag gibt.",
+      subject: "Bitte bestätige Dein Abonnement des GHS-Newsletters",
+      heading: "Bitte bestätige Dein Abonnement",
+      intro: "Vielen Dank für Dein Interesse am Newsletter der GHS-Seite. Bitte bestätige Dein Abonnement mit einem Klick auf den Button. Danach erhältst Du eine kurze E-Mail, sobald es einen neuen Beitrag gibt.",
       button: "Abonnement bestätigen",
-      ignore: "Sie haben sich nicht angemeldet? Dann ignorieren Sie diese E-Mail einfach. Sie erhalten dann keine weiteren Nachrichten.",
-      footer: ({ a }) => `Diese E-Mail wurde verschickt, weil Ihre Adresse auf ${a(`${SITE}/newsletter/`, `${HOST}/newsletter/`)} eingetragen wurde.`,
+      ignore: "Du hast Dich nicht angemeldet? Dann ignoriere diese E-Mail einfach. Du erhältst dann keine weiteren Nachrichten.",
+      footer: ({ a }) => `Diese E-Mail wurde verschickt, weil Deine Adresse auf ${a(`${SITE}/newsletter/`, `${HOST}/newsletter/`)} eingetragen wurde.`,
     },
 
     moved: {
       subject: "Der GHS-Newsletter ist umgezogen",
       heading: "Der Newsletter ist umgezogen",
       paragraphs: ({ a, detailsUrl }) => [
-        "Bisher haben Sie die Neuigkeiten der GHS-Seite über den Dienst follow.it erhalten. Ab sofort verschickt die Seite den Newsletter selbst – ohne Werbung und nur dann, wenn es einen neuen Beitrag gibt.",
-        `Ihre E-Mail-Adresse liegt damit nicht mehr bei einem Newsletter-Dienst, der sich über Werbung finanziert. Sie wird ausschließlich für diesen Newsletter verwendet und weder weitergegeben noch verkauft. ${a(detailsUrl, "Mehr zum Datenschutz")}`,
-        "Sie müssen nichts weiter tun. Wenn Sie den Newsletter nicht mehr erhalten möchten, können Sie sich unten mit einem Klick abmelden.",
+        "Bisher hast Du die Neuigkeiten der GHS-Seite über den Dienst follow.it erhalten. Ab sofort verschickt die Seite den Newsletter selbst – ohne Werbung und nur dann, wenn es einen neuen Beitrag gibt.",
+        `Deine E-Mail-Adresse liegt damit nicht mehr bei einem Newsletter-Dienst, der sich über Werbung finanziert. Sie wird ausschließlich für diesen Newsletter verwendet und weder weitergegeben noch verkauft. ${a(detailsUrl, "Mehr zum Datenschutz")}`,
+        "Du musst nichts weiter tun. Wenn Du den Newsletter nicht mehr erhalten möchtest, kannst Du Dich unten mit einem Klick abmelden.",
         "Viele Grüße<br>Egbert",
       ],
       detailsUrl: `${SITE}/newsletter/#datenschutz`,

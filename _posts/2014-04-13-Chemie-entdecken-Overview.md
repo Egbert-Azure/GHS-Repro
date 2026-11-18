@@ -9,6 +9,7 @@ video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 <div style="text-align: center;">
   <small>Bilder konnten nicht restauriert werden und zur Illustration ersetzt</small>

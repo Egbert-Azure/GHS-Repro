@@ -10,35 +10,37 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Autoren & Lehrer'
-      url: '/authors/'
-    - title: 'Kollegium'
-      url: '/Kollegium/'
-#    - title: 'Videos'
-#      url: '/videos/'
+    - title: 'Neues'
+      url: '/neues/'
+    - title: 'Erinnerungen'
+      url: '/erinnerungen/'
+    - title: 'Schulgeschichte'
+      url: '/schulgeschichte/'
+    - title: 'Archiv'
+      url: '/archiv/'
     - title: 'Ehemalige'
       url: '/ehemalige/'
-    - title: 'Weiteres'
+    - title: 'Mehr'
       submenu:
-      - url: '/geschichte/'
-        title: 'Geschichte'
-      - url: '/lebensbild/'
-        title: 'Lebensbild'
+      - url: '/blog/'
+        title: 'Alle Beiträge'
+      - url: '/videos/'
+        title: 'Videos'
+      - url: '/authors/'
+        title: 'Autoren'
       - url: '/kontakt/'
         title: 'Kontakt'
+      - url: '/newsletter/'
+        title: 'Newsletter'
       - url: '/about/'
-        title: 'About'
+        title: 'Über diese Seite'
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
   hero__title: Gerhart-Hauptmann Realschule Dorsten
-  hero__description: Aus dem Webarchiv restaurierte Seite der ehemaligen Gerhart-Hauptmann-Realschule in Dorsten. Angereichert mit neuen Eindrücken und Erinnerungen aus der Perspetive der ehemaligen Schüler.
+  hero__description: Aus dem Webarchiv restaurierte Seite der ehemaligen Gerhart-Hauptmann-Realschule in Dorsten. Angereichert mit neuen Eindrücken und Erinnerungen aus der Perspektive der ehemaligen Schüler.
   hero__image: '/images/ghs_hero.jpg' # You can add hero image. For example '/images/06.jpg'
 
 
@@ -99,7 +101,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: Die Gerhart-Hauptmann-Realschule Dorsten (1960–2016) – ihre alte Website, ihre Geschichte und die Erinnerungen der Ehemaligen.
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -123,18 +125,18 @@ social:
 # Footer Navigation
 footer__menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Geschichte'
-      url: '/Geschichte/'
-    - title: 'Lebensbild'
-      url: '/lebensbild/'
+    - title: 'Neues'
+      url: '/neues/'
+    - title: 'Erinnerungen'
+      url: '/erinnerungen/'
+    - title: 'Schulgeschichte'
+      url: '/schulgeschichte/'
+    - title: 'Archiv'
+      url: '/archiv/'
     - title: 'Kontakt'
       url: '/kontakt/'
     - title: 'Newsletter'
       url: '/newsletter/'
-    - title: 'About'
-      url: '/about/'
 
 
 

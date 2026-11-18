@@ -1,0 +1,32 @@
+---
+layout: bereich
+title: Schulgeschichte
+description: Von der Gründung 1960 bis heute.
+permalink: /schulgeschichte/
+---
+<ol class="chronik">
+  {% for e in site.data.chronik %}
+  <li class="chronik__eintrag">
+    <span class="chronik__jahr">{{ e.jahr }}</span>
+    <div class="chronik__inhalt">
+      <p>{{ e.text }}</p>
+      {% if e.links %}
+      <p class="chronik__links">
+        {% for l in e.links %}
+          {% if l.post %}{% assign lp = site.posts | where_exp: "p", "p.path contains l.post" | first %}{% assign href = lp.url %}{% else %}{% assign href = l.url %}{% endif %}
+          <a href="{{ href | relative_url }}">{{ l.title }} <i class="fa-solid fa-arrow-right"></i></a>
+        {% endfor %}
+      </p>
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ol>
+
+<h2 class="thema__titel">Mehr zur Schulgeschichte</h2>
+{% assign posts = site.posts | where: "rubrik", "schulgeschichte" %}
+<div class="row">
+  {% for p in posts %}
+  <div class="col col-3 col-d-6 col-t-12">{% include karte.html post=p %}</div>
+  {% endfor %}
+</div>

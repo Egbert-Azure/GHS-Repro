@@ -9,6 +9,7 @@ video_embed:
 tags: [Projekte, Aktivitäten, AG]
 tags_color: '#cb4949'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@markthompson_media?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mark Thompson</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-people-walking-on-hall-QM3suFW_Y4E?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
 

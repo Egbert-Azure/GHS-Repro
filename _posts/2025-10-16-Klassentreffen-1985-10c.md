@@ -9,6 +9,7 @@ video_embed:
 tags: [Erinnerungen, Klassentreffen, 10c, 1985, 10b, 1975]
 tags_color: '#b25642'
 featured: false
+rubrik: neues
 ---
 
 ## 40 Jahre später – Wiedersehen der Klasse 10c (Abschlussjahrgang 1985)

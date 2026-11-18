@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@syinq?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Susan Q Yin</a> on <a href="https://unsplash.com/photos/books-on-brown-wooden-shelf-2JIvboGLeho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   

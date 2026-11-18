@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten, Wettbewerb]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 
 Erstmals nahm die Gerhart-Hauptmann-Realschule in diesem Jahr am Wettbewerb "Wissen-Geographie" teil.

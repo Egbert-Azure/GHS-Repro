@@ -8,6 +8,7 @@ image: '/images/crawley.jpg' # Add image post (optional)
 tags: [Auslandskontakte, Partnerschaften]
 tags_color: '#835F46'
 featured: false
+rubrik: archiv
 ---
 
 Schon wenige Jahre nach Gründung der Schule wurden die ersten Kontakte zum Ausland geknüpft.
