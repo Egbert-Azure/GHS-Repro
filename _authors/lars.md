@@ -2,7 +2,7 @@
 username: lars
 name: Lars Veenstra
 description: Konrektor, Sportlehrer und Leiter Fussball AG 2002
-image: '/images/dummy-man.png' # Add image post (optional)
+image: '/images/lehrer/veenstra.jpg'
 cover: 
 location: Dorsten
 website: 

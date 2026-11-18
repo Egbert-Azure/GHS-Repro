@@ -1,7 +1,7 @@
 ---
 name: Lars Veenstra
 description: Sportlehrer und Konrektor
-image:
+image: '/images/lehrer/veenstra.jpg'
 kollegium:
   - jahr: 2000
     nr: 5

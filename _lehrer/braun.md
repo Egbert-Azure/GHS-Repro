@@ -1,7 +1,7 @@
 ---
 name: Gerd und Henrike Braun
 description: Lehrer-Ehepaar
-image:
+image: '/images/lehrer/braun.jpg'
 kollegium:
   - jahr: 1985
     nr: 14 und 15

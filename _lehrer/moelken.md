@@ -1,8 +1,10 @@
 ---
 name: Claudia Mölken
 description: Lehrerin
-image:
+image: '/images/lehrer/moelken.jpg'
 kollegium:
+  - jahr: 1985
+    nr: 37
   - jahr: 2000
     nr: 10
 suche: [Mölken]
