@@ -35,7 +35,7 @@ thema: Abschlussjahrgänge
 - **Dates** are printed in German ("8. Oktober 2024") by `_includes/datum.html`; templates call it as `include datum.html date=post.date` (add `monat=true` for "Oktober 2024").
 - **Home page:** the three tiles and their texts come from `_data/bereiche.yml`; "Neu auf der Seite" shows the three newest posts outside the archive; the dark archive band shows three restored posts with a picture, picked anew at every build.
 - **Archive page** (`_pages/archiv.html`): intro text, the three restored pages, all `rubrik: archiv` posts by year. Each restored post shows a short note at the top (`_includes/archiv-hinweis.html`).
-- **Timeline** on /schulgeschichte/: `_data/chronik.yml`, one entry per year with optional links (`url:` for a page, `post:` for a post's file name without `.md`).
+- **Timeline** on /schulgeschichte/: `_data/chronik.yml`, one entry per year with optional links (`url:` for a page, `post:` for a post's file name without `.md`) and an optional photo (`bild:` path, `bildtext:` caption; see 1962).
 - **Videos:** `video_embed:` in the front matter shows a video instead of the cover picture (a YouTube embed address or a file such as `/videos/name.mp4`); the post then gets a play icon on its card and is listed on /videos/. GitHub warns above 50 MB per file and refuses files over 100 MB; longer videos belong on YouTube.
 - **Teacher profiles** live in `_lehrer/`, one file per teacher, named after the surname without umlauts (`_lehrer/dickhoefer.md`, published at /lehrer/dickhoefer/). The overview at /lehrer/ shows them in file-name order, so alphabetically by surname. Front matter:
   - `name` and `description` (the role, shown under the name)

@@ -10,6 +10,12 @@ permalink: /schulgeschichte/
     <span class="chronik__jahr">{{ e.jahr }}</span>
     <div class="chronik__inhalt">
       <p>{{ e.text }}</p>
+      {% if e.bild %}
+      <figure class="chronik__bild">
+        <img class="lazy" data-src="{{ e.bild | relative_url }}" alt="{{ e.bildtext | default: e.text | escape }}">
+        {% if e.bildtext %}<figcaption>{{ e.bildtext }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
       {% if e.links %}
       <p class="chronik__links">
         {% for l in e.links %}

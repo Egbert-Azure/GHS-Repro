@@ -6,6 +6,8 @@
     - { title: "Die Geschichte der Schule", url: "/geschichte/" }
 - jahr: "1962"
   text: Am 4. Juni erfolgt der erste Spatenstich für das eigene Schulgebäude.
+  bild: /images/Schulgeschichte_files/baustell.JPG
+  bildtext: Bau der Gerhart-Hauptmann-Schule; erster Spatenstich 1962
 - jahr: "1964"
   text: Am 24. März zieht die Schule in den Neubau ein.
 - jahr: "1966/67"
