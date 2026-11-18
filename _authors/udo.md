@@ -2,7 +2,7 @@
 username: udo
 name: Udo Ostrop
 description: Abschlussjahr 1975
-image: '/images/student-male.png'
+image: '/images/udo.jpg'
 cover:
 location:
 website:

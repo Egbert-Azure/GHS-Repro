@@ -15,7 +15,7 @@ tags: [Klassentreffen]
 
 Am 17. September 2005, 30 Jahre nach der Schulentlassung, trafen sich ehemalige Schüler der Klasse 10a (Abschlussjahrgang 1975) der Gerhart-Hauptmann-Realschule zum Klassentreffen.
 
-<small>Auf dem Gruppenfoto oben, stehend 2. bis 4. von links: Lothar Stein, Kalle Mast und Volker Kampshoff; 7. von links: Andreas Stoll. Sitzend, 3. von links: Dieter Soyka; ganz rechts Manni Grütering und Hans-Josef.</small>
+<small>Auf dem Gruppenfoto oben, stehend 2. bis 4. von links: Lothar Stein, Kalle Mast und Volker Kampshoff; 7. von links: Andreas Stoll; ganz rechts Udo Ostrop. Sitzend, 3. von links: Dirk Soyka; ganz rechts Manni Grütering und Hans-Josef (Jupp) Melzer.</small>
 
 ## Eindrücke vom Abend
 
