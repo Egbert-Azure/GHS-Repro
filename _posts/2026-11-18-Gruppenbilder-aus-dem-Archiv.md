@@ -13,7 +13,7 @@ rubrik: erinnerungen
 thema: Abschlussjahrgänge
 ---
 
-Die drei Fotos stammen von Volker Radmer und Kerstin Krenz. Auf der Wiese und in der Turnhalle ist die Klasse 10e des Abschlussjahrgangs 1987 zu sehen; ihr Klassen- und Sportlehrer war Gerd Sellheyer.
+Die drei Fotos stammen von Volker Radmer und Kerstin Krenz. Auf der Wiese und in der Turnhalle ist großenteils dieselbe Klasse zu sehen. [Katja Neumann](/katja) (Link) erkennt darin ihre frühere Klasse, die b – mit Martina, Petra, Heike, Anke, Christian, Volker und den anderen.
 
 Das Foto oben entstand auf der Wiese vor dem Neubau von 1972 mit dem Sprachlabor. Die rote Säule ist der große Bleistift, der dort stand; ganz zu sehen ist er auf dem [Foto des Neubaus](/geschichte/#neubau-1972) in der Schulgeschichte.
 
@@ -24,7 +24,7 @@ Vorne sitzen und knien von links Thorsten Badde, Oliver Albert, Michael Thust, M
   <figcaption style="margin-top: 6px; font-size: 0.85em;">In der Turnhalle</figcaption>
 </figure>
 
-Vorne liegt [Gerd Sellheyer](/lehrer/sellheyer/), Klassenlehrer der 10e und Sportlehrer.
+Vorne liegt der Sportlehrer [Gerd Sellheyer](/lehrer/sellheyer/).
 
 Hinter ihm hocken von links Thorsten Badde, Michael Brünnig, Oliver Albert, Michael Thust, Martina Heinrich, Hüseyn Davraz, Bärbel Jauer und Nicola Lützner (Otte). Stehend von links: Carsten Meichsner (hinten im hellblauen T-Shirt), Astrid Regina Stappert (halb verdeckt, neben dem Jungen im blauen Adidas-Trikot), Petra Hosemann, Gaby Seifert (im weißen Pulli), Anke Ridderbusch (im dunkelblauen Pulli), mit Brille Astrid Brinkmann (Zuschlag) und Manuela Lidtke (im gelben Pulli). Hinter Astrid Brinkmann steht Robert Craddock.
 
@@ -35,4 +35,4 @@ Ob das Turnhallenfoto in unserer Großturnhalle entstand, wissen wir nicht siche
   <figcaption style="margin-top: 6px; font-size: 0.85em;">Im Klassenraum</figcaption>
 </figure>
 
-Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Schuljahr die Fotos entstanden sind, welche Klasse im Klassenraum zu sehen ist und wo das Turnhallenfoto entstand? Schreib uns über das [Kontaktformular](/kontakt/).
+Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Jahr diese Klasse ihren Abschluss gemacht hat, in welchem Schuljahr die Fotos entstanden sind, welche Klasse im Klassenraum zu sehen ist und wo das Turnhallenfoto entstand? Schreib uns über das [Kontaktformular](/kontakt/).
