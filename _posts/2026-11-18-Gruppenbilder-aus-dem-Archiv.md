@@ -6,14 +6,14 @@ author: volker
 mitautor: kerstin
 image: /images/klassenfotos-radmer-krenz/wiese.jpg
 description: "Klassenfotos vor dem Bleistift, im Klassenraum und in der Turnhalle"
-tags: [Abschlussjahrgänge]
+tags: [Schulleben]
 tags_color: '#b25642'
 featured: false
 rubrik: erinnerungen
-thema: Abschlussjahrgänge
+thema: Schulleben
 ---
 
-Die drei Fotos stammen von Volker Radmer und Kerstin Krenz. Auf der Wiese und in der Turnhalle ist großenteils dieselbe Klasse zu sehen. [Katja Neumann](/katja) (Link) erkennt darin ihre frühere Klasse, die b – mit Martina, Petra, Heike, Anke, Christian, Volker und den anderen.
+Die drei Fotos stammen von Volker Radmer und Kerstin Krenz. Auf der Wiese und in der Turnhalle ist großenteils dieselbe Klasse zu sehen.
 
 Das Foto oben entstand auf der Wiese vor dem Neubau von 1972 mit dem Sprachlabor. Die rote Säule ist der große Bleistift, der dort stand; ganz zu sehen ist er auf dem [Foto des Neubaus](/geschichte/#neubau-1972) in der Schulgeschichte.
 
