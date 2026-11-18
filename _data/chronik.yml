@@ -8,11 +8,16 @@
   text: Am 4. Juni erfolgt der erste Spatenstich für das eigene Schulgebäude.
   bild: /images/Schulgeschichte_files/baustell.JPG
   bildtext: Bau der Gerhart-Hauptmann-Schule; erster Spatenstich 1962
+  links:
+    - { title: "Der Bau der Schule", url: "/geschichte/#spatenstich" }
 - jahr: "1964"
   text: Am 24. März zieht die Schule in den Neubau ein.
+  links:
+    - { title: "Der Einzug in die neue Schule", url: "/geschichte/#einzug" }
 - jahr: "1966/67"
   text: Die Schule erhält den Namen Gerhart-Hauptmann-Schule.
   links:
+    - { title: "Die Namensgebung", url: "/geschichte/#namensgebung" }
     - { title: "Gerhart Hauptmann, der Namenspatron", post: "2024-08-26-GHauptmann" }
     - { title: "Wer war Gerhart Hauptmann?", url: "/lebensbild/" }
 - jahr: "1968"
@@ -21,16 +26,27 @@
     - { title: "Aus der Schulchronik", post: "2024-08-13-Kuon" }
 - jahr: "1969"
   text: Am 7. und 8. März wird die Großturnhalle eingeweiht.
+  links:
+    - { title: "Bau und Einweihung der Großturnhalle", url: "/geschichte/#grossturnhalle" }
+    - { title: "Abschied von der Turnhalle", post: "2024-10-08-Turnhalle" }
 - jahr: "1970"
   text: Die ersten Austauschschüler aus Dänemark kommen nach Dorsten.
+  links:
+    - { title: "Dänemark: Hindholm", url: "/geschichte/#daenemark" }
+    - { title: "Auslandskontakte und Partnerschaften", post: "2001-01-14-fruehe-partnerschaften" }
 - jahr: "1972"
   text: Am 15. Februar wird ein weiterer Neubau bezogen.
+  links:
+    - { title: "Der Neubau von 1972", url: "/geschichte/#neubau-1972" }
 - jahr: "1974"
   text: Im März kommen erstmals Schüler aus der Partnerstadt Crawley nach Dorsten.
   links:
+    - { title: "England: Crawley", url: "/geschichte/#crawley" }
     - { title: "Schüleraustausch März 1974", post: "2025-01-14-partnerschaft-crawley" }
 - jahr: "1979/80"
   text: Erstmals können auch Mädchen die Schule besuchen.
+  links:
+    - { title: "Mädchen an der GHS", url: "/geschichte/#maedchen" }
 - jahr: "1985"
   text: Der erste Abschlussjahrgang mit Mädchen.
   links:
