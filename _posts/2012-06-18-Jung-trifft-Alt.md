@@ -9,6 +9,7 @@ video_embed:
 tags: [Projekte, PERST]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 
 <div style="text-align: center;">

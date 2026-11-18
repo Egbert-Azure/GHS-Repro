@@ -9,6 +9,8 @@ video_embed:
 tags: [Erinnerungen, Geschichte, Klassenfahrt, Schüleraustausch]
 tags_color: '#4c49cb'
 featured: false
+rubrik: erinnerungen
+thema: Klassenfahrten & Austausch
 ---
 
 <small> Foto E. Schroeer- Kodak Instamatic, 1974 </small>

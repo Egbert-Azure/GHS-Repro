@@ -10,6 +10,33 @@ rebuild via Webarchive
 The repository is published via **Netlify** on ghs.myvortexcloud.com
 
 
+## Structure: the four areas
+
+Every post belongs to one of four areas. The area is one line in the post's front matter:
+
+```
+rubrik: archiv            # restored from the old school website (2001–2016)
+rubrik: erinnerungen      # memories of alumni; also needs a thema: line (see below)
+rubrik: schulgeschichte   # history of the school
+rubrik: neues             # reunions, the school grounds, current news
+```
+
+Memories also name their group, exactly as written on the Erinnerungen page (`themen:` in `_pages/erinnerungen.html`):
+
+```
+thema: Klassenfahrten & Austausch
+thema: Lehrer, AGs & Sport
+thema: Musik & Zeitgeist
+thema: Abschlussjahrgänge
+```
+
+- A post without `rubrik:` only appears under "Alle Beiträge" (/blog/).
+- **Home page:** the three tiles and their texts come from `_data/bereiche.yml`; "Neu auf der Seite" shows the three newest posts outside the archive; the dark archive band shows three restored posts with a picture, picked anew at every build.
+- **Archive page** (`_pages/archiv.html`): intro text, the three restored pages, all `rubrik: archiv` posts by year. Each restored post shows a short note at the top (`_includes/archiv-hinweis.html`).
+- **Timeline** on /schulgeschichte/: `_data/chronik.yml`, one entry per year with optional links (`url:` for a page, `post:` for a post's file name without `.md`).
+- **Videos:** `video_embed:` in the front matter shows a video instead of the cover picture (a YouTube embed address or a file such as `/videos/name.mp4`); the post then gets a play icon on its card and is listed on /videos/. GitHub warns above 50 MB per file and refuses files over 100 MB; longer videos belong on YouTube.
+- Styles for all of this: `css/_3-modules/bereiche.scss`.
+
 ## Newsletter
 
 The site sends its own newsletter (in German): one short email when a new post appears, or an old one is restored from the web archive. No outside newsletter service, no ads. It replaced follow.it in November 2026 and is the same system as on chess.myvortexcloud.com.

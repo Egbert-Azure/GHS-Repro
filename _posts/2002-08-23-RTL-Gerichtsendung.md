@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@sammcghee?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sam McGhee</a> on <a href="https://unsplash.com/photos/person-sitting-in-front-bookshelf-KieCLNzKoBo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   

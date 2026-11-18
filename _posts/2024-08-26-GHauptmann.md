@@ -8,6 +8,7 @@ image: '/images/Wer war Gerhart Hauptmann__files/heimatkalender1969.jpg' # Add i
 tags: [Schulgeschichte, Geschichten, Heimatkalender]
 tags_color: '#835F46'
 featured: false
+rubrik: schulgeschichte
 ---
 <small> Text scan von Johannes Götte</small>
 

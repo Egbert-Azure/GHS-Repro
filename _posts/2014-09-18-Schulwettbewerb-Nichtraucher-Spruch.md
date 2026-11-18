@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten, Wettbewerb]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 
 <small>Photo by <a href="https://unsplash.com/@btcarpenter?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Beau Carpenter</a> on <a href="https://unsplash.com/photos/a-white-wall-with-a-logo-EyK-LDR38u4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>

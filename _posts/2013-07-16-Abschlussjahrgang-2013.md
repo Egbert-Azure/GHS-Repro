@@ -9,6 +9,7 @@ video_embed:
 tags: [Neuigkeiten, Abschluss]
 tags_color: '#b25642'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@kajtek?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kajetan Sumila</a> on <a href="https://unsplash.com/photos/people-gathering-in-concert-during-night-time-KuwgYp4k0kY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a><small>
   

@@ -1,0 +1,13 @@
+{%- comment -%} One line in a list: small picture (or the school logo), title, author. {%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign a = nil -%}{%- if p.author -%}{%- assign a = site.authors | where: 'username', p.author | first -%}{%- endif -%}
+<li class="zeile">
+  <a class="zeile__link" href="{{ p.url | relative_url }}">
+    {% if p.image %}<span class="zeile__bild"><img class="lazy" data-src="{{ p.image | relative_url }}" alt=""></span>
+    {% else %}<span class="zeile__bild zeile__bild--leer"><img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
+    <span class="zeile__text">
+      <span class="zeile__titel">{{ p.title }}</span>
+      {% if a %}<span class="zeile__meta">{{ a.name }}</span>{% endif %}
+    </span>
+  </a>
+</li>

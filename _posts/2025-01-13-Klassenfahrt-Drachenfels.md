@@ -9,6 +9,8 @@ video_embed:
 tags: [Geschichten, Erinnerungen, Klassenfahrt]
 tags_color: '#4c49cb'
 featured: false
+rubrik: erinnerungen
+thema: Klassenfahrten & Austausch
 ---
 
 Im Sommer 1970 erlebten wir, die Klasse 7a von Herrn Glackemeyer, einen unvergesslichen Ausflug zum Drachenfels. Es war unsere allererste Klassenfahrt, eine Premiere für uns Schüler, denn bis dahin gab es nur die sogenannten Wandertage. Diese waren im Schulgesetz vorgesehen und bestanden meist aus Wanderungen durch die nähere Umgebung – was uns Schüler damals wenig begeisterte. Doch die Idee einer "Klassenfahrt zum Drachenfels und Düsseldorfer Flughafen" mit dem Bus war etwas komplett neues und ein echtes Highlight.

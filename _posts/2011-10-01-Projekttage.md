@@ -4,11 +4,12 @@ title: Projekttag des 8. Jahrgangs
 date: 2011-10-03
 author: elke
 description: Projekttag des 8. Jahrgangs an der Gerhart-Hauptmann-Realschule
-image: '/images/projects.jpg# Add image post (optional)
+image: '/images/projects.jpg' # Add image post (optional)
 video_embed:
 tags: [Wettbewerb, Projekte]
 tags_color: '#618770'
 featured: false
+rubrik: archiv
 ---
 <small>Photo by <a href="https://unsplash.com/@octadan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Octavian Dan</a> on <a href="https://unsplash.com/photos/projects-text-on-pink-and-orange-b21Ty33CqVs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

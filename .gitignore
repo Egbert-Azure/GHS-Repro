@@ -5,3 +5,6 @@ _site
 .DS_Store
 Gemfile.lock
 images/Thumbs.db
+
+# Windows thumbnail caches
+Thumbs.db

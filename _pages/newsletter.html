@@ -1,22 +1,22 @@
 ---
 title: Newsletter
-description: "Erhalten Sie eine kurze E-Mail, wenn es einen neuen Beitrag gibt. Die E-Mail enthält den Titel, zwei Zeilen Text und einen Link."
+description: "Erhalte eine kurze E-Mail, wenn es einen neuen Beitrag gibt. Die E-Mail enthält den Titel, zwei Zeilen Text und einen Link."
 permalink: /newsletter/
 ---
 <div class="newsletter-status" data-newsletter-states hidden>
-  <p data-state="check-your-inbox" hidden><strong>Fast geschafft!</strong> Sie erhalten gleich eine E-Mail. Bitte klicken Sie auf den Link darin, um Ihr Abonnement zu bestätigen. Nichts angekommen? Dann sehen Sie bitte auch im Spam-Ordner nach.</p>
-  <p data-state="welcome" hidden><strong>Vielen Dank, Ihr Abonnement ist bestätigt.</strong> Ab jetzt erhalten Sie eine kurze E-Mail, sobald es einen neuen Beitrag gibt.</p>
-  <p data-state="unsubscribed" hidden><strong>Sie sind abgemeldet.</strong> Ihre Adresse wurde gelöscht. Sie können sich jederzeit wieder anmelden.</p>
-  <p data-state="error-email" hidden>Diese E-Mail-Adresse scheint nicht zu stimmen. Bitte prüfen Sie sie noch einmal.</p>
-  <p data-state="error-link" hidden>Dieser Link ist nicht mehr gültig. Bitte melden Sie sich unten noch einmal an.</p>
-  <p data-state="error-busy" hidden>Leider ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.</p>
+  <p data-state="check-your-inbox" hidden><strong>Fast geschafft!</strong> Du erhältst gleich eine E-Mail. Bitte klicke auf den Link darin, um Dein Abonnement zu bestätigen. Nichts angekommen? Dann schau bitte auch im Spam-Ordner nach.</p>
+  <p data-state="welcome" hidden><strong>Vielen Dank, Dein Abonnement ist bestätigt.</strong> Ab jetzt erhältst Du eine kurze E-Mail, sobald es einen neuen Beitrag gibt.</p>
+  <p data-state="unsubscribed" hidden><strong>Du bist abgemeldet.</strong> Deine Adresse wurde gelöscht. Du kannst Dich jederzeit wieder anmelden.</p>
+  <p data-state="error-email" hidden>Diese E-Mail-Adresse scheint nicht zu stimmen. Bitte prüfe sie noch einmal.</p>
+  <p data-state="error-link" hidden>Dieser Link ist nicht mehr gültig. Bitte melde Dich unten noch einmal an.</p>
+  <p data-state="error-busy" hidden>Leider ist ein Fehler aufgetreten. Bitte versuche es später noch einmal.</p>
 </div>
 
 <div class="form-box newsletter-box">
   <form class="form" action="/api/subscribe" method="POST" data-newsletter-form>
     <div class="form__group">
-      <label class="form__label screen-reader-text" for="newsletter-email">Ihre E-Mail-Adresse</label>
-      <input class="form__input" id="newsletter-email" type="email" name="email" autocomplete="email" placeholder="Ihre E-Mail-Adresse" required>
+      <label class="form__label screen-reader-text" for="newsletter-email">Deine E-Mail-Adresse</label>
+      <input class="form__input" id="newsletter-email" type="email" name="email" autocomplete="email" placeholder="Deine E-Mail-Adresse" required>
     </div>
     <div class="form__group newsletter-trap" aria-hidden="true">
       <label for="newsletter-website">Dieses Feld bitte leer lassen</label>
@@ -30,8 +30,8 @@ permalink: /newsletter/
 
 <h2 id="datenschutz">Datenschutz</h2>
 
-<p>Ihre Adresse wird ausschließlich für diesen Newsletter verwendet. Kein Drittanbieter hat Ihre Daten, sie werden weder weitergegeben noch verkauft, und die E-Mails enthalten keinerlei Tracking-Funktionen. Sie bestätigen Ihr Abonnement mit einem Klick; jede E-Mail enthält zudem einen Link, über den Sie sich mit einem Klick wieder abmelden können. Bei einer Abmeldung wird Ihre Adresse gelöscht.</p>
+<p>Deine Adresse wird ausschließlich für diesen Newsletter verwendet. Kein Drittanbieter hat Deine Daten, sie werden weder weitergegeben noch verkauft, und die E-Mails enthalten keinerlei Tracking-Funktionen. Du bestätigst Dein Abonnement mit einem Klick; jede E-Mail enthält zudem einen Link, über den Du Dich mit einem Klick wieder abmelden kannst. Bei einer Abmeldung wird Deine Adresse gelöscht.</p>
 
-<p>Sie nutzen einen Feedreader? Dann können Sie auch den <a href="{{ '/feed.xml' | relative_url }}">RSS-Feed</a> abonnieren.</p>
+<p>Du nutzt einen Feedreader? Dann kannst Du auch den <a href="{{ '/feed.xml' | relative_url }}">RSS-Feed</a> abonnieren.</p>
 
 {% include newsletter-script.html %}

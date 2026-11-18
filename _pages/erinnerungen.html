@@ -1,0 +1,29 @@
+---
+layout: bereich
+title: Erinnerungen
+description: Ehemalige erzählen von Klassenfahrten, Lehrern, AGs und ihrem Abschlussjahrgang.
+permalink: /erinnerungen/
+themen:
+  - Klassenfahrten & Austausch
+  - Lehrer, AGs & Sport
+  - Musik & Zeitgeist
+  - Abschlussjahrgänge
+---
+{% assign alle = site.posts | where: "rubrik", "erinnerungen" %}
+<nav class="sprungmarken" aria-label="Themen">
+  {% for t in page.themen %}<a href="#{{ t | slugify }}">{{ t }}</a>{% endfor %}
+</nav>
+
+{% for t in page.themen %}
+{% assign posts = alle | where: "thema", t | sort: "title" %}
+<section class="thema" id="{{ t | slugify }}">
+  <h2 class="thema__titel">{{ t }}</h2>
+  <div class="row">
+    {% for p in posts %}
+    <div class="col col-3 col-d-6 col-t-12">{% include karte.html post=p %}</div>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+{% include section-mitmachen.html %}

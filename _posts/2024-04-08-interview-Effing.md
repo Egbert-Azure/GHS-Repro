@@ -8,6 +8,8 @@ video_embed:
 tags: [Interview, Sport, Effing, Geschichten]
 tags_color: '#835F46'
 featured: false
+rubrik: erinnerungen
+thema: Lehrer, AGs & Sport
 ---
 
 Der Hintergrund zu diesem Interview ist nicht exakt bekannt. Es muss in den 70er Jahren gemacht worden sein. Zu der Zeit gab es ein Schulprojekt, bei dem Schüler zu verschiedenen Themen Interviews machten. Dies könnte eines davon gewesen sein. Schüler wurden mit mit ihren Kassettenrekordern in Gruppen eingeteilt und die Gruppe wählte dann ein bestimmtes Thema. So wurden neben diesem Interview mit Effing dann auch "Umfragen" in der Einkaufsstrasse in Holsterhausen gemacht

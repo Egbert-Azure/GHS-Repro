@@ -8,6 +8,7 @@ image: # Add image post (optional)
 tags: [SV, Schulsprecher]
 tags_color: '#835F46'
 featured: false
+rubrik: archiv
 ---
 
 Mein Name ist Barbara Dirks.

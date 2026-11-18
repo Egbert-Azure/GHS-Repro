@@ -8,6 +8,7 @@ image: '/images/fb_ghs_raeume_02_07_16/die-klassen-ii.jpeg' # Add image post (op
 tags: [Schließung, Rundgang]
 tags_color: '#4c49cb'
 featured: false
+rubrik: schulgeschichte
 ---
 <small>Photo by Katja Neumann</small>
 

@@ -8,6 +8,7 @@ image: '/images/ernee.jpeg' # Add image post (optional)
 tags: [Partnerschaften, Auslandskontakt]
 tags_color: '#835F46'
 featured: false
+rubrik: archiv
 ---
 
 # Schüleraustausch 2009
