@@ -8,7 +8,7 @@ image: '/images/ghs-bild.jpg' # Add image post (optional)
 tags: [Abschied]
 tags_color: '#835F46'
 featured: false
-rubrik: archiv
+rubrik: [archiv, wiedersehen]
 ---
 
 # Liebe Ehemalige!

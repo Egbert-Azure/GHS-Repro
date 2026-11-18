@@ -83,6 +83,7 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Ludger Stollbrink
   - Hans-Josef Melzer
   - Volker Brand
+  - Bernhard Bittner
   - Volker Barke (verstorben am 01.01.1996)
 
 ## Abschluss 1976

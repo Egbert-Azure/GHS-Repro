@@ -8,7 +8,7 @@ image: '/images/fb_ghs_gebaeude_02_07_16/gebaeude-art.jpeg' # Add image post (op
 tags: [Abschied]
 tags_color: '#4c49cb'
 featured: false
-rubrik: schulgeschichte
+rubrik: [schulgeschichte, wiedersehen]
 ---
 <small>Photo by Katja Neumann</small>
   

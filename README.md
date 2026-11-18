@@ -21,7 +21,7 @@ rubrik: schulgeschichte   # history of the school
 rubrik: wiedersehen       # every class reunion (whatever the year), the school grounds, current news
 ```
 
-A post can belong to two areas; it then shows up in both and counts in both: `rubrik: [wiedersehen, erinnerungen]` (plus the `thema:` line for Erinnerungen), as in the 2005 reunion.
+A post can belong to two areas; it then shows up in both and counts in both: `rubrik: [wiedersehen, erinnerungen]` (plus the `thema:` line for Erinnerungen), as in the 2005 reunion. Restored posts keep `archiv` in the list (`[archiv, wiedersehen]`), so they still get the archive note and stay out of "Neu auf der Seite".
 
 Memories also name their group, exactly as written on the Erinnerungen page (`themen:` in `_pages/erinnerungen.html`):
 

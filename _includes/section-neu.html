@@ -1,5 +1,7 @@
 <!-- begin new on the site: newest posts outside the archive -->
-{% assign neu = site.posts | where_exp: "p", "p.rubrik != 'archiv'" %}
+{%- comment -%} rubrik can be a list (e.g. [archiv, wiedersehen]); leave out everything that is (also) archive {%- endcomment -%}
+{%- assign neu = "" | split: "" -%}
+{%- for p in site.posts -%}{%- unless p.rubrik contains "archiv" -%}{%- assign neu = neu | push: p -%}{%- endunless -%}{%- endfor -%}
 <section class="section animate">
   <div class="container">
     <div class="section__head">
