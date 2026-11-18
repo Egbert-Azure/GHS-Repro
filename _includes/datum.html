@@ -1,4 +1,4 @@
-{%- comment -%} A date in German: "8. Oktober 2024", or "Oktober 2024" with monat=true. {%- endcomment -%}
+{%- comment -%} A date in German: "8. Oktober 2024", or "Oktober 2024" with monat=true, or just "2010" with nur_jahr=true (posts whose day is unknown: `nur_jahr: true` in the front matter). {%- endcomment -%}
 {%- assign datum_monate = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" | split: "," -%}
 {%- assign datum_m = include.date | date: "%m" | plus: 0 | minus: 1 -%}
-{%- if include.monat -%}{{ datum_monate[datum_m] }} {{ include.date | date: "%Y" }}{%- else -%}{{ include.date | date: "%d" | plus: 0 }}. {{ datum_monate[datum_m] }} {{ include.date | date: "%Y" }}{%- endif -%}
+{%- if include.nur_jahr -%}{{ include.date | date: "%Y" }}{%- elsif include.monat -%}{{ datum_monate[datum_m] }} {{ include.date | date: "%Y" }}{%- else -%}{{ include.date | date: "%d" | plus: 0 }}. {{ datum_monate[datum_m] }} {{ include.date | date: "%Y" }}{%- endif -%}
