@@ -45,7 +45,7 @@ thema: Abschlussjahrgänge
   - `suche`: the spellings to look for in the posts, e.g. `[Fisser, Fißer]`. Every post whose title or text contains one of them is listed on the profile, so new posts show up by themselves. Case matters; use `[Herr Kronen, Herrn Kronen]` rather than a bare surname if the name also has another meaning, or belongs to another person too.
   - `kollegium` (optional): the teacher's number on the Kollegium photos, e.g. `- jahr: 1985` / `nr: 24`. It links to that photo on /kollegium/.
   - `autor` (optional): the file name of the author page (`_authors/andreas.md` → `andreas`) for teachers who wrote posts themselves.
-  - `website` (optional, shown as "Mehr bei Wikipedia")
+  - `website` (optional, shown as "Mehr bei Wikipedia"; another label with `website_titel`, e.g. "Mehr im Dorsten-Lexikon")
   - `foto` (optional): a larger photo shown below the text (see Fißer)
   - `traueranzeige` (optional): the obituary notice, **top part only** (verse, name, dates; no family names or addresses), saved in `images/lehrer/` as `traueranzeige-<name>.jpg`
 - **Teachers without a page of their own** are listed on /lehrer/ under "Außerdem in den Beiträgen", from `_data/lehrer_erwaehnt.yml` (name, optional role, the same `suche` list). To give one of them a page, create the file in `_lehrer/` and delete the entry there.

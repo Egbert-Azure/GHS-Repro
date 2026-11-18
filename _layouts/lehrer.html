@@ -44,7 +44,7 @@ layout: default
         {% if lehrer_autor %}<p><a href="{{ lehrer_autor.url | relative_url }}">Beiträge von {{ lehrer_autor.name }} <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>{% endif %}
       {% endif %}
 
-      {% if page.website %}<p><a href="{{ page.website }}" target="_blank" rel="noopener">Mehr bei Wikipedia</a></p>{% endif %}
+      {% if page.website %}<p><a href="{{ page.website }}" target="_blank" rel="noopener">{{ page.website_titel | default: "Mehr bei Wikipedia" }}</a></p>{% endif %}
     </div>
 
     {% if page.suche %}
