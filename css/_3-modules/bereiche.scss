@@ -222,7 +222,7 @@
 .page__content a[id] { scroll-margin-top: 32px; }
 
 /* Teacher profiles: an extra photo, and the top part of an obituary notice */
-.lehrer-foto { margin: 24px 0; img { display: block; width: 100%; height: auto; border-radius: 8px; } }
+.lehrer-foto { margin: 24px 0; img { display: block; max-width: 100%; height: auto; border-radius: 8px; } }
 .traueranzeige { margin: 32px 0 24px; max-width: 460px;
   img { display: block; width: 100%; height: auto; border: 1px solid var(--border-color); border-radius: 4px; }
   figcaption { margin-top: 6px; font-size: 14px; color: var(--text-alt-color); }
