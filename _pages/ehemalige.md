@@ -23,32 +23,32 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 ## Abschluss 1968
 
-- Manfred Schröder, Klassenlehrer: Herr Rünker
+- Manfred Schröder, Klassenlehrer: [Herr Rünker](/lehrer/ruenker/)
 
 ## Abschluss 1969
 
-- Jens-Uwe Hettmann, Klassenlehrerin: Frau Dickhöfer, geb. Kempkes
+- Jens-Uwe Hettmann, Klassenlehrerin: [Frau Dickhöfer](/lehrer/dickhoefer/), geb. Kempkes
 
 ## Abschluss 1970
 
-- Klaus Winkler (Herr Dickhöfer)
+- Klaus Winkler ([Herr Dickhöfer](/lehrer/dickhoefer-karl-werner/))
 
 ## Abschluss 1971
 
-- Klasse 10a (Herr Rünker)
+- Klasse 10a ([Herr Rünker](/lehrer/ruenker/))
   - Bernd Wessendorf
-- Klasse 10c (Herr Kuon)
+- Klasse 10c ([Herr Kuon](/lehrer/kuon/))
   - Heribert Funke
   - Heinz-Jürgen Herzig
 
 ## Abschluss 1972
 
-- Klasse 10a (Herr Flötgen)
+- Klasse 10a ([Herr Flötgen](/lehrer/floetgen/))
   - Franz Hennemann (aus Erinnerung: Horst Knieps)
 
 ## Abschluss 1974
 
-- Klasse 10a (Rolf Bruns - Mr. Camel ohne Filter)
+- Klasse 10a ([Rolf Bruns](/lehrer/bruns/) - Mr. Camel ohne Filter)
   - Norbert Bogatzki
   - Hans-Peter Kaufmann
   - Franz-Josef Kiekenbeck
@@ -62,12 +62,12 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Michael Burdenski
   - Schmitt
   - Klaus Hennemann
-- Klasse 10c (Herr Kuon)
+- Klasse 10c ([Herr Kuon](/lehrer/kuon/))
   - Detlef Große-Erwig (außerdem aus Erinnerung: Winfried Giese und sein Bruder, Michael Humberg, Detlef Nagel)
 
 ## Abschluss 1975
 
-- Klasse 10a (Fr. Dickhoefer)
+- Klasse 10a ([Fr. Dickhoefer](/lehrer/dickhoefer/))
   - Willi Schmitz
   - Egbert Schröer
   - Andreas Kieslich
@@ -89,12 +89,12 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 ## Abschluss 1976
 
 - Karl-Heinz Mast
-- Klasse 10? (Herr Braun)
+- Klasse 10? ([Herr Braun](/lehrer/braun/))
   - Peter Finke
 
 ## Abschluss 1981
 
-- Klasse 10b (Herr Glackemeyer)
+- Klasse 10b ([Herr Glackemeyer](/lehrer/glackemeyer/))
   - Kay Balster
   - Andreas Ostrop
 
@@ -102,7 +102,7 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 - Klasse 10b (Frau Matzner)
   - Michael Löhrmann
-- Klasse 10? (Herr Kronen)
+- Klasse 10? ([Herr Kronen](/lehrer/kronen/))
   - Guido Brändel
   - Bernhard Wahlers
 
@@ -114,11 +114,11 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 ## Abschluss 1985
 
-- Klasse 10b (Herr Braun)
+- Klasse 10b ([Herr Braun](/lehrer/braun/))
   - Oliver Tilsner, geb. Schultz
-- Klasse 10d (Herr Rünker)
+- Klasse 10d ([Herr Rünker](/lehrer/ruenker/))
   - Heiner Kamp
-- Klasse 10 (Herr Fißer)
+- Klasse 10a ([Herr Fißer](/lehrer/fisser/))
   - Frank Schemberg
   - Detlef Kleinelsen
 
@@ -132,9 +132,9 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 - Klasse 10
   - Katja Neumann
-- Klasse 10a? (Frau Braun)
+- Klasse 10a? ([Frau Braun](/lehrer/braun/))
   - Katja Link
-- Klasse 10b (Herr Flötgen)
+- Klasse 10b ([Herr Flötgen](/lehrer/floetgen/))
   - Volker Radmer
 - Klasse 10d (Herr Flüchter)
   - Carsten Schultejann
@@ -144,19 +144,19 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 ## Abschluss 1988
 
-- Andrea Hülsmann geb. Badinski, Klassenlehrer: Herr Fißer
+- Andrea Hülsmann geb. Badinski, Klassenlehrer: [Herr Fißer](/lehrer/fisser/)
 
 ## Abschluss 1989
 
-- Manuela Geschermann, geb. Föcker, Klassenlehrer: Herr Dickhöfer
-- Harald Gröting, Klassenlehrer: Herr Bruns
+- Manuela Geschermann, geb. Föcker, Klassenlehrer: [Herr Dickhöfer](/lehrer/dickhoefer-karl-werner/)
+- Harald Gröting, Klassenlehrer: [Herr Bruns](/lehrer/bruns/)
 - Nicole Gröting, geb. Strack, Klassenlehrerin: Frau Mutschal
 - Stephan Hüsken, Klassenlehrerin: Frau Mutschall
 - Christian Wietholt, Klassenlehrerin: Frau Mutschall
 
 ## Abschluss 1991
 
-- Carsten Duwenbeck, Klassenlehrer: Herr Rünker
+- Carsten Duwenbeck, Klassenlehrer: [Herr Rünker](/lehrer/ruenker/)
 
 <h1 id="gaestebuch">Aus dem Gästebuch</h1>
 

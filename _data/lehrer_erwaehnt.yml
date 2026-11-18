@@ -34,9 +34,6 @@
 - name: Frau Roling
   rolle: Französisch
   suche: [Roling]
-- name: Herr Rünker
-  rolle: stellvertretender Rektor
-  suche: [Rünker]
 - name: Herr Scharf
   suche: [Herr Scharf]
 - name: Frau Schlicker
