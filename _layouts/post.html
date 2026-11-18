@@ -23,6 +23,7 @@ layout: default
 
       <div class="post__meta">
         {% assign author = site.authors | where: 'username', page.author | first %}
+        {% if page.mitautor %}{% assign mitautor = site.authors | where: 'username', page.mitautor | first %}{% else %}{% assign mitautor = nil %}{% endif %}
 
         {% if author %}
         <a href="{{ author.url }}" class="post__author__image">
@@ -36,7 +37,7 @@ layout: default
 
         <div class="post__meta__bottom">
           {% if author %}
-            <a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>
+            {% if mitautor %}<span class="post__autoren"><a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a> und <a class="post__author__name" href="{{ mitautor.url }}">{{ mitautor.name }}</a></span>{% else %}<a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>{% endif %}
           {% else %}
             <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
           {% endif %}
@@ -132,6 +133,23 @@ layout: default
     </div>
   </div>
 </div>
+
+{% if mitautor %}
+<div class="container mitautor">
+  <div class="card-author">
+    <div class="card-author__media">
+      <a class="card-author__image" href="{{ mitautor.url }}">
+        <img class="lazy" data-src="{{ mitautor.image }}" alt="{{ mitautor.name }}">
+      </a>
+    </div>
+    <div class="card-author__content">
+      <div class="card-author__role">Geschrieben von</div>
+      <h3 class="card-author__name"><a href="{{ mitautor.url }}" class="card-author__link">{{ mitautor.name }}</a></h3>
+      <div class="card-author__description">{{ mitautor.content | markdownify }}</div>
+    </div>
+  </div>
+</div>
+{% endif %}
 
 {% include related-posts.html %}
 

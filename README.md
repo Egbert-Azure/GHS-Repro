@@ -51,6 +51,7 @@ thema: Abschlussjahrgänge
 - **Teachers without a page of their own** are listed on /lehrer/ under "Außerdem in den Beiträgen", from `_data/lehrer_erwaehnt.yml` (name, optional role, the same `suche` list). To give one of them a page, create the file in `_lehrer/` and delete the entry there.
 - **Unknown day:** if only the year of a post is known, give it any date in that year (for sorting) and add `nur_jahr: true`; the site then shows just the year, e.g. "2010" (see Klassentreffen 2010).
 - **Authors** (`_authors/`): the text below the front matter is shown in full on the author's page, on the Autoren page and in the box under each of their posts (Markdown, headings and pictures included).
+- **Second author:** a post can name one more author with `mitautor: <username>`. The post shows "A und B" under the title and a box for each below; the post counts on both author pages. Cards elsewhere (home page, areas, related posts) show only the first author. Authors without a photo use a placeholder with their initials in `images/autoren/`; replace the file (or change `image:`) when a photo arrives.
 - **Kollegium** (`_pages/kollegium.md`): the staff photos of 1985 and 2000 with the numbered names; names with a profile are linked.
 - Styles for all of this: `css/_3-modules/bereiche.scss`.
 

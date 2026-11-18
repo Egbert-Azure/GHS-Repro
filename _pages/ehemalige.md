@@ -138,7 +138,7 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Volker Radmer
 - Klasse 10d (Herr Flüchter)
   - Carsten Schultejann
-- Klasse 10e (Herr Sellheier)
+- Klasse 10e ([Herr Sellheyer](/lehrer/sellheyer/))
   - Wolfgang Booke
   - Christoph Engel
 
