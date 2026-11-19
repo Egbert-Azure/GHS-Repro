@@ -30,40 +30,46 @@ Aus den Lebensmitteln sollten Klebstoffe hergestellt werden. Die hergestellten K
 
 Zuerst müssen natürlich die Kartoffeln von den Schülern geschält werden....
 
-<img id="Bild71" height="120" width="179" src="{{site.baseurl}}/images/2002_1_files/kartoffel1.JPG" border="0" alt="... und sie können doch selber schälen...">
-
-<img id="Bild72" height="145" width="139" src="{{site.baseurl}}/images/2002_1_files/kartoffel2.JPG" border="0" alt="... sieht aus wie Holzschnitzerei...">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/kartoffel1.JPG" alt="... und sie können doch selber schälen..." loading="lazy"><figcaption>... und sie können doch selber schälen...</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/kartoffel2.JPG" alt="... sieht aus wie Holzschnitzerei..." loading="lazy"><figcaption>... sieht aus wie Holzschnitzerei...</figcaption></figure>
+</div>
 
 ...die dann zerkleinert werden. Der entstandende Kartoffelbrei wird anschließend filtriert. Das Filtrat wird getrocknet und dient als Grundsubstanz für den ersten Kleber.
 
-Die gemixten Kartoffeln werden abgegossen...
-<img id="Bild69" height="189" width="122" src="{{site.baseurl}}/images/2002_1_files/kartoffel3.JPG" border="0" alt="Die gemixten Kartoffeln werden abgegossen...">
-
-...und die Kartoffellösung ist fertig.
-<img id="Bild70" height="181" width="132" src="{{site.baseurl}}/images/2002_1_files/kartoffel4.JPG" border="0" alt="...und die Kartoffellösung ist fertig.">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/kartoffel3.JPG" alt="Die gemixten Kartoffeln werden abgegossen..." loading="lazy"><figcaption>Die gemixten Kartoffeln werden abgegossen...</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/kartoffel4.JPG" alt="...und die Kartoffellösung ist fertig." loading="lazy"><figcaption>...und die Kartoffellösung ist fertig.</figcaption></figure>
+</div>
 
 	
 # 2. Versuchstag: Der Gummibärchenkleber wird hergestellt
 
 Zwei unterschiedliche Gummibärchensorten werden eingesetzt. Die “klassischen” von Haribo und gelatinefreie von Katjes
 
-<img id="Bild76" height="86" width="129" src="{{site.baseurl}}/images/2002_1_files/gummi.JPG" border="0" alt="verschiedene Produkte wurden eingesetzt">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/gummi.JPG" alt="verschiedene Produkte wurden eingesetzt" loading="lazy"><figcaption>verschiedene Produkte wurden eingesetzt</figcaption></figure>
+</div>
 
 Erste Erkenntnis: Katjes-Gummibärchen schmelzen nicht, sind also für diesen Versuch unbrauchbar...
 
-<img id="Bild74" height="186" width="120" src="{{site.baseurl}}/images/2002_1_files/bar1.jpg" border="0" alt="Katjesgummibaerchen schmelzen nicht im Wasserbad">
-
-<img id="Bild75" height="120" width="179" src="{{site.baseurl}}/images/2002_1_files/bar2.JPG" border="0" alt="Die Experimentatoren am Werk">
-
-<img id="Bild77" height="167" width="99" src="{{site.baseurl}}/images/2002_1_files/gummi2.JPG" border="0" alt="Haribo macht Kinder froh...">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/bar1.jpg" alt="Katjesgummibaerchen schmelzen nicht im Wasserbad" loading="lazy"><figcaption>Katjesgummibaerchen schmelzen nicht im Wasserbad</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/bar2.JPG" alt="Die Experimentatoren am Werk" loading="lazy"><figcaption>Die Experimentatoren am Werk</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/gummi2.JPG" alt="Haribo macht Kinder froh..." loading="lazy"><figcaption>Haribo macht Kinder froh...</figcaption></figure>
+</div>
 
 Zweite Erkenntnis: geschmolzene Gummibärchen riechen gut und sehen toll aus...
 
-<img id="Bild78" height="139" width="123" src="{{site.baseurl}}/images/2002_1_files/gummi3.JPG" border="0" alt="...und Chemiker ebenso!!!">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/gummi3.JPG" alt="...und Chemiker ebenso!!!" loading="lazy"><figcaption>...und Chemiker ebenso!!!</figcaption></figure>
+</div>
 
 Um die Klebekraft der einzelnen Kleber vergleichen zu können, wurden jeweils 6 cm lange und 1 cm breite Papierstreifen am Streifenende auf einer Fläche von 1 cm² mit Klebstoff versehen. Das andere Ende wurde mit Tesafilm verstärkt und gelocht, so dass die Zugfestigkeit mit einem Newtonmeter festgestellt werden konnte.
 
-<img id="Bild78" height="139" width="123" src="{{site.baseurl}}/images/2002_1_files/kleb1.JPG" border="0" alt="...der Test">
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/kleb1.JPG" alt="...der Test" loading="lazy"><figcaption>...der Test</figcaption></figure>
+</div>
 
 Fazit: Alle Kleber klebten zur Überraschung der Schüler sehr gut. “Kartoffelkleber” ist besonders für Papier geeignet, “Gummibärchenkleber” besonders für Holz.
 
@@ -78,9 +84,12 @@ Fazit: Alle Kleber klebten zur Überraschung der Schüler sehr gut. “Kartoffel
 <br>    
 
 - Meryems Lolli-Kleber
-	
+
 - Martins Weizen-Kleber
 
 - Marks Pellkartoffel-Kleber
-<img id="Bild78" height="139" width="123" src="{{site.baseurl}}/images/2002_1_files/mark.JPG" border="0" alt="...der Test">
+
+<div class="bildreihe">
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/mark.JPG" alt="...der Test" loading="lazy"></figure>
+</div>
 
