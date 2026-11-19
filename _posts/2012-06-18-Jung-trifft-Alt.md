@@ -12,13 +12,9 @@ featured: false
 rubrik: archiv
 ---
 
-<div style="text-align: center;">
-  <small>Wohnstation in Maria Lindenhof</small>
-</div>
+<p class="bildnachweis">Titelfoto: Wohnstation in Maria Lindenhof</p>
 
-<br>
-
-# Hintergrund
+## Hintergrund
 
 Wir beginnen im Jahrgang 5 mit einer Stunde pro Woche zum Thema »Lernen lernen«. Umsetzungsmöglichkeiten gibt es im herkömmlichen Unterricht und auch zu Hause mehr als genug.
 
@@ -34,35 +30,19 @@ Die Schwelle zum Erwachsenwerden ist mit Widerständen, Machtkämpfen, Stimmungs
 Alle Schüler und Schülerinnen nehmen im Verlauf des Schuljahres an jedem Angebot verpflichtend teil.
 
 
-# Jung trifft Alt
+## Jung trifft Alt
 
 Schülerinnen und Schüler der Gerhart-Hauptmann-Realschule beendeten das gemeinsame Begegnungsprojekt mit dem Altenzentrum Maria Lindenhof mit einer Gegeneinladung der Bewohner in die Schule. Einige hundert Jahre Lebenserfahrung kamen zusammen, mit denen die Bewohnerinnen und Bewohner von Maria Lindenhof die Schüler des 8. Jahrgangs in ihren Bann zogen.
 
-In Maria Lindenhof lag die von den Bewohnern und der Fachkraft für Beratung und Anmeldung, Gabriele Reiß, liebevoll zusammengetragene Ausstellung zu den verschiedensten Lebensbereichen der ehemals Jungendlichen bereit, auch einmal einem ganz jungen Publikum vorgestellt zu werden. Gleichzeitig suchte Tobias Steinhausen, Lehrer der 20 Jungendlichen, für das neue Unterrichtsfach Persönlichkeitsstärkung ein Thema, welches die Jungendlichen an einen bislang ungewohnten Aspekt des Lebens heranführen sollte. Darauf angesprochen, zögerte Einrichtungsleiterin Diana Lange keine Sekunde, und schon wenige Tage später standen die Termine für die Einladung in Maria Lindenhof.
+In Maria Lindenhof lag die von den Bewohnern und der Fachkraft für Beratung und Anmeldung, Gabriele Reiß, liebevoll zusammengetragene Ausstellung zu den verschiedensten Lebensbereichen der ehemals Jugendlichen bereit, auch einmal einem ganz jungen Publikum vorgestellt zu werden. Gleichzeitig suchte Tobias Steinhausen, Lehrer der 20 Jugendlichen, für das neue Unterrichtsfach Persönlichkeitsstärkung ein Thema, welches die Jugendlichen an einen bislang ungewohnten Aspekt des Lebens heranführen sollte. Darauf angesprochen, zögerte Einrichtungsleiterin Diana Lange keine Sekunde, und schon wenige Tage später standen die Termine für die Einladung in Maria Lindenhof.
 
-Jede Woche trafen sich Bewohner und Schüler nach einem fürstlichen Kaffeetrinken zum Kennenlernen auf den Wohnstationen, um Gestern und Heute der verschiedenen Lebensbereiche wie Schule, Jugend, Freizeit, Kultur, Religion oder Währung und Musik gegenüberzustellen. Dabei wurde gemeinsam gesungen und getanzt, die Stunden wie Stationen vergingen im Fluge, hatte doch Betreuungsassistent Hans-Jürgen Schauer immer noch eine Überraschung wie manch sportliche Herausforderung bereit. Schon war es Zeit, die zum Anfang des Projekts ausgemachte Gegeneinladung in die Schule einzulösen. Mit einem Kaffeetrinken in einem zum Café umdekorierten Klassenzimmer wurden die Bewohner willkommen geheißen. Anschließend gab eine von Schülerinnen moderierte Power-Point-Präsentation Einblicke in das aktuelle Schulleben, und der Tag klang mit einem geselligen Spielenachmittag aus. Schließlich wurde es Zeit zum Abschiednehmen – nicht ganz: Dieses gelungene Projekt wird auf irgendeine Art, so wie es die Stunden- und Zeitpläne beider Einrichtungen es zulassen, fortgeführt werden – versprochen ist versprochen.
+Jede Woche trafen sich Bewohner und Schüler nach einem fürstlichen Kaffeetrinken zum Kennenlernen auf den Wohnstationen, um Gestern und Heute der verschiedenen Lebensbereiche wie Schule, Jugend, Freizeit, Kultur, Religion oder Währung und Musik gegenüberzustellen. Dabei wurde gemeinsam gesungen und getanzt, die Stunden wie Stationen vergingen im Fluge, hatte doch Betreuungsassistent Hans-Jürgen Schauer immer noch eine Überraschung wie manch sportliche Herausforderung bereit. Schon war es Zeit, die zum Anfang des Projekts ausgemachte Gegeneinladung in die Schule einzulösen. Mit einem Kaffeetrinken in einem zum Café umdekorierten Klassenzimmer wurden die Bewohner willkommen geheißen. Anschließend gab eine von Schülerinnen moderierte Power-Point-Präsentation Einblicke in das aktuelle Schulleben, und der Tag klang mit einem geselligen Spielenachmittag aus. Schließlich wurde es Zeit zum Abschiednehmen – nicht ganz: Dieses gelungene Projekt wird auf irgendeine Art, so wie es die Stunden- und Zeitpläne beider Einrichtungen zulassen, fortgeführt werden – versprochen ist versprochen.
 
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_002.jpg" height="495" width="660">
-
-<font size="1">Mit selbsgebackenem Kuchen und frischen Waffeln: Warten auf die Gäste</font><br>
-
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_003.jpg" height="495" width="660">
-
-<font size="1">Besichtigungsrundgang durch die Schule</font>
-
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_007.jpg" height="495" width="660">
-
-<font size="1">Während der Power-Point-Präsentation über das Schulleben: Wieder auf der Schulbank</font>
-
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_004.jpg" height="495" width="660">
-
-<font size="1">Jeder will gewinnen!&nbsp; </font>
-
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_005.jpg" height="495" width="660">
-
-<font size="1">Ärgern tut sich hier keiner&nbsp; </font>
-
-<img src="/images/Jung trifft Alt_files/Perst_Jung_alt_2012_006.jpg" height="495" width="660">
-
-<font size="1">Keiner will nach Hause&nbsp; </font>
-
+<div class="bildraster">
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_002.jpg" alt="Mit selbstgebackenem Kuchen und frischen Waffeln: Warten auf die Gäste" width="660" height="495" loading="lazy"><figcaption>Mit selbstgebackenem Kuchen und frischen Waffeln: Warten auf die Gäste</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_003.jpg" alt="Besichtigungsrundgang durch die Schule" width="660" height="495" loading="lazy"><figcaption>Besichtigungsrundgang durch die Schule</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_007.jpg" alt="Während der Power-Point-Präsentation über das Schulleben: Wieder auf der Schulbank" width="660" height="495" loading="lazy"><figcaption>Während der Power-Point-Präsentation über das Schulleben: Wieder auf der Schulbank</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_004.jpg" alt="Jeder will gewinnen!" width="660" height="495" loading="lazy"><figcaption>Jeder will gewinnen!</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_005.jpg" alt="Ärgern tut sich hier keiner" width="660" height="495" loading="lazy"><figcaption>Ärgern tut sich hier keiner</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Jung trifft Alt_files/Perst_Jung_alt_2012_006.jpg" alt="Keiner will nach Hause" width="660" height="495" loading="lazy"><figcaption>Keiner will nach Hause</figcaption></figure>
+</div>

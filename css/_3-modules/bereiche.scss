@@ -245,7 +245,7 @@
   margin: 24px 0 32px;
   figure { margin: 0; flex: 0 0 auto; display: flex; flex-direction: column; min-width: 150px; }
   img { display: block; align-self: center; height: 170px; width: auto; max-width: none; border-radius: 6px; }
-  figcaption { width: 0; min-width: 100%; margin-top: 6px; font-size: 13px; line-height: 1.35; color: var(--text-alt-color); text-align: center; }
+  figcaption { width: 0; min-width: 100%; margin-top: 6px; font-size: 14px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
   @media only screen and (max-width: $mobile) {
     gap: 10px;
     figure { min-width: 140px; }
@@ -258,7 +258,7 @@
 .post__content a img, .page__content a img { cursor: pointer; }
 
 /* Restored posts, reworked layout (first: Chemie entdecken – Life-Science) */
-.post .bildnachweis { margin: 0 0 32px; font-size: 13px; line-height: 1.5; color: var(--text-alt-color); }
+.post .bildnachweis { margin: 0 0 32px; font-size: 14px; line-height: 1.5; color: var(--text-alt-color); }
 
 /* Names as a compact list in columns */
 .post ul.namen { list-style: none; margin: 0 0 32px; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px 24px;
@@ -272,7 +272,7 @@
   p { margin: 0; }
   figure { margin: 0; }
   img { display: block; width: 100%; height: auto; border-radius: 8px; }
-  figcaption { margin-top: 6px; font-size: 13px; line-height: 1.35; color: var(--text-alt-color); text-align: center; }
+  figcaption { margin-top: 6px; font-size: 14px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
   @media only screen and (max-width: $mobile) { grid-template-columns: minmax(0, 1fr); gap: 12px; }
 }
 
@@ -287,8 +287,42 @@
 /* A drawing that stands in for lost photos */
 .post figure.schema { margin: 8px 0 32px;
   img { display: block; width: 100%; max-width: 460px; height: auto; margin: 0 auto; border-radius: 8px; }
-  figcaption { margin-top: 8px; font-size: 13px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
+  figcaption { margin-top: 8px; font-size: 14px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
 }
 
 /* Short highlighted closing note */
 .post p.hinweis { margin: 32px 0; padding: 16px 20px; border-left: 4px solid var(--brand-color); border-radius: 8px; background: var(--background-alt-color); }
+
+/* One photo on its own, at most its real size, centred */
+.post figure.foto { margin: 28px 0 32px;
+  img { display: block; width: auto; max-width: 100%; height: auto; margin: 0 auto; border-radius: 8px; }
+  figcaption { margin-top: 8px; font-size: 14px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
+}
+
+/* Photos with captions in two columns, one column on phones */
+.post .bildraster { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; margin: 28px 0 36px;
+  figure { margin: 0; min-width: 0; }
+  img { display: block; width: 100%; height: auto; border-radius: 8px; }
+  figcaption { margin-top: 8px; font-size: 14px; line-height: 1.45; color: var(--text-alt-color); }
+  @media only screen and (max-width: $mobile) { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+}
+
+/* Signature under a pupils' report */
+.post p.unterschrift { font-style: italic; }
+
+/* Competition rounds by year */
+.post table.runden { margin: 8px 0 32px; font-size: 15px; line-height: 1.45;
+  th, td { padding: 9px 12px; font-size: 15px; vertical-align: top; }
+  thead th { font-size: 14px; }
+  tbody th { font-weight: 700; white-space: nowrap; }
+  @media only screen and (max-width: $mobile) { th, td { padding: 8px; font-size: 14px; } }
+}
+
+/* Addition under a restored post, with sources (outside the author's text) */
+.post .ergaenzung { display: flex; gap: 14px; align-items: flex-start; margin: 36px 0 32px; padding: 16px 20px;
+  border-radius: 10px; background: var(--background-alt-color); font-size: 15px; line-height: 1.6;
+  i { margin-top: 5px; color: var(--brand-color); }
+  p { margin: 0 0 8px; }
+  p:last-child { margin-bottom: 0; }
+  .ergaenzung__quellen { font-size: 13px; line-height: 1.5; color: var(--text-alt-color); }
+}
