@@ -12,7 +12,7 @@ featured: false
 rubrik: archiv
 ---
 
-<small>Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-chalkboard-with-the-word-possible-written-on-it-Jxi526YIQgA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a><small>
+<p class="bildnachweis">Titelfoto: <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> / <a href="https://unsplash.com/photos/a-chalkboard-with-the-word-possible-written-on-it-Jxi526YIQgA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
   
 
 **"The Big Challenge"** – Die große Herausforderung – ist ein Englischwettbewerb, der seit einigen Jahren bundesweit, aber auch in Spanien und Frankreich durchgeführt wird. In Deutschland können Schüler und Schülerinnen der 5. bis 9. Klassen aller Schulen hier ihre Englischkenntnisse messen.
@@ -21,4 +21,6 @@ Im Multiple-Choice-Verfahren werden dabei stufenspezifisch Kenntnisse in den Ber
 
 Die meisten Punkte in den jeweiligen Jahrgangsstufen erreichten in diesem Jahr **Fabian Hucke** (Klasse 5c), **Felix Schulte-Mattler** (Klasse 6b), **Patrick Mattes** (Klasse 7c), **Demush Murselaj** (Klasse 8b) und **Alexandra Chmiel** (Klasse 9b).
 
-<img src="/images/The Big Challenge_files/bigchallenge2012.jpg" height="440" width="660">
+<figure class="foto">
+  <img src="/images/The Big Challenge_files/bigchallenge2012.jpg" alt="The Big Challenge 2012" width="660" height="439" loading="lazy">
+</figure>

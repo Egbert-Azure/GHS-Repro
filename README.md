@@ -57,6 +57,8 @@ thema: Abschlussjahrgänge
 - **Other layouts for restored posts** (all in `css/_3-modules/bereiche.scss`, captions 14 px):
   - `<figure class="foto">`: one photo, centred, never larger than the file itself.
   - `<div class="bildraster">`: photos with captions in two columns (one on phones), e.g. Jung trifft Alt.
+  - `<div class="bildraster bildraster--klein">`: the same for small old photos, shown at their own size and never enlarged, e.g. Lesewettbewerb, Fußball-AG.
+  - `<figure class="foto foto--schmal">`: one photo at most 360 px wide, for tall photos, stand-in pictures and logos (Kau-Gummi, Mofakurs). A `<figcaption>` placed before the photo is shown above it as normal text (the Mofakurs thank-you).
   - `<div class="schritt">`: text left, photo with caption right (stacked on phones), e.g. Life-Science.
   - `<div class="bildreihe bildreihe--gross">`: a row of large tiles in equal columns.
   - `<ul class="namen">`: names in columns; `<p class="hinweis">`: highlighted note; `<p class="bildnachweis">`: small grey credit line; `<p class="unterschrift">`: signature under a pupils' report; `<table class="runden">`: competition rounds by year.

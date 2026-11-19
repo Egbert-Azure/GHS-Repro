@@ -1,5 +1,5 @@
 # Timeline on /schulgeschichte/. Each entry: year, text, optional links (title + url).
-# Facts from the history page (/geschichte/) and the posts linked here.
+# Facts from the history page (/geschichte/) and the posts linked here; a fact the site doesn't tell itself links its outside source ("Quelle: …").
 - jahr: "1960"
   text: Am 1. April beginnt die Städtische Realschule für Jungen mit 60 Schülern in zwei Klassen – untergebracht in der Marienschule.
   links:
@@ -14,6 +14,12 @@
   text: Am 24. März zieht die Schule in den Neubau ein.
   links:
     - { title: "Der Einzug in die neue Schule", url: "/geschichte/#einzug" }
+- jahr: "1965"
+  text: Mit dem Volksbund Deutsche Kriegsgräberfürsorge entsteht ein Jugendlager im französischen Dormans; 40 Schüler der Beruflichen Schulen und der Realschule nehmen teil.
+  links:
+    - { title: "Frankreich: Dormans", url: "/geschichte/#dormans" }
+    - { title: "Auslandskontakte und Partnerschaften", post: "2001-01-14-fruehe-partnerschaften" }
+    - { title: "Quelle: Dorsten-Transparent", url: "http://www.dorsten-transparent.de/2015/05/stadtepartnerschaften-mit-frankreich-england-israel-polen-nordirland-nicaragua-sachsen-mit-enthusiasmus-eingegangen-die-meisten-bald-erlahmt/" }
 - jahr: "1966/67"
   text: Die Schule erhält den Namen Gerhart-Hauptmann-Schule.
   links:
@@ -47,10 +53,19 @@
   text: Erstmals können auch Mädchen die Schule besuchen.
   links:
     - { title: "Mädchen an der GHS", url: "/geschichte/#maedchen" }
+- jahr: "1984"
+  text: Im Januar machen 87 Mädchen und Jungen der 9. Klassen das erste dreiwöchige Betriebspraktikum – als eine der ersten Realschulen im Kreis Recklinghausen.
+  links:
+    - { title: "Berufswahlorientierung seit 1984", post: "2001-09-26-Berufswahlorientierung" }
 - jahr: "1985"
   text: Der erste Abschlussjahrgang mit Mädchen.
   links:
     - { title: "Abschlussjahrgang 1985", post: "2024-04-14-Abschluss-1985" }
+- jahr: "1986"
+  text: Die Schule geht eine Schulpartnerschaft mit Ernée ein, seit 1985 Partnerstadt Dorstens.
+  links:
+    - { title: "Schüleraustausch 2005", post: "2005-04-08-Schueleraustausch-2005-Ernee" }
+    - { title: "Schüleraustausch 2009", post: "2009-05-31-Schüleraustausch 2009" }
 - jahr: "2001"
   text: Die ersten Beiträge auf der Website der Schule.
   links:

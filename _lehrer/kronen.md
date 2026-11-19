@@ -1,7 +1,7 @@
 ---
 name: Hermann Josef Kronen
 description: Lehrer
-image:
+image: '/images/lehrer/kronen.jpg'
 kollegium:
   - jahr: 1985
     nr: 12

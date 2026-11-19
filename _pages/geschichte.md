@@ -57,7 +57,7 @@ Da das Interesse an der Realschule größer war als das Angebot, wurde 1966 zur 
 <br>
 **Schon wenige Jahre nach Gründung der Schule wurden die ersten Kontakte zum Ausland geknüpft.**
 
-### Frankreich: Dormans
+### <a id="dormans"></a>Frankreich: Dormans
 
 Da Dorsten schon freundschaftliche Beziehungen zur Stadt Dormans in Frankreich hatte, fuhren in den Ferien regelmäßig Schüler nach Dormans, um dort auf dem Soldatenfriedhof zu arbeiten.
 

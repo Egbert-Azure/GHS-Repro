@@ -12,28 +12,17 @@ featured: false
 rubrik: archiv
 ---
 
-<div style="text-align: center;">
-  <img id="Bild68" height="201" width="180" src="{{site.baseurl}}/images/Lese-Wettbewerb_files/Preisverleihung.JPG" border="0" alt="Preisverleihung">
-  <br>Hr. Sladek, Schulleiter, überreicht die Siegerurkunde!<br><br>
+<div class="bildraster bildraster--klein">
+  <figure><img src="{{site.baseurl}}/images/Lese-Wettbewerb_files/Preisverleihung.JPG" alt="Preisverleihung" width="272" height="263" loading="lazy"><figcaption>Hr. Sladek, Schulleiter, überreicht die Siegerurkunde!</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Lese-Wettbewerb_files/Publikum.JPG" alt="Publikum" width="296" height="200" loading="lazy"></figure>
+</div>
 
-  <img id="Bild67" height="167" width="223" src="{{site.baseurl}}/images/Lese-Wettbewerb_files/Publikum.JPG" border="0"><br><br>
+<figure class="foto foto--schmal">
+  <img src="{{site.baseurl}}/images/alle_Sieger.png" alt="Die Endrundenteilnehmer" width="2734" height="1500" loading="lazy">
+  <figcaption>Die Teilnehmer (v.l.): Marc Krause, Ann-Katrin Faust, Andre Korte (hockend), Kristin Schlegemann, Tim Menningen und Tobias Hessefort<br>dieses Bild konnte leider aus dem Archiv nicht restauriert werden</figcaption>
+</figure>
 
-  <img id="Bild69" height="235" width="310" src="{{site.baseurl}}/images/alle_Sieger.png" border="0" alt="Die Endrundenteilnehmer">
-  <br><small>dieses Bild konnte leider aus dem Archiv nicht restauriert werden</small><br><br>
-
-  Die Teilnehmer (v.l.): <br>
-  Marc Krause, Ann-Katrin Faust, Andre Korte (hockend), Kristin Schlegemann, Tim Menningen und Tobias Hessefort<br><br>
-
-  <img id="Bild70" height="274" width="178" src="{{site.baseurl}}/images/Lese-Wettbewerb_files/der_sieger.JPG" border="0" alt="Tim ">
-  <br><br>
-  <div style="text-align: center;">
-    der Sieger<br>
-    <b style="font-size: larger;">Tim Menningen</b>
-  </div>
-  <br>
-
-  <img id="Bild71" height="236" width="304" src="{{site.baseurl}}/images/Lese-Wettbewerb_files/drei_Sieger.JPG" border="0" alt="Die drei Sieger">
-  <br>
-  <b style="font-size: larger;">2. Sieger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3. Sieger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1. Sieger</b><br>
-  André Korte &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Ann-Katrin Faust &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Tim Menningen
+<div class="bildraster bildraster--klein">
+  <figure><img src="{{site.baseurl}}/images/Lese-Wettbewerb_files/der_sieger.JPG" alt="Tim Menningen" width="271" height="394" loading="lazy"><figcaption>der Sieger<br><strong>Tim Menningen</strong></figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/Lese-Wettbewerb_files/drei_Sieger.JPG" alt="Die drei Sieger" width="304" height="236" loading="lazy"><figcaption>2. Sieger André Korte · 3. Sieger Ann-Katrin Faust · 1. Sieger Tim Menningen</figcaption></figure>
 </div>
