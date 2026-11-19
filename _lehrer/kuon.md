@@ -1,6 +1,7 @@
 ---
 name: Max Kuon
 description: Direktor der Schule
+gestorben: true
 image: '/images/lehrer/kuon.jpg'
 kollegium:
   - jahr: 1985

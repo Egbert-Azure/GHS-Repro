@@ -1,6 +1,7 @@
 ---
 name: Horst Flötgen
-description: Lehrer, † 2026
+description: Lehrer
+gestorben: 2026
 image: '/images/lehrer/floetgen.jpg'
 kollegium:
   - jahr: 1985

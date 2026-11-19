@@ -1,6 +1,7 @@
 ---
 name: Jürgen Reinthal
-description: Lehrer, † 2023
+description: Lehrer
+gestorben: 2023
 image: '/images/lehrer/reinthal.jpg'
 kollegium:
   - jahr: 1985

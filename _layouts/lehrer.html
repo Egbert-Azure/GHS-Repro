@@ -10,7 +10,7 @@ layout: default
     </div>
     <div class="page__info">
       <p class="lehrer-kopf__label"><a href="{{ '/lehrer/' | relative_url }}">Lehrer</a></p>
-      <h1 class="page__title">{{ page.name | escape }}</h1>
+      <h1 class="page__title">{{ page.name | escape }}{% include kreuz.html g=page.gestorben %}</h1>
       {% if page.description %}<div class="page__description">{{ page.description }}</div>{% endif %}
     </div>
   </div>
