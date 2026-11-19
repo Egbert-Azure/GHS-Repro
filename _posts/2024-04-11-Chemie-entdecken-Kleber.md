@@ -54,7 +54,7 @@ Zwei unterschiedliche Gummibärchensorten werden eingesetzt. Die “klassischen�
 Erste Erkenntnis: Katjes-Gummibärchen schmelzen nicht, sind also für diesen Versuch unbrauchbar...
 
 <div class="bildreihe">
-  <figure><img src="{{site.baseurl}}/images/2002_1_files/bar1.jpg" alt="Katjesgummibaerchen schmelzen nicht im Wasserbad" width="121" height="183" loading="lazy"><figcaption>Katjesgummibaerchen schmelzen nicht im Wasserbad</figcaption></figure>
+  <figure><img src="{{site.baseurl}}/images/2002_1_files/bar1.jpg" alt="Katjesgummibärchen schmelzen nicht im Wasserbad" width="121" height="183" loading="lazy"><figcaption>Katjesgummibärchen schmelzen nicht im Wasserbad</figcaption></figure>
   <figure><img src="{{site.baseurl}}/images/2002_1_files/bar2.JPG" alt="Die Experimentatoren am Werk" width="1600" height="1067" loading="lazy"><figcaption>Die Experimentatoren am Werk</figcaption></figure>
   <figure><img src="{{site.baseurl}}/images/2002_1_files/gummi2.JPG" alt="Haribo macht Kinder froh..." width="895" height="402" loading="lazy"><figcaption>Haribo macht Kinder froh...</figcaption></figure>
 </div>
