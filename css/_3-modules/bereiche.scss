@@ -256,3 +256,39 @@
 /* Photos in posts and pages open full screen (js/fotos.js); linked photos keep their link */
 .post__content img, .page__content img { cursor: zoom-in; }
 .post__content a img, .page__content a img { cursor: pointer; }
+
+/* Restored posts, reworked layout (first: Chemie entdecken – Life-Science) */
+.post .bildnachweis { margin: 0 0 32px; font-size: 13px; line-height: 1.5; color: var(--text-alt-color); }
+
+/* Names as a compact list in columns */
+.post ul.namen { list-style: none; margin: 0 0 32px; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px 24px;
+  li { margin: 0; padding: 0; }
+  @media only screen and (max-width: $mobile) { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px 16px; }
+  li::before { content: none; }
+}
+
+/* One step: text left, photo with caption right; stacked on phones */
+.post .schritt { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 28px; align-items: center; margin: 0 0 32px;
+  p { margin: 0; }
+  figure { margin: 0; }
+  img { display: block; width: 100%; height: auto; border-radius: 8px; }
+  figcaption { margin-top: 6px; font-size: 13px; line-height: 1.35; color: var(--text-alt-color); text-align: center; }
+  @media only screen and (max-width: $mobile) { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+}
+
+/* Bigger tiles where the photos are large enough: equal columns, one column on phones */
+.post .bildreihe--gross { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; align-items: start;
+  figure { min-width: 0; }
+  img { width: 100%; height: auto; max-width: 100%; align-self: stretch; }
+  figcaption { width: auto; min-width: 0; }
+  @media only screen and (max-width: $mobile) { gap: 20px; img { width: 100%; height: auto; max-width: 100%; object-fit: fill; } }
+}
+
+/* A drawing that stands in for lost photos */
+.post figure.schema { margin: 8px 0 32px;
+  img { display: block; width: 100%; max-width: 460px; height: auto; margin: 0 auto; border-radius: 8px; }
+  figcaption { margin-top: 8px; font-size: 13px; line-height: 1.4; color: var(--text-alt-color); text-align: center; }
+}
+
+/* Short highlighted closing note */
+.post p.hinweis { margin: 32px 0; padding: 16px 20px; border-left: 4px solid var(--brand-color); border-radius: 8px; background: var(--background-alt-color); }
