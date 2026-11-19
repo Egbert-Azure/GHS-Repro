@@ -232,21 +232,23 @@
 .post__autoren { margin-bottom: 6px; font-size: 14px; .post__author__name { margin-bottom: 0; } }
 .mitautor .card-author { margin-top: 16px; }
 
-/* Restored posts: the old site's small photos as a row of tiles with their old captions */
+/* Restored posts: the old site's small photos as a row of tiles with their old captions.
+   Plain construction that behaves the same in Safari, Firefox and Chrome: the photo sets the
+   tile width (fixed height, real width/height attributes), the caption takes width 0 and then
+   stretches to the photo's width, so it never widens or squeezes the tile. */
 .post .bildreihe {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
   gap: 16px;
   margin: 24px 0 32px;
-  figure { margin: 0; display: flex; flex-direction: column; width: min-content; max-width: 100%; }
-  img { display: block; height: 170px; width: auto; max-width: 100%; object-fit: cover; border-radius: 6px; }
-  figcaption { margin-top: 6px; font-size: 13px; line-height: 1.35; color: var(--text-alt-color); text-align: center; }
+  figure { margin: 0; flex: 0 0 auto; display: flex; flex-direction: column; min-width: 150px; }
+  img { display: block; align-self: center; height: 170px; width: auto; max-width: none; border-radius: 6px; }
+  figcaption { width: 0; min-width: 100%; margin-top: 6px; font-size: 13px; line-height: 1.35; color: var(--text-alt-color); text-align: center; }
   @media only screen and (max-width: $mobile) {
     gap: 10px;
-    img { height: 120px; }
+    figure { min-width: 140px; }
+    img { height: 120px; max-width: calc(100vw - 48px); object-fit: cover; }
   }
 }
-
-/* Long German words in headings break instead of running off narrow screens */
-.post h1, .post h2, .post h3, .page h1, .page h2, .page h3 { overflow-wrap: break-word; hyphens: auto; }
