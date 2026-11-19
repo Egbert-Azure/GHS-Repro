@@ -1,5 +1,5 @@
 # Timeline on /schulgeschichte/. Each entry: year, text, optional links (title + url).
-# Facts from the history page (/geschichte/) and the posts linked here; a fact the site doesn't tell itself links its outside source ("Quelle: …").
+# Facts from the history page (/geschichte/) and the posts linked here; a fact the site doesn't tell itself links its outside source ("Quelle: …") or the person who remembers it ("Erinnerung von …").
 - jahr: "1960"
   text: Am 1. April beginnt die Städtische Realschule für Jungen mit 60 Schülern in zwei Klassen – untergebracht in der Marienschule.
   links:
@@ -49,8 +49,12 @@
   links:
     - { title: "England: Crawley", url: "/geschichte/#crawley" }
     - { title: "Schüleraustausch März 1974", post: "2025-01-14-partnerschaft-crawley" }
+- jahr: "1974/75"
+  text: Vorübergehend wird an der Gerhart-Hauptmann-Schule, damals eine reine Jungenschule, eine Mädchenklasse unterrichtet – im Kunstraum. Ihre eigene Schule war überfüllt.
+  links:
+    - { title: "Erinnerung von Egbert Schroeer", url: "/egbert" }
 - jahr: "1979/80"
-  text: Erstmals können auch Mädchen die Schule besuchen.
+  text: Die Schule nimmt nun auch Mädchen auf.
   links:
     - { title: "Mädchen an der GHS", url: "/geschichte/#maedchen" }
 - jahr: "1984"
