@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: Dorsten und Ernée, durch eine gestrichelte Linie verbunden, mit deutscher und französischer Flagge und dem Hinweis 20 Jahre Partnerschaft 1985 bis 2005">
+  <rect width="1200" height="800" fill="#f6efe9"/>
+  <path d="M330 560 Q511 310 812 241" fill="none" stroke="#9a8f82" stroke-width="8" stroke-dasharray="22 16" stroke-linecap="round"/>
+  <line x1="871.8014528405456" y1="120.80000000000007" x2="871.8014528405456" y2="270.80000000000007" stroke="#3d3a36" stroke-width="6" stroke-linecap="round"/>
+  <rect x="874.8014528405456" y="120.8" width="96" height="21.8" fill="#000000"/>
+  <rect x="874.8014528405456" y="142.1" width="96" height="21.8" fill="#dd0000"/>
+  <rect x="874.8014528405456" y="163.5" width="96" height="21.8" fill="#ffce00"/>
+  <rect x="874.8014528405456" y="120.80000000000007" width="96" height="64" fill="none" stroke="#c9c2b8" stroke-width="2"/>
+  <line x1="290.0" y1="350.0" x2="290.0" y2="500.0" stroke="#3d3a36" stroke-width="6" stroke-linecap="round"/>
+  <rect x="293.0" y="350.0" width="32.5" height="64" fill="#0055a4"/>
+  <rect x="325.0" y="350.0" width="32.5" height="64" fill="#ffffff"/>
+  <rect x="357.0" y="350.0" width="32.5" height="64" fill="#ef4135"/>
+  <rect x="293.0" y="350.0" width="96" height="64" fill="none" stroke="#c9c2b8" stroke-width="2"/>
+  <circle cx="812" cy="241" r="20" fill="#d9413a" stroke="#ffffff" stroke-width="6"/>
+  <text x="812" y="321" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#3d3a36" text-anchor="middle"><tspan x="812" dy="0">Dorsten</tspan></text>
+  <circle cx="330" cy="560" r="20" fill="#d9413a" stroke="#ffffff" stroke-width="6"/>
+  <text x="330" y="640" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#3d3a36" text-anchor="middle"><tspan x="330" dy="0">Ernée</tspan></text>
+  <g transform="translate(790 575)">
+    <circle r="118" fill="#ffffff" stroke="#f6c343" stroke-width="12"/>
+    <text y="10" font-family="Helvetica, Arial, sans-serif" font-size="96" font-weight="700" fill="#3d3a36" text-anchor="middle">20</text>
+    <text y="62" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#3d3a36" text-anchor="middle">1985–2005</text>
+  </g>
+</svg>

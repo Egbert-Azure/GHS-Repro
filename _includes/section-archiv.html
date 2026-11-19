@@ -1,5 +1,5 @@
 <!-- begin archive band: the restored website of the school -->
-{% assign archiv = site.posts | where: "rubrik", "archiv" %}
+{% assign archiv = site.posts | where: "rubrik", "archiv" | where_exp: "p", "p.nachgebaut != true" %}
 {% assign mitbild = archiv | where_exp: "p", "p.image != nil" %}
 {% assign b = site.data.bereiche | where: "key", "archiv" | first %}
 <section class="section archiv-band animate">

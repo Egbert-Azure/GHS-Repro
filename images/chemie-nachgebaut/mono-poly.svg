@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: einzelne Bausteine werden zu einer langen Kette und zu einem Stück Schaumstoff">
+  <rect width="1200" height="800" fill="#f2eef6"/>
+  <!-- single monomers -->
+  <g fill="#7e57c2"><circle cx="150" cy="300" r="28"/><circle cx="230" cy="420" r="28"/><circle cx="140" cy="520" r="28"/><circle cx="260" cy="230" r="28"/></g>
+  <path d="M330 400h80" stroke="#9e9aa8" stroke-width="8" stroke-linecap="round"/><path d="M400 380l30 20-30 20z" fill="#9e9aa8"/>
+  <!-- polymer chain -->
+  <path d="M470 400c60-120 140-120 190 0s130 120 190 0 130-120 180 0" fill="none" stroke="#b9a7d8" stroke-width="10"/>
+  <g fill="#7e57c2">
+    <circle cx="470" cy="400" r="24"/><circle cx="520" cy="330" r="24"/><circle cx="590" cy="310" r="24"/><circle cx="650" cy="370" r="24"/><circle cx="690" cy="450" r="24"/><circle cx="760" cy="490" r="24"/><circle cx="830" cy="440" r="24"/><circle cx="870" cy="360" r="24"/><circle cx="940" cy="310" r="24"/><circle cx="1010" cy="350" r="24"/><circle cx="1040" cy="410" r="24"/>
+  </g>
+  <!-- foam block -->
+  <g transform="translate(760 560)">
+    <path d="M0 40l60-40h300l-60 40z" fill="#f6e7b0"/><rect x="0" y="40" width="300" height="140" fill="#f2dc8f"/><path d="M300 40l60-40v140l-60 40z" fill="#e3c86d"/>
+    <g fill="#e6c96a"><circle cx="40" cy="80" r="10"/><circle cx="95" cy="120" r="14"/><circle cx="160" cy="75" r="9"/><circle cx="210" cy="140" r="12"/><circle cx="260" cy="95" r="8"/><circle cx="60" cy="150" r="8"/><circle cx="140" cy="155" r="10"/></g>
+  </g>
+</svg>

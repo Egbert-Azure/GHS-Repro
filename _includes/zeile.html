@@ -7,7 +7,7 @@
     {% else %}<span class="zeile__bild zeile__bild--leer"><img src="{{ site.data.settings.logo | relative_url }}" alt=""></span>{% endif %}
     <span class="zeile__text">
       <span class="zeile__titel">{{ p.title }}</span>
-      {% if a %}<span class="zeile__meta">{{ a.name }}</span>{% endif %}
+      {% if a %}<span class="zeile__meta">{{ a.name }}{% if p.nachgebaut %} · nachgebaut{% endif %}</span>{% endif %}
     </span>
   </a>
 </li>

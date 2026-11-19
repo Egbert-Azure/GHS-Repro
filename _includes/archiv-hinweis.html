@@ -1,4 +1,9 @@
-{%- if page.rubrik contains "archiv" -%}
+{%- if page.nachgebaut -%}
+<aside class="archiv-hinweis archiv-hinweis--nachgebaut">
+  <i class="fa-solid fa-puzzle-piece" aria-hidden="true"></i>
+  <p><strong>Nachgebaut – kein Originalbeitrag aus dem Webarchiv.</strong> Zu diesem Thema ließ sich kein Beitrag der alten Schulseite wiederherstellen. Dieser Text stellt zusammen, was andere Quellen darüber berichten; sie stehen am Ende. <a href="{{ '/archiv/' | relative_url }}">Zum Archiv</a></p>
+</aside>
+{%- elsif page.rubrik contains "archiv" -%}
 <aside class="archiv-hinweis">
   <i class="fa-solid fa-box-archive" aria-hidden="true"></i>
   <p><strong>Aus dem Archiv der alten Schulseite.</strong> Dieser Beitrag erschien auf der Website der Schule ({{ site.data.archiv.zeitraum }}) und wurde aus dem Webarchiv wiederhergestellt. <a href="{{ '/archiv/' | relative_url }}">Zum Archiv</a></p>
