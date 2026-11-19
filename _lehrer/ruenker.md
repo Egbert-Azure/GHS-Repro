@@ -1,6 +1,7 @@
 ---
 name: Alfred Rünker
 description: Konrektor, Klassenlehrer der 10d (1985)
+gestorben: true
 image: '/images/lehrer/ruenker.jpg'
 kollegium:
   - jahr: 1985

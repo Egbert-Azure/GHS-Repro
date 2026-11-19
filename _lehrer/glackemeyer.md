@@ -1,6 +1,7 @@
 ---
 name: Herr Glackemeyer
 description: Klassenlehrer der 7a (1970)
+gestorben: true
 image: '/images/lehrer/glackemeyer.jpg'
 kollegium:
   - jahr: 1985

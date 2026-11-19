@@ -252,3 +252,7 @@
     img { height: 120px; max-width: calc(100vw - 48px); object-fit: cover; }
   }
 }
+
+/* Photos in posts and pages open full screen (js/fotos.js); linked photos keep their link */
+.post__content img, .page__content img { cursor: zoom-in; }
+.post__content a img, .page__content a img { cursor: pointer; }

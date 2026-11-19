@@ -1,6 +1,7 @@
 ---
 name: Gerd Sellheyer
 description: Sportlehrer, Klassenlehrer der 10e (1987)
+gestorben: true
 image: '/images/lehrer/sellheyer.jpg'
 kollegium:
   - jahr: 1985

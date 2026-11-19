@@ -1,6 +1,7 @@
 ---
 name: Gerd Fißer
-description: Lehrer, † 2024
+description: Lehrer
+gestorben: 2024
 image: '/images/lehrer/fisser.jpg'
 kollegium:
   - jahr: 1985

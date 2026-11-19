@@ -1,6 +1,7 @@
 ---
 name: Hans Effing
-description: Sportlehrer und Turntrainer, † 1990
+description: Sportlehrer und Turntrainer
+gestorben: 1990
 image: '/images/lehrer/effing.jpg'
 suche: [Effing]
 website: 'http://www.dorsten-lexikon.de/effing-hans/'

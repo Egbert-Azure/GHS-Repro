@@ -1,6 +1,7 @@
 ---
 name: Karl Werner Dickhöfer
-description: Lehrer, † 2025
+description: Lehrer
+gestorben: 2025
 image: '/images/lehrer/dickhoefer-karl-werner.jpg'
 kollegium:
   - jahr: 1985

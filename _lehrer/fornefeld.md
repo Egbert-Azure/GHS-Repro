@@ -1,6 +1,7 @@
 ---
 name: Claudia Fornefeld
-description: Klassenlehrerin, † 2013
+description: Klassenlehrerin
+gestorben: 2013
 image:
 suche: [Fornefeld]
 traueranzeige: '/images/lehrer/traueranzeige-fornefeld.jpg'

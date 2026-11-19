@@ -1,0 +1,2 @@
+{%- comment -%} Cross after a deceased teacher's name: gestorben: 2024 gives " † 2024", gestorben: true gives " †". Non-breaking spaces keep it on the name's line. {%- endcomment -%}
+{%- if include.g -%}&nbsp;†{%- unless include.g == true -%}&nbsp;{{ include.g }}{%- endunless -%}{%- endif -%}

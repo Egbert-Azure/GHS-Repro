@@ -1,6 +1,7 @@
 ---
 name: Rolf Bruns
 description: Lehrer und Vertrauenslehrer
+gestorben: true
 image:
 kollegium:
   - jahr: 1985
