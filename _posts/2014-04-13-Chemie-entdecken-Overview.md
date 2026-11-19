@@ -38,16 +38,16 @@ Jessica Weinbach wurde zum 4. Mal mit der Urkunde "mit großem Erfolg" geehrt. Z
 <table class="runden">
   <thead><tr><th scope="col">Jahr</th><th scope="col">1. Runde</th><th scope="col">2. Runde</th></tr></thead>
   <tbody>
-    <tr><th scope="row">2001</th><td>De-Inking - Ein Schritt zu neuem Papier</td><td><a href="{% post_url 2024-04-13-Chemie-entdecken-life-science %}">Chemie ist life-science</a></td></tr>
-    <tr><th scope="row">2002</th><td><a href="{% post_url 2024-04-11-Chemie-entdecken-Kleber %}">Kleber - bärenstark</a></td><td>Dem Korrosionsmonster auf der Spur</td></tr>
-    <tr><th scope="row">2003</th><td>Schriftgeheimnisse</td><td>Sprudelnder Antrieb - Brausetabletten</td></tr>
-    <tr><th scope="row">2004</th><td>Banane - einfach spannend</td><td>Die tolle Knolle!</td></tr>
-    <tr><th scope="row">2005</th><td>Alles im grünen Bereich?</td><td>Mit Chemie auf Spurensuche</td></tr>
-    <tr><th scope="row">2006</th><td>Salz oder Zucker?</td><td>Mikrolabor Hefezellen</td></tr>
-    <tr><th scope="row">2007</th><td>Seifen sind was?</td><td>Handwärmer - einfach heiß</td></tr>
-    <tr><th scope="row">2008</th><td>Milch macht's</td><td>Mono - Poly?!</td></tr>
-    <tr><th scope="row">2010</th><td>Manche mögens heiß</td><td>E330 kann's</td></tr>
-    <tr><th scope="row">2011</th><td><a href="{% post_url 2024-04-13-Kau-Gummi %}">Kau Gummi</a></td><td></td></tr>
+    <tr><th scope="row">2001</th><td data-label="1. Runde">De-Inking - Ein Schritt zu neuem Papier</td><td data-label="2. Runde"><a href="{% post_url 2024-04-13-Chemie-entdecken-life-science %}">Chemie ist life-science</a></td></tr>
+    <tr><th scope="row">2002</th><td data-label="1. Runde"><a href="{% post_url 2024-04-11-Chemie-entdecken-Kleber %}">Kleber - bärenstark</a></td><td data-label="2. Runde"><a class="extern" href="https://idw-online.de/de/news66013" target="_blank" rel="noopener">Dem Korrosionsmonster auf der Spur</a><span class="runde-info">Was Korrosion fördert und wie man Metalle schützt: Stahlwolle, Alu-Grillschalen, Bleistiftspitzer</span></td></tr>
+    <tr><th scope="row">2003</th><td data-label="1. Runde"><a class="extern" href="https://idw-online.de/de/news66013" target="_blank" rel="noopener">Schriftgeheimnisse</a><span class="runde-info">Durchschreibformulare, Kassenbons und Geheimtinte aus Malven- oder Hibiskustee</span></td><td data-label="2. Runde">Sprudelnder Antrieb - Brausetabletten</td></tr>
+    <tr><th scope="row">2004</th><td data-label="1. Runde">Banane - einfach spannend</td><td data-label="2. Runde"><a class="extern" href="https://bildungsklick.de/schule/detail/chemie-im-alltag-experimentalwettbewerb-chemie-entdecken" target="_blank" rel="noopener">Die tolle Knolle!</a><span class="runde-info">Versuche mit Kartoffeln</span></td></tr>
+    <tr><th scope="row">2005</th><td data-label="1. Runde"><a class="extern" href="https://bildungsklick.de/schule/detail/chemie-im-alltag-experimentalwettbewerb-chemie-entdecken" target="_blank" rel="noopener">Alles im grünen Bereich?</a><span class="runde-info">Versuche mit Schokolinsen, grüner Götterspeise und Pflanzenfarben</span></td><td data-label="2. Runde"><a class="extern" href="https://www.yumpu.com/de/document/view/13538029/wettbewerbe-im-chemieunterricht" target="_blank" rel="noopener">Mit Chemie auf Spurensuche</a><span class="runde-info">Kriminalistische Untersuchungen</span></td></tr>
+    <tr><th scope="row">2006</th><td data-label="1. Runde">Salz oder Zucker?</td><td data-label="2. Runde"><a class="extern" href="http://www.st-xaver.de/archiv_burki/html/body_chemie07_1.html" target="_blank" rel="noopener">Mikrolabor Hefezellen</a></td></tr>
+    <tr><th scope="row">2007</th><td data-label="1. Runde"><a class="extern" href="http://www.st-xaver.de/archiv_burki/html/body_chemie07_1.html" target="_blank" rel="noopener">Seifen sind was?</a></td><td data-label="2. Runde"><a class="extern" href="https://www.afr-ahaus.de/sys-seitenid,53/newsid,91/Handwaermer-und-Quark-Dessert.html" target="_blank" rel="noopener">Handwärmer - einfach heiß</a><span class="runde-info">Was in Handwärmern steckt: Schmelzen und Kristallisieren, Vergleich mit Wasser und Glaubersalz</span></td></tr>
+    <tr><th scope="row">2008</th><td data-label="1. Runde"><a class="extern" href="https://www.afr-ahaus.de/sys-seitenid,53/newsid,91/Handwaermer-und-Quark-Dessert.html" target="_blank" rel="noopener">Milch macht's</a><span class="runde-info">Wichtige Bestandteile der Milch</span></td><td data-label="2. Runde"><a class="extern" href="http://www.oberberg-aktuell.de/index.php?id=144&amp;tx_ttnews%5Btt_news%5D=82293" target="_blank" rel="noopener">Mono - Poly?!</a><span class="runde-info">Kunststoffe herstellen und untersuchen, z. B. Schaumstoff aus Zitronensäure und Zucker</span></td></tr>
+    <tr><th scope="row">2010</th><td data-label="1. Runde"><a class="extern" href="https://www.yumpu.com/de/document/view/13567528/kobi-gymnasium-koblenzer-strasse/9" target="_blank" rel="noopener">Manche mögens heiß</a><span class="runde-info">Bei welchen Reaktionen Wärme entsteht und bei welchen sie gebraucht wird</span></td><td data-label="2. Runde"><a class="extern" href="https://www.realschule-burgsteinfurt.de/chemie-wettbewerb-2-2010-e-330-kanns/" target="_blank" rel="noopener">E330 kann's</a><span class="runde-info">Zitronensäure (E 330)</span></td></tr>
+    <tr><th scope="row">2011</th><td data-label="1. Runde"><a href="{% post_url 2024-04-13-Kau-Gummi %}">Kau Gummi</a></td><td data-label="2. Runde"></td></tr>
   </tbody>
 </table>
 </div>
@@ -56,6 +56,7 @@ Jessica Weinbach wurde zum 4. Mal mit der Urkunde "mit großem Erfolg" geehrt. Z
   <i class="fa-solid fa-flask" aria-hidden="true"></i>
   <div>
     <p><strong>Zum Wettbewerb.</strong> „Chemie entdecken“ richtete ein Arbeitskreis im „Kölner Modell“ an der Universität zu Köln aus, zweimal im Jahr, für die Klassen 5 bis 10 aller Schulformen in NRW. Bis 2005 hatten mehr als 27.000 Schülerinnen und Schüler mitgemacht; die erfolgreichsten wurden zu einer Feierstunde an die Universität Köln eingeladen. Seit Herbst 2017 setzt der Wettbewerb „Chem-pions“ ihn fort.</p>
+    <p>Die mit ↗ markierten Runden in der Tabelle führen zu Berichten der Universität zu Köln, des Schulministeriums und anderer Schulen über die jeweilige Aufgabe; die kurzen Beschreibungen darunter stammen aus diesen Berichten.</p>
     <p class="ergaenzung__quellen">Quellen: <a href="https://bildungsklick.de/schule/detail/chemie-im-alltag-experimentalwettbewerb-chemie-entdecken">Pressemitteilung des NRW-Schulministeriums vom 20.06.2005</a> · <a href="https://gesamtschulefroendenberg.de/2013/02/schuler-beim-schulwettbewerb-chemie-entdecken-erfolgreich/">Gesamtschule Fröndenberg, 2013</a> · <a href="https://www.fcho.de/de/wettbewerbe/experimentalwettbewerbe/chem-pions.html">Förderverein Chemie-Olympiade: Chem-pions</a></p>
   </div>
 </aside>
