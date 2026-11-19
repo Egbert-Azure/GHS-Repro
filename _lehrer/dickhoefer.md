@@ -1,6 +1,7 @@
 ---
 name: Erika Dickhöfer
 description: Klassenlehrerin und Englischlehrerin
+gestorben: true
 image: '/images/lehrer/dickhoefer.jpg'
 kollegium:
   - jahr: 1985
