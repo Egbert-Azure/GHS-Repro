@@ -11,14 +11,13 @@ tags_color: '#b25642'
 featured: false
 rubrik: archiv
 ---
-<small>Photo by <a href="https://unsplash.com/@dtravisphd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Travis</a> on <a href="https://unsplash.com/photos/brown-fountain-pen-on-notebook-5bYxXawHOQg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a><small>
+<p class="bildnachweis">Titelfoto: <a href="https://unsplash.com/@dtravisphd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Travis</a> / <a href="https://unsplash.com/photos/brown-fountain-pen-on-notebook-5bYxXawHOQg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
   
 
-<div style="text-align: center">
-5. April 2014
-10 - 13 Uhr
-	<img src="/images/Neues_files/Spickzettel.jpg" height="335" width="300"> 
-</div>
+<figure class="foto foto--schmal">
+  <img src="/images/Neues_files/Spickzettel.jpg" alt="Spickzettel" width="551" height="616" loading="lazy">
+  <figcaption>5. April 2014<br>10 - 13 Uhr</figcaption>
+</figure>
 
 Liebe Eltern, liebe Erziehungsberechtigte!
 Am Samstag, den 5. April 2014, findet unser Tag der offenen Tür statt. Hierzu möchten wir Sie gerne einladen und hoffen sehr, Sie zahlreich in der Gerhart-Hauptmann-Realschule begrüßen zu dürfen. Im Zeitraum von 10 bis 13 Uhr möchten unsere Schülerinnen und Schüler Ihnen all das präsentieren, was in den zwei Projekttagen zuvor erarbeitet, hergestellt, verschönert, einstudiert und geprobt wurde. Lassen Sie sich überraschen unter dem Motto
