@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: ein Thermometer zwischen einer Flamme und Eiskristallen">
+  <rect width="1200" height="800" fill="#f6efe9"/>
+  <!-- flame -->
+  <g transform="translate(270 430)">
+    <path d="M0 160c-90 0-130-70-110-140 20-70 80-90 70-170 70 50 120 120 130 190 10 70-20 120-90 120z" fill="#f08a24"/>
+    <path d="M0 160c-50 0-70-40-60-80 10-40 45-55 45-100 40 35 65 75 65 115 0 40-20 65-50 65z" fill="#f6c343"/>
+  </g>
+  <!-- thermometer -->
+  <g transform="translate(600 130)">
+    <rect x="-34" y="0" width="68" height="430" rx="34" fill="#ffffff" stroke="#c9c2b8" stroke-width="5"/>
+    <rect x="-14" y="120" width="28" height="330" rx="14" fill="#d9413a"/>
+    <circle cx="0" cy="480" r="62" fill="#d9413a" stroke="#c9c2b8" stroke-width="5"/>
+    <g stroke="#b0a89d" stroke-width="4"><line x1="34" y1="60" x2="60" y2="60"/><line x1="34" y1="120" x2="60" y2="120"/><line x1="34" y1="180" x2="60" y2="180"/><line x1="34" y1="240" x2="60" y2="240"/><line x1="34" y1="300" x2="60" y2="300"/><line x1="34" y1="360" x2="60" y2="360"/></g>
+  </g>
+  <!-- ice crystals -->
+  <g transform="translate(920 420)" stroke="#5aa9d6" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M0 -120v240M-104 -60l208 120M-104 60l208 -120"/>
+    <path d="M0 -120l-24 -24M0 -120l24 -24M0 120l-24 24M0 120l24 24M-104 -60l-34 -4M-104 -60l-10 -32M104 60l34 4M104 60l10 32M-104 60l-10 32M-104 60l-34 4M104 -60l10 -32M104 -60l34 -4"/>
+  </g>
+</svg>

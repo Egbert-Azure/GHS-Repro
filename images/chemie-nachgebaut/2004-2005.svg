@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: Kartoffeln, bunte Schokolinsen und ein Papierstreifen mit grünen und gelben Farbbanden">
+  <rect width="1200" height="800" fill="#eef3e6"/>
+  <!-- potatoes -->
+  <g>
+    <path d="M170 470c-10-90 90-150 190-130s170 70 160 150-110 130-210 120-130-60-140-140z" fill="#c8a06a"/>
+    <path d="M330 560c0-70 80-110 150-95s120 60 105 125-90 95-160 85-95-50-95-115z" fill="#b98e58"/>
+    <g fill="#8a6a3e"><circle cx="260" cy="430" r="7"/><circle cx="350" cy="470" r="6"/><circle cx="300" cy="520" r="5"/><circle cx="430" cy="530" r="6"/><circle cx="480" cy="590" r="5"/></g>
+  </g>
+  <!-- chocolate lentils -->
+  <g><circle cx="620" cy="640" r="26" fill="#d6453d"/><circle cx="680" cy="660" r="26" fill="#f2b632"/><circle cx="650" cy="700" r="26" fill="#3a7bd5"/><circle cx="720" cy="610" r="26" fill="#4caf50"/><circle cx="740" cy="680" r="26" fill="#e87d2a"/>
+    <g fill="#ffffff" opacity=".45"><ellipse cx="612" cy="630" rx="9" ry="5"/><ellipse cx="672" cy="650" rx="9" ry="5"/><ellipse cx="642" cy="690" rx="9" ry="5"/><ellipse cx="712" cy="600" rx="9" ry="5"/><ellipse cx="732" cy="670" rx="9" ry="5"/></g></g>
+  <!-- chromatography strip in a glass -->
+  <g>
+    <rect x="870" y="150" width="120" height="460" rx="4" fill="#fbf8f0" stroke="#d8d1c0" stroke-width="3"/>
+    <ellipse cx="930" cy="250" rx="40" ry="10" fill="#e3cc35" opacity=".9"/>
+    <ellipse cx="930" cy="320" rx="42" ry="13" fill="#2e7d5b"/>
+    <ellipse cx="930" cy="390" rx="42" ry="13" fill="#8db03c"/>
+    <circle cx="930" cy="540" r="10" fill="#3d7a4a"/>
+    <path d="M820 470h220v170a30 30 0 0 1-30 30H850a30 30 0 0 1-30-30z" fill="#cfe6f2" opacity=".55" stroke="#9ec3d6" stroke-width="3"/>
+  </g>
+</svg>

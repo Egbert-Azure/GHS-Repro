@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: eine halbe Zitrone und ein Etikett mit der Angabe E 330">
+  <rect width="1200" height="800" fill="#fbf6df"/>
+  <!-- lemon half -->
+  <g transform="translate(380 420)">
+    <circle r="230" fill="#f4d23a"/><circle r="205" fill="#fff6b8"/>
+    <g fill="#f9e27a" stroke="#fff6b8" stroke-width="10">
+      <path d="M0 0L0 -195A195 195 0 0 1 169 -97z"/><path d="M0 0L169 -97A195 195 0 0 1 169 97z"/><path d="M0 0L169 97A195 195 0 0 1 0 195z"/><path d="M0 0L0 195A195 195 0 0 1 -169 97z"/><path d="M0 0L-169 97A195 195 0 0 1 -169 -97z"/><path d="M0 0L-169 -97A195 195 0 0 1 0 -195z"/>
+    </g>
+    <circle r="22" fill="#fff6b8"/>
+  </g>
+  <!-- ingredient label -->
+  <g transform="translate(760 220) rotate(6)">
+    <rect width="320" height="360" rx="14" fill="#ffffff" stroke="#e0d8bd" stroke-width="4"/>
+    <text x="34" y="70" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#3b3a36">Zutaten:</text>
+    <g fill="#c9c2a6"><rect x="34" y="100" width="250" height="14" rx="7"/><rect x="34" y="132" width="200" height="14" rx="7"/><rect x="34" y="164" width="230" height="14" rx="7"/></g>
+    <rect x="34" y="210" width="180" height="70" rx="10" fill="#f4d23a"/>
+    <text x="124" y="258" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#3b3a36">E 330</text>
+    <g fill="#c9c2a6"><rect x="34" y="306" width="160" height="14" rx="7"/></g>
+  </g>
+</svg>

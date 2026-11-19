@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Zeichnung: Reiseweg der Gäste von Ernée über Berlin nach Dorsten und Schermbeck">
+  <rect width="1200" height="800" fill="#f6efe9"/>
+  <path d="M270 552 Q611 -84 927 217" fill="none" stroke="#9a8f82" stroke-width="8" stroke-dasharray="22 16" stroke-linecap="round"/>
+  <path d="M898 207 L927 217 L916 189" fill="none" stroke="#9a8f82" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M952 240 Q798 202 674 285" fill="none" stroke="#9a8f82" stroke-width="8" stroke-dasharray="22 16" stroke-linecap="round"/>
+  <path d="M689 259 L674 285 L703 281" fill="none" stroke="#9a8f82" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="230.0" y1="342.2800000000004" x2="230.0" y2="492.2800000000004" stroke="#3d3a36" stroke-width="6" stroke-linecap="round"/>
+  <rect x="233.0" y="342.2800000000004" width="32.5" height="64" fill="#0055a4"/>
+  <rect x="265.0" y="342.2800000000004" width="32.5" height="64" fill="#ffffff"/>
+  <rect x="297.0" y="342.2800000000004" width="32.5" height="64" fill="#ef4135"/>
+  <rect x="233.0" y="342.2800000000004" width="96" height="64" fill="none" stroke="#c9c2b8" stroke-width="2"/>
+  <circle cx="270" cy="552" r="20" fill="#d9413a" stroke="#ffffff" stroke-width="6"/>
+  <text x="270" y="632" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#3d3a36" text-anchor="middle"><tspan x="270" dy="0">Ernée</tspan></text>
+  <circle cx="952" cy="240" r="20" fill="#d9413a" stroke="#ffffff" stroke-width="6"/>
+  <text x="982" y="320" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#3d3a36" text-anchor="end"><tspan x="982" dy="0">Berlin</tspan></text>
+  <circle cx="645" cy="304" r="20" fill="#d9413a" stroke="#ffffff" stroke-width="6"/>
+  <text x="645" y="386" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#3d3a36" text-anchor="middle"><tspan x="645" dy="0">Dorsten</tspan><tspan x="645" dy="52">Schermbeck</tspan></text>
+  <text x="800" y="620" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#3d3a36" text-anchor="middle">April 2007</text>
+</svg>
