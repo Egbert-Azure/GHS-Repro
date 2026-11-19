@@ -31,7 +31,7 @@ Katja
     <img src="/images/verabschiedung-1.jpg" loading="lazy" alt="Toiletten">
     <img src="/images/verabschiedung-2.jpg" loading="lazy" alt="Schulhof">
     <img src="/images/verabschiedung-3.jpg" loading="lazy" alt="Schulhof">
-    <img src="/images/verabschiedung-austausch.jpg" loading="lazy" alt="Schueleraustausch">
+    <img src="/images/verabschiedung-austausch.jpg" loading="lazy" alt="Schüleraustausch">
     <img src="/images/verabschiedung-4.jpg" loading="lazy" alt="Lehrer">
     <img src="/images/verabschiedung-5.jpg" loading="lazy" alt="Klassen">
     <img src="/images/verabschiedung-6.jpg" loading="lazy" alt="Gang">
