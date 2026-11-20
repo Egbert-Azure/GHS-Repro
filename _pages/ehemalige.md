@@ -63,7 +63,10 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Schmitt
   - Klaus Hennemann
 - Klasse 10c ([Herr Kuon](/lehrer/kuon/))
-  - Detlef Große-Erwig (außerdem aus Erinnerung: Winfried Giese und sein Bruder, Michael Humberg, Detlef Nagel)
+  - Detlef Große-Erwig
+  - Winfried Giese und sein Bruder
+  - Michael Humberg
+  - Detlef Nagel
 
 ## Abschluss 1975
 
@@ -71,25 +74,28 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Willi Schmitz
   - Egbert Schröer
   - Andreas Kieslich
-  - Dirk Ruschitzka
-  - Jochen Klein (?)
+  - Dirk Ruschitzka (verstorben am 12.05.2025)
+  - Jochen Klein
   - Dirk Soyka
   - Lothar Stein
   - Christof Pollender
   - Udo Ostrop
   - Klaus Barheier
-  - xxx Barheier
+  - Berthold Barheier
   - Klaus Rekers
   - Ludger Stollbrink
   - Hans-Josef Melzer
   - Volker Brand
   - Bernhard Bittner
+  - Karl-Heinz Mast
+  - Andreas Stoll
+  - Andreas Wodok
   - Volker Barke (verstorben am 01.01.1996)
 - Klasse 10b: [Wiedersehen nach 50 Jahren (Juni 2025)](/blog/klassentreffen-1975-10b), mit Lehrer Karl-Heinz Klocke
+  - Peter Kuhlmann
 
 ## Abschluss 1976
 
-- Karl-Heinz Mast
 - Klasse 10? ([Herr Braun](/lehrer/braun/))
   - Peter Finke
 
