@@ -44,7 +44,8 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 ## Abschluss 1972
 
 - Klasse 10a ([Herr Flötgen](/lehrer/floetgen/))
-  - Franz Hennemann (aus Erinnerung: Horst Knieps)
+  - Franz Hennemann
+  - Horst Knieps
 
 ## Abschluss 1974
 
@@ -137,10 +138,8 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 ## Abschluss 1987
 
-- Klasse 10
-  - Katja Neumann
 - Klasse 10a? ([Frau Braun](/lehrer/braun/))
-  - Katja Link
+  - Katja Neumann (geb. Link)
 - Klasse 10b ([Herr Flötgen](/lehrer/floetgen/))
   - Volker Radmer
 - Klasse 10d (Herr Flüchter)

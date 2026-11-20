@@ -21,4 +21,4 @@ Olaf Grewer (Abschluss 1986) hat alte Ausgaben vom „Bleistift“ wiedergefunde
 
 Jede Ausgabe kostete 30 Pfennig.
 
-Hast Du beim „Bleistift“ mitgemacht, erinnerst Du Dich an einen Artikel oder hast Du selbst noch Ausgaben? Schreib uns über das [Kontaktformular](/kontakt/).
+Hast Du beim „Bleistift“ mitgemacht, erinnerst Du Dich an einen Artikel oder hast Du selbst noch Ausgaben? Hinweise gern über das [Kontaktformular](/kontakt/).
