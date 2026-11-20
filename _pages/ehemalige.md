@@ -162,10 +162,15 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
 
 <small>Einträge aus dem Gästebuch der alten Schulseite, 2013 bis 2016.</small>
 
-| Datum       | Name               | Ort              | Mitteilung                                                                                   |
-|-------------|--------------------|------------------|----------------------------------------------------------------------------------------------|
-| 29.02.2016  | J.M.               | Dorsten Hardt    | Schöne Grüße an Frau Olbrich, Frau Heß, Herr Keßler und Herr Kaul. Vorausgesetzt es sind alle noch da. Und ich hoffe alle Gebäude bleiben in ihrer jetzigen Form bestehen. |
-| 11.02.2016  | J.M.               | Dorsten Hardt    | Vermisse die GHS sehr stark. Wenn ich könnte würde ich die 6 Jahre gerne nochmal dort sein. Zudem komme ich mit der Schließung nicht klar. (... es hätte die EKS treffen sollen !) |
-| 13.11.2015  | ***                | Dorsten          | GHS ist die beste Schule der Welt !!! 13.11.15                                               |
-| 27.11.2013  | Gorke Kevin        | dorsten wulfen   | DIESE SCHULE IST EINER DER BESTEN IM VEST ICH VERMISSE DIE SCHULZEIT AK 2010. VIELE GRÜSSE AN ALLE LEHRKRÄFTE ;) |
-| 21.05.2013  | Simone Netzlaff-Zierdt | Winsen/Luhe  | Hallo, ich bin eine ehemalige Schülerin Eurer Schule. Ich war damals von 1998 bis 1991 bei Herrn Bruns in der Klasse. Weiß jemand wie es ihm geht? Oder auch Frau Meissner, die wir damals in Biologie/Chemie hatten? Wie geht's ihr? LG Simone |
+<table class="gaestebuch">
+  <thead>
+    <tr><th scope="col">Datum</th><th scope="col">Name</th><th scope="col">Ort</th><th scope="col">Mitteilung</th></tr>
+  </thead>
+  <tbody>
+    <tr><td class="gaestebuch__datum">29.02.2016</td><td class="gaestebuch__name">J.M.</td><td class="gaestebuch__ort">Dorsten Hardt</td><td class="gaestebuch__text">Schöne Grüße an Frau Olbrich, Frau Heß, Herr Keßler und Herr Kaul. Vorausgesetzt es sind alle noch da. Und ich hoffe alle Gebäude bleiben in ihrer jetzigen Form bestehen.</td></tr>
+    <tr><td class="gaestebuch__datum">11.02.2016</td><td class="gaestebuch__name">J.M.</td><td class="gaestebuch__ort">Dorsten Hardt</td><td class="gaestebuch__text">Vermisse die GHS sehr stark. Wenn ich könnte würde ich die 6 Jahre gerne nochmal dort sein. Zudem komme ich mit der Schließung nicht klar. (... es hätte die EKS treffen sollen !)</td></tr>
+    <tr><td class="gaestebuch__datum">13.11.2015</td><td class="gaestebuch__name">***</td><td class="gaestebuch__ort">Dorsten</td><td class="gaestebuch__text">GHS ist die beste Schule der Welt !!! 13.11.15</td></tr>
+    <tr><td class="gaestebuch__datum">27.11.2013</td><td class="gaestebuch__name">Gorke Kevin</td><td class="gaestebuch__ort">dorsten wulfen</td><td class="gaestebuch__text">DIESE SCHULE IST EINER DER BESTEN IM VEST ICH VERMISSE DIE SCHULZEIT AK 2010. VIELE GRÜSSE AN ALLE LEHRKRÄFTE ;)</td></tr>
+    <tr><td class="gaestebuch__datum">21.05.2013</td><td class="gaestebuch__name">Simone Netzlaff-Zierdt</td><td class="gaestebuch__ort">Winsen/Luhe</td><td class="gaestebuch__text">Hallo, ich bin eine ehemalige Schülerin Eurer Schule. Ich war damals von 1998 bis 1991 bei Herrn Bruns in der Klasse. Weiß jemand wie es ihm geht? Oder auch Frau Meissner, die wir damals in Biologie/Chemie hatten? Wie geht's ihr? LG Simone</td></tr>
+  </tbody>
+</table>

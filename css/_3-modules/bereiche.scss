@@ -352,3 +352,34 @@
   p:last-child { margin-bottom: 0; }
   .ergaenzung__quellen { font-size: 13px; line-height: 1.5; color: var(--text-alt-color); }
 }
+
+/* Kollegium: the numbered names to a staff photo. Two columns read top to bottom
+   (1–15 | 16–29, like the old two-part table); --zeilen = rows of the left column.
+   One column in number order on phones. */
+.page ol.nummern {
+  list-style: none; margin: 8px 0 44px; padding: 0;
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: repeat(var(--zeilen), auto);
+  grid-auto-flow: column; column-gap: 32px;
+  li { display: flex; align-items: baseline; gap: 12px; margin: 0; padding: 8px 4px; border-bottom: 1px solid var(--border-color);
+    font-size: 15px; line-height: 1.45; min-width: 0; overflow-wrap: anywhere; }
+  .nummern__nr { flex: 0 0 2em; text-align: right; font-weight: 700; color: var(--text-alt-color); font-variant-numeric: tabular-nums; }
+  @media only screen and (max-width: $mobile) {
+    grid-template-columns: minmax(0, 1fr); grid-template-rows: none; grid-auto-flow: row;
+  }
+}
+
+/* Ehemalige: the old guestbook. A table on wide screens; on phones each entry is a
+   block: date · name · place on one line, the message below at full width. */
+.page table.gaestebuch {
+  @media only screen and (max-width: $mobile) {
+    display: block;
+    thead { display: none; }
+    tbody, tr, td { display: block; }
+    tr { margin: 0 0 12px; padding: 12px 14px; border: 1px solid var(--border-color); border-radius: 8px; background: var(--background-alt-color); }
+    tr:nth-child(even) { background: transparent; }
+    td { padding: 0; border: 0; font-size: 15px; line-height: 1.5; }
+    .gaestebuch__datum, .gaestebuch__name, .gaestebuch__ort { display: inline; font-size: 13px; color: var(--text-alt-color); }
+    .gaestebuch__name::before, .gaestebuch__ort::before { content: "\00a0·\00a0"; }
+    .gaestebuch__text { margin-top: 6px; overflow-wrap: anywhere; }
+  }
+}
