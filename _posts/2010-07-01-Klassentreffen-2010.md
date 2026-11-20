@@ -33,4 +33,4 @@ Im Jahr 2010, 35 Jahre nach der Schulentlassung, trafen sich ehemalige Schüler 
   </div>
 </div>
 
-Warst Du dabei, weißt Du mehr über den Abend oder hast Du weitere Fotos? Schreib uns über das [Kontaktformular](/kontakt/).
+Warst Du dabei, weißt Du mehr über den Abend oder hast Du weitere Fotos? Hinweise gern über das [Kontaktformular](/kontakt/).

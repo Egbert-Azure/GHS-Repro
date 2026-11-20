@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die Verabschiedung in Bildern
-date: 2016-05-12
+date: 2016-07-02
 author: katja
 description: Verabschiedung anlässlich der Schließung der GHS
 image: '/images/ghs-bild.jpg' # Add image post (optional)

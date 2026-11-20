@@ -33,4 +33,4 @@ Hinter ihm hocken von links Thorsten Badde, Michael Brünnig, Oliver Albert, Mic
   <figcaption style="margin-top: 6px; font-size: 0.85em;">Im Klassenraum</figcaption>
 </figure>
 
-Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Jahr diese Klasse ihren Abschluss gemacht hat? Schreib uns über das [Kontaktformular](/kontakt/).
+Erkennst Du Dich oder Deine Mitschüler, auch auf dem Foto im Klassenraum? Weißt Du, in welchem Jahr diese Klasse ihren Abschluss gemacht hat? Hinweise gern über das [Kontaktformular](/kontakt/).

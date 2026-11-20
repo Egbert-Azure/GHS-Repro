@@ -32,4 +32,4 @@ Am 24. Oktober 2015, 40 Jahre nach der Schulentlassung, trafen sich ehemalige Sc
   </div>
 </div>
 
-Warst Du dabei, weißt Du mehr über den Abend oder hast Du weitere Fotos? Schreib uns über das [Kontaktformular](/kontakt/).
+Warst Du dabei, weißt Du mehr über den Abend oder hast Du weitere Fotos? Hinweise gern über das [Kontaktformular](/kontakt/).
