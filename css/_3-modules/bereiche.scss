@@ -383,3 +383,8 @@
     .gaestebuch__text { margin-top: 6px; overflow-wrap: anywhere; }
   }
 }
+
+/* Title picture in its own shape instead of the theme's crop (front matter titelbild_format),
+   e.g. for group photos, where the people at the edges must not be cut off */
+.post-image.post-image--3x2 { min-height: 0; padding-top: 66.6667%; @media only screen and (max-width: $desktop) { padding-top: 66.6667%; } }
+.post-image.post-image--4x3 { min-height: 0; padding-top: 75%; @media only screen and (max-width: $desktop) { padding-top: 75%; } }

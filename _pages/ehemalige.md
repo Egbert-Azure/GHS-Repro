@@ -85,6 +85,7 @@ Ehemalige der Gerhart-Hauptmann-Realschule, geordnet nach Abschlussjahrgang. Die
   - Volker Brand
   - Bernhard Bittner
   - Volker Barke (verstorben am 01.01.1996)
+- Klasse 10b: [Wiedersehen nach 50 Jahren (Juni 2025)](/blog/klassentreffen-1975-10b), mit Lehrer Karl-Heinz Klocke
 
 ## Abschluss 1976
 
