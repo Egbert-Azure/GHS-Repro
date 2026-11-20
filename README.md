@@ -63,10 +63,11 @@ thema: Abschlussjahrgänge
   - `<div class="bildreihe bildreihe--gross">`: a row of large tiles in equal columns.
   - `<ul class="namen">`: names in columns; `<p class="hinweis">`: highlighted note; `<p class="bildnachweis">`: small grey credit line; `<p class="unterschrift">`: signature under a pupils' report; `<table class="runden">`: competition rounds by year.
 - **Colours (light mode):** the page is a warm paper white (`--paper: #faf6ef` in `css/_0-settings/color-scheme.scss`), boxes and fills are sand (`--sand: #efe2cc`, as on the chess site), lines and table stripes warm too; the archive band stays navy. `--rgb-image-color` must match `--paper`, because the school photo behind the home-page title fades into it. Back to pure white: set `--background-color: var(--white)` and `--rgb-image-color: 255, 255, 255`. Dark mode is unchanged. The logo (`images/logo.png`) has a transparent background around the white oval, so it sits cleanly on any background.
+- **Guestbook on Ehemalige:** an HTML `<table class="gaestebuch">`; on phones each entry becomes a block (date · name · place, message below).
 - **Photo viewer:** tapping or clicking a photo in a post or page opens it full screen (`js/fotos.js` with PhotoSwipe 5 in `js/photoswipe/`, stylesheet `css/photoswipe.css`): pinch or double-tap to zoom, swipe or arrow keys for the post's other photos, close with X, Esc or a swipe up/down. Linked photos keep their link. Replaces the old Lightense zoom, which closed on any scroll and failed on iPhones.
 - **Photo size:** keep photos at most 2000 px on the long side (about 0.3–0.6 MB as JPEG). Larger files load slowly on phones and iPhones may refuse to show pages with many of them. On a Mac: `sips -Z 2000 photo.jpg` shrinks a copy in place.
 - **Deceased teachers:** `gestorben: 2024` in a profile's front matter shows "Name † 2024" on the profile and the card on /lehrer/; `gestorben: true` when the year is unknown. Don't put the cross in `description`.
-- **Kollegium** (`_pages/kollegium.md`): the staff photos of 1985 and 2000 with the numbered names; names with a profile are linked.
+- **Kollegium** (`_pages/kollegium.md`): the staff photos of 1985 and 2000 with the numbered names; names with a profile are linked. The names are an `<ol class="nummern">` (one `<li>` per number, in number order); `style="--zeilen: 15"` is the number of rows in the left column (half the names, rounded up), so desktop shows two columns read top to bottom and phones one column.
 - Styles for all of this: `css/_3-modules/bereiche.scss`.
 
 ## Newsletter
